@@ -99,11 +99,11 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
 
 ### Robert Hoffman
 
-Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman também é dotado de Toque de Cura. Bastante compreensivo, ele ajuda Derek na decisão de ir ou não à CADUCEUS. Depois ele próprio assume o posto de Diretor Geral da CADUCEUS América.
+Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman também é dotado de Toque de Cura. Bastante compreensivo, ele ajuda Derek na decisão de ir ou não à CADUCEUS. Depois ele próprio assume o posto de Diretor Geral da CADUCEUS.
 
 #### Aspectos
 
-- **Conceito:** Médico altamente conceituado e Diretor da CADUCEUS América
+- **Conceito:** Médico altamente conceituado e Diretor Geral da CADUCEUS
 - **Dificuldade:** Meio enferrujado - permaneceu afastado da prática médica por um tempo
 - **Chamado de Hipócrates:** *"O Dom de Curar e o Toque da Cura podem ser um peso muito grande"*
 - **Aspectos:**
@@ -181,5 +181,168 @@ Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
-
 ===
+
+### Greg Kasal
+
+Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início de carreira e o orienta. Tranqüilo e amigo, Greg sempre mantem a cabeça em um único objetivo: salvar vidas.
+
+#### Aspectos
+
+- **Conceito:** Médico Cirurgião do Hospital Hope
+- **Dificuldade:** Sério com o trabalho, não espera menos dos outros
+- **Chamado de Hipócrates:** Temos que dar nosso melhor para salvar as pessoas
+- **Aspectos:**
+  - Calmo sob Pressão
+  - Irmão Gêmeo: Sidney
+
+#### Perícias
+
+|                |            |             |            |             |
+|----------------|------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Recursos   |             |            |             |
+|*Bom (+3)*      | Instrução  | Medicina    |            |             |
+|*Razoável (+2)* | Investigar | Notar       | Empatia    |             |
+|*Regular (+1)*  | Provocar   | Comunicação | Vontade    | Tecnologia  |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgia Geral
+- Especialidade Médica - Clínica Geral
+- Silêncio Protetor
+  - Greg recebe *+2 ao Criar Vantagens* para Atacar pessoas que tentem *Atacar outros mentalmente*;
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+===
+
+### Sidney Kasal
+
+Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão Greg. Ele é frio e dedicado à função que escolheu, que é a de pesquisar medicina. Dedicou-se cada vez mais à medicina após a perda da sua esposa.
+
+#### Aspectos
+
+- **Conceito:** Médico Cirurgião e diretor da CADUCEUS América
+- **Dificuldade:** Homem de Gelo
+- **Chamado de Hipócrates:** Perdi minha esposa
+- **Aspectos:**
+  - Calmo sob Pressão
+  - Irmão Gêmeo: Greg
+
+#### Perícias
+
+|                |            |             |            |             |
+|----------------|------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Investigar |             |            |             |
+|*Bom (+3)*      | Instrução  | Recursos    |            |             |
+|*Razoável (+2)* | Medicina   | Notar       | Empatia    |             |
+|*Regular (+1)*  | Provocar   | Comunicação | Vontade    | Tecnologia  |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgia Geral
+- Silêncio Protetor
+  - Sidney recebe *+2 ao Criar Vantagens* para Atacar pessoas que tentem *Atacar outros mentalmente*;
+- Rastrear a fonte de recursos
+  - Devido às capacidades administrativas que possui, Sidney recebe *+2 ao Superar Obstáculos* para encontrar as fontes de recursos de adversários usando *Investigar*
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+===
+
+### Stephen Clarks
+
+Principal cirurgião da CADUCEUS América, é também um dos seus principais pesquisadores. É simpático e camarada, e seu temperamento bom ajuda muitas pessoas a se curar.
+
+#### Aspectos
+
+- **Conceito:** Chefe do Corpo Clínico e de Pesquisa da CADUCEUS América
+- **Dificuldade:** Tem alguma dificuldade em certos tipos de cirurgia
+- **Chamado de Hipócrates:** *Mens Sana in Corpore Sano*
+- **Aspectos:**
+  - Bom Camarada
+  - Dedicação Absoluta ao que faz
+
+#### Perícias
+
+|                |             |             |            |             |
+|----------------|-------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Medicina    |             |            |             |
+|*Bom (+3)*      | Empatia     | Investigar  |            |             |
+|*Razoável (+2)* | Tecnologia  | Patologia   | Educação   |             |
+|*Regular (+1)*  | Furtividade | Comunicação | Vontade    | Instrução   |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgia Geral
+- Especialidade Médica - Clínica Geral
+- Especialidade Médica - Patologia
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+===
+
+### Cybil Myers
+
+Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um temperamento frio e às vezes ríspido, por isso é apelidada de “Dama de Ferro”. Devido ao seu treinamento como policial, ela possui grande força de vontade e um caráter honesto, ainda que duro. É também considerada graciosa sob pressão
+
+#### Aspectos
+
+- **Conceito:** Anestesiologia da CADUCEUS América
+- **Dificuldade:** *"A Raposa de Aço"*
+- **Chamado de Hipócrates:** Desejo de melhorar vidas, como na época da polícia
+- **Aspectos:**
+  - Graça Sob Pressão
+  - Ex-namorado na Polícia (Esquadrão Anti-bombas)
+
+#### Perícias
+
+|                |             |             |            |             |
+|----------------|-------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Lutar       |             |            |             |
+|*Bom (+3)*      | Físico      | Provocar    |            |             |
+|*Razoável (+2)* | Medicina    | Patologia   | Educação   |             |
+|*Regular (+1)*  | Empatia     | Tiro        | Vontade    | Instrução   |
+
+#### Façanhas
+
+- Especialidade Médica - Anestesiologia
+- Bate Pesado (*__Heavy Hitter__, FC111*)
+- Okay, você pediu! (*__Okay, Fine__, FC120*)
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][][][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+===
+
