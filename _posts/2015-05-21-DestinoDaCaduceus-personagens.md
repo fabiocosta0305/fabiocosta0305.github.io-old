@@ -96,3 +96,48 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
   - *Severa (6):*
 
 ===
+
+### Robert Hoffman
+
+Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman também é dotado de Toque de Cura. Bastante compreensivo, ele ajuda Derek na decisão de ir ou não à CADUCEUS. Depois ele próprio assume o posto de Diretor Geral da CADUCEUS América.
+
+#### Aspectos
+
+- **Conceito:** Médico altamente conceituado e Diretor da CADUCEUS América
+- **Dificuldade:** Meio enferrujado - permaneceu afastado da prática médica por um tempo
+- **Chamado de Hipócrates:** *"O Dom de Curar e o Toque da Cura podem ser um peso muito grande"*
+- **Aspectos:**
+  - Duro, mas gentil
+  - Fundador do Hospital Hope
+
+#### Perícias
+
+|                |            |             |            |             |
+|----------------|------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Medicina   |             |            |             |
+|*Bom (+3)*      | Instrução  | Patologia   |            |             |
+|*Razoável (+2)* | Investigar | Notar       | Instrução  |             |
+|*Regular (+1)*  | Empatia    | Comunicação | Vontade    | Tecnoplogia |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgia Geral
+- Especialidade Médica - Clínica Geral
+- Li Sobre isso (__*I've Read about That!*, FC115__, focado em *Medicina*)
+- Psicólogo
+  - Recebe +2 nos testes para reduzir Conseqüências Mentais em outros
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][][]
+  - *Mental:* [][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
+__*Observação:*__ O Doutor Hoffman já passou por *ao menos* Dois Marcos Maiores
+
+===
