@@ -26,12 +26,12 @@ Novo, ainda “verde” na pesquisa e exercício da Medicina, Derek Stiles foi e
 
 #### Perícias
 
-| | | | | |
-|-|-|-|-|-|-|
-|*Ótimo (+4)* | Vontade  | | | |
-|*Bom (+3)* | Medicina  | Empatia | | |
-|*Razoável (+2)* | Educação  | Notar | Tecnologia | |
-|*Regular (+1)* | Instrução  | Comunicação | Investigar | Patologia |
+|                |           |             |            |           |
+|----------------|-----------|-------------|------------|-----------|
+|*Ótimo (+4)*    | Vontade   |             |            |           |
+|*Bom (+3)*      | Medicina  | Empatia     |            |           |
+|*Razoável (+2)* | Educação  | Notar       | Tecnologia |           |
+|*Regular (+1)*  | Instrução | Comunicação | Investigar | Patologia |
 
 #### Façanhas
 
