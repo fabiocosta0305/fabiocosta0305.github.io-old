@@ -116,8 +116,8 @@ Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman tam
 |----------------|------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Medicina   |             |            |             |
 |*Bom (+3)*      | Instrução  | Patologia   |            |             |
-|*Razoável (+2)* | Investigar | Notar       | Instrução  |             |
-|*Regular (+1)*  | Empatia    | Comunicação | Vontade    | Tecnoplogia |
+|*Razoável (+2)* | Investigar | Notar       | Recursos   |             |
+|*Regular (+1)*  | Empatia    | Comunicação | Vontade    | Tecnologia  |
 
 #### Façanhas
 
@@ -139,5 +139,47 @@ Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman tam
   - *Severa (6):*
 
 __*Observação:*__ O Doutor Hoffman já passou por *ao menos* Dois Marcos Maiores
+
+===
+
+### Greg Kasal
+
+Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início de carreira e o orienta. Tranqüilo e amigo, Greg sempre mantem a cabeça em um único objetivo: salvar vidas.
+
+#### Aspectos
+
+- **Conceito:** Médico Cirurgião do Hospital Hope
+- **Dificuldade:** Sério com o trabalho, não espera menos dos outros
+- **Chamado de Hipócrates:** Temos que dar nosso melhor para salvar as pessoas
+- **Aspectos:**
+  - Calmo sob Pressão
+  - Irmão Gêmeo: Sidney
+
+#### Perícias
+
+|                |            |             |            |             |
+|----------------|------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Recursos   |             |            |             |
+|*Bom (+3)*      | Instrução  | Medicina    |            |             |
+|*Razoável (+2)* | Investigar | Notar       | Empatia    |             |
+|*Regular (+1)*  | Provocar   | Comunicação | Vontade    | Tecnologia  |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgia Geral
+- Especialidade Médica - Clínica Geral
+- Silêncio Protetor
+  - Greg recebe *+2 ao Criar Vantagens* para Atacar pessoas que tentem *Atacar outros mentalmente*;
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
 
 ===
