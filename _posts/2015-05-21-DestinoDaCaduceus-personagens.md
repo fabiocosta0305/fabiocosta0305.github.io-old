@@ -378,12 +378,12 @@ Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irm
 
 - Especialidade Médica - Cirurgião Geral
 - Técnica Anti-Ética - Eutanásia
-  - Tyler conhece muito sobre como induzir uma pessoa à morte. Ele pode usar *Medicina* para Atacar
+  - Tyler conhece muito sobre como induzir uma pessoa à morte. Ele pode usar *Medicina* para Atacar pessoas
 - Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Medicina*)
 
 #### Recarga, Estresse e Consequências
 
-- **Recarga:** 1
+- **Recarga:** 3
 - **Estresse:**
   - *Físico:* [][]
   - *Mental:* [][][]
@@ -424,7 +424,7 @@ Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele
 
 #### Recarga, Estresse e Consequências
 
-- **Recarga:** 1
+- **Recarga:** 3
 - **Estresse:**
   - *Físico:* [][][]
   - *Mental:* [][][]
