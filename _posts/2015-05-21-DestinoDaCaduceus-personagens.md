@@ -8,8 +8,8 @@ layout: posts
 ## baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii
 
 - [versão original para FATE 2.0](http://maisquatro.wordpress.com/2008/08/16/mini-cenario-para-fudgefate-terrorismo-medico/)
+- [informações de cenário](/DestinoDaCaduceus)
 - [regras](/DestinoDaCaduceus-regras)
-- [Cenário](/DestinoDaCaduceus)
 
 ### Derek Stiles
 
