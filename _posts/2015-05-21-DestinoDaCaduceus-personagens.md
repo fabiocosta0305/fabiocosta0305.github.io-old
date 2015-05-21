@@ -433,4 +433,49 @@ Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele
   - *Moderada (4):*
   - *Severa (6):*
 
-*Obs:* Quando ele está infectado pelo **Neo-GUILT** *Sige*, o Aspecto *Novato Inseguro* troca para *Toque de Cura*. Ele recebe a *Façanha* *Toque de Cura - Velocidade Ampliada*, mas ao mesmo tempo cada uso vai piorando nele uma *Conseqüência __Mente Instável__*
+*Obs:* Quando ele está infectado pelo **Neo-GUILT** *Sige*, o Aspecto *Novato Inseguro* troca para *Toque de Cura*. Ele recebe a *Façanha* *Toque de Cura - Velocidade Ampliada*, mas ao mesmo tempo cada uso vai piorando nele uma *Conseqüência __Mente Instável__*.
+
+===
+
+### Naomi Kishikima
+
+Fria e calculista, a bela *Naomi Kishikima* é amoral quanto ao uso de suas habilidades médicas. Trabalhou por muito tempo junto à DELPHI e atualmente está em condicional, trabalhando como Médica Forense, onde suas habilidades de Toque de Cura não são mais necessárias para preservar a "vida" de infortunados como os *Sinners*, as crianças que funcionavam como Pacientes-Zero inoculados com as cepas iniciais (e cada vez mais fortes) dos GUILT.
+
+#### Aspectos
+
+- **Conceito:** Ex-agente da DELPHI, cirurgiã e médica forense
+- **Dificuldade:** Médica do Demônio (devido ao seu Toque de Cura, considerado anti-natural)
+- **Chamado de Hipócrates:** Apenas uma forma de viver
+- **Aspectos:**
+  - Elegante não importa o que aconteça
+  - Evita se prejudicar
+
+#### Perícias
+
+|                |             |             |            |             |
+|----------------|-------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Medicina    |             |            |             |
+|*Bom (+3)*      | Investigar  | Instrução   |            |             |
+|*Razoável (+2)* | Patologia   | Educação    | Provocar   |             |
+|*Regular (+1)*  | Empatia     | Físico      | Vontade    | Tecnologia  |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgião Geral
+- Medicina Forense
+  - Enquanto analisa um corpo, pode utilizar *Medicina* no lugar de *Investigar* para Criar Vantagens relacionadas a um crime
+
+#### Extras
+
+- Toque da Cura: Mãos Estabilizadoras
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
