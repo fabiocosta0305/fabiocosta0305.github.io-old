@@ -80,7 +80,7 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
 #### Façanhas
 
 - Especialidade Médica - Clínica Geral
-- Li Sobre isso (__*I've Read about That!*, FC115*__, focado em *Medicina*)
+- Li Sobre isso (__*I've Read about That!*, FC115__, focado em *Medicina*)
 - Técnica Nocauteadora
   - Se Angie é bem sucedida em um *Ataque* por *Lutar*, ela pode, ao custo de 1 Ponto de Destino, aplicar uma *Conseqüência Suave __Nocauteado__* no alvo, que será considerado Fora de Jogo;
 
