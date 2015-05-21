@@ -309,3 +309,45 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
 
 ===
 
+### Victor Nigel
+
+Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. Chefe do Setor de Pesquisa e Desenvolvimento da CADUCEUS América, ele é um especialista em biotecnologia. Extremamente focado, detesta “idiotas” próximo a ele quando trabalhando (subententendo-se idiota qualquer um com QI menor que o dele). Tem a mania de xingar enquanto acompanha operações.
+
+#### Aspectos
+
+- **Conceito:** Pesquisador de Tecnologia Médica e Biomedicina da CADUCEUS América
+- **Dificuldade:** *"Estou cercado de Idiotas"*
+- **Chamado de Hipócrates:** Doenças são a charada definitiva, e eu adoro resolver charadas
+- **Aspectos:**
+  - Boca Suja
+  - Extremamente Irritadiço
+
+#### Perícias
+
+|                |             |             |            |             |
+|----------------|-------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Tecnologia  |             |            |             |
+|*Bom (+3)*      | Patologia   | Medicina    |            |             |
+|*Razoável (+2)* | Roubar      | Educação    | Provocar   |             |
+|*Regular (+1)*  | Empatia     | Profissão   | Vontade    | Instrução   |
+
+#### Façanhas
+
+- Li Sobre isso (__*I've Read about That!*, FC115__, focado em *Tecnologia*)
+- Especialista - *Biotecnologia* (__*Specialist*, FC115__, aplicável a *Tecnologia*)
+- Especialista - *Tecnologia Médica* (__*Specialist*, FC115__, aplicável a *Tecnologia*)
+- Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Tecnologia*)
+- Duro na Queda (__*Hard Boiled*, FC127__)
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 1
+- **Estresse:**
+  - *Físico:* [][][][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
+===
