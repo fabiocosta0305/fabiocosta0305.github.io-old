@@ -181,47 +181,7 @@ Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
-===
 
-### Greg Kasal
-
-Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início de carreira e o orienta. Tranqüilo e amigo, Greg sempre mantem a cabeça em um único objetivo: salvar vidas.
-
-#### Aspectos
-
-- **Conceito:** Médico Cirurgião do Hospital Hope
-- **Dificuldade:** Sério com o trabalho, não espera menos dos outros
-- **Chamado de Hipócrates:** Temos que dar nosso melhor para salvar as pessoas
-- **Aspectos:**
-  - Calmo sob Pressão
-  - Irmão Gêmeo: Sidney
-
-#### Perícias
-
-|                |            |             |            |             |
-|----------------|------------|-------------|------------|-------------|
-|*Ótimo (+4)*    | Recursos   |             |            |             |
-|*Bom (+3)*      | Instrução  | Medicina    |            |             |
-|*Razoável (+2)* | Investigar | Notar       | Empatia    |             |
-|*Regular (+1)*  | Provocar   | Comunicação | Vontade    | Tecnologia  |
-
-#### Façanhas
-
-- Especialidade Médica - Cirurgia Geral
-- Especialidade Médica - Clínica Geral
-- Silêncio Protetor
-  - Greg recebe *+2 ao Criar Vantagens* para Atacar pessoas que tentem *Atacar outros mentalmente*;
-
-#### Recarga, Estresse e Consequências
-
-- **Recarga:** 3
-- **Estresse:**
-  - *Físico:* [][]
-  - *Mental:* [][][]
-- **Conseqüências:**
-  - *Suave (2):*
-  - *Moderada (4):*
-  - *Severa (6):*
 ===
 
 ### Sidney Kasal
@@ -264,6 +224,7 @@ Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
+
 ===
 
 ### Stephen Clarks
@@ -304,6 +265,7 @@ Principal cirurgião da CADUCEUS América, é também um dos seus principais pes
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
+
 ===
 
 ### Cybil Myers
@@ -344,5 +306,6 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
+
 ===
 
