@@ -131,8 +131,8 @@ Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman tam
 
 - **Recarga:** 3
 - **Estresse:**
-  - *Físico:* [][][]
-  - *Mental:* [][]
+  - *Físico:* [][]
+  - *Mental:* [][][]
 - **Conseqüências:**
   - *Suave (2):*
   - *Moderada (4):*
