@@ -1,6 +1,6 @@
 ---
 title: Destino da Caduceus - Personagens
-layout: post
+layout: posts
 ---
 
 # Personagens do Destino da Caduceus
