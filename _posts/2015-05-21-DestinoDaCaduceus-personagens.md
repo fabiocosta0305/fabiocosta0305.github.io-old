@@ -343,7 +343,7 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
 
 - **Recarga:** 1
 - **Estresse:**
-  - *Físico:* [][][][]
+  - *Físico:* [][]
   - *Mental:* [][][]
 - **Conseqüências:**
   - *Suave (2):*
@@ -351,3 +351,86 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
   - *Severa (6):*
 
 ===
+
+### Tyler Chase
+
+Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irmã, Amy, contaminada com uma variante do GUILT. Porém, cada vez mais amargo com a falta de progresso e após ver um professor morrer em meio a sofrimento, acabou aconselhando várias pessoas na prática de eutanásia, o que levou-o a ser conhecido fora da CADUCEUS, em especial na Internet, como “Doutor Morte”. Tyler para com essa faceta após Derek auxiliar na cura de sua irmã e com isso, passa a lutar junto com os demais contra as pandemias, em especial contra as GUILT e contra a organização DELPHI, sua criadora.
+
+#### Aspectos
+
+- **Conceito:** Médico Pesquisador da CADUCEUS América
+- **Dificuldade:** Irmã muito doente - *GUILT Deftera*
+- **Chamado de Hipócrates:** A vida e a morte devem ser dignas - pesquisador de eutanásia e ortotanásia
+- **Aspectos:**
+  - Cavalheiro com mulheres
+  - Conhece Derek Stiles da Faculdade
+
+#### Perícias
+
+|                |             |             |            |             |
+|----------------|-------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Medicina    |             |            |             |
+|*Bom (+3)*      | Patologia   | Instrução   |            |             |
+|*Razoável (+2)* | Empatia     | Educação    | Tecnologia |             |
+|*Regular (+1)*  | Provocar    | Físico      | Vontade    | Recursos    |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgião Geral
+- Técnica Anti-Ética - Eutanásia
+  - Tyler conhece muito sobre como induzir uma pessoa à morte. Ele pode usar *Medicina* para Atacar
+- Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Medicina*)
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 1
+- **Estresse:**
+  - *Físico:* [][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
+===
+
+### Adel Tulba
+
+Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele é tão inseguro quanto Derek no início de sua carreira. Porém, é ainda mais duro para ele, por ter vindo de um país pobre e em guerra civil, e ele pode não medir esforços (ou ter escrúpulos) para melhorar suas habilidades médicas. A perda do irmão, em especial, sempre o choca
+
+#### Aspectos
+
+- **Conceito:** Médico de Campo da CADUCEUS 
+- **Dificuldade:** Sempre pensa no melhor para seu povo
+- **Chamado de Hipócrates:** Só quem passa pelo que passei e perdeu o que perdi sabe o quanto é duro
+- **Aspectos:**
+  - Novato Inseguro
+  - Tutor Exigente: Tyler Chase
+
+#### Perícias
+
+|                |             |             |            |             |
+|----------------|-------------|-------------|------------|-------------|
+|*Ótimo (+4)*    | Medicina    |             |            |             |
+|*Bom (+3)*      | Empatia     | Instrução   |            |             |
+|*Razoável (+2)* | Patologia   | Educação    | Tecnologia |             |
+|*Regular (+1)*  | Empatia     | Físico      | Vontade    | Provocar    |
+
+#### Façanhas
+
+- Especialidade Médica - Cirurgião Geral
+- Médico de Campo
+- Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Medicina*)
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 1
+- **Estresse:**
+  - *Físico:* [][][]
+  - *Mental:* [][][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
+*Obs:* Quando ele está infectado pelo **Neo-GUILT** *Sige*, o Aspecto *Novato Inseguro* troca para *Toque de Cura*. Ele recebe a *Façanha* *Toque de Cura - Velocidade Ampliada*, mas ao mesmo tempo cada uso vai piorando nele uma *Conseqüência __Mente Instável__*
