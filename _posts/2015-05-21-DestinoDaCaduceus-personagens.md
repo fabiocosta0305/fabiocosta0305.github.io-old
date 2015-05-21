@@ -54,3 +54,45 @@ Novo, ainda “verde” na pesquisa e exercício da Medicina, Derek Stiles foi e
   - *Severa (6):*
 
 ===
+
+### Angela "Angie" Thompston
+
+A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internacional em enfermagem bem rapidamente. Atuando em vários hospitais, foi alocada para trabalhar junto com Derek Stiles no Hospital Hope, após a antiga enfermeira se aposentar. Dedicada e mandona, ela não botava fé em Derek, até ver ele atuar no caso do acidente onde revelou-se o Toque de Cura de Derek. Presente na cirurgia onde acidentalmente Derek entrou em contato pela primeira vez com um GUILT, Angie também entrou para a CADUCEUS, pois algo estava errado e ela precisava saber o que era.
+
+#### Aspectos
+
+- **Conceito:** Enfermeira Gênio da CADUCEUS
+- **Dificuldade:** Não suporta demonstrações de fraqueza
+- **Chamado de Hipócrates:** Quer entender o que levou o pai a abandoná-la quando criança
+- **Aspectos:**
+  - Anjo Protetor: o pai, Kenneth Blackwell (agente da DELPHI)
+  - Tenta não demonstrar, mas gosta muito de Derek
+
+#### Perícias
+
+|                |            |             |            |           |
+|----------------|------------|-------------|------------|-----------|
+|*Ótimo (+4)*    | Instrução  |             |            |           |
+|*Bom (+3)*      | Medicina   | Educação    |            |           |
+|*Razoável (+2)* | Investigar | Notar       | Tecnologia |           |
+|*Regular (+1)*  | Lutar      | Comunicação | Físico     | Patologia |
+
+#### Façanhas
+
+- Especialidade Médica - Clínica Geral
+- Li Sobre isso (__*I've Read about That!*, FC115*__, focado em *Medicina*)
+- Técnica Nocauteadora
+  - Se Angie é bem sucedida em um *Ataque* por *Lutar*, ela pode, ao custo de 1 Ponto de Destino, aplicar uma *Conseqüência Suave __Nocauteado__* no alvo, que será considerado Fora de Jogo;
+
+#### Recarga, Estresse e Consequências
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* [][][]
+  - *Mental:* [][]
+- **Conseqüências:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
+===
