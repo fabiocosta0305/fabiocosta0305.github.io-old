@@ -1,6 +1,6 @@
 ---
 title: Destino do Protetorado da Sombrinha - Problemas e Aspectos
-layout: default
+layout: post
 ---
 
 Protetorado da Sombrinha 

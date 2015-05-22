@@ -1,6 +1,6 @@
 ---
 title: Uma Cilada Para Roger Rabbit
-layout: default
+layout: post
 ---
 # Uma Cilada Para Roger Rabbit
 

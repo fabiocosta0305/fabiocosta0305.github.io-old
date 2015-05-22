@@ -1,6 +1,6 @@
 ---
 title: Namesakes
-layout: default
+layout: post
 ---
 
 # Namesakes (Honôminos) 

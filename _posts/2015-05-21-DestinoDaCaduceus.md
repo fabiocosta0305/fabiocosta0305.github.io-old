@@ -1,6 +1,6 @@
 ---
 title: Destino da Caduceus
-layout: posts
+layout: post
 ---
 
 # Destino da Caduceus

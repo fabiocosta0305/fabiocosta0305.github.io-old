@@ -1,6 +1,6 @@
 ---
 title: Destino do Protetorado da Sombrinha - Regras
-layout: default
+layout: post
 ---
 
 Protetorado da Sombrinha
