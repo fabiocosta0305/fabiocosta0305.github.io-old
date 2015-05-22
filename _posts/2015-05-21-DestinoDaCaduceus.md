@@ -1,6 +1,7 @@
 ---
 title: Destino da Caduceus
 layout: post
+tags: ["Fate","Fate Core","Cenário", "Trauma Center", "Destino da Caduceus"]
 ---
 
 # Destino da Caduceus
