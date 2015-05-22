@@ -495,15 +495,15 @@ article{
 .mypost
 {
         text-align: justify;
-}
+        
+        h1
+        {
+                text-align: center;
+        }
 
-h1.mypost, h2.mypost
-{
-        text-align: center;
-}
-
-h3.mypost, h4.mypost, h5.mypost
-{
-        border-bottom-style: solid;
-        border-bottom-width: 3px;
+        h3, h4, h5
+        {
+                border-bottom-style: solid;
+                border-bottom-width: 3px;
+        }                       
 }
