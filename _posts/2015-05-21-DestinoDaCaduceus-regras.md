@@ -77,7 +77,7 @@ As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportame
   - **Empatia** (*Empathy*)
     - Todo usuário de Empatia pode utilizar a habilidade da Façanha *Psicólogo* (_**Psychologist**, FC109_) gratuitamente. Adquirir essa Façanha oferece um bônus de +2 no teste;
   - **Educação**
-    - substitui *Saber - Lore*, exceto pelas Ciências, que pode ser coberta por **Tecnologia**, e pelas Ciências Médicas, cobertas por **Medicina**, à exceção de Psicologia, que ainda é coberta por **Empatia**
+    - substitui *Saber (Lore)*, exceto pelas Ciências, que pode ser coberta por **Tecnologia**, e pelas Ciências Médicas, cobertas por **Medicina**, à exceção de Psicologia, que ainda é coberta por **Empatia**
   - Enganar (*Deceive*)
   - Físico (*Physique*)
   - Furtividade (*Stealth*)
