@@ -1,6 +1,6 @@
 ---
 title: Regras para o Destino da Caduceus
-layout: default
+layout: post
 ---
 
 # Regras para o Destino da Caduceus
