@@ -67,7 +67,7 @@ layout: post
 
 ### Lista de Perícias iniciais
 
-As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportamento ou escopo alterado em relação ao Fate core
+As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportamento ou escopo alterado em relação ao Fate Core. Os nomes *em itálico e entre parenteses* são os nomes das perícias originais em inglês do Fate Core da Evil Hat.
 
   - Atletismo (*Athletics*)
   - Comunicação (*Rapport*)
