@@ -45,17 +45,17 @@ layout: post
      - provocar complicações durante um tratamento médico;
      - alinhar as ações do personagem ao Juramento de Hipócrates;
 - *CADUCEUS* – Você é parte da organização CADUCEUS, combatendo graves enfermidades e enfrentando muitas vezes aqueles que criam doenças como a DELPHI. Você acredita que a pessoa deve ter direito à vida e à saúde.
-- *Permissão*: Aspectos *Médico, Enfermeiro* ou similares, indicando relação com a área médica;
-- *Custo*: Aspecto
-  - **O Jogador pode Invocar o Aspecto para:**
-     - obter os mesmos motivos de *Médico* CUMULATIVAMENTE aos mesmos (se usado conjuntamente);
-     - ter acesso à biotecnologia avançada da CADUCEUS;
-     - obter informações confidenciais de outros órgãos médicos;
-     - recorrer à autoridade da CADUCEUS para fazer alguma ação;
-  - **O Mestre pode Forçar o Aspecto para:**
-     - fazer inimigos da CADUCEUS aparecerem na aventura;
-     - alinhar as ações do personagem aos objetivos da CADUCEUS;
-     - sofrer as mesmas dificuldades de *Médico* CUMULATIVAMENTE;
+  - *Permissão*: Aspectos *Médico, Enfermeiro* ou similares, indicando relação com a área médica;
+  - *Custo*: Aspecto
+    - **O Jogador pode Invocar o Aspecto para:**
+      - obter os mesmos motivos de *Médico* CUMULATIVAMENTE aos mesmos (se usado conjuntamente);
+      - ter acesso à biotecnologia avançada da CADUCEUS;
+      - obter informações confidenciais de outros órgãos médicos;
+      - recorrer à autoridade da CADUCEUS para fazer alguma ação;
+    - **O Mestre pode Forçar o Aspecto para:**
+      - fazer inimigos da CADUCEUS aparecerem na aventura;
+      - alinhar as ações do personagem aos objetivos da CADUCEUS;
+      - sofrer as mesmas dificuldades de *Médico* CUMULATIVAMENTE;
 - *DELPHI* – Você é parte da DELPHI, uma organização que deseja “abençoar a humanidade” com a doença e com a morte. Seus objetivos são simples: destruir todos os médicos e impedir que curas se tornem possíveis de outras maneiras senão a “natural”.
   - **O Jogador pode Invocar o Aspecto para:**
      - Ter acesso à biotecnologia da DELPHI;
