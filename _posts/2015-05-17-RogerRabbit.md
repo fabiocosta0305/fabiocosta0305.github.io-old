@@ -28,11 +28,11 @@ layout: post
 
 - **Acrobacias** - Como venho de uma *Família de Palhaços do Ringling Bros.*, sou um especialista em Acrobacias, recebendo *+2 ao Criar Vantagens de Maneira Ágil*
 - **Faro do Detetive** - Como sou um *Detetive Particular*, *uma vez por sessão posso declarar que vi a conexão entre várias pistas obtidas durante uma investigação*
-- ** *"Desenhos, sempre pego eles!"* ** - Apesar de tudo, sei como a Lógica de Desenho funciona, portanto *posso usar ela sem pagar Pontos de Destino, a -2 nos testes, durante uma Cena, uma vez por Sessão*
+- __*"Desenhos, sempre pego eles!"*__ - Apesar de tudo, sei como a Lógica de Desenho funciona, portanto *posso usar ela sem pagar Pontos de Destino, a -2 nos testes, durante uma Cena, uma vez por Sessão*
 
 - *Recarga:* 3
 
-**Nota:** No início de *Uma Cilada para Roger Rabbit*, Eddie diz o tempo todo que *Não trabalha para Desenhos*. Duas formas de entender isso: Dificuldade Forçada (indicando que ele está tão traumatizado com a morte do irmão que não quer se envolver mais com desenhos) ** *ou* ** uma **Conseqüencia Mental Moderada** *Não trabalha para Desenhos*. Como fazem em torno de cinco anos que o irmão dele morreu, ele pode recuperar-se dessa Conseqüencia durante os eventos do filme
+**Nota:** No início de *Uma Cilada para Roger Rabbit*, Eddie diz o tempo todo que *Não trabalha para Desenhos*. Duas formas de entender isso: Dificuldade Forçada (indicando que ele está tão traumatizado com a morte do irmão que não quer se envolver mais com desenhos) __*ou*__ uma **Conseqüencia Mental Moderada** *Não trabalha para Desenhos*. Como fazem em torno de cinco anos que o irmão dele morreu, ele pode recuperar-se dessa Conseqüencia durante os eventos do filme
 
 ### Roger Rabbit
 
@@ -113,7 +113,7 @@ layout: post
 - Doninhas de desenho animado; Não são tão espertas assim; Sádicas; Patrono: Juiz Doom
 - **Peritas (+2) em:** Intimidar outras pessoas, seguirem ordens, terem idéias sádicas
 - **Ruins (-2) em:** Resistir às risadas!
-- **Estresse:** [][] (Quatro Doninhas), [][] (Esperta - *Smart Guy*)
+- **Estresse:** \[\]\[\] \(Quatro Doninhas\), \[\]\[\] \(Esperta - *Smart Guy*\)
 
 ### Dolores
 - Garçonete do *Terminal Station Bar*; Eddie é um grande homem, mas precisa superar suas perdas e crescer
