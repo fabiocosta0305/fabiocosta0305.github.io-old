@@ -67,6 +67,8 @@ layout: post
 
 ### Lista de Perícias iniciais
 
+As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportamento ou escopo alterado em relação ao Fate core
+
   - Atletismo (*Athletics*)
   - Comunicação (*Rapport*)
   - Condução (*Drive*)
