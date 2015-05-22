@@ -1,9 +1,11 @@
 ##The website title
 name: Meus Cacarecos
 ##Markdown processor
-markdown: maruku
+markdown: redcarpet
 ##syntax highlighter. change it to pygments
 highlighter: pygments
+redcarpet:
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://hufflepuffbr.github.io
