@@ -489,3 +489,21 @@ article{
 		display: none;
 	}
 }
+
+// My Extra CSS
+
+section
+{
+        text-align: justify;
+}
+
+section h1, h2
+{
+        text-align: center;
+}
+
+section h3, h4, h5
+{
+        border-bottom-style: solid;
+        border-bottom-width: 3px;
+}
