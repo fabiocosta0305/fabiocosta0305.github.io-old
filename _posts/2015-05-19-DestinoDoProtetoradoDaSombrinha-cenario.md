@@ -1,6 +1,7 @@
 ---
 title: Destino do Protetorado da Sombrinha - Problemas e Aspectos
 layout: post
+tags: ["Fate","Fate Core","Cenário", "Protetorado da Sombrinha", "Parasol Protectorate", "Alexia Tarabotti"]
 ---
 
 Protetorado da Sombrinha 

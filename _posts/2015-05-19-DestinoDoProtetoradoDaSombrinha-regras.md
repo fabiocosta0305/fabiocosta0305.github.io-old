@@ -1,6 +1,7 @@
 ---
 title: Destino do Protetorado da Sombrinha - Regras
 layout: post
+tags: ["Fate","Fate Core","Regras", "Protetorado da Sombrinha", "Parasol Protectorate", "Alexia Tarabotti"]
 ---
 
 Protetorado da Sombrinha

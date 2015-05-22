@@ -1,6 +1,7 @@
 ---
 title: Regras para o Destino da Caduceus
 layout: post
+tags: ["Fate","Fate Core","Regras", "Trauma Center", "Destino da Caduceus"]
 ---
 
 # Regras para o Destino da Caduceus

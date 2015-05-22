@@ -1,6 +1,7 @@
 ---
 title: Destino da Caduceus - Personagens
 layout: post
+tags: ["Fate","Fate Core","Personagens", "Trauma Center", "Destino da Caduceus"]
 ---
 
 # Personagens do Destino da Caduceus

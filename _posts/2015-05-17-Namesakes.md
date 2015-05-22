@@ -1,6 +1,7 @@
 ---
 title: Namesakes
 layout: post
+tags: ["Fate", "Cenário", "Namesakes"]
 ---
 
 # Namesakes (Honôminos) 
