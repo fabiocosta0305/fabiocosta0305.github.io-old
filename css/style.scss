@@ -492,17 +492,17 @@ article{
 
 // My Extra CSS
 
-@unit whole section
+section.post
 {
         text-align: justify;
 }
 
-@unit whole section h1, h2
+section.post h1, h2
 {
         text-align: center;
 }
 
-@unit whole section h3, h4, h5
+section.post h3, h4, h5
 {
         border-bottom-style: solid;
         border-bottom-width: 3px;
