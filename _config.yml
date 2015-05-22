@@ -32,6 +32,7 @@ links:
   twitter: HufflepuffBR
   email: fabiocosta0305@gmail.com
   github: hufflepuffbr
+  google-plus: fabiocosta0305
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
