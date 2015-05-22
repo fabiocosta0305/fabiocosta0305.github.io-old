@@ -1,7 +1,38 @@
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
-pygments: true
-permalink: /:title
-timezone: Brazil/Sao_Paulo
-encoding: utf-8
+##The website title
+name: Meus Cacarecos
+##Markdown processor
+markdown: maruku
+##syntax highlighter. change it to pygments
+highlighter: pygments
+
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: http://hufflepuffbr.github.io
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Put website description for your home page. (about 50 words or more)
+##Some frequently used keywords on your website
+keywords: some, relevant, keywords, for, usage, in metatags
+
+##define this for disqus comment support
+#disqus: forumname
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  facebook: fabiocosta0305
+  twitter: HufflepuffBR
+  email: fabiocosta0305@gmail.com
+  github: hufflepuffbr
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: placeholder.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
+permalink:/:title
