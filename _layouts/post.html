@@ -16,7 +16,8 @@ layout: default
 			{% endif %}
 		</p>
 	</header>
-	<section class="post">
+	<section>
+        <div class="post">
 		{% if page.tags and page.tags.size > 0 %}
 			<div class="tags">
 				Tagged:
@@ -26,6 +27,7 @@ layout: default
 			</div>
 		{% endif %}
 		{{ content }}
+        </div>
 	</section>
 	{% if site.disqus %}
 	<footer>
