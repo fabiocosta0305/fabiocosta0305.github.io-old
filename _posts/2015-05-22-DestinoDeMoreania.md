@@ -1,0 +1,119 @@
+---
+title: Destino de Moreania
+layout: post
+tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonSlayer"]
+---
+
+# Destino de Moreania
+
+## adaptação dos Reinos de Moreania da DragonSlayer para Fate
+
+### Ambientação e Escala
+                                   
+- **Ambientação:** Fantasia Medieval
+- **Escala:** Épico
+
+### Problemas
+
+- O Mito dos Irmãos Selvagens e dos Doze Animais
+  - A Dama Altiva
+    - Senhora da Criação
+  - O Indomável
+    - O Irmão Mais Velho, senhor da Morte
+  - Os Doze Animais
+    - Vitimados pela raça humana
+    - Pediram para tornar-se humanos
+      - Leão, Morcego, Crocodilo, Serpente, Hiena, Lobo pediram ao Indomável
+      - Búfalo, Coelho, Urso, Raposa, Coruja e Gato pediram à Dama Altiva
+    - Construiram sua cultura e civilização em harmonia com a natureza
+  - Nem todos os Moreau acreditam no mesmo
+    - A maior parte acredita, mas uma parcela significativa não
+- Darash
+  - Povo das Torres
+  - Humanos (?!) malignos
+  - Odiavam as divindades, a natureza e a magia
+  - Foram derrotadas pelo dragão de Marfim *Morte Branca*
+  - Atualmente estão totalmente destruídos (*será?*)
+- A Terra Desconhecida
+  - Humanos e outras raças estranhas aos Moreau
+  - Habitantes malignos como os Darash, ou apenas diferentes?
+    - Muitos temem os povos e costumes dos povos dessa Terra
+  - Os antepassados dos Moreau(?!)... Ou dos Darash(?!)
+                                   
+### Locais e Pessoas
+
+- Moreania
+  - Grande Arquipélago com muitas Ilhas
+- Ilha Nobre
+  - Muito maior que as demais
+  - Principal Ilha de Moreania
+  - Grande demais para ser uma ilha e pequena demais para ser um continente
+- Moreau
+  - Descendentes dos Doze Animais (?!)
+  - Humanos com traços animais mais ou menos vestigiais
+  - Esses traços são puramente cosméticos
+    - *Em geral* não oferecem vantagens quando comparado com outras criaturas
+  - Não se consideram humanos (ao menos totalmente)
+  - Vivem nas planícies
+    - Florestas são para os animais selvagens
+- *Morte Branca*
+  - O maior Dragão de Marfim
+  - Derrotou sozinho os Darash
+- Darash
+  - Foram realmente mortos por Morte Branca
+  - Seu ódio os tornou em *mortos vivos*
+- Os Três Reinos
+  - Onde vivem os Moreau
+  - Oeste da Ilha Nobre
+  - Rio principal: *Ipeck-Akuanya*
+  - Lancaster, Brando e Laughton
+- Lancaster
+  - **Capital:** Wellshan
+  - **Regente:** Arquidruidisa Sophia Raziel
+  - *O Velho Mundo* - acredita-se ser o berço dos Moreau
+  - Mais antigo reino
+  - Tradicionalistas e Defensores dos Irmãos Selvagens
+  - São simples e suas cidades são mais bucólicas
+     - Referências aos Irmãos Selvagens podem ser encontradas em todo o lugar
+  - Governada por Druidas
+     - Diferentemente de outros locais, Druidas são organizados em uma poderosa hierarquia nesse reino
+     - Regentes da maior parte das cidades desse reino
+  - Não há muita diferença entre *primitivo* e *civilizado* nesse reino
+  - Confiam em Brando, mas não em Laughton
+- Ordem de Bullton
+  - Mais importante ordem de cavaleiros de Lancaster
+  - Montam Búfalos e são considerados como se fossem paladinos
+- Brando
+  - **Capital:** Kil'mer
+  - **Regente:** Rei Isgard e Rainha Sadine Wolfgang
+  - *Tradição dos Noivos Campeões* - A origem do reino
+  - *Clã da Matilha:* Clã do Lobo e da Raposa unidos pelo amor e pelo banimento
+  - Família Wolfgang
+     - Descendentes dos Noivos Campeões
+  - Uma grande tradição de torneios, guerreiros e magia
+     - Lobos, Raposas, Machados e Símbolos de Magia podem ser vistos a todo lugar
+  - Dualidade e complementabilidade de espada e magia
+     - Os Fundadores do Reino eram um espadachim do Clã Lobo e uma maga do Clã Raposa
+         - Faernal e Sathia
+  - Os defensores dos Três Reinos (ao mesmo é como se consideram)
+  - As mais tradicionais ordens militares
+- Laughton
+  - **Capital:** A Cidade Suspensa de Pendrick
+     - *Magnífica* em um idioma antigo... Ou o nome do gato de estimação de uma maga...
+  - **Regente:** Conselho dos Seis
+     - Descendentes dos Seis Heróis fundadores de Laughton
+  - O mais novo e vibrante dos reinos
+  - Cheios de oportunidades
+  - Surgiu de uma aventura fantástica (ou errada)...
+     - Os Seis Heróis
+     - Um grupo que buscava riquezas nos Reinos das Torres
+  - *"Se existe, então você pode encontrar aqui!"*
+  - Um navio chegou da Terra Desconhecida
+     - Um reino além do Oceano, com criaturas e civilizações estranhas
+     - Pendrick é o princiál ponto de acesso entre a Terra Desconhecida e Moreania
+     - Os outros reinos consideram Laughton maluca por aceitar os estrangeiros
+- Montanhas de Marfim
+  - Divide a Ilha Nobre em dois
+  - Lar de Monstros e humanos selvagens
+- Reinos das Torres
+
