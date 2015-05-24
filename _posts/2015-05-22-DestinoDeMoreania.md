@@ -9,7 +9,7 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
 ## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
 ### Ambientação e Escala
-                                   
+
 - **Ambientação:** Fantasia Medieval
 - **Escala:** Épico
 
@@ -32,6 +32,9 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Povo das Torres
   - Humanos (?!) malignos
   - Odiavam as divindades, a natureza e a magia
+  - Adeptos de motores a vapor e tecnologia
+  - Eram um povo doente
+    - Doenças Naturais,. Mágicas ou derivadas da deterioração da natureza
   - Foram derrotadas pelo dragão de Marfim *Morte Branca*
   - Atualmente estão totalmente destruídos (*será?*)
 - A Terra Desconhecida
@@ -39,7 +42,7 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Habitantes malignos como os Darash, ou apenas diferentes?
     - Muitos temem os povos e costumes dos povos dessa Terra
   - Os antepassados dos Moreau(?!)... Ou dos Darash(?!)
-                                   
+
 ### Locais e Pessoas
 
 - Moreania
@@ -60,6 +63,7 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - O maior Dragão de Marfim
   - Derrotou sozinho os Darash
 - Darash
+  - Povo das Torres
   - Foram realmente mortos por Morte Branca
   - Seu ódio os tornou em *mortos vivos*
 - Os Três Reinos
@@ -115,5 +119,40 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
 - Montanhas de Marfim
   - Divide a Ilha Nobre em dois
   - Lar de Monstros e humanos selvagens
+     - Feras Atrozes
+         - Variações mais primitivas de animais comuns
+     - Humanóides monstruosos
+         - Saqueadores qaue vivem em cavernas e aldeias fortificadas
+  - Pedra calcárea branca
+     - Parece neve, mas é escaldante
+  - Pode-se encontrar determinados mineirais exóticos aqui
+  - Ponto mais alto das Montanhas de Marfim - *Ninho da Morte*
+  - Desfiladeiros permitem a travessia
+     - Há lagoas, planícies e bosques
+       - Lar de Feras
+  - Korrds e Vilões
+  - Profundezas
+     - Reino lendário abaixo das Montanhas de Marfim
+- *Ninho da Morte*
+  - Local de Peregrinação dos seguidores do *Indomável*
+  - Covil do *Morte Branca* (até onde se sabe)
+  - Vulcão ativo
+  - A escalada é perigosa, mas Druidas que seguem o *Indomável*
+- Korrd
+  - Bárbaros humanos que vivem nas Montanhas de Marfim
+     - Combatem os humanóides e procuram viver nessas montanhas
+     - Bárbaros e Druidisas
 - Reinos das Torres
-
+  - Lado Leste da Ilha Nobre
+  - Lar dos antigos Darash
+  - Alguns aventureiros procuram obter tecnologia perdida Darash para estudiosos
+     - Uma boa idéia ou um atrevimento
+     - Aos poucos está sendo desvendados seus segredos
+     - Principalmente em Laughton existe muito interesse e comércio dessa tecnologia
+ - Mortos-vivos Darash
+     - Ainda vivem nas Torres
+     - Alguns são inteligentes e sentem ódio pelos Moreau
+ - Algumas máquinas a vapor úteis ainda podem ser encontradas
+     - Seu funcionamento ao ser ativado é imprevisível!
+     - Golens de tamanho humano
+        - Acredita-se que hajam verdadeiras "cidades-golem" (!!!!!)
