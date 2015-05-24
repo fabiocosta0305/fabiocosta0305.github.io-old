@@ -59,6 +59,26 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Não se consideram humanos (ao menos totalmente)
   - Vivem nas planícies
     - Florestas são para os animais selvagens
+- Moreau Herdeiros
+  - São mais ligados aos Doze Animais
+  - Possuem mais traços animais que seus irmãos "normais"
+  - Normalmente os Herdeiros de um determinado animal vive em Clãs
+- Licantropos
+  - São mais ligados ao *Indomável*
+  - Capazes de reverter para a forma do animal do quais são descendentes
+     - Apenas dos animais que pediram ao *Indomável* para virarem humanos
+- Barão Samoeida
+  - Deus da Morte, ligado também ao Caos
+  - É um trapaceiro brincalhão
+  - Forma de um homem careca, usando óculos e cartola
+  - Possui a face, braço e todas as partes expostas do corpo com pinturas de ossos
+  - *"A morte vem para todos, então é bom aproveitar a vida!"*
+     - Considerado de bom agouro deixar um convite para qualquer festa em um cemitério
+  - Protetor das Crianças
+- *Tamagrah*
+  - A Ilha Viva
+  - Uma tartaruga gigante com 12km de diâmetro de casco e 8km de tamanho abaixo da água
+  - Uma divindade, ou apenas uma tartaruga gigante onde é possível viver?
 - *Morte Branca*
   - O maior Dragão de Marfim
   - Derrotou sozinho os Darash
