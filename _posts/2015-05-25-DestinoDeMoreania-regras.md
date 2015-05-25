@@ -205,68 +205,69 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 
 - Divindades
   - Façanhas de Devoção
-    - Em  geral, se  não for  de Bônus  ou não  estiver explicitamente
-      descrito, pode ser  usado apenas uma vez por Cena  (ou Sessão, a
-      Critério do Mestre);
+     - Em geral,  se não  for de Bônus  ou não  estiver explicitamente
+       descrito, pode ser usado apenas uma  vez por Cena (ou Sessão, a
+       Critério do Mestre);
 
 ###### A Dama Altiva
 - Façanhas de Devoção
   - Cura
-    - Baixa todas as Conseqüências em um Nível;
+     - Baixa todas as Conseqüências em um Nível;
   - Benção
-    - +2 em *Ataques* para uma pessoa *ou* arma durante um conflito;
+     - +2 em *Ataques* para uma pessoa *ou* arma durante um conflito;
   - Proteção Mágica
-    - +2 em *Defesas* para uma pessoa durante um conflito;
+     - +2 em *Defesas* para uma pessoa durante um conflito;
 
 ###### O Indomável
 - Façanhas de Devoção
   - Ataque Destruidor
-    - +2 em  um único *Ataque*.  Caso provoque  mais de dois  ponto de
-      Estresse, deve ser absorvido obrigatoriamente nas Conseqüências;
+     - +2 em um  único *Ataque*.  Caso provoque mais de  dois ponto de
+       Estresse,    deve    ser   absorvido    obrigatoriamente    nas
+       Conseqüências;
   - Toque da Morte
-    - Caso  seja bem  sucedido em  um *Ataque*  de *Lutar*,  o alvo  é
-      automaticamente  *Retirado de  Jogo* (normalmente  morto, mas  a
-      critério do Mestre). Apenas uma vez por Sessão;
+     - Caso seja  bem sucedido  em um  *Ataque* de  *Lutar*, o  alvo é
+       automaticamente *Retirado  de Jogo*  (normalmente morto,  mas a
+       critério do Mestre). Apenas uma vez por Sessão;
 
 ###### Barão Samoeida
 - Façanhas de Devoção
   - Sorte do Barão
-    - Pode pedir um novo rolamento de dados, sem pagar PD por isso;
+     - Pode pedir um novo rolamento de dados, sem pagar PD por isso;
 
 ###### Tamagrah
 - Façanhas de Devoção
   - Ciclo da Vida
-    - O Mesmo que *Proteção Mágica*  (Dama Altiva) ou *Toque da Morte*
-      (Proteção)
+     - O Mesmo que *Proteção Mágica* (Dama Altiva) ou *Toque da Morte*
+       (Proteção)
 
 ###### Champarr
 - Façanhas de Devoção
   - A Sorte do Jogador
-    - Pode executar uma ação que exija PD sem pagar;
+     - Pode executar uma ação que exija PD sem pagar;
     
 ###### Sorinda
 - Façanhas de Devoção
   - A Vida nos Mares
-    - +2 em  todos os  testes de  *Atletismo* ao  lidar com  cordas ou
-      equilíbrio;
+     - +2 em  todos os testes  de *Atletismo*  ao lidar com  cordas ou
+       equilíbrio;
 
 ######  Lamashtu
 - Façanhas de Devoção
   - Machado da Morte
-    - +2 em todos os Ataques com *Armas Brancas* ao usar machados;
+     - +2 em todos os Ataques com *Armas Brancas* ao usar machados;
 
 ######  Gojan
 - Façanhas de Devoção
   - Biblioteca Gojan
-    - +2  em   todos  os  teste   de  *Criar  Vantagens*   em  *Saber*
-      relacionados a conhecimentos sobre lendas e fatos recentes;
+     - +2  em  todos   os  teste  de  *Criar   Vantagens*  em  *Saber*
+       relacionados a conhecimentos sobre lendas e fatos recentes;
 
 ######  Holleen
 - Façanhas de Devoção
   - Ataque Traiçoeiro
-    - O personagem pode usar *Furtividade* para Atacar, se ele não foi
-      notado. Caso o mesmo já possua uma habilidade similar, recebe +2
-      nos testes
+     - O personagem  pode usar *Furtividade*  para Atacar, se  ele não
+       foi  notado. Caso  o mesmo  já possua  uma habilidade  similar,
+       recebe +2 nos testes
 
 ##### Magos
 
