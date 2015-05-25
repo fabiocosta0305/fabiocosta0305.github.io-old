@@ -55,7 +55,7 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
       detalhada  as vantagens  e desvantagens  dos Druidas  que seguem
       cada um dos Irmãos Selvagens;
 
-### Regras
+### Extras
 
 #### Moreau Herdeiros
 
@@ -67,3 +67,4 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 
 ##### Magos
 
+### Regras
