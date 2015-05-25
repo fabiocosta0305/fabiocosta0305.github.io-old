@@ -25,8 +25,10 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Os Doze Animais
     - Vitimados pela raça humana
     - Pediram para tornar-se humanos
-      - Leão, Morcego, Crocodilo, Serpente, Hiena, Lobo pediram ao Indomável
-      - Búfalo, Coelho, Urso, Raposa, Coruja e Gato pediram à Dama Altiva
+      - Leão,  Morcego, Crocodilo,  Serpente, Hiena,  Lobo pediram  ao
+        Indomável
+      - Búfalo, Coelho,  Urso, Raposa,  Coruja e  Gato pediram  à Dama
+        Altiva
     - Construiram sua cultura e civilização em harmonia com a natureza
   - Nem todos os Moreau acreditam no mesmo
     - A maior parte acredita, mas uma parcela significativa não
@@ -36,7 +38,8 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Odiavam as divindades, a natureza e a magia
   - Adeptos de motores a vapor e tecnologia
   - Eram um povo doente
-    - Doenças Naturais,. Mágicas ou derivadas da deterioração da natureza
+    - Doenças  Naturais,.  Mágicas  ou derivadas  da  deterioração  da
+      natureza
   - Foram derrotadas pelo dragão de Marfim *Morte Branca*
   - Atualmente estão totalmente destruídos (*será?*)
 - A Terra Desconhecida
@@ -52,12 +55,14 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
 - Ilha Nobre
   - Muito maior que as demais
   - Principal Ilha de Moreania
-  - Grande demais para ser uma ilha e pequena demais para ser um continente
+  - Grande  demais para  ser uma  ilha e  pequena demais  para ser  um
+    continente
 - Moreau
   - Descendentes dos Doze Animais (?!)
   - Humanos com traços animais mais ou menos vestigiais
   - Esses traços são puramente cosméticos
-    - *Em geral* não oferecem vantagens quando comparado com outras criaturas
+    - *Em geral*  não oferecem  vantagens quando comparado  com outras
+      criaturas
   - Não se consideram humanos (ao menos totalmente)
   - Vivem nas planícies
     - Florestas são para os animais selvagens
@@ -67,20 +72,56 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Normalmente os Herdeiros de um determinado animal vive em Clãs
 - Licantropos
   - São mais ligados ao *Indomável*
-  - Capazes de reverter para a forma do animal do quais são descendentes
-     - Apenas dos animais que pediram ao *Indomável* para virarem humanos
+  - Capazes  de  reverter  para  a   forma  do  animal  do  quais  são
+    descendentes
+     - Apenas  dos animais  que  pediram ao  *Indomável* para  virarem
+       humanos
 - Barão Samoeida
   - Deus da Morte, ligado também ao Caos
   - É um trapaceiro brincalhão
   - Forma de um homem careca, usando óculos e cartola
-  - Possui a face, braço e todas as partes expostas do corpo com pinturas de ossos
+  - Possui  a face,  braço e  todas as  partes expostas  do corpo  com
+    pinturas de ossos
   - *"A morte vem para todos, então é bom aproveitar a vida!"*
-     - Considerado de bom agouro deixar um convite para qualquer festa em um cemitério
+     - Considerado de bom agouro deixar um convite para qualquer festa
+       em um cemitério
   - Protetor das Crianças
 - *Tamagrah*
   - A Ilha Viva
-  - Uma tartaruga gigante com 12km de diâmetro de casco e 8km de tamanho abaixo da água
-  - Uma divindade, ou apenas uma tartaruga gigante onde é possível viver?
+  - Uma  tartaruga gigante  com 12km  de diâmetro  de casco  e 8km  de
+    tamanho abaixo da água
+  - Uma divindade,  ou apenas  uma tartaruga  gigante onde  é possível
+    viver?
+  - Fonte do material *Carapaça*, retirada das montanhas da mesma
+    - Apenas uma tribo (*Aruhana*), conseguiu trabalhar esse material
+    - Material natural,  mas com  resistência e força  de aço  de alta
+      qualidade
+    - Muito usada por Druidas
+  - Tribo *Aruhana*
+      - Apesar de dedicados, primitivos
+      - Únicos dos  moradores de Tamagrah  que aceitam e  negociam com
+        estrangeiros
+      - Devotos de *Tamagrah*
+        - Acreditam ser uma faceta ou criação da Dama Altiva
+  - Tribo *Hollok*
+      - Dissidência dos *Aruhana*
+      - Malignos -  *"Para que  trabalhar arduamente se  podemos tirar
+        nosso sustento dos outros?"*
+      - Como os *Aruhana*, são devotos  da Ilha, mas acreditam que ela
+        é uma força de Poder criada pelo *Indomável*
+  - Monges Quellon
+      - São ligados à Ilha
+         - Aparentemente a  própria Ilha escolhe aqueles  dignos de se
+           tornarem Monges Quellon
+      - Vivem no alto do Pico Meridiano
+         - Os escolhidos passam por uma metamorfose com o tempo
+         - Meio-homem, meio-tartaruga
+      - Após a  metamorfose, fazem peregrinação por  Tamagrah ou mesmo
+        para fora da Ilha
+      - Parecem avoados e desinterassados  com as coisas, mas procuram
+        acumular conhecimento
+      - Druidas, Monges ou Clérigos de Tamagrah
+      - Neutros, dificilmente trilham o caminho do Bem ou do Mal
 - *Morte Branca*
   - O maior Dragão de Marfim
   - Derrotou sozinho os Darash
@@ -100,11 +141,14 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - Mais antigo reino
   - Tradicionalistas e Defensores dos Irmãos Selvagens
   - São simples e suas cidades são mais bucólicas
-     - Referências aos Irmãos Selvagens podem ser encontradas em todo o lugar
+     - Referências aos Irmãos Selvagens  podem ser encontradas em todo
+       o lugar
   - Governada por Druidas
-     - Diferentemente de outros locais, Druidas são organizados em uma poderosa hierarquia nesse reino
+     - Diferentemente de outros locais, Druidas são organizados em uma
+       poderosa hierarquia nesse reino
      - Regentes da maior parte das cidades desse reino
-  - Não há muita diferença entre *primitivo* e *civilizado* nesse reino
+  - Não  há muita  diferença  entre *primitivo*  e *civilizado*  nesse
+    reino
   - Confiam em Brando, mas não em Laughton
 - Ordem de Bullton
   - Mais importante ordem de cavaleiros de Lancaster
@@ -113,19 +157,23 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - **Capital:** Kil'mer
   - **Regente:** Rei Isgard e Rainha Sadine Wolfgang
   - *Tradição dos Noivos Campeões* - A origem do reino
-  - *Clã da Matilha:* Clã do Lobo e da Raposa unidos pelo amor e pelo banimento
+  - *Clã da Matilha:* Clã do Lobo e  da Raposa unidos pelo amor e pelo
+    banimento
   - Família Wolfgang
      - Descendentes dos Noivos Campeões
   - Uma grande tradição de torneios, guerreiros e magia
-     - Lobos, Raposas, Machados e Símbolos de Magia podem ser vistos a todo lugar
+     - Lobos, Raposas, Machados e Símbolos de Magia podem ser vistos a
+       todo lugar
   - Dualidade e complementabilidade de espada e magia
-     - Os Fundadores do Reino eram um espadachim do Clã Lobo e uma maga do Clã Raposa
+     - Os Fundadores  do Reino eram  um espadachim  do Clã Lobo  e uma
+       maga do Clã Raposa
          - Faernal e Sathia
   - Os defensores dos Três Reinos (ao mesmo é como se consideram)
   - As mais tradicionais ordens militares
 - Laughton
   - **Capital:** A Cidade Suspensa de Pendrick
-     - *Magnífica* em um idioma antigo... Ou o nome do gato de estimação de uma maga...
+     - *Magnífica*  em  um idioma  antigo...  Ou  o  nome do  gato  de
+       estimação de uma maga...
   - **Regente:** Conselho dos Seis
      - Descendentes dos Seis Heróis fundadores de Laughton
   - O mais novo e vibrante dos reinos
@@ -136,8 +184,10 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
   - *"Se existe, então você pode encontrar aqui!"*
   - Um navio chegou da Terra Desconhecida
      - Um reino além do Oceano, com criaturas e civilizações estranhas
-     - Pendrick é o princiál ponto de acesso entre a Terra Desconhecida e Moreania
-     - Os outros reinos consideram Laughton maluca por aceitar os estrangeiros
+     - Pendrick  é   o  princiál  ponto   de  acesso  entre   a  Terra
+       Desconhecida e Moreania
+     - Os  outros reinos  consideram  Laughton maluca  por aceitar  os
+       estrangeiros
 - Montanhas de Marfim
   - Divide a Ilha Nobre em dois
   - Lar de Monstros e humanos selvagens
@@ -167,10 +217,12 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
 - Reinos das Torres
   - Lado Leste da Ilha Nobre
   - Lar dos antigos Darash
-  - Alguns aventureiros procuram obter tecnologia perdida Darash para estudiosos
+  - Alguns aventureiros procuram obter  tecnologia perdida Darash para
+    estudiosos
      - Uma boa idéia ou um atrevimento
      - Aos poucos está sendo desvendados seus segredos
-     - Principalmente em Laughton existe muito interesse e comércio dessa tecnologia
+     - Principalmente em  Laughton existe  muito interesse  e comércio
+       dessa tecnologia
  - Mortos-vivos Darash
      - Ainda vivem nas Torres
      - Alguns são inteligentes e sentem ódio pelos Moreau
