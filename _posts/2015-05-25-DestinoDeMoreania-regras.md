@@ -146,6 +146,8 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 
 ### Perícias
 
+As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterado em relação ao Fate Core. Os nomes *em itálico e entre parenteses* são os nomes das perícias originais em inglês do Fate Core da Evil Hat.
+
 - **Atirar (*Shoot*)**
   - Dividida em  duas perícias  diferentes, mas  que seguem  as mesmas
     regras do Fate Core: *Arqueria* e *Arremesso*
@@ -161,7 +163,7 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 - Investigar (*Investigate*)
 - **Lutar (*Fight*)**
   - Cobre apenas  combate corporal desarmado. Para  combate com armas,
-    existe a perícia *Armas Brancas*
+    existe a perícia *Armas Brancas*, que funciona de maneira similar
 - Notar (*Notice*)
 - Ofícios (*Crafts*)
 - Provocar (*Provoke*)
