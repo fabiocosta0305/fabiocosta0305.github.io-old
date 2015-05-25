@@ -230,3 +230,22 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
      - Seu funcionamento ao ser ativado é imprevisível!
      - Golens de tamanho humano
         - Acredita-se que hajam verdadeiras "cidades-golem" (!!!!!)
+- Allesia
+  - Parte das Ilhas Artrozes
+     - Parte das Ilhas Menores que circundam a Ilha Nobre
+  - Ilha dos Semi-humanos
+     - Único local de Moreania onde existem raças semi-humanas
+  - Criados pela Dama Altiva (?!)
+     - Lince, Texugo e Guaxinim viraram Elfo, Anão e Halfling
+  - Adoram Allesia’nalla
+     - A Princesa Fada
+     - Aspecto da Dama Altiva (?!)
+  - Semi-humanos desconfiados dos Moreau, e o sentimento é recíproco
+  - Na ilha pode-se encontrar também animais atrozes e fadas
+- Islethid
+  - Parte das Ilhas Darash
+  - Lar de criaturas totalmente antinaturais
+     - Descendentes dos Darash, ou um terror ainda maior
+     - Lar de criaturas de olhos inteligentes, mentes vis e tentáculos no rosto
+     - *"Devoradores de Mentes"*
+  - A existência da ilha é um atentado à própria vida

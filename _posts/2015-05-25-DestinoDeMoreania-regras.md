@@ -53,6 +53,21 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
       as  vantagens  e desvantagens  de  cada  um  dos seis  tipos  de
       licantropos.   Licantropos podem  assumir a  forma *apenas*  dos
       Animais que pediram para tornarem-se humanos ao *Inominável*.
+- *Quellon*
+  - Você  nasceu de  pais quellon  ou tornou-se  um quellon  depois de
+    muito tempo  entre os monges  Quellon. Você é orgulhoso  e altivo,
+    sendo completamente capaz de agir de maneira independente e sem se
+    preocupar  com que  os outros  pensam de  você.  Você  não precisa
+    demonstrar   nada  a   ninguém,  e   isso  lhe   dá  confiança   e
+    tranquilidade. Da mesma  forma, você não espera  que outros provem
+    qualquer  coisa a  você. Seu  casco é  o que  mais facilmente  lhe
+    distinguem de outras raças
+    - **O  Jogador  pode  Invocar   para:**  demonstrar  sua  calma  e
+      confiança natural dos Quellon;
+    - **O  Mestre  pode Forçar  para:**  fazer  o quellon  manter  uma
+      atitude afastada dos demais;
+    - **Observação:** mais  adiante, em *Quellons* serão  descritas as
+      vantagens e desvantagens de ser um *Quellon*.
 - *Druida*
   - esse personagam  respeita os Irmãos Selvagens,  podendo ser também
     seguidor de um deles em especial. Devido à ligação com a natureza,
@@ -180,6 +195,8 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 
 #### Licantropos
 
+#### Quellons
+
 #### Druidas, Clérigos e Magos
 
 ##### Druidas
@@ -187,15 +204,69 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 ##### Clérigos
 
 - Divindades
-  - A Dama Altiva
-  - O Indomável
-  - Barão Samoeida
-  - Tamagrah
-  - Champarr
-  - Sorinda
-  - Lamashtu
-  - Gojan
-  - Holleen
+  - Façanhas de Devoção
+    - Em  geral, se  não for  de Bônus  ou não  estiver explicitamente
+      descrito, pode ser  usado apenas uma vez por Cena  (ou Sessão, a
+      Critério do Mestre);
+
+###### A Dama Altiva
+- Façanhas de Devoção
+  - Cura
+    - Baixa todas as Conseqüências em um Nível;
+  - Benção
+    - +2 em *Ataques* para uma pessoa *ou* arma durante um conflito;
+  - Proteção Mágica
+    - +2 em *Defesas* para uma pessoa durante um conflito;
+
+###### O Indomável
+- Façanhas de Devoção
+  - Ataque Destruidor
+    - +2 em  um único *Ataque*.  Caso provoque  mais de dois  ponto de
+      Estresse, deve ser absorvido obrigatoriamente nas Conseqüências;
+  - Toque da Morte
+    - Caso  seja bem  sucedido em  um *Ataque*  de *Lutar*,  o alvo  é
+      automaticamente  *Retirado de  Jogo* (normalmente  morto, mas  a
+      critério do Mestre). Apenas uma vez por Sessão;
+
+###### Barão Samoeida
+- Façanhas de Devoção
+  - Sorte do Barão
+    - Pode pedir um novo rolamento de dados, sem pagar PD por isso;
+
+###### Tamagrah
+- Façanhas de Devoção
+  - Ciclo da Vida
+    - O Mesmo que *Proteção Mágica*  (Dama Altiva) ou *Toque da Morte*
+      (Proteção)
+
+###### Champarr
+- Façanhas de Devoção
+  - A Sorte do Jogador
+    - Pode executar uma ação que exija PD sem pagar;
+    
+###### Sorinda
+- Façanhas de Devoção
+  - A Vida nos Mares
+    - +2 em  todos os  testes de  *Atletismo* ao  lidar com  cordas ou
+      equilíbrio;
+
+######  Lamashtu
+- Façanhas de Devoção
+  - Machado da Morte
+    - +2 em todos os Ataques com *Armas Brancas* ao usar machados;
+
+######  Gojan
+- Façanhas de Devoção
+  - Biblioteca Gojan
+    - +2  em   todos  os  teste   de  *Criar  Vantagens*   em  *Saber*
+      relacionados a conhecimentos sobre lendas e fatos recentes;
+
+######  Holleen
+- Façanhas de Devoção
+  - Ataque Traiçoeiro
+    - O personagem pode usar *Furtividade* para Atacar, se ele não foi
+      notado. Caso o mesmo já possua uma habilidade similar, recebe +2
+      nos testes
 
 ##### Magos
 
