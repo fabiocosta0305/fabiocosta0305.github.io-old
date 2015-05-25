@@ -170,9 +170,13 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 - Saber (*Lore*)
 - Vontade (*Will*)
 
+### Façanhas
+
 ### Extras
 
 #### Moreau Herdeiros
+
+#### Licantropos
 
 #### Druidas, Clérigos e Magos
 
@@ -193,10 +197,10 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 
 ##### Magos
 
-##### Monges
+#### Monges
 
-##### Bardos
+#### Bardos
 
-##### Licantropos
+#### Artefatos Darash
 
 ### Regras
