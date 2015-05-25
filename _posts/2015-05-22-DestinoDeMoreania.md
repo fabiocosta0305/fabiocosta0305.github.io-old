@@ -8,6 +8,8 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
 
 ## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
+- [cenário](/DestinoDeMoreania-regras)
+
 ### Ambientação e Escala
 
 - **Ambientação:** Fantasia Medieval
