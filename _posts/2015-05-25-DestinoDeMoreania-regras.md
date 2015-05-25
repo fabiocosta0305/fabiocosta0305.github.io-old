@@ -144,6 +144,32 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
     - **O  Mestre pode  Forçar  para:** oferecer  informação dúbia  ou
       enganosa sobre locais e objetos
 
+### Perícias
+
+- **Atirar (*Shoot*)**
+  - Dividida em  duas perícias  diferentes, mas  que seguem  as mesmas
+    regras do Fate Core: *Arqueria* e *Arremesso*
+- Atletismo (*Athletics*)
+- Comunicação (*Rapport*)
+- **Condução (*Drive*)**
+  - Vira *Cavalgar*, sem mudanças
+- Contatos (*Contacts*)
+- Empatia (*Empathy*)
+- Enganar (*Deceive*)
+- Furtividade (*Stealth*)
+- Físico (*Physique*)
+- Investigar (*Investigate*)
+- **Lutar (*Fight*)**
+  - Cobre apenas  combate corporal desarmado. Para  combate com armas,
+    existe a perícia *Armas Brancas*
+- Notar (*Notice*)
+- Ofícios (*Crafts*)
+- Provocar (*Provoke*)
+- Recursos (*Resources*)
+- Roubar (*Burglary*)
+- Saber (*Lore*)
+- Vontade (*Will*)
+
 ### Extras
 
 #### Moreau Herdeiros
@@ -170,5 +196,7 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 ##### Monges
 
 ##### Bardos
+
+##### Licantropos
 
 ### Regras
