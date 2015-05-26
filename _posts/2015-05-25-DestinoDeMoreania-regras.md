@@ -405,7 +405,7 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
      - Todo Clérigo tem acesso a uma série de Façanhas de Devoção
      - Pode  utilizar apenas  uma delas  por Sessão,  mas pode  a cada
        Sessão escolher uma diferente.
-     - Façanha de Devoção:
+     - Façanha de Devoção Comum:
         - *Arma Sagrada*
            - Invoca  uma poderosa  *Arma Mágica*,  que recebe  +2 para
              atacar criaturas  que vão contra os  desejos da divindade
