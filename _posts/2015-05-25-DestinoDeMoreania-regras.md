@@ -297,7 +297,54 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 - *Façanha de __Lutar__, __Armas Brancas__, __Arqueria__ ou __Arremesso__*
   - *Permissão:* depende da técnica de combate
   - O personagem  em questão domina  algum tipo de técnica  de combate
-    mais poderosa
+    mais poderosa. Cada técnica pode  oferecer algum tipo de benefício
+    em combate, e normalmente várias delas em conjunto vão formando um
+    estilo  de  combate  relacionado   a  alguma  ordem  guerreira  ou
+    secto. Algumas  vezes, personagens  comuns podem ter  acesso essas
+    técnicas,  mas em  outras  é  necessário uma  série  de treinos  e
+    dedicação a uma ordem para obter-se tal capacidade
+  - *__Exemplos:__*
+  - *As Bolas Gu-On*
+     - Produzidas por uma ordem de monges de Lancaster, as Bolas Gu-On
+       são bolas  feitas com um material  obtido a partir da  seiva da
+       árvore Gollan.  Trabalhada de maneira correta,  essa seiva pode
+       ser   convertida  em   um  material   elástico  que   depois  é
+       transformado   em  uma   bola  que   salta  quando   jogada  ao
+       chão. Normalmente usadas  como brinquedo, nas mãos  de um monge
+       Gu-On, essas bolas  podem ser usadas como armas  de nocaute sem
+       matar o  adversário. Os mais  hábeis no  uso de tais  bolas são
+       capazes até de derrubar paredes  e portões com chutes poderosos
+       que dão.
+     - *Técnica de Combate: Chute Gu-On*
+        - *Permissão:* *Monge Gu-On* ou Aspecto Similar
+           - O personagem  é capaz  de usar uma  bola Gu-On  contra um
+             alvo, chutando-a  contra o mesmo. A  bola normalmente irá
+             quicar e retornar ao personagem, exceto em caso de Falha,
+             quando  o personagem  estará *Sem  a Bola*.  Essa Técnica
+             permite usar *Lutar* no lugar de *Arremesso* para atingir
+             adversários  com a  Bola  Gu-On (e  apenas  com ela).   O
+             personagem  pode  atacar  um  alvo  a  até  uma  Zona  de
+             distância do mesmo usando a Bola Gu-On, usando *Lutar* no
+             lugar de *Arqueria* ou *Arremesso*
+     - *Técnica de Combate: Chute de Rebote*
+        - *Permissão:* *Chute Gu-On*
+           - O personagem é  capaz de, aproveitando o  rebote da bola,
+             Atacar outros  alvos, enquanto  for bem sucedido  em seus
+             Ataques  (cada alvo  pode  fazer um  teste individual  de
+             Defesa),  até um  número de  vezes igual  a seu  nível em
+             *Atletismo* + 1 (mínimo de 2).
+     - *Técnica de Combate: Soul Kick*
+        - *Permissão:* *Chute Gu-On*
+           - O personagem em questão pode  imbuir energia em sua bola,
+             provocando   um  ataque   ainda  mais   poderoso  que   a
+             média. Gastando 1  PD, o personagem pode  colocar na bola
+             um  Aspecto  *Energia   Espiritual*,  com  uma  invocação
+             gratuita, que  pode ser  usada para  aumentar a  força do
+             ataque de bola. Esse Aspecto dura um Conflito/Cena, o que
+             acabar primeiro, e funciona como  se fosse um *Aspecto de
+             Cena* criado  a partir de  uma ação de  *Criar Vantagens*
+             bem-sucedida. Apenas o personagens ou outros que tenham a
+             mesma Técnica de Combate podem fazer o mesmo.
 
 ### Extras
 
