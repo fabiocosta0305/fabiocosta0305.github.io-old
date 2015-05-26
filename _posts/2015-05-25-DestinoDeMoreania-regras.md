@@ -262,13 +262,42 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
        especial, ou  pode ser usado em  circunstâncias que normalmente
        não poderia ser.
    - *__Exemplos:__*
-   - Arma/Armadura de Carapaça
-     - Feita do material *Carapaça* obtido pelos Aruhana, essas Armas
-       e Armaduras são muito procuradas  por Druidas, pois são feitas
-       da carapaça  da Ilha Viva Tamagrah,  portanto são consideradas
+   - *Arma/Armadura de Carapaça* (1 Façanha)
+     - Feita do material *Carapaça*  obtido pelos Aruhana, essas Armas
+       e Armaduras são  muito procuradas por Druidas,  pois são feitas
+       da carapaça  da Ilha  Viva Tamagrah, portanto  são consideradas
        materiais naturais, que os Druidas podem usar.
-        - *Efeito Especial  - Material Natural:* pode  ser usadas por
+        - *Efeito Especial  - Material  Natural:* pode ser  usadas por
           personagens que possuem certas restrições, como os Druidas.
+   - *Armadura Escama de Aço* (1 ou 2 Façanhas)
+     - Produzidas pela  Ordem dos  *Escamas de  Aço* de  Brando, essas
+       pesadas armaduras são muito mais resistentes que as normalmente
+       produzidas:
+        - *Defesa Aprimorada*
+        - *Efeito  Especial: Leveza  e  Resistência*  o personagem  em
+          questão só pode  ter seu Aspecto da Armadura  Forçado se for
+          pago  2  PD ao  mesmo.  Além  disso,  ele  pode, por  1  PD,
+          adicionar +1 a seus testes de *Defesa* cumulativamente com a
+          *Defesa Aprimorada*
+   - *Arma do Soberano da Acha* (1 ou 2 Façanhas)
+     - *Permissão:* ser parte do *Exército da Acha* (cobre a Permissão
+       de Arma Especial)
+     - Quando entra  no *Exército  da Acha*, na  região de  Ax'Aria de
+       Brando, o personagem recebe um machado, que irá o acompanhar em
+       sua missão  de redenção,  forjada pelos  forjadores e  magos da
+       Ordem.  Mesmo depois  da  redenção, essa  arma  continua com  o
+       personagem, tornando-se uma poderosa arma mágica.
+        - *Ataque Aprimorado*
+        - *Efeito  Especial:  Arma Consciente*  -  A  Arma em  questão
+          tornou-se uma Arma Consciente.  O personagem deve colocar um
+          Aspecto  na Arma  que  representa seu  *Objetivo*, em  geral
+          relacionado com a redenção do personagem
+
+#### Técnica de Combate
+- *Façanha de __Lutar__, __Armas Brancas__, __Arqueria__ ou __Arremesso__*
+  - *Permissão:* depende da técnica de combate
+  - O personagem  em questão domina  algum tipo de técnica  de combate
+    mais poderosa
 
 ### Extras
 
