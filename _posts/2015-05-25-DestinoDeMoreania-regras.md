@@ -360,13 +360,90 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 
 ##### Clérigos
 
-- Divindades
+- *Permissão:* Aspecto da Devoção
+  - Divindades
+    - Cada divindade  segue determinadas  Esferas de Poder,  onde cada
+      uma irá atuar.
+    - Cada  uma demanda  um  *Símbolo  de Fé*,  que  deve ser  portado
+      visivelmente (normalmente). Estar sem o  mesmo não permite o uso
+      de  *Fé* e  nem  das  *Façanhas de  Devoção*  (entenda como  uma
+      *Consequência*). Ele é apenas um Foco, não possuindo poder algum
+    - O *ethos*  da Divindade  atua como um  Aspecto que  determina as
+      ações  do  Clérigo.   É  tratada  como  parte  dos  Aspectos  do
+      personagem  e,   desse  modo,  pode  ser   Invocado  ou  Forçado
+      naturalmente
+- "Perícia" *Fé*
+    - Define a  Fé do  personagem e o  quão profunda ela  é. O  quão o
+      personagem segue  os preceitos  e *ethos*  de sua  divindade.  É
+      usada para  determinar se o personagem  consegue utilizar Magias
+      vindas de suas  divindades, baseando-se nas Esferas  de Poder deToda vida deve ser preservada
+      cada uma.
+       - *Criar Vantagens:* O Clérigo  basicamente irá utilizar sua Fé
+         para  Criar   Vantagens  relacionadas   ao  *ethos*   de  sua
+         Divindade. Um  Clérigo da *Dama Altiva*  poderá, por exemplo,
+         Curar ou  Abençoar com maior facilidade,  enquanto um Clérigo
+         de Lamashtu,  por exemplo, normalmente terá  maior facilidade
+         para criar morte e pestilência
+       - *Superar  Obstáculos:* Clérigos  em geral  tendem a  procurar
+         remover a  influência de divindades  opostas (ou ao  menos em
+         situações    que    vão    contra   o    *ethos*    de    sua
+         divindade).   Clérigos  da   *Dama   Altiva*,  por   exemplo,
+         procurarão   remover   dificuldades    na   proliferação   da
+         vida. Clérigos do  *Barão Samoeida*, por sua  vez, tenderão a
+         remover a ordem de alguma forma
+       - *Atacar:*  Normalmente, apenas  Clérigos  de divindades  mais
+         belicosas, como *O Indomável*  ou *Sorinda* tendem a utilizar
+         seus  poderes para  Atacar. A  maior parte  dos Clérigos  não
+         utilizam suas magias para combate, ao menos não normalmente
+       - *Defender:* Quase todos os Clérigos são capazes de, de alguma
+         forma, utilizar sua Fé para Defender-se e a outros. Até mesmo
+         os  Clérigos do  *Barão  Samoeida* procuram  se Defender  (ao
+         menos  até  que  o  momento   do  mesmo  tenha  chegado).  Em
+         compensação,  as divindades  mais selvagens,  como o  próprio
+         *Indomável* e *Lamashtu* não permitem que seus Clérigos 
   - Façanhas de Devoção
-     - Em geral,  se não  for de Bônus  ou não  estiver explicitamente
-       descrito, pode ser usado apenas uma  vez por Cena (ou Sessão, a
-       Critério do Mestre);
-
+     - Todo Clérigo tem acesso a uma série de Façanhas de Devoção
+     - Pode  utilizar apenas  uma delas  por Sessão,  mas pode  a cada
+       Sessão escolher uma diferente.
+     - Façanha de Devoção:
+        - *Arma Sagrada*
+           - Invoca  uma poderosa  *Arma Mágica*,  que recebe  +2 para
+             atacar criaturas  que vão contra os  desejos da divindade
+             em questão
+  - Deixando a Fé e Penitência
+     - Tentar  usar a  Fé para  algo que  normalmente a  Divindade não
+       permitiria
+        - Em  caso  de sucesso,  faz  o  que  deseja, mas  recebe  uma
+          Consequencia *Apostata*
+        - Deve cumprir  algum tipo  de missão  ou rito  de purificação
+          antes de poder remover essa Consequencia
+        - A Remoção do Aspecto de  Devoção elimina a Consequencia, mas
+          não a  Perícia de *Fé*, que  deve ser removida em  um *Marco
+          Menor*.
+  - Esferas de Poder
+     - Vida - lida com Criar e Restaurar a Vida
+     - Morte - lida com o Pós-Vida e o que é relacionado à Morte
+     - Proteção - lida com manter o que existe
+     - Destruição - lida com a destruição do que existe
+     - Bem - lida com a Bondade e a Caridade
+     - Mal - lida com a Maldade e o Egoísmo
+     - Caos - lida com o Caos e a Entropia
+     - Ordem - lida com a Ordem e a Estagnação
+     - Sorte/Trapaça - lida com a Sorte, ou com a Trapaça e coisas afins
+     - Viagem - lida com o ato de viajar e com uma boa fortuna na mesma
+     - Força - lida com o Poder e o Desejo de Força
+     - Guerra - lida com as Batalhas e Jogos
+     - Paz - lida com a Calma e com os momentos de Paz
+     - Mistério - lida com segredos, revelando-os ou ocultando-os
+     - Elementos (Especializados) - Lida com os Quatro Elementos, suas forças e fraquezas
+     - Conhecimento - Lida com a Busca do Conhecimento e sua disseminação
+     
 ###### A Dama Altiva
+
+- *Símbolo de Fé:* Cesta de Flores
+- *Arma Espiritual:* Clava
+- *Esferas de Poder:* Bem, Vida, Paz, Mistério, Proteção
+- *Ethos:* *"A vida surge, floresce, cresce, prospera"*
 - Façanhas de Devoção
   - Cura
      - Baixa todas as Conseqüências em um Nível;
@@ -376,6 +453,11 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
      - +2 em *Defesas* para uma pessoa durante um conflito;
 
 ###### O Indomável
+
+- *Símbolo de Fé:* Crânio de um Dragão
+- *Arma Espiritual:* Maça
+- *Esferas de Poder:* Morte, Mal, Guerra, Força, Destruição
+- *Ethos:* *"Para o forte, a vida. Para o fraco, a morte."*
 - Façanhas de Devoção
   - Ataque Destruidor
      - +2 em um  único *Ataque*.  Caso provoque mais de  dois ponto de
@@ -387,39 +469,69 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
        critério do Mestre). Apenas uma vez por Sessão;
 
 ###### Barão Samoeida
+
+- *Símbolo de Fé:* Boneco de Pano com Cartola
+- *Arma Espiritual:* Clava
+- *Esferas de Poder:* Sorte, Caos, Morte
+- *Ethos:* *"A morte cedo ou tarde  chega para todos. Portanto, viva a
+  vida intensamente enquanto pode!"*
 - Façanhas de Devoção
   - Sorte do Barão
      - Pode pedir um novo rolamento de dados, sem pagar PD por isso;
 
 ###### Tamagrah
+- *Símbolo de Fé:* Casco de Tartaruga
+- *Arma Espiritual:* Alabarda
+- *Esferas de Poder:* Elementos (Água), Mistérios, Proteção, Destruição
+- *Ethos:* *"A vida tem seu próprio ritmo. Siga-o."*
 - Façanhas de Devoção
   - Ciclo da Vida
      - O Mesmo que *Proteção Mágica* (Dama Altiva) ou *Toque da Morte*
        (Proteção)
 
 ###### Champarr
+- *Símbolo de Fé:* Troféu
+- *Arma Espiritual:* Espada Curta
+- *Esferas de Poder:* Força, Sorte, Ordem, Guerra
+- *Ethos:* *"A vitória e a sorte seguem lado a lado, mas o conflito ajuda na evolução."*
 - Façanhas de Devoção
-  - A Sorte do Jogador
+  - A Força do Desportista
      - Pode executar uma ação que exija PD sem pagar;
     
 ###### Sorinda
+- *Símbolo de Fé:* Bandana Vermelha
+- *Arma Espiritual:* Espada Curta
+- *Esferas de Poder:* Água, Viagem, Mal, Morte
+- *Ethos:* *"Apenas os piratas são dignos do mar, por aceitarem seus riscos!"*
 - Façanhas de Devoção
   - A Vida nos Mares
      - +2 em  todos os testes  de *Atletismo*  ao lidar com  cordas ou
        equilíbrio;
 
 ######  Lamashtu
+- *Símbolo de Fé:* Jóias de Cor de Sangue (Rubis, por exemplo)
+- *Arma Espiritual:* Machado de Batalha
+- *Esferas de Poder:* Destruição, Guerra, Mal, Morte
+- *Ethos:* *"Todo o sangue da Existência me pertence!"*
 - Façanhas de Devoção
   - Machado da Morte
      - +2 em todos os Ataques com *Armas Brancas* ao usar machados;
 
 ######  Gojan
+- *Símbolo de Fé:* Flauta sobre Pergaminho
+- *Arma Espiritual:* Arco Curto
+- *Esferas de Poder:* Viagem, Sorte, Bem, Conhecimento
+- *Ethos:* *"A viagem nunca termina infrutífera. Se está infrutífera, ainda não terminou!"*
 - Façanhas de Devoção
   - Biblioteca Gojan
      - +2  em  todos   os  teste  de  *Criar   Vantagens*  em  *Saber*
        relacionados a conhecimentos sobre lendas e fatos recentes;
 
 ######  Holleen
+- *Símbolo de Fé:* Adaga de Lâmina Negra
+- *Arma Espiritual:* Adaga
+- *Esferas de Poder:* Morte, Mal, Trapaça
+- *Ethos:* *"O Segredo Revelado é a porta da morte."*
 - Façanhas de Devoção
   - Ataque Traiçoeiro
      - O personagem  pode usar *Furtividade*  para Atacar, se  ele não
