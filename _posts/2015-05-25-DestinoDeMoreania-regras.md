@@ -191,6 +191,60 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 
 ### Façanhas
 
+#### Mestre das Tradições
+- *Façanha de __Saber__*
+  - O personagem em questão é um amplo conhecedor das Tradições de uma
+    determinada Raça ou  Povo de Nárnia (deve ser  definido no momento
+    da compra da  Façanha). O personagem recebe +2 em  todos os testes
+    relativos àquele povo ou Raça  em Tradições, à exceção de qualquer
+    teste de Magia.
+
+#### Mestre de Armas
+- *Façanha de  __Armas Brancas__  ou __Arqueria__ ou  __Arremesso__*
+  - O  personagem que  possui essa  Façanha  é um  especialista em  um
+    determinado  tipo  de Arma  em  combate  (definida no  momento  da
+    Aquisição dessa Façanha).  Ao utilizar  essa Arma, o personagem em
+    questão recebe +2 em todos os seus testes com a mesma.
+  
+#### Líder de Homens
+- *Façanha de __Comunicação__*
+  - O  personagem que  adquire  tal Façanha  pode  congregar um  certo
+    número  de subalternos  como soldados  para lutar  a seu  favor. O
+    personagem  pode  construir  tais  soldados  como  NPCs  sem  nome
+    (Nameless  NPC)   de  um  nível   equivalente  ao  seu   nível  de
+    Comunicação-1 (Mínimo  Mediano). Ele pode  chamar até 2  deles por
+    vez.
+
+#### Artes da Guerra
+- *Façanha de  __Ciência__*
+  - Você  é um  estrategista nato,  treinado  na Arte  do Combate,  da
+    Tática e da Estratégia, recebendo +2  em todos os testes de *Criar
+    Vantagens* ou *Sobressair* durante uma batalha. A ação a receber a
+    vantagem deve ser definida antes de cada batalha.
+  
+#### Artesão Costumaz
+- *Façanha de __Ofícios__*
+  - O personagem é  um especialista na criação de  um determinado tipo
+    de objeto, como cordas ou  armas (definido no momento da Aquisição
+    da  Façanha).   O  personagem  recebe   +2  em  todos   os  testes
+    relacionados  a  criar,  consertar  ou  avaliar  esse  objeto  com
+    Ofícios. Objetos criados por um personagem com essa Façanha recebe
+    algum tipo  de característica avançada  como um Aspecto  do objeto
+    (isso não vale para os  apenas reparados). 
+
+#### Memória Fotográfica
+- *Façanha de __Notar__*
+  - O  personagem em  questão  consegue reter  na  memória uma  grande
+    quantidade de  coisas. Ele recebe +2  em todos os testes  de Notar
+    para lembrar-se de qualquer coisa que tenha visto previamente.
+
+#### Incansável
+- *Façanha de __Físico__*
+  - O personagem  em questão pode  continuar ativo por horas  e horas,
+    não   sofrendo  do   cansaço   e  desgaste   físico  como   outros
+    personagens.  Ele recebe  +2 em  todos os  testes para  resistir a
+    Esforços prolongados.
+
 ### Extras
 
 #### Moreau Herdeiros
