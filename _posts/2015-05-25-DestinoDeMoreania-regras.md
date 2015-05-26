@@ -245,6 +245,30 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
     personagens.  Ele recebe  +2 em  todos os  testes para  resistir a
     Esforços prolongados.
 
+#### Arma/Armadura Especial
+- *Façanha de __Armas Brancas__*
+  - *__Permissão:__* Aspecto relativo à Arma
+  - O  Personagem possui  uma arma  ou armadura  mais forte  do que  a
+    média. Tal  arma ou armadura  em geral  é nomeada e/ou  possui uma
+    história importante por trás da mesma. Cada Façanha aplicada nessa
+    Arma/Armadura Especial oferece um bônus à mesma da lista a seguir:
+     - *Força Adicional:* +2  ao *Atacar* com essa Arma.  Não pode ser
+       aplicada para armaduras
+     - *Defesa Aprimorada:*  +2 ao  *Defender* com essa  Armadura *ou*
+       Arma.
+     - *Sagrada/Profana:*   +2  nos   passos   de   dano  em   ataques
+       bem-sucedidos contra criaturas malignas/bondosas
+     - *Efeito  Especial:*  essa arma  provoca  algum  tipo de  efeito
+       especial, ou  pode ser usado em  circunstâncias que normalmente
+       não poderia ser.
+   - *__Exemplo:__* Arma/Armadura de Carapaça
+      - Feita do material *Carapaça* obtido pelos Aruhana, essas Armas
+        e Armaduras são muito procuradas  por Druidas, pois são feitas
+        da carapaça  da Ilha Viva Tamagrah,  portanto são consideradas
+        materiais naturais, que os Druidas podem usar.
+         - *Efeito Especial  - Material Natural:* pode  ser usadas por
+           personagens que possuem certas restrições, como os Druidas.
+
 ### Extras
 
 #### Moreau Herdeiros
