@@ -165,34 +165,34 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 
 As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterado em relação ao Fate Core. Os nomes *em itálico e entre parenteses* são os nomes das perícias originais em inglês do Fate Core da Evil Hat.
 
+- Atletismo (*Athletics*)
 - **Atirar (*Shoot*)**
   - Dividida em  duas perícias  diferentes, mas  que seguem  as mesmas
     regras do Fate Core: *Arqueria* e *Arremesso*
-- Atletismo (*Athletics*)
 - Comunicação (*Rapport*)
 - **Condução (*Drive*)**
   - Vira *Cavalgar*, sem mudanças
+- Conhecimento (*Lore*)
 - Contatos (*Contacts*)
 - Empatia (*Empathy*)
 - Enganar (*Deceive*)
 - Furtividade (*Stealth*)
-- Físico (*Physique*)
 - Investigar (*Investigate*)
 - **Lutar (*Fight*)**
   - Cobre apenas  combate corporal desarmado. Para  combate com armas,
     existe a perícia *Armas Brancas*, que funciona de maneira similar
-- Notar (*Notice*)
 - Ofícios (*Crafts*)
+- Percepção (*Notice*)
 - Provocar (*Provoke*)
 - Recursos (*Resources*)
 - Roubar (*Burglary*)
-- Saber (*Lore*)
+- Vigor (*Physique*)
 - Vontade (*Will*)
 
 ### Façanhas
 
 #### Mestre das Tradições
-- *Façanha de __Saber__*
+- *Façanha de __Conhecimento__*
   - O personagem em questão é um amplo conhecedor das Tradições de uma
     determinada Raça ou  Povo de Nárnia (deve ser  definido no momento
     da compra da  Façanha). O personagem recebe +2 em  todos os testes
@@ -233,13 +233,14 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
     (isso não vale para os  apenas reparados). 
 
 #### Memória Fotográfica
-- *Façanha de __Notar__*
+- *Façanha de __Percepção__*
   - O  personagem em  questão  consegue reter  na  memória uma  grande
-    quantidade de  coisas. Ele recebe +2  em todos os testes  de Notar
-    para lembrar-se de qualquer coisa que tenha visto previamente.
+    quantidade  de  coisas.  Ele  recebe  +2 em  todos  os  testes  de
+    Percepção  para  lembrar-se  de  qualquer coisa  que  tenha  visto
+    previamente.
 
 #### Incansável
-- *Façanha de __Físico__*
+- *Façanha de __Vigor__*
   - O personagem  em questão pode  continuar ativo por horas  e horas,
     não   sofrendo  do   cansaço   e  desgaste   físico  como   outros
     personagens.  Ele recebe  +2 em  todos os  testes para  resistir a
@@ -294,7 +295,8 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
            relacionado com a redenção do personagem
 
 #### Técnica de Combate
-- *Façanha de __Lutar__, __Armas Brancas__, __Arqueria__ ou __Arremesso__*
+- *Façanha   de   __Lutar__,   __Armas  Brancas__,   __Arqueria__   ou
+  __Arremesso__*
   - *Permissão:* depende da técnica de combate
   - O personagem  em questão domina  algum tipo de técnica  de combate
     mais poderosa. Cada técnica pode  oferecer algum tipo de benefício
@@ -376,7 +378,7 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
     - Define a  Fé do  personagem e o  quão profunda ela  é. O  quão o
       personagem segue  os preceitos  e *ethos*  de sua  divindade.  É
       usada para  determinar se o personagem  consegue utilizar Magias
-      vindas de suas  divindades, baseando-se nas Esferas  de Poder deToda vida deve ser preservada
+      vindas de suas  divindades, baseando-se nas Esferas  de Poder de
       cada uma.
        - *Criar Vantagens:* O Clérigo  basicamente irá utilizar sua Fé
          para  Criar   Vantagens  relacionadas   ao  *ethos*   de  sua
@@ -549,7 +551,7 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
   ainda não terminou!"*
 - Façanhas de Devoção
   - Biblioteca Gojan
-     - +2  em  todos   os  teste  de  *Criar   Vantagens*  em  *Saber*
+     - +2 em  todos os  teste de  *Criar Vantagens*  em *Conhecimento*
        relacionados a conhecimentos sobre lendas e fatos recentes;
 
 ######  Holleen
