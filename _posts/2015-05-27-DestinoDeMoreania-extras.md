@@ -8,8 +8,8 @@ tags: ["Fate","Fate Core", "Extras", "Moreania", "Reinos de Moreania", "DragonSl
 
 ## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
-- [cenário](/DestinoDeMoreania)
-- [cenário](/DestinoDeMoreania-regras)
+- [Cenário](/DestinoDeMoreania)
+- [Regras](/DestinoDeMoreania-regras)
 
 ### Moreau Herdeiros
 
