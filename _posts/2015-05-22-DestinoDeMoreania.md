@@ -15,7 +15,7 @@ tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonS
 - **Ambientação:** Fantasia Medieval
 - **Escala:** Épico
 
-### Problemas
+### Questões
 
 - O Mito dos Irmãos Selvagens e dos Doze Animais
   - A Dama Altiva
