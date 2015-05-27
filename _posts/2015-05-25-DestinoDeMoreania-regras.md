@@ -8,7 +8,8 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
 
 ## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
-- [cenário](/DestinoDeMoreania)
+- [Cenário](/DestinoDeMoreania)
+- [Extras](/DestinoDeMoreania-extras)
 
 ### Criação de Personagens
 
