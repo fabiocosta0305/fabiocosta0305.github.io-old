@@ -317,7 +317,7 @@ suas Canções outros.  Além disso, seus Conhecimentos sobre  os mitos e
 lendas oferecem aos mesmos uma  capacidade elevada de distinguir mitos
 e verdades nas lendas.
 
-#### *Canções Verdadeiras:*
+#### *Canções Verdadeiras*
 - *Permissão:* Bardo
 - *Custo:* Façanhas - uma por *Canção*
 
@@ -343,7 +343,7 @@ Aspecto como Consequência, como se tivesse sofrido um Ataque Mental.
   - *Insanidade* - induz aqueles que a ouvem à *Loucura*
   - *Paz* - evoca *Tanquilidade* em todos os que a ouvem
 
-#### *Histórias de Inspiração:*
+#### *Histórias de Inspiração*
 - *Permissão:* Bardo
 - *Custo:* Façanha
 
@@ -371,8 +371,8 @@ involuntários oferecem uma invocação gratuita do Aspecto ao Bardo.
   - *Moral*
 
 #### *Conhecimento das Lendas*
-*Permissão:* Bardo
-*Custo:* Façanha
+- *Permissão:* Bardo
+- *Custo:* Façanha
 
 Bardos são repositórios de Conhecimmentos sobre Lendas e Mitos. Quanto
 mais hábil um Bardo for, mais apurado ele será em distinguir a verdade
