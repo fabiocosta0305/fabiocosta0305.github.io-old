@@ -12,6 +12,302 @@ tags: ["Fate","Fate Core", "Extras", "Moreania", "Reinos de Moreania", "DragonSl
 - [Regras](/DestinoDeMoreania-regras)
 
 ### Moreau Herdeiros
+- *Permissão:* Indica qual dos Doze Animais o personagem é Herdeiro no
+  Conceito do mesmo
+- *Custo:* Nenhum
+
+Todo Moreau possui  algum tipo de traço animal do  quel é descendente,
+em menor ou  maior grau. Entretanto, não importa o  quão profundo tais
+traços  sejam,   ainda  assim  eles  são   meramente  cosméticos,  não
+oferecendo nenhuma vantagem específica aos mesmos.
+
+Alguns  Moreau,  porém, possuem  uma  ligação  mais primitiva  com  os
+animais dos qual  descendem. Esses Moreau são capazes  de fazer coisas
+que normalmente os humanos Moreau normal  não fazem, não importa a sua
+descendência.  Chamados   de  *Herdeiros*,  esses  Moreau   são  muito
+respeitados,  pois todos  os Moreau  lembram e  respeitam o  *Mito dos
+Irmãos Selvagens*
+
+Cada um  dos Doze Irmãos possuem  alguma vantagem em relação  a outros
+Moreau. Entretanto, sua  ligação mais primitiva em  relação aos demais
+Moreau também os afeta  ocasionalmente, sua personalidade demonstrando
+mais traços animais que a maioria.
+
+Uma  vez que  se  escolha  a Herança,  é  impossível  mudá-la, pois  o
+personagem  nasceu   com  essa   capacidade  (qualquer   alteração  no
+*Conceito*  deve  continuar  refletindo  a Herança).  Cada  Herança  é
+tratada  como  parte  do  Conceito do  Personagem,  adicionando  novas
+vantagens que o personagem obtem ao  Invocar o Aspecto e problemas que
+o mesmo sofre ao ter o Aspecto Forçado.
+
+#### Herdeiros do Búfalo
+
+Um Herdeiro do  Búfalo tem alta estatura, ombros largos,  pele negra e
+pequenos  chifres vestigiais,  discretamente maiores  nos homens,  mas
+ainda pequenos  demais para  combate efetivo. Mesmo  assim, apresentam
+pescoços  musculosos  e  cabeças  massivas. Muitos  deles  usam  anéis
+metálicos decorativos no nariz.
+
+Herdeiros  do Búfalo  podem parecer  meio lentos  às vezes,  até mesmo
+indolentes,  mas não  temem trabalho  duro.  Não  gostam de  cargos de
+liderança, e  parecem ficar muito mais  confortáveis recebendo ordens.
+Em  geral preferem  evitar  qualquer violência,  mas  gostam muito  de
+demonstrar   sua    grande   força    em   competições    ou   simples
+bravatas. Surpreendentemente  para seu porte musculoso  e modos rudes,
+gostam muito de banhos e costumam ser bons nadadores.
+
+- *Pode ser Invocado para:* melhorar suas chances em feitos envolvendo
+  força física ou bravatas; resistir melhor a esforço físico
+- *Pode ser Forçado para:* indicar falta de comodidade com posições de
+  liderança; demonstrar lentidão nas ações
+
+#### Herdeiros do Coelho
+
+Um Herdeiro  do Coelho  tem pequena estatura,  mas as  grandes orelhas
+eretas fazem  parecer que  são mais  altos. Sua  pele pode  ser clara,
+manchada  ou  negra. Como  também  acontece  com coelhos  verdadeiros,
+albinos sào muito comuns, com pele branca e olhos vermelhos. O nariz é
+pequeno, gracioso e está sempre se movendo.
+
+Apesar da notória timidez dos  Coelhos, estes Herdeiros são curiosos e
+agitados,  ansiosos  por  novidades.  Sào  aqueles  mais  propensos  a
+escarafunchar  masmorras,  resgatar   relíquias  Darash  proibidas,  e
+revelar coisas que a humanidade  não deveria conhecer. Talvez por isso
+sejam mais comuns  em Laughton, onde novas  oportunidades surgem todos
+os dias. No entanto, também há aqueles que voltam sua curiosidade para
+a natureza  e os  deuses, pesquisando, descobrindo  tudo o  que existe
+para saber sobre a vida selvagem.
+
+- *Pode  ser  Invocado  para:*  realizar feitos  de  agilidade;  obter
+  vantagens por iniciativa
+- *Pode ser Forçado para:* demonstrar timidez ocasional; fazer com que
+  a curiosidade o faça ir além da prudência
+
+#### Herdeiros da Coruja
+
+Últimos descendentes de  aves entre os Moreau, os  Herdeiros da Coruja
+são donos de uma beleza elegante, solene. Os grandes olhos, que imitam
+óculos, parecem intensos e curiosos. O cabelo curto, grisalho e colado
+à cabeça  na verdade e  formado por  penas brancas com  pontas pretas,
+produzindo um  desenho curioso. Formações  com o aspecto  de “chifres”
+(como nos mochos) são comuns.
+
+Embora corujas sejam pequenas, a  estatura destes Herdeiros é variada;
+podem ser  muito baixos, altos,  magros ou  obesos, mas é  incomum que
+sejam fortes  ou vigorosos.  Eles têm  certa predileção  por bengalas,
+cajados e bastões de caminhada; pode ser apenas uma excentricidade, ou
+talvez ainda não estejam acostumados a andar, em vez de voar.
+
+- *Pode ser Invocado para:* demonstrar  pompa e circunstância; agir de
+  maneira sábia e prudente
+- *Pode ser  Forçado para:*  demonstrar passividade; mostrar  um certo
+  desengonçar no caminhar
+
+#### Herdeiros do Crocodilo
+
+Estes  Herdeiros  apresentam  pele  esverdeada,  rígida,  com  grandes
+escamas   nos   ombros,   costas,    fronte   e   outras   partes   do
+corpo. Curiosamente, suas escamas são quentes ao toque — elas absorvem
+o calor  ambiente. Por esse  motivo, especialmente em épocas  de clima
+mais frio,  estes Moreau  preferem vestir  trajes que  deixam expostas
+suas partes escamadas. Homens são sempre carecas, enquanto quase todas
+as mulheres apresentam cabelo verde- escuro, liso e quase negro
+
+Herdeiros do Crocodilo são famosos por sua resistência física e também
+por sua paciência; seus ancestrais espreitam durante horas à beira dos
+rios, até que sua presa venha  beber água. Eles preferem resistência à
+ofensa,  não  agem de  forma  precipitada,  sempre aguardam  o  melhor
+momento. Mas, quando finalmente decidem  agir, explodem com toda a sua
+energia contida.
+
+- *Pode  ser Invocado  para:* demonstrar  grande resistência  física e
+  paciência; agir no momento certo
+- *Pode ser  Forçado para:* não  voltar atrás após decidir  como agir;
+  demonstrar certa "ambição" ao ter um objetivo
+
+#### Herdeiros do Gato
+
+Dentes caninos salientes, orelhas pontudas e cauda longa são os traços
+anatômicos  mais  evidentes  nestes  Herdeiros. Os  olhos  são  sempre
+claros,  do  azul-céu  ao  verde, castanho,  dourado  e  outras  cores
+exóticas.  Muitos deles  apresentam  longos bigodes,  sejam homens  ou
+mulheres.  Cabelos listrados também  são comuns. Muitos são orgulhosos
+de sua  bela aparência,  usando trajes  sumários e  sensuais, enquanto
+outros preferem roupas  extravagantes — dizem por aí  que Herdeiros do
+Gato têm uma paixão quase fetichista por botas.
+
+Sua tão famosa  “agilidade felina” não passa de  fraude. Os movimentos
+seguros destes Moreau levam a pensar  que são ágeis, quando na verdade
+são apenas ousados — eles correm sobre telhados, saltam sobre árvores,
+mergulham em penhascos...  enfim, são confiantes e  audaciosos em tudo
+que  fazem. Seu  charme e  magnetismo  animal não  conhecem rivais  em
+Moreania, cxceto  pelos Herdeiros  do Lobo,  que eles  consideram seus
+concorrentes.
+
+- *Pode  ser Invocado  para:* realizar  ações audazes  de maneira  bem
+  sucedida; demonstrar charme e carisma
+- *Pode ser Forçado para:* ser  audaz além da prudência; ser impulsivo
+  desnecessariamente
+
+#### Herdeiros da Hiena
+
+Herdeiros da Hiena apresentam  grandes manchas cinzentas, castanhas ou
+negras pelo corpo, em padrões irregulares que mudam em cada indivíduo.
+No  entanto, quase  todos trazem  uma  “máscara” negra  no rosto,  que
+contrasta com  os dentes  muito brancos e  brilhantes. As  orelhas são
+redondas e geralmente negras. Muitos  se conformam com sua cor natural
+“de  sujeira”   e  vestem  trajes  modestos,   neutros;  outros,  pelo
+contrário, tentam compensar  a própria cor desbotada  com roupas muito
+brancas ou brilhantes.  Sua voz é áspera e desagradável.
+
+Se  existe entre  os Moreau  uma raça  de mercantes  naturais, são  as
+Hienas. Quando acusados de cobiça e ganância, defendem-se alegando que
+a habilidade de cultivar ou fabricar bens materiais define a fronteira
+entre  animais e  humanos, a  verdadeira dádiva  dos deuses.  De fato,
+quando  atuam  como druidas,  Herdeiros  da  Hiena são  eficientes  em
+negociar curas mágicas e encher de tesouros os cofres de seus templos.
+
+- *Pode ser Invocado  para:* demonstrar grande prudência  e talento ao
+  ter sempre o que precisa (e ter muita coisa)
+- *Pode ser  Forçado para:* indicar ganância  desmedida; correr riscos
+  desnecessários para obter algo que deseja
+
+#### Herdeiros do Leão
+
+Olhos  de um  intenso  amarelo-vivo, lábios  negros, pele  alaranjada,
+cabeleira selvagem cor de fogo;  estes traços diferenciam os Herdeiros
+do Leão. Quase todos apresentam  também a cauda característica, com um
+tufo de  pelos na ponta.  Gostam  de andar descalços, exibindo  mãos e
+pés anormalmente  grandes, com unhas  negras.  Os homens (e  boa parte
+das  mulheres...)  cultivam  longas  barbas,  às  vezes  amarradas  em
+tranças.
+
+Os  leões gostam  de pensar  que  são líderes  naturais, regentes  por
+direito  —   mas,  quando   comandam,  quase   sempre  é   pela  força
+bruta.  Orgulhosos  e vaidosos,  perseguem  qualquer  carreira em  que
+possam exercer autoridade, desde prefeitos até guardas de milícia. Têm
+certa  tendência  a  menosprezar  os mais  fracos,  até  mesmo  abusar
+deles.  Mas também  é  verdade que  podem  ser protetores  magnânimos,
+generosos, acolhendo aqueles que pedem ou precisam de ajuda.
+
+- *Pode ser Invocado para:* demonstrar poder, magnâmia e força física
+- *Pode  ser Forçado  para:* ser  orgulhosos além  da conta;  procurar
+  tomar coisas pela força física quando outra opção seria mais sensata
+
+#### Herdeiros do Lobo
+
+Herdeiros  do Lobo  são  identificados por  suas orelhas  pontiagudas,
+olhos azuis  muito claros e  cauda peluda,  sendo muito comum  que não
+apresentem  quase nenhum  outro traço  lupino. Nem  sempre têm  dentes
+caninos  salientes. Os  homens  por vezes  apresentam  barba rala,  ou
+costeletas. Mulheres têm grandes lábios negros.
+
+Ninguém  deseja ser  um “lobo  solitário”. Entre  os Doze  Animais que
+originaram  os  Moreau, os  Lobos  estão  entre  os poucos  que  vivem
+socialmente em bandos, e também  foram os primeiros domesticados pelos
+humanos.  Talvez devido  a esses  fatos, têm  as melhores  habilidades
+sociais entre os Herdeiros.
+
+Os Lobos são muito admirados por  seu espírito de equipe, ao contrário
+de  seus rivais  egoístas e  independentes, os  Herdeiros do  Gato. No
+entanto, como  também acontece na  natureza, Herdeiros do  Lobo tentam
+constantemente conquistar a liderança do grupo ao qual pertencem.
+
+- *Pode ser  Invocado para:*  unir a  força de um  grupo a  seu redor;
+  demonstrar liderança pelo exemplo
+- *Pode ser Forçado para:* tentar tomar a liderança de um grupo quando
+  não é o momento; procurar manter o grupo não importa a que custo
+
+#### Herdeiros do Morcego
+
+Estes  Herdeiros são  facilmente  identificados  pela pele  totalmente
+negra e grandes  orelhas, que em alguns casos tomam  toda a lateral da
+cabeça. Os  olhos sào  negros, brilhantes  e nem  um pouco  “cegos”. O
+nariz tende a ser arrebitado e/ou largo. Os dedos são longos, às vezes
+com membranas vestigiais entre os  dedos. Homens costumam ser carecas,
+enquanto mulheres têm cabelo muito curto.
+
+Embora não possuam nenhuma sensibilidade  especial à luz, Herdeiros do
+Morcego preferem agir durante a noite,  ou na escuridão. São espiões e
+ladinos  naturais, extremamente  silenciosos  e  furtivos, capazes  de
+moverem-se como sombras vivas.  Falam pouco, apenas quando necessário:
+parecem apreciar  o som do  silêncio. Gostam de vestir  trajes longos,
+como mantos, capas ou sobretudos — é quase como se tivessem saudade de
+suas antigas asas de couro.
+
+- *Pode  ser Invocado  para:* serem  esquivos e  silenciosos; alcançar
+  locais protegidos sem muita dificuldade
+- *Pode  ser  Forçado  para:*  ficarem   pouco  à  vontade  em  locais
+  barulhentos ou com muita luz
+
+#### Herdeiros da Raposa
+
+Os traços animais destes Herdeiros  sào poucos, mas marcantes. Grandes
+orelhas encimam a  cabeça, enquanto a cauda enorme e  macia é adornada
+com  uma  mancha  branca  na  extremidade.   Cabelo  e  cauda  vão  do
+laranja-vivo  ao  vermelho-escuro,   rambém  existindo  indivíduos  de
+pelagem  branca. Herdeiros  da Raposa  têm pés  pequenos e  graciosos,
+especialmente as mulheres, sendo bem  raro que decidam escondê-los com
+calçados. Também gostam de chapéus, apesar da dificuldade em mantê-los
+sobre a cabeça por causa das orelhas.
+
+Raposas  são famosas  por  sua astúcia,  sua  espantosa habilidade  de
+resolver problemas  — e, há  quem acredite, essa habilidade  define os
+seres humanos. Não há Moreau mais afastados de seus ancestrais animais
+que os Herdeiros da Raposa, talvez  mais afastados até que os próprios
+Humanos.  Raposas  amam  a  vida  civilizada,  amam  grandes  cidades,
+academias, bibliotecas, escolas  de magia e outros  lugares onde podem
+exercer sua alta inteligência.
+
+- *Pode  ser  Invocado  para:*  serem  astutos  e  espertos;  resolver
+  problemas de maneira quase intuitiva
+- *Pode ser Forçado para:* agir  de maneira individualista em momentos
+  de  união; tentar  desfazer  qualquer tipo  de armadilha  (inclusive
+  aquela que não deveriam)
+
+#### Herdeiros da Serpente
+
+Juntamente  com os  Crocodilos, Herdeiros  da Serpente  são os  únicos
+Moreau que descendem de répteis. Têm  pele de cores brilhantes e muito
+variadas, do  vermelho vivo ao  amarelo, verde  e preto, em  manchas e
+listras  que  formam  padrões  ricos. Os  grandes  olhos  têm  pupilas
+verticais.  Como também acontece com os Crocodilos, apenas as mulheres
+têm  cabelo. Gostam  de  roupas insinuantes,  feitas  sob medida,  que
+exibem os desenhos exóticos em suas peles. Também tem certa predileção
+por jóias.
+
+Para sobreviver na  natureza, serpentes confiam em seu  bote e mordida
+peçonhenta —  traços que apenas  alguns de seus  Herdeiros apresentam.
+Talvez por essa razão tenham desenvolvido um poderoso intelecto, capaz
+de recriar  artificialmente suas habilidades naturais  perdidas; não é
+raro  que devotem-se  à fabricação  de armas,  estudo de  magias e,  é
+claro, alquimia e toxinas.
+
+- *Pode  ser  Invocado  para:*  demonstrar capacidade  de  reflexão  e
+  análise além da média; agir no momento certo
+- *Pode  ser  Forçado  para:*   demonstrar  frieza  quando  empatia  é
+  importante; serem ocasionalmente traiçoeiros
+
+#### Herdeiros do Urso
+
+Corpulentos  e vigorosos,  Herdeiros do  Urso são  também absurdamente
+peludos  — é  muito fácil  confundi-los com  feras bípedes.  Graças ao
+obstáculo  adicional oferecido  por seus  corpos volumosos,  têm certa
+dificuldade em usar roupas, limitando-se  a mantos, ponchos, tangas ou
+saiotes.  Gostam de  usar cinturões  onde carregam  seus pertences,  e
+também todo tipo de adereços  coloridos que contrastam com sua pelagem
+castanha, cinzenta ou negra.
+
+Herdeiros do  Urso demonstram súbitas  e terríveis mudanças  de humor;
+podem estar satisfeitos, gargalhando entre  amigos, e então mudar para
+raiva cega no instante seguinte pelas razões mais estúpidas (mas quase
+sempre envolvendo comida). Uma vez  irados, não medem as conseqüências
+de seus  atos; seu vigor  em geral  assegura que escaparão  ilesos (ou
+pelo menos, vivos) da maioria dos problemas.
+
+- *Pode ser Invocado para:* feitos  de força e resistência física; ser
+  expansivo em momentos certos
+- *Pode ser Forçado para:* demonstrar ira súbita e inconseqüência;
 
 ### Licantropos
 
