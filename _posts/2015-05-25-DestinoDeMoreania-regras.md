@@ -447,14 +447,18 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
      - Mal - lida com a Maldade e o Egoísmo
      - Caos - lida com o Caos e a Entropia
      - Ordem - lida com a Ordem e a Estagnação
-     - Sorte/Trapaça - lida com a Sorte, ou com a Trapaça e coisas afins
-     - Viagem - lida com o ato de viajar e com uma boa fortuna na mesma
+     - Sorte/Trapaça -  lida com a  Sorte, ou  com a Trapaça  e coisas
+       afins
+     - Viagem -  lida com  o ato de  viajar e com  uma boa  fortuna na
+       mesma
      - Força - lida com o Poder e o Desejo de Força
      - Guerra - lida com as Batalhas e Jogos
      - Paz - lida com a Calma e com os momentos de Paz
      - Mistério - lida com segredos, revelando-os ou ocultando-os
-     - Elementos (Especializados) - Lida com os Quatro Elementos, suas forças e fraquezas
-     - Conhecimento - Lida com a Busca do Conhecimento e sua disseminação
+     - Elementos (Especializados) - Lida com os Quatro Elementos, suas
+       forças e fraquezas
+     - Conhecimento  -  Lida  com  a   Busca  do  Conhecimento  e  sua
+       disseminação
      
 ###### A Dama Altiva
 
@@ -511,7 +515,8 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 - *Símbolo de Fé:* Troféu
 - *Arma Espiritual:* Espada Curta
 - *Esferas de Poder:* Força, Sorte, Ordem, Guerra
-- *Ethos:* *"A vitória e a sorte seguem lado a lado, mas o conflito ajuda na evolução."*
+- *Ethos:*  *"O conflito  ajuda  na evolução.  A Sorte  é  o Sinal  da
+  Vitória"*
 - Façanhas de Devoção
   - A Força do Desportista
      - Pode executar uma ação que exija PD sem pagar;
@@ -520,7 +525,8 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 - *Símbolo de Fé:* Bandana Vermelha
 - *Arma Espiritual:* Espada Curta
 - *Esferas de Poder:* Água, Viagem, Mal, Morte
-- *Ethos:* *"Apenas os piratas são dignos do mar, por aceitarem seus riscos!"*
+- *Ethos:* *"Apenas os  piratas são dignos do mar,  por aceitarem seus
+  riscos!"*
 - Façanhas de Devoção
   - A Vida nos Mares
      - +2 em  todos os testes  de *Atletismo*  ao lidar com  cordas ou
@@ -539,7 +545,8 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 - *Símbolo de Fé:* Flauta sobre Pergaminho
 - *Arma Espiritual:* Arco Curto
 - *Esferas de Poder:* Viagem, Sorte, Bem, Conhecimento
-- *Ethos:* *"A viagem nunca termina infrutífera. Se está infrutífera, ainda não terminou!"*
+- *Ethos:* *"A viagem nunca  termina infrutífera. Se está infrutífera,
+  ainda não terminou!"*
 - Façanhas de Devoção
   - Biblioteca Gojan
      - +2  em  todos   os  teste  de  *Criar   Vantagens*  em  *Saber*
@@ -552,9 +559,8 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 - *Ethos:* *"O Segredo Revelado é a porta da morte."*
 - Façanhas de Devoção
   - Ataque Traiçoeiro
-     - O personagem  pode usar *Furtividade*  para Atacar, se  ele não
-       foi  notado. Caso  o mesmo  já possua  uma habilidade  similar,
-       recebe +2 nos testes
+     - Igual descrito *Fate  Sistema Básico*, Página 80.  Caso o mesmo
+       já possua uma habilidade similar, recebe +2 nos testes
 
 ##### Magos
 
