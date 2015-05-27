@@ -407,9 +407,21 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
        Sessão escolher uma diferente.
      - Façanha de Devoção Comum:
         - *Arma Sagrada*
-           - Invoca  uma poderosa  *Arma Mágica*,  que recebe  +2 para
-             atacar criaturas  que vão contra os  desejos da divindade
-             em questão
+           - Invoca  uma poderosa  *Arma  Mágica*, na  forma da  *Arma
+             Espiritual* de  sua divindade.  Essa arma  pode ser usada
+             em combates físicos, oferecendo  +2 nos Conflitos que por
+             algum  motivo  auxiliem  ou  defendam o  *Ethos*  de  sua
+             divindade.   Entretanto o  personagem  recebe  -2 se  por
+             algum motivo ele  ir contra o *Ethos* da  divindade em um
+             conflito.
+              - *Exemplo:* ao invocar sua *Arma Mágica*, um Clérigo da
+              *Dama Altiva* faz surgir uma clava e recebe +2 ao atacar
+              outros visando proteger a vida de criaturas mais fracas.
+              Em  compensação, ele  recebe -2  se estiver  a ponto  de
+              destruir vidas. Por sua  vez, um Clérigo do *Inominável*
+              faz surgir  uma maça  e recebe  +2 para  destruir vidas,
+              enquanto recebe -2 se não  visar destruir o inimigo mais
+              fraco sempre primeiro.
   - Deixando a Fé e Penitência
      - Tentar  usar a  Fé para  algo que  normalmente a  Divindade não
        permitiria
