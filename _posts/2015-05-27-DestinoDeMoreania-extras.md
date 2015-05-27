@@ -254,12 +254,26 @@ natureza e convocarem seus poderes.
      - *Defesa:* Do mesmo  modo, Magos podem recorrer  a quaisquer dos
        Elementos  para  Defesa.   Os melhores  elementos  para  Defesa
        costumam ser *Terra*, *Ar* e *Trevas*
-  - *Terra:*
-  - *Fogo:*
-  - *Água:*
-  - *Ar:*
-  - *Luz:*
-  - *Trevas:*
+  - *Terra:* Força Bruta, Terremotos, Montanhas... Essas são as fontes
+    da  Magia  da   Terra.  Ela  também  pode  ser   usada  em  coisas
+    relacionadas à Vontade e Determinação, assim como ao Tempo
+  - *Fogo:* Destruição  pelo calor, chamas,  lava. Esse é o  Fogo, que
+    lida com a Destruição de tudo. Entretanto, mesmo o Fogo pode gerar
+    vida. Como se  diz em um idioma arcaico,  *Ignis Natura Renovatur*
+    (*É pelo Fogo que a Natureza se renova*)
+  - *Água:* Além do  controle da água, esse Elemento também  tem a ver
+    com a cura (já que muitos corpos possuem grande quantidade de água
+    ou vieram da água)  e na transmutação, já que a  água é maleável a
+    ponto de moldar-se a todo tipo de recipiente.
+  - *Ar:* Embora seja muito destrutivo,  com furacões e tornados, o Ar
+    também  lida  com questões  relacionadas  ao  Deslocamento, Som  e
+    Odores
+  - *Luz:* A Luz é capaz de nos enganar, por meio de Ilusões, e também
+    de nos cegar pelos clarões e ferir com Raios Luminosos, mas a Luz
+    é sinal de purificação, bondade e revelação.
+  - *Trevas:*  Elemento  relacionado  à   Ocultação,  Morte,  Peste  e
+    Destruição, normalmente só  é procurado por aqueles  que desejam o
+    Mal aos demais.
   - Magias  mais  complexas  podem   ser  feitas  pela  combinação  de
     Elementos.
      - Rolamentos serão feitos pelo nível do *pior elemento*
