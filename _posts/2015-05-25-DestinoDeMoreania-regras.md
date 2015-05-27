@@ -566,6 +566,65 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 
 ##### Magos
 
+*Permissão:* Aspecto que indica o uso de magia
+
+Alguns temem a  Magia Arcana como antinatural (em  especial os Druidas
+de  Lancaster),  mas  muitos  estudiosos,  em  especial  em  Brando  e
+Laughton, utilizam a Magia Arcana como  uma forma de entender melhor a
+natureza e convocarem seus poderes. 
+
+- *Elementos de Poder*
+  - Tratados como Perícias
+     - *Criar Vantagens:*  Magias podem ser  usadas para todo  tipo de
+       Criação de  vantagens, desde a tradicional  *Ilusão* até coisas
+       como *Teleporte* para trazer um objeto para o mago. Os melhores
+       elementos para  Criar Vantagens costumam ser  *Terra*, *Fogo* e
+       *Trevas*
+     - *Superar Obstáculos:*  Magias obviamente podem ser  usadas para
+       remover-se  obstáculos,  como  uma   magia  de  *Explosão*  que
+       dinamite um muro,  ou uma magia de *Encantar*  que convença uma
+       pessoa de que o personagem é alguém que ele não é.  Os melhores
+       elementos para  Superar Vantagens  costumam ser *Água*,  *Ar* e
+       *Luz*
+     - *Ataque:* Várias  Mágicas Arcanas podem ser  usadas em combate,
+       como  *Ataque  Mágico*  ou   *Toque  da  Morte*.   Os  melhores
+       elementos para Atacar costumam ser *Água*, *Fogo* e *Luz*
+     - *Defesa:* Do mesmo  modo, Magos podem recorrer  a quaisquer dos
+       Elementos  para  Defesa.   Os melhores  elementos  para  Defesa
+       costumam ser *Terra*, *Ar* e *Trevas*
+  - *Terra:*
+  - *Fogo:*
+  - *Água:*
+  - *Ar:*
+  - *Luz:*
+  - *Trevas:*
+  - Magias  mais  complexas  podem   ser  feitas  pela  combinação  de
+    Elementos.
+     - Rolamentos serão feitos pelo nível do *pior elemento*
+  - Um  mago  começa com  todos  os  seus  Elementos em  *Ruim  (-1)*,
+    portanto qualquer Elemento que não esteja em sua pirâmide de poder
+    é considerado automaticamente *Ruim*.
+  - Toda  magia, para  ser  usada,  exige que  o  personagem tenha  os
+    Elementos de Poder em determinados níveis.
+     - *Exemplo:* *Cura  Mágica* exige  *Luz Medíocre  (+0)*, enquanto
+     *Ataque  Mágico*  exige  *Qualquer  Elemento  Medíocre  (+0)*,  e
+     *Barreira  da Escuridão*  exige  *Terra Regular  (+1)* e  *Trevas
+     Razoável (+2)*
+  - A dificuldade para a execução  da Magia, exceto dito em contrário,
+    é determinada pelo maior nível de Elemento exigido:
+     - *Exemplo:*  *Barreira de  Escuridão* tem  dificuldade *Razoável
+       (+2)* para ser executada
+  - Contramágicas  são  ações  de  *Superar  Obstáculo*,  baseadas  em
+    elementos opostos ao da Mágica:
+     - *Terra* opõe-se a *Ar*
+     - *Fogo* opõe-se a *Água*
+     - *Luz* opõe-se a *Trevas*
+  - Magos podem *Forçar a Barra*:  quando Falham na execução da Magia,
+    podem sofrer  Estresse Físico *ou*  Mental (um ponto por  nível de
+    Tensão na  Falha), ou podem  optar (no  caso de *Sucesso  a Grande
+    Custo*)  por  fazer a  Magia  tornar-se  Selvagem (a  critério  do
+    Narrador o que acontece)
+  
 #### Monges
 
 #### Bardos
