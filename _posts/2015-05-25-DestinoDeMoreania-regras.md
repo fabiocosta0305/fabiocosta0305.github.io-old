@@ -505,7 +505,7 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 - Façanhas de Devoção
   - Ciclo da Vida
      - O Mesmo que *Proteção Mágica* (Dama Altiva) ou *Toque da Morte*
-       (Proteção)
+       (Indomável)
 
 ###### Champarr
 - *Símbolo de Fé:* Troféu
