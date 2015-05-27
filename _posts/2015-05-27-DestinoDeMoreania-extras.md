@@ -12,8 +12,8 @@ tags: ["Fate","Fate Core", "Extras", "Moreania", "Reinos de Moreania", "DragonSl
 - [Regras](/DestinoDeMoreania-regras)
 
 ### Moreau Herdeiros
-- *Permissão:* Indica qual dos Doze Animais o personagem é Herdeiro no
-  Conceito do mesmo
+- *Permissão:* Indicar qual  dos Doze Animais o  personagem é Herdeiro
+  no Conceito do mesmo
 - *Custo:* Nenhum
 
 Todo Moreau possui  algum tipo de traço animal do  quel é descendente,
