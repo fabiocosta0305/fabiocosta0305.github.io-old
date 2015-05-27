@@ -601,7 +601,7 @@ natureza e convocarem seus poderes.
   - Magias  mais  complexas  podem   ser  feitas  pela  combinação  de
     Elementos.
      - Rolamentos serão feitos pelo nível do *pior elemento*
-  - Um  mago  começa com  todos  os  seus  Elementos em  *Ruim  (-1)*,
+  - Um mago  começa com  todos os seus  Elementos em  *Medíocre (+0)*,
     portanto qualquer Elemento que não esteja em sua pirâmide de poder
     é considerado automaticamente *Ruim*.
   - Toda  magia, para  ser  usada,  exige que  o  personagem tenha  os
