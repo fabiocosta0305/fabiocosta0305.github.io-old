@@ -305,4 +305,83 @@ natureza e convocarem seus poderes.
 
 ### Bardos
 
+*Permissão:* Aspecto que indica o fato de ser Bardo
+
+Bardos são conhecidos  por suas habilidades relacionadas  às Canções e
+Histórias. Em Moreania, onde existem  poucas formas de Correio e troca
+de  informações, Bardos  possuem  a  função extra  de  serem, além  de
+Contadores  de Histórias,  divulgadores  de  Notícias. Os  verdadeiros
+Bardos, porém,  são ainda  mais importantes:  embora muitos  deles não
+sejam heróis  por si próprios, são  capazes de Inspirarem por  meio de
+suas Canções outros.  Além disso, seus Conhecimentos sobre  os mitos e
+lendas oferecem aos mesmos uma  capacidade elevada de distinguir mitos
+e verdades nas lendas.
+
+#### *Canções Verdadeiras:*
+- *Permissão:* Bardo
+- *Custo:* Façanhas - uma por *Canção*
+
+Cada Canção  Verdadeira lida  com algum  tipo de  Emoção.  Em  comum a
+todas existe  o fato  de que  o Bardo deve  aprendê-la ou  "criá-la" a
+partir das suas  experiências.  Em termos de regras,  todas as Canções
+Verdadeiras geram algum tipo de Emoção que funciona como um Aspecto de
+Cenário em  um número de Zonas  igual ao bônus de  *Ofício* do Bardo+1
+(mínimo  1), com  o Bardo  como Centro  (no caso  de um  número ímpar,
+considere que a  Zona que passa é para frente).   Todos os que puderem
+ouvir o Bardo (ou  seja, estão no raio de alcance  do mesmo) ficam sob
+efeito  desse Aspecto  de Cenário,  podendo  ter o  mesmo invocado  ou
+forçado.  Os personagens possuem uma chance de Defender-se dos efeitos
+da mesma.   Em casos de  Falha na Defesa,  o personagem pode  sofrer o
+Aspecto como Consequência, como se tivesse sofrido um Ataque Mental.
+
+- Algumas Canções Verdadeiras:
+  - *Medo* - provoca *Pânico* em todos os que a ouvem
+  - *Coragem* - oferece *Coragem* em todos os que a ouvem
+  - *Descanso* - oferece *Calma e Ralaxamento* a todos os que a ouvem
+  - *Melancolia* - provoca *Boas Lembranças* em todos os que a ouvem
+  - *Desespero* - evoca *As Piores Memórias* em todos os que a ouvem
+  - *Insanidade* - induz aqueles que a ouvem à *Loucura*
+  - *Paz* - evoca *Tanquilidade* em todos os que a ouvem
+
+#### *Histórias de Inspiração:*
+- *Permissão:* Bardo
+- *Custo:* Façanha
+
+Bardos são capazes de, utilizando  as História que contam, verdadeiras
+ou não, inspirar pessoas a ter diversos sentimentos.  Funciona como as
+*Canções Verdadeiras*, mas limitado a um número de alvo equivalente ao
+bônus de *Ofícios* do Bardo + 1  (mínimo 1). Além disso, se o alvo não
+for voluntário,  ele pode  Defender-se por  Vontade como  se estivesse
+sofrendo um Ataque Mental. Entretanto, a grande vantagem é que o Bardo
+pode escolher *no momento em que recorrer a essa habilidade* qual será
+o sentimento  a ser evocado. As  pessoas a serem afetadas  devem estar
+dentro da mesma Zona  do Bardo, e o Bardo deve ser  capaz de passar um
+certo tempo  (o tempo para  contar a  história) com essas  pessoas sem
+fazer mais nada.  Caso seja bem sucedido, os  alvos receberão Aspectos
+relacionados  à  História  contada   pelo  Bardo.   Alvos  voluntários
+receberão   uma  invocação   gratuita  do   Aspecto,  enquanto   alvos
+involuntários oferecem uma invocação gratuita do Aspecto ao Bardo.
+
+- Algumas Histórias de Inspiração:
+  - *Amor*
+  - *Encanto e Desejo*
+  - *Esperança*
+  - *Virtude*
+  - *Luxúria*
+  - *Moral*
+
+#### *Conhecimento das Lendas*
+*Permissão:* Bardo
+*Custo:* Façanha
+
+Bardos são repositórios de Conhecimmentos sobre Lendas e Mitos. Quanto
+mais hábil um Bardo for, mais apurado ele será em distinguir a verdade
+e a  mentira dentro dos mitos  e lendas.  Sempre que  o Bardo precisar
+verificar algo  relativo aos  mitos e lendas,  ele poderá  executar um
+teste de *Conhecimento*.  Essa é considerada uma ação  tanto de *Criar
+Vantagens* quanto  de *Superar*,  conforme a  necessidade. No  caso de
+locais e  afins, o Mestre  deve determinar uma dificuldade  conforme a
+antiguidade do mito  ou a sua obscuridade. Se for  relativo a pessoas,
+deuses e outras criaturas, o Mestre pode optar por uma Defesa Ativa.
+
 ### Artefatos Darash
