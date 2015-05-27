@@ -61,9 +61,10 @@ tags: ["Fate","Fate Core", "Extras", "Moreania", "Reinos de Moreania", "DragonSl
        - *Defender:* Quase todos os Clérigos são capazes de, de alguma
          forma, utilizar sua Fé para Defender-se e a outros. Até mesmo
          os  Clérigos do  *Barão  Samoeida* procuram  se Defender  (ao
-         menos  até  que  o  momento   do  mesmo  tenha  chegado).  Em
+         menos  até  que  o  momento  do  mesmo  tenha  chegado).   Em
          compensação,  as divindades  mais selvagens,  como o  próprio
-         *Indomável* e *Lamashtu* não permitem que seus Clérigos 
+         *Indomável* e  *Lamashtu* não  permitem que seus  Clérigos se
+         Defendam
   - Façanhas de Devoção
      - Todo Clérigo tem acesso a uma série de Façanhas de Devoção
      - Pode  utilizar apenas  uma delas  por Sessão,  mas pode  a cada
