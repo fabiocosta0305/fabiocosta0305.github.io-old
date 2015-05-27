@@ -425,13 +425,19 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
   - Deixando a Fé e Penitência
      - Tentar  usar a  Fé para  algo que  normalmente a  Divindade não
        permitiria
-        - Em  caso  de sucesso,  faz  o  que  deseja, mas  recebe  uma
-          Consequencia *Apostata*
+        - Em caso de sucesso ao fazer algo que a Divindade normalmente
+          não permitiria  por meio da  Fé, ele  faz o que  deseja, mas
+          recebe uma Consequencia *Apostata*;
         - Deve cumprir  algum tipo  de missão  ou rito  de purificação
-          antes de poder remover essa Consequencia
+          antes de poder remover essa Consequencia;
         - A Remoção do Aspecto de  Devoção elimina a Consequencia, mas
           não a  Perícia de *Fé*, que  deve ser removida em  um *Marco
           Menor*.
+        - Um personagem pode  se Afastar da Fé se trocar  o Aspecto de
+          Devoção, perdendo as  vantagens de ser um  clérigo. Do mesmo
+          modo, ele pode trocar o Aspecto de Devoção para refletir uma
+          mudança  na   sua  Fé  (Por   exemplo:  *A  Dama   Altiva  é
+          Fraca. Apenas o Indomável merece devoção*)
   - Esferas de Poder
      - Vida - lida com Criar e Restaurar a Vida
      - Morte - lida com o Pós-Vida e o que é relacionado à Morte
