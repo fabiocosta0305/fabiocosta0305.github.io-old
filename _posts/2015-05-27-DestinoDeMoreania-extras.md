@@ -550,17 +550,40 @@ remove automaticamente sua pior Consequencia.
 
 #### Clérigos
 - *Permissão:* Aspecto da Devoção
-  - Divindades
-    - Cada divindade  segue determinadas  Esferas de Poder,  onde cada
-      uma irá atuar.
-    - Cada  uma demanda  um  *Símbolo  de Fé*,  que  deve ser  portado
-      visivelmente (normalmente). Estar sem o  mesmo não permite o uso
-      de  *Fé* e  nem  das  *Façanhas de  Devoção*  (entenda como  uma
-      *Consequência*). Ele é apenas um Foco, não possuindo poder algum
-    - O *ethos*  da Divindade  atua como um  Aspecto que  determina as
-      ações  do  Clérigo.   É  tratada  como  parte  dos  Aspectos  do
-      personagem  e,   desse  modo,  pode  ser   Invocado  ou  Forçado
-      naturalmente
+
+Os habitantes da llha Nobre veneram duas divindades principais. A Dama
+Altiva, Deusa da Natureza; e o Indomável, Deus dos Monstros. Os Irmãos
+Selvagens são os  deuses maiores conhecidos em Moreania.  Mas não são,
+em hipótese alguma, os únicos deuses.
+
+Uma profusão de  divindades menores - também  conhecidas como “grandes
+espíritos”  -  têm seu  lugar  no  coração  do povo  Moreau,  formando
+pequenos cultos em  milhares de lugares. Muitos  são conhecidos apenas
+em certas regiões  ou dentro de certos círculos. Outros  nem mesmo são
+deuses  verdadeiros,e  sem  entidades  poderosas,  épicas,  mas  ainda
+mortais. Outros  ainda são aspectos menores  de deidades estrangeiras,
+uma pálida sombra de seu verdadeiro poder.
+
+Os deuses  apresentados aqui  não são os  únicos grandes  espíritos em
+Moreania,  existem literalmente  centenas desde  arquimagos e  dragões
+venerados em reinos inteiros até  pequenas fadas que protegem estradas
+ou bosques.  Embora estejam ligados  aos Reinos de Moreania  podem ser
+usados livremente em qualquer outro cenário.
+
+A Dama  Altiva e o  Indomável são  representados a seguir  com algumas
+regras adicionais - eles oferecem maioor número de Poderes Concedidos,
+para representar sua superioridade sobre os demais deuses.
+
+- Divindades
+  - Cada divindade segue determinadas Esferas  de Poder, onde cada uma
+    irá atuar.
+  - Cada  uma  demanda  um  *Símbolo  de Fé*,  que  deve  ser  portado
+    visivelmente (normalmente). Estar sem o mesmo não permite o uso de
+    *Fé*  e   nem  das  *Façanhas   de  Devoção*  (entenda   como  uma
+    *Consequência*). Ele é apenas um Foco, não possuindo poder algum
+  - O *ethos* da Divindade atua como um Aspecto que determina as ações
+    do Clérigo.   É tratada como  parte dos Aspectos do  personagem e,
+    desse modo, pode ser Invocado ou Forçado naturalmente
 - "Perícia" *Fé*
     - Define a  Fé do  personagem e o  quão profunda ela  é. O  quão o
       personagem segue  os preceitos  e *ethos*  de sua  divindade.  É
@@ -578,7 +601,7 @@ remove automaticamente sua pior Consequencia.
          situações    que    vão    contra   o    *ethos*    de    sua
          divindade).   Clérigos  da   *Dama   Altiva*,  por   exemplo,
          procurarão   remover   dificuldades    na   proliferação   da
-         vida. Clérigos do  *Barão Samoeida*, por sua  vez, tenderão a
+         vida. Clérigos do  *Barão Samoieda*, por sua  vez, tenderão a
          remover a ordem de alguma forma
        - *Atacar:*  Normalmente, apenas  Clérigos  de divindades  mais
          belicosas, como *O Indomável*  ou *Sorinda* tendem a utilizar
@@ -586,7 +609,7 @@ remove automaticamente sua pior Consequencia.
          utilizam suas magias para combate, ao menos não normalmente
        - *Defender:* Quase todos os Clérigos são capazes de, de alguma
          forma, utilizar sua Fé para Defender-se e a outros. Até mesmo
-         os  Clérigos do  *Barão  Samoeida* procuram  se Defender  (ao
+         os  Clérigos do  *Barão  Samoieda* procuram  se Defender  (ao
          menos  até  que  o  momento  do  mesmo  tenha  chegado).   Em
          compensação,  as divindades  mais selvagens,  como o  próprio
          *Indomável* e  *Lamashtu* não  permitem que seus  Clérigos se
@@ -651,6 +674,23 @@ remove automaticamente sua pior Consequencia.
        disseminação
      
 ##### A Dama Altiva
+
+Também reconhecida por nomes como Mãe Natureza, Dama Vaidosa, Dama das
+Flores,  entre  outros  tantos  Nomes.  Ela é  a  Deusa  da  Natureza,
+protetora dos animais e povos selvagens. Sua mão moldou o coelho manso
+e o leão feroz, mas sua índole  é bondosa - suas crianças não ferem ou
+matam, exceto para sobreviver.
+
+Quando visita  o mundo dos  mortais, a Dama  adota a aparência  de uma
+bela dríade usando  um vestido florido. Ela sempre  carrega uma cesta,
+cujo  conteúdo  pode  variar:  frores,  frutas  frescas,  filhotes  de
+animais...
+
+Druidas e  xamãs estrangeiros muitas  vezes entram em conflito  com os
+devotos Moreau, pois eles claramente têm uma visão “distorcida” da Mãe
+Natureza. Essa discordância em geral  fica restrita a simples debates,
+mas em alguns casos pode resultar em violência.
+
 - *Símbolo de Fé:* Cesta de Flores
 - *Arma Espiritual:* Clava
 - *Esferas de Poder:* Bem, Vida, Paz, Mistério, Proteção
@@ -664,6 +704,25 @@ remove automaticamente sua pior Consequencia.
      - +2 em *Defesas* para uma pessoa durante um conflito;
 
 ##### O Indomável
+
+Mais poderoso e cruel que a  Dama, o Indomável (também reconhecido por
+Rei   Monstro,  Destruidor   e   outros  nomes)   é  sua   contraparte
+maligna. Enquanto os seres da Natureza vivem em equilíbrio, obedecendo
+ao  ciclo  da  vida,  os  monstros existem  apenas  para  romper  esse
+ciclo. Monstros matam  e destroem sem necessidade,  sem discrição, sem
+motivo. Eles apenas matam, matam e seguem matando.
+
+O Indomável poderia infestar Moreania  com dragões, quimeras, hidras e
+outras feras  invencíveis, como  já fez  em eras  ancestrais. Naqueles
+tempos,  as crias  da Dama  eram  pequenas como  ratos, viviam  sempre
+escondidas em tocas, sempre com medo. Então um dia, seu irmão recolheu
+os  monstros  aos  limites  das Montanha  de  Marfim,  permitindo  aos
+“fracos” animais comuns prosperarem.
+
+O Indomável visita  o mundo dos mortais como um  monstro lendário, que
+pode ser diferente em cada ocasião. O dragão Morte Branca é apenas uma
+de suas formas.
+
 - *Símbolo de Fé:* Crânio de um Dragão
 - *Arma Espiritual:* Maça
 - *Esferas de Poder:* Morte, Mal, Guerra, Força, Destruição
@@ -678,7 +737,32 @@ remove automaticamente sua pior Consequencia.
        automaticamente *Retirado  de Jogo*  (normalmente morto,  mas a
        critério do Mestre). Apenas uma vez por Sessão;
 
-##### Barão Samoeida
+##### Barão Samoieda
+
+Bem  diferente do  clássico  Ceifador de  foice  com rosto  cadavérico
+conhecido  em  outros  mundos,  o   Barão  Samoieda  é  uma  divindade
+brincalhona e  alegre. Em vez de  comandar legiões de mortos  vivos ou
+morar  em sinistros  castelos assombrados,  ele prefere  participar de
+grandes festas, beber, dançar e namorar!
+
+Samoieda  tem a  aparência  de um  homem negro,  careca,  de óculos  e
+cartola. Ele  normalmente usa um paletó  aberto que exibe o  peito nu,
+uma grande saia de palha e pés descalços. É comum que traga no rosto a
+pintura de um crânio e ossos pelo corpo.
+
+Ao contrário  de outros deuses da  morte, Samoieda não é  temido pelos
+habitantes de Moreania - muito pelo contrário.  Este deus alerta que a
+morte vem para todos, portanto  aproveite bem sua vida enquanto puder!
+É  costume,  em Moreania,  antes  de  qualquer festividade  deixar  um
+convite para o Barão no cemitério mais próximo.
+
+O  Barão  gosta muito  de  crianças,  porque  são jovens  demais  para
+morrer. É comum entre as crianças  Moreau dormir com um boneco de pano
+que representa  o Barão, para pedir  sua por sua proteção.  Os adultos
+gostam de disfarçar- se como barão  para alegrar as crianças em festas
+(apesar de  que em alguns casos  o disfarçado seja o  próprio Samoieda
+...)
+
 - *Símbolo de Fé:* Boneco de Pano com Cartola
 - *Arma Espiritual:* Clava
 - *Esferas de Poder:* Sorte, Caos, Morte
@@ -689,16 +773,68 @@ remove automaticamente sua pior Consequencia.
      - Pode pedir um novo rolamento de dados, sem pagar PD por isso;
 
 ##### Tamagrah
+
+Em Moreania há criaturas poderosas e enormes, mas poucas e comparam em
+tamanho  a Tamagrah.  O monstro  se assemelha  a um  peixe achatado  e
+escamoso com boca de bagre, olhos redondos e esbugalhados. Possui seis
+nadadeiras  laterais e  uma cauda  curta e  vigorosa. Suas  costas são
+protegidas  uma grossa  carapaça de  tartaruga, guarnecida  por longos
+espinhos.
+
+Apesar da  aparência demoníaca,  Tamagrah é  mais assustadora  por seu
+tamanho:  seu casco  atinge 12km  de  diâmetro, sendo  que a  criatura
+navega pelos mares mantendo uma superfície  de 8km emersa. Uma vez que
+a criatura apenas flutua lentamente pelos mares, sem jamais submergir,
+vegetação floresceu  em sua  carapaça e vida  animal passou  a habitar
+Tamagrah como se fosse uma ilha.
+
+Nem todos  conhecem a verdadeira  natureza de Tamagrah, a  maioria das
+pessoas acredita ser apenas uma ilhota peculiar, que navega lentamente
+pelo oceâno.  Mas aqueles que  conhecem seu segredo cultuam  o monstro
+como um deus ... e por sua vez, são correspondidos.
+
+Tamagrah realmente  concede poderes  a seus devotos  - mas  exceto por
+esse fato  pouco interfere  no assunto dos  humanos. Sua  existência é
+milenar, suas preocupações são mistérios  profundos como os mares. Sua
+posição neutra  é indiscutível:  o monstro tanto  ajuda aos  que pedem
+auxílio  em  orações, quanto  causa  maremotos  e catástrofes  com  um
+simples movimento de nadadeira.
+
 - *Símbolo de Fé:* Casco de Tartaruga
 - *Arma Espiritual:* Alabarda
 - *Esferas de Poder:* Elementos (Água), Mistérios, Proteção, Destruição
 - *Ethos:* *"A vida tem seu próprio ritmo. Siga-o."*
 - Façanhas de Devoção
   - Ciclo da Vida
-     - O Mesmo que *Proteção Mágica* (Dama Altiva) ou *Toque da Morte*
-       (Indomável)
+     - Pode  utilizar *Proteção  Mágica*  (Dama Altiva)  ou *Toque  da
+       Morte* (Indomável), à sua Escolha
 
 ##### Champarr
+
+Patrono  dos  torneios, conflitos  e  jogos,  Champarr é  a  divindade
+favorita dos  atletas, duelistas, jogadores  e guerreiros Moreau.  É o
+juiz  de todas  as  disputas, de  duelos de  espadas  a guerras  entre
+reinos,  de jogos  de  cartas a  corrida de  cavalos.  Ele abençoa  os
+vencedores e  perdoa (ou amaldiçoa)  os perdedores.  Os  adoradores de
+Champarr conseguem  traçar sua origem  até os mais  distantes domínios
+extraplanares.
+
+Há  milhares de  anos, ele  teria  participado de  um torneio  cósmico
+promovido por  um poderoso Deus  da Guerra. Vitória após  vitória, ele
+chegou a grande final e duelou  contra o deus guerreiro em pessoa, mas
+foi  derrotado.  No entanto,  por  sua  tenacidade, teria  recebido  a
+imortalidade e o título de Deus dos Jogos.
+
+Champarr  tem  aparência de  um  poderoso  gladiador, usando  um  elmo
+fechado que mantém suas emoções  indecifráveis. Está sempre armado com
+duas espadas curtas idênticas: uma delsas concede a benção da vitória,
+e a outra, a maldição da derrota.
+
+Champarr é especialmente querido no  reino de Brando, onde flâmulas em
+sua  homenagem são  hasteadas antes  de  cada grande  torneio, e  seus
+clérigos atuam como juízes. Pessoas  diantes de provações muitas vezes
+rogam seu nome para assegurar a vitória.
+
 - *Símbolo de Fé:* Troféu
 - *Arma Espiritual:* Espada Curta
 - *Esferas de Poder:* Força, Sorte, Ordem, Guerra
@@ -709,6 +845,35 @@ remove automaticamente sua pior Consequencia.
      - Pode executar uma ação que exija PD sem pagar;
     
 ##### Sorinda
+
+O mar cercando  as ilhas que compõem os Reinos  de Moreania sempre foi
+lar de piratas gananciosos, em  busca das riquezas transportadas pelos
+comerciantes. Sorinda foi a maior destes piratas.
+
+Com seus navios Destemido, Audaz e Invencível, a bela pirata de longos
+cabelos ruivos  cacheados e curvas  sinuosas trouxe terror e  morte às
+ilhas, saqueando vilarejos e atacando  embarcações.  Durante 30 anos a
+temível capitã carregou sozinha o título de “Rainha dos Mares”.
+
+Mas todo reinado um dia encontra seu fim.
+
+Graças a  um cerco realizado  por várias armadas de  diferentes ilhas,
+Sorinda  foi  derrotada  e  morta.   Seus  barcos  foram  queimados  e
+afundados, a tripulação  foi enforcada em praça pública  — mas Sorinda
+se tornou uma mártir, uma lenda  entre os piratas. Sua imagem passou a
+ser cultuada.  Enfim, o amor  e saudade de seus  companheiros terminou
+por trazê-la de volta, como uma divindade.
+
+Sorinda  e seus  navios voltaram  a navegar  pelos mares  de Moreania,
+agora em  formas etéreas, fantasmagóricas —  protegendo navios piratas
+em apuros  e atacando as guardas  navais das ilhas. Para  garantir sua
+proteção, os capitães  costumam amarrar junto à bandeira  do navio uma
+bandana vermelha, o símbolo de Sorinda quando viva.
+
+Até   hoje,  o   covil   e   o  tesouro   de   Sorinda  jamais   foram
+encontrados.  Talvez seja  pela simples  dificuldade de  localizar seu
+esconderijo... mas também existe a questão de desagradar à deusa.
+
 - *Símbolo de Fé:* Bandana Vermelha
 - *Arma Espiritual:* Espada Curta
 - *Esferas de Poder:* Água, Viagem, Mal, Morte
@@ -720,6 +885,30 @@ remove automaticamente sua pior Consequencia.
        equilíbrio;
 
 #####  Lamashtu
+
+Uma das divindades malignas mais temidas nos Reinos, Lamashtu é também
+conhecida  como  a  Rainha  Tanar’ri, Deusa  da  Matança,  Senhora  do
+Genocídio  e  outros títulos.  Venerada  por  cultos secretos,  ela  é
+descrita por  seus adoradores  como uma belíssima  mulher-serpente com
+seis braços, cada um empunhando uma arma mortífera.
+
+Lamashtu é uma divindade de morte, mal  e destruição, a mãe e líder de
+todos  os  demônios  do  Inferno. Criaturas  de  coração  negro  fazem
+cerimônias e oferendas profanas à deusa-serpente, buscando atrair suas
+graças a  qualquer preço  — os  cultistas de  Lamashtu estão  entre os
+vilões mais odiados em Moreania.
+
+A Rainha Tanar’ri se deleita  com sacrifícios humanos, mas também pode
+ser  seduzida por  belas jóias,  sua única  fraqueza conhecida.  Entre
+aventureiros,  como forma  de  bravata exagerada,  é  comum dizer  que
+“posso até mesmo roubar o tesouro de Lamashtu”.
+
+Viajantes planares experientes afirmam que Lamashtu é uma marilith, um
+tipo  poderoso de  demônio. Ela  comanda legiões  demoníacas nos  seus
+domínios infernais, de guerra e  matança. Avançando diante das tropas,
+sua  fúria em  batalha  não  pode ser  igualada,  exceto pelo  próprio
+Indomável.
+
 - *Símbolo de Fé:* Jóias de Cor de Sangue (Rubis, por exemplo)
 - *Arma Espiritual:* Machado de Batalha
 - *Esferas de Poder:* Destruição, Guerra, Mal, Morte
@@ -729,6 +918,24 @@ remove automaticamente sua pior Consequencia.
      - +2 em todos os Ataques com *Armas Brancas* ao usar machados;
 
 #####  Gojan
+
+Aventureiros dificilmente  conseguem se manter no  mesmo lugar. Viajar
+faz parte da busca por emoções,  tesouros e aventuras. Por outro lado,
+nada disso vale  a pena se tais feitos não  são contados e registrados
+na história  de Moreania.  Patrono  de viajantes  e bardos, Gojan  é o
+deus que personifica estes princípios.
+
+Baixinho, gordo  e bonachão,  Gojan vaga incessantemente  pelas ilhas,
+explorando novos  lugares e auxiliando grupos  de aventureiros. Diz-se
+que ele  é capaz de  tocar todos  os tipos de  instrumentos musicais;,
+além de carregar  dezenas de mapas de todas  as localidades conhecidas
+nos Reinos e além.
+
+De acordo com uma antiga lenda, um feito heróico presenciado por Gojan
+jamais é  esquecido pelo  povo de Moreania.  Justamente por  isso, sua
+presença em um  grupo de heróis é tida como  sinal de vitória iminente
+(embora nem sempre isso seja verdade).
+
 - *Símbolo de Fé:* Flauta sobre Pergaminho
 - *Arma Espiritual:* Arco Curto
 - *Esferas de Poder:* Viagem, Sorte, Bem, Conhecimento
@@ -740,6 +947,36 @@ remove automaticamente sua pior Consequencia.
        relacionados a conhecimentos sobre lendas e fatos recentes;
 
 #####  Holleen
+
+Contam as lendas que Holleen vagou por Moreania há muitas eras. Também
+conhecido como  o Deus  dos Assassinatos, era  cultuado principalmente
+por ladrões, trapaceiros, mercenários, assaltantes e assassinos.
+
+Esguio e alto, de cabelos curtos,  espetados e cortados rente ao couro
+cabeludo; vestindo peças justas e  intrincadas de couro negro, Holleen
+circulava pelas  ilhas corrompendo  aventureiros de valor  e treinando
+discípulos. Seus olhos eram díspares, de cores diferentes (um púrpura,
+outro dourado), e dotados de poderes mágicos.
+
+De acordo com  as canções dos bardos, a dominação  de Holleen terminou
+graças às ações do bárbaro aventureiro Colliasheenn. O herói enfrentou
+o  deus  e,  após  uma  longa  e  árdua  batalha  sob  uma  tempestade
+torrencial, arrancou seus olhos — e  fugiu em um barco para nunca mais
+voltar. Cego, e sem metade de seu poder, Holleen também desapareceu.
+
+Mesmo assim, o  Deus Cego (como passou a ser  conhecido) jamais deixou
+de ser  admirado e  idolatrado pelos  habitantes malignos  dos Reinos.
+Assassinos costumam gravar  o símbolo de Holleen em uma  de suas armas
+para garantir proteção.
+
+Alguns cultos promovem sacrifícios para  o deus: estes, em particular,
+acreditam  que Holleen  recuperará seu  poder quando  certo número  de
+vítimas morrer em seu nome.
+
+Outros,  entretanto,  acham  que  o  Deus  Cego  só  retornará  quando
+recuperar  seus olhos.  Justamente por  isso, alguns  de seus  devotos
+estão empenhados em buscas para encontrar estes raros tesouros...
+
 - *Símbolo de Fé:* Adaga de Lâmina Negra
 - *Arma Espiritual:* Adaga
 - *Esferas de Poder:* Morte, Mal, Trapaça
