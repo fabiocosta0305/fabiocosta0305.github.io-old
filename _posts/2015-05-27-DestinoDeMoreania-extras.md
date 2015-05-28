@@ -316,9 +316,239 @@ pelo menos, vivos) da maioria dos problemas.
 ### Druidas, Clérigos e Magos
 
 #### Druidas
+- *Permissão:* Aspecto de Comunhão com um dos Irmãos Selvagens
+- *Custo:* Perícias e Façanhas
+
+Os  druidas  são  um  dos  fundamentos da  sociedade  Moreau.  Em  uma
+sociedade  nascida e  ligada à  natureza de  maneira tão  profunda, os
+druidas  constituem  mais   do  que  guardiões  da   natureza,  e  sim
+mantenedores das tradições,  ritos e éditos dos  Irmãos Selvagens. Não
+importa se seguem a Dama Altiva ou o Indomável, os Druidas de todos os
+tipos  são ferrenhos  defensores  da natureza  e  das tradições.  Como
+também  entendem a  natureza e  seus sinais,  eles são  respeitados de
+muitas  formas  pelos  demais  Moreau  e  possuem  poderes  ligados  à
+Natureza, como  conversar com  os animais, entender  a natureza  e até
+mesmo comungar com a mesma
+
+- *Pode ser Invocado para:* demonstrar maior contato e entendimento da
+  Natureza; Obter respeito e admiração dos demais Moreau
+- *Pode ser  Forçado para:*  alinhas as ações  do personagem  ao Irmão
+  Selvagem; Demonstrar reticência em relação ao novo e diferente
+
+Todo  Druida deve  escolher um  dos Irmãos  Selvagens ao  qual irá  se
+alinhar. Todos os  efeitos relativos ao fato de ser  um Druida irão se
+alinhar ao Irmão Selvagem escolhido.
+
+##### Perícia *Comunhão*
+
+Essa Perícia profissional  indica como o Druida  consegue interagir de
+maneira excepcional  com a natureza. Embora  qualquer personagem possa
+(e ocasionalmente  irá) interagir com  o meio natural, os  Druidas são
+ainda  mais conhecedores  dos  caminhos da  Natureza.  Por meio  dessa
+perícia, o  Druida pode interagir  de maneiras que pessoas  comuns não
+conseguiriam com a natureza
+
+- *Criar  Vantagens:*   Essa  perícia  permite  criar   todo  tipo  de
+  vantagens, como encontrar um *Abrigo nas Rochas* ou ouvir *Vozes das
+  Árvores* quanto a eventos que ocorreram recentemente
+- *Superar  Obstáculos:*  Obviamente  essa perícia  ajuda  ao  Superar
+  Obstáculos, como por meio de remover *Barreiras de Árvores* ou mesmo
+  conseguir que uma *Avalanche* impeça os inimigos de alcançar o grupo
+- *Atacar:* Druidas  conseguem comandar a Natureza  para Atacar alvos,
+  ao fazer Animais  atacar seus inimigos, ou mesmo  fazendos as Forças
+  da Natureza atingir seus inimigos das mais diversas formas.
+- *Defender:*  É possíve  usar  a  sua Comunhão  com  a natureza  para
+  Defesa, seja invocando Árvores para colocar-se entre seus inimigos e
+  você ou até mesmo usando as Forças da Natureza como barreiras
+
+##### Façanhas Druídicas
+
+Toda  Façanha  Druídica exige  como  *Permissão*  ser Druida.  Algumas
+exigem  que o  Druida siga  a *Dama  Altiva* ou  o *Indomável*  ou ter
+outras Permissões
+
+###### Voz dos Animais
+
+O Druida pode  conversar com os Animais. Ele  pode utilizar *Comunhão*
+no  lugar de  outras perícias  ao  lidar com  os animais.  Entretanto,
+qualquer pergunta que  o mesmo fizer poderá ser  limitada em respostas
+ao intelecto e natureza do animal.
+
+###### Esplendor da Natureza
+- *Permissão:* Seguidor da *Dama Altiva*
+
+O  Druida em  questão é  capaz  de fazer  que a  natureza ressurja  em
+qualquer  local, com  a possível  excessão dos  locais onde  os Darash
+deixaram sua mácula. Gastando um Ponto de Destino, o Druida pode fazer
+milagrosamente  uma  zona  tornar  a  ter grama  e  outras  formas  de
+vegetação,  que  por sua  vez  trará  animais. Essa  vegetação  também
+poderá, por  uma noite, prover  alimento ao  grupo ao qual  pertence o
+Druida em questão.
+
+###### Coração da Fera
+- *Permissão:* Seguidor do *Indomável*
+
+O Druida em  questão conhece muito o  caminho da Fúria e  do Sangue, e
+tem um contato muito grande com  a Besta interior.  Ele pode entrar em
+uma *Fúria Selvagem* um número de vezes igual a metade de seu bônus em
+Comunhão + 1 (arredondado para cima,  mínimo de 1) por sessão, durante
+o qual ele recebe +2 em todos os seus Ataques e o benefício da Façanha
+*Duro na  Queda* (FB 119).   Porém, uma vez  que passe o  efeito dessa
+*Fúria Selvagem*, o personagem recebe -2 nos Ataques devido ao cansaço
+que esse surto de energia provoca.  Essa Façanha pode ser usada apenas
+uma vez por  cena, limitado ao número de vezes  por sessão determinado
+acima.
+
+###### Comunhão com a Natureza
+
+Esse Druida é  capaz de ver e  ouvir os sons e imagens  que os animais
+vêem. Uma vez  por sessão, o personagem pode usar  *Comunhão* no lugar
+de  *Investigar* ou  *Percepção*  para procurar  pistas  ou coisas.  O
+alcance do mesmo  é limitado a um  número de Zonas igual  ao seu bônus
+de *Comunhão* (mínimo 1)
+
+###### Mesclar-se com a Natureza
+
+Esse Druida  é capaz de  se misturar  com a natureza,  ocultando-se de
+maneira quase sobrenatural à mesma.  Durante um número de turnos igual
+ao seu  bônus de  *Comunhão* (mínimo 1),  o personagem  fica *Oculto*,
+recebendo +2 em todos os testes de *Furtividade*
+
+###### As Armas das Feras
+- *Permissão:* Seguidor do *Indomável*, *Comunhão Bom (+3)* ou melhor
+
+Esse Druida  tem um  contato tão  intenso com a  Besta Interior  que é
+capaz de fazer  com que partes de seu corpo  tornem-se similares à das
+Feras. O Druida deve escolher no  momento em que adquirir essa Façanha
+um dos Seis Animais que tornaram-se humanos por meio do Indomável. Uma
+vez  por sessão,  o personagem  pode transformar  partes do  seu corpo
+nas partes dessa Fera (deve ser definido no momento do uso). Ao atacar
+com essa parte, o personagem recebe  +2 nos Ataques com *Lutar* usando
+essa parte do corpo. Essa mudança permanece durante todo um Conflito
+
+###### O Animal Interior
+- *Permissão:*  Seguidor da  *Dama Altiva*,  *Comunhão Ótimo  (+4)* ou
+  melhor
+
+O  Druida em  questão  tem um  contato  em seu  coração  com todos  os
+animais, e é capaz de compreender o que se passa no coração dos mesmos
+a tal  ponto que pode assumir  suas formas. O Druida  deve escolher um
+animal qualquer  (normalmente, um  dos Seis  Animais que  pediram para
+tornarem-se humanos por meio da Dama Altiva, em geral o animal do qual
+o druida descende). Uma vez por  sessão, ele irá assumir a forma desse
+Animal, recebendo determinadas  benesses. A duração desse  efeito é de
+uma cena, podendo ser cancelado a qualquer momento pelo Druida.
+
+As benesses para os Seis Animais da Dama Altiva são:
+
+- Búfalo: +2 em *Vigor* e *Atletismo*
+- Coelho: +2 em *Investigar* e *Notar*
+- Urso: +2 em *Vigor* e *Lutar*
+- Raposa: +2 em *Furtividade* e *Notar*
+- Coruja: +2 em *Investigar* e Aspecto *Vôo*
+- Gato: +2 em *Atletismo* e *Furtividade*
+
+Para quaisquer outros animais, o Mestre é quem determina as benesses.
+
+###### A Besta Interior
+- *Permissão:*  Seguidor  do  *Indomável*, *Comunhão  Ótimo  (+4)*  ou
+  melhor
+
+O Druida em questão  respira a selvageria e o conflito  que é parte da
+Natureza, e seu coração se aproxima  algumas vezes ao da Fera, a ponto
+de ele  assumir a  forma da  Fera.  O Druida  deve escolher  um animal
+qualquer  (normalmente,   um  dos   Seis  Animais  que   pediram  para
+tornarem-se humanos por meio do Indomável, em geral o animal do qual o
+druida descende).  Uma vez por sessão,  ele irá assumir a  forma desse
+Animal, recebendo determinadas  benesses. A duração desse  efeito é de
+uma cena, podendo ser cancelado a qualquer momento pelo Druida.
+
+As benesses para os Seis Animais do Indomável são:
+
+- Leão: +2 em *Vigor* e *Lutar*
+- Morcego: +2 em *Furtividade* e Aspecto *Vôo*
+- Crocodilo: +2 em *Furtividade* e *Vigor*
+- Serpente: +2 em *Enganar* e *Provocar*
+- Hiena: +2 em *Provocar* e *Furtividade*
+- Lobo: +2 em *Lutar* e *Provocar*
+
+Para quaisquer outros animais, o Mestre é quem determina as benesses.
+
+###### A Fúria da Natureza
+- *Permissão:* Ao menos outras duas Façanhas Druídicas
+
+Algumas vezes, a Natureza se revolta. Mesmo a paciência da Dama Altiva
+pode alcançar  limites, e o Indomável  sempre tem o sangue  quente. Ao
+usar essa  Façanha, o Druida em  questão invoca a Fúria  dos Elementos
+para Atacar seus inimigos. Uma vez  por turno, durante um Conflito, os
+elementos atacam os inimigos do Druida  como se tivesse uma perícia de
+Ataque  equivalente ao  nível de  *Comunhão* do  Druida. O  Druida não
+precisa permanecer parado,  mas deve permanecer na mesma  zona onde os
+elementos estão  Atacando. Isso pode ser  feito uma vez por  sessão, e
+dura um Conflito  ou até que o  Druida saia da área em  questão, o que
+acontecer primeiro.
+
+###### A Fera Suprema
+- *Permissão:* Seguidor do *Indomável*,  ao menos outras duas Façanhas
+  Druídicas, *A Fúria da Natureza*, *Comunhão Ótimo (+4)* ou melhor
+
+Quando um  Druida do Indomável atinge  em algum momento esse  nível de
+Fúria,  ele   pode  transformar-se  na   mais  pura  Besta,   a  maior
+representação da Destruição  que o Indomável proporciona.  Uma vez por
+sessão, esse  personagem pode entra em  contato com a Fera  Interior e
+com o Indomável,  transformando-se em uma perigosa Fera,  um Dragão de
+Marfim. Nessa forma, ele recebe as seguintes mudanças:
+
+- +2 em *Lutar*, *Vigor*, *Atletismo* e *Provocar*
+- Aspectos *Vôo* e *Indomável*
+- *Hálito de Vento:* pode, um número de vezes igual aos seus níveis de
+  *Comunhão*, utilizar  um Hálito de  Vento Quente que ataca  todos os
+  inimigos à frente do mesmo por um  número de Zonas igual a seu nível
+  de  *Comunhão*.  Uma  vez  usado,   não  pode  ser  usado  no  turno
+  seguinte. Os Alvos podem se Defender normalmente.
+- *Aura de Temor:*  todos os alvos a  um número de zonas  igual ao seu
+  nível  de   *Comunhão*  devem   realizar  um  teste   de  *Vontade*,
+  dificuldade  igual  a *Comunhão*  do  personagem,  como se  tivessem
+  sofrendo  um Ataque  Mental,  toda  vez que  forem  tentar Atacar  o
+  Druida.
+
+Essa transformação leva um Turno (no  qual o Druida fica *Indefeso*) e
+dura por  um Conflito. Após  o mesmo,  o Druida fica  *Exaurido* (como
+Consequência  Suave),  e não  pode  utilizar  suas Façanhas  Druídicas
+enquanto estiver com essa Consequencia.
+
+###### A Ave Fênix
+- *Permissão:*  Seguidor  da  *Dama  Altiva*,  ao  menos  outras  duas
+  Façanhas Druídicas, *A Fúria da  Natureza*, *Comunhão Ótimo (+4)* ou
+  melhor
+
+Um Druida da Dama Altiva pode  alcançar uma ligação tão profunda com a
+mesma que,  quando a natureza  precisa ser restaurada  e/ou protegida,
+ele assume a forma da Poderosa  *Ave Fenix*.  Uma vez por sessão, esse
+personagem pode entra  em contato com a  Dama Altiva, transformando-se
+em um belo  Pássaro de Fogo, a  Ave Fenix. Nessa forma,  ele recebe as
+seguintes mudanças:
+
+- +2 em *Lutar*, *Vigor*, *Comunicação* e *Empatia*
+- Aspectos *Vôo* e *Protetor*
+- *Asas de  Fogo:* pode, um número  de vezes igual aos  seus níveis de
+*Comunhão*, utilizar um  ataque com suas Asas de Fogo  que ataca todos
+os inimigos à frente do mesmo por um número de Zonas igual a seu nível
+de  *Comunhão*.   Uma   vez  usado,  não  pode  ser   usado  no  turno
+seguinte. Os Alvos podem se Defender normalmente.
+- *Aura Vital:* todos os aliados do  Druida que estiverem em um número
+  de  Zonas igual  ao seu  nível de  *Comunhão* podem,  uma vez  nesse
+  Conflito, realizar um  teste de *Vigor*, como um teste  de Cura (*FB
+  153*).  Em  caso  de  Sucesso,  podem reduzir  em  um  o  nível  das
+  Consequencias que tenham recebido.
+
+Essa transformação leva um Turno (no  qual o Druida fica *Indefeso*) e
+dura por  um Conflito. Após  o mesmo,  o Druida fica  *Exaurido* (como
+Consequência  Suave),  e não  pode  utilizar  suas Façanhas  Druídicas
+enquanto  estiver com  essa Consequencia.  Como bonificação,  o Druida
+remove automaticamente sua pior Consequencia. 
 
 #### Clérigos
-
 - *Permissão:* Aspecto da Devoção
   - Divindades
     - Cada divindade  segue determinadas  Esferas de Poder,  onde cada
@@ -421,7 +651,6 @@ pelo menos, vivos) da maioria dos problemas.
        disseminação
      
 ##### A Dama Altiva
-
 - *Símbolo de Fé:* Cesta de Flores
 - *Arma Espiritual:* Clava
 - *Esferas de Poder:* Bem, Vida, Paz, Mistério, Proteção
@@ -435,7 +664,6 @@ pelo menos, vivos) da maioria dos problemas.
      - +2 em *Defesas* para uma pessoa durante um conflito;
 
 ##### O Indomável
-
 - *Símbolo de Fé:* Crânio de um Dragão
 - *Arma Espiritual:* Maça
 - *Esferas de Poder:* Morte, Mal, Guerra, Força, Destruição
@@ -451,7 +679,6 @@ pelo menos, vivos) da maioria dos problemas.
        critério do Mestre). Apenas uma vez por Sessão;
 
 ##### Barão Samoeida
-
 - *Símbolo de Fé:* Boneco de Pano com Cartola
 - *Arma Espiritual:* Clava
 - *Esferas de Poder:* Sorte, Caos, Morte
@@ -523,7 +750,6 @@ pelo menos, vivos) da maioria dos problemas.
        já possua uma habilidade similar, recebe +2 nos testes
 
 #### Magos
-
 *Permissão:* Aspecto que indica o uso de magia
 
 Alguns temem a  Magia Arcana como antinatural (em  especial os Druidas
@@ -600,7 +826,6 @@ natureza e convocarem seus poderes.
 ### Monges
 
 ### Bardos
-
 *Permissão:* Aspecto que indica o fato de ser Bardo
 
 Bardos são conhecidos  por suas habilidades relacionadas  às Canções e
