@@ -927,9 +927,9 @@ deus que personifica estes princípios.
 
 Baixinho, gordo  e bonachão,  Gojan vaga incessantemente  pelas ilhas,
 explorando novos  lugares e auxiliando grupos  de aventureiros. Diz-se
-que ele  é capaz de  tocar todos  os tipos de  instrumentos musicais;,
-além de carregar  dezenas de mapas de todas  as localidades conhecidas
-nos Reinos e além.
+que ele é capaz de tocar todos os tipos de instrumentos musicais, além
+de carregar  dezenas de mapas  de todas as localidades  conhecidas nos
+Reinos e além.
 
 De acordo com uma antiga lenda, um feito heroico presenciado por Gojan
 jamais é  esquecido pelo  povo de Moreania.  Justamente por  isso, sua
@@ -1132,11 +1132,12 @@ involuntários oferecem uma invocação gratuita do Aspecto ao Bardo.
 - *Permissão:* Bardo
 - *Custo:* Façanha
 
-Bardos são repositórios de Conhecimentos sobre Lendas e Mitos. Quanto
+Bardos são repositórios de Conhecimentos  sobre Lendas e Mitos. Quanto
 mais hábil um Bardo for, mais apurado ele será em distinguir a verdade
 e a  mentira dentro dos mitos  e lendas.  Sempre que  o Bardo precisar
-verificar algo  relativo aos  mitos e lendas,  ele poderá  executar um
-teste de *Conhecimento*.  Essa é considerada uma ação  tanto de *Criar
+verificar algo relativo aos mitos  e lendas ou obter alguma informação
+relacionada  a  mitos  e  lendas,  ele poderá  executar  um  teste  de
+*Conhecimento*.   Essa   é  considerada  uma  ação   tanto  de  *Criar
 Vantagens* quanto  de *Superar*,  conforme a  necessidade. No  caso de
 locais e  afins, o Mestre  deve determinar uma dificuldade  conforme a
 antiguidade do mito  ou a sua obscuridade. Se for  relativo a pessoas,
