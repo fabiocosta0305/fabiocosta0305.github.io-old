@@ -16,7 +16,7 @@ tags: ["Fate","Fate Core", "Extras", "Moreania", "Reinos de Moreania", "DragonSl
   no Conceito do mesmo
 - *Custo:* Nenhum
 
-Todo Moreau possui  algum tipo de traço animal do  quel é descendente,
+Todo Moreau possui  algum tipo de traço animal do  qual é descendente,
 em menor ou  maior grau. Entretanto, não importa o  quão profundo tais
 traços  sejam,   ainda  assim  eles  são   meramente  cosméticos,  não
 oferecendo nenhuma vantagem específica aos mesmos.
@@ -37,7 +37,7 @@ Uma  vez que  se  escolha  a Herança,  é  impossível  mudá-la, pois  o
 personagem  nasceu   com  essa   capacidade  (qualquer   alteração  no
 *Conceito*  deve  continuar  refletindo  a Herança).  Cada  Herança  é
 tratada  como  parte  do  Conceito do  Personagem,  adicionando  novas
-vantagens que o personagem obtem ao  Invocar o Aspecto e problemas que
+vantagens que o personagem obtém ao  Invocar o Aspecto e problemas que
 o mesmo sofre ao ter o Aspecto Forçado.
 
 #### Herdeiros do Búfalo
@@ -66,11 +66,11 @@ gostam muito de banhos e costumam ser bons nadadores.
 Um Herdeiro  do Coelho  tem pequena estatura,  mas as  grandes orelhas
 eretas fazem  parecer que  são mais  altos. Sua  pele pode  ser clara,
 manchada  ou  negra. Como  também  acontece  com coelhos  verdadeiros,
-albinos sào muito comuns, com pele branca e olhos vermelhos. O nariz é
+albinos são muito comuns, com pele branca e olhos vermelhos. O nariz é
 pequeno, gracioso e está sempre se movendo.
 
 Apesar da notória timidez dos  Coelhos, estes Herdeiros são curiosos e
-agitados,  ansiosos  por  novidades.  Sào  aqueles  mais  propensos  a
+agitados,  ansiosos  por  novidades.  São  aqueles  mais  propensos  a
 escarafunchar  masmorras,  resgatar   relíquias  Darash  proibidas,  e
 revelar coisas que a humanidade  não deveria conhecer. Talvez por isso
 sejam mais comuns  em Laughton, onde novas  oportunidades surgem todos
@@ -141,7 +141,7 @@ seguros destes Moreau levam a pensar  que são ágeis, quando na verdade
 são apenas ousados — eles correm sobre telhados, saltam sobre árvores,
 mergulham em penhascos...  enfim, são confiantes e  audaciosos em tudo
 que  fazem. Seu  charme e  magnetismo  animal não  conhecem rivais  em
-Moreania, cxceto  pelos Herdeiros  do Lobo,  que eles  consideram seus
+Moreania, exceto  pelos Herdeiros  do Lobo,  que eles  consideram seus
 concorrentes.
 
 - *Pode  ser Invocado  para:* realizar  ações audazes  de maneira  bem
@@ -222,7 +222,7 @@ constantemente conquistar a liderança do grupo ao qual pertencem.
 
 Estes  Herdeiros são  facilmente  identificados  pela pele  totalmente
 negra e grandes  orelhas, que em alguns casos tomam  toda a lateral da
-cabeça. Os  olhos sào  negros, brilhantes  e nem  um pouco  “cegos”. O
+cabeça. Os  olhos são  negros, brilhantes  e nem  um pouco  “cegos”. O
 nariz tende a ser arrebitado e/ou largo. Os dedos são longos, às vezes
 com membranas vestigiais entre os  dedos. Homens costumam ser carecas,
 enquanto mulheres têm cabelo muito curto.
@@ -242,10 +242,10 @@ suas antigas asas de couro.
 
 #### Herdeiros da Raposa
 
-Os traços animais destes Herdeiros  sào poucos, mas marcantes. Grandes
+Os traços animais destes Herdeiros  são poucos, mas marcantes. Grandes
 orelhas encimam a  cabeça, enquanto a cauda enorme e  macia é adornada
 com  uma  mancha  branca  na  extremidade.   Cabelo  e  cauda  vão  do
-laranja-vivo  ao  vermelho-escuro,   rambém  existindo  indivíduos  de
+laranja-vivo  ao  vermelho-escuro,   também  existindo  indivíduos  de
 pelagem  branca. Herdeiros  da Raposa  têm pés  pequenos e  graciosos,
 especialmente as mulheres, sendo bem  raro que decidam escondê-los com
 calçados. Também gostam de chapéus, apesar da dificuldade em mantê-los
@@ -274,7 +274,7 @@ listras  que  formam  padrões  ricos. Os  grandes  olhos  têm  pupilas
 verticais.  Como também acontece com os Crocodilos, apenas as mulheres
 têm  cabelo. Gostam  de  roupas insinuantes,  feitas  sob medida,  que
 exibem os desenhos exóticos em suas peles. Também tem certa predileção
-por jóias.
+por joias.
 
 Para sobreviver na  natureza, serpentes confiam em seu  bote e mordida
 peçonhenta —  traços que apenas  alguns de seus  Herdeiros apresentam.
@@ -301,13 +301,13 @@ castanha, cinzenta ou negra.
 Herdeiros do  Urso demonstram súbitas  e terríveis mudanças  de humor;
 podem estar satisfeitos, gargalhando entre  amigos, e então mudar para
 raiva cega no instante seguinte pelas razões mais estúpidas (mas quase
-sempre envolvendo comida). Uma vez  irados, não medem as conseqüências
+sempre envolvendo comida). Uma vez  irados, não medem as consequências
 de seus  atos; seu vigor  em geral  assegura que escaparão  ilesos (ou
 pelo menos, vivos) da maioria dos problemas.
 
 - *Pode ser Invocado para:* feitos  de força e resistência física; ser
   expansivo em momentos certos
-- *Pode ser Forçado para:* demonstrar ira súbita e inconseqüência;
+- *Pode ser Forçado para:* demonstrar ira súbita e inconsequência;
 
 ### Licantropos
 
@@ -355,9 +355,9 @@ conseguiriam com a natureza
   Obstáculos, como por meio de remover *Barreiras de Árvores* ou mesmo
   conseguir que uma *Avalanche* impeça os inimigos de alcançar o grupo
 - *Atacar:* Druidas  conseguem comandar a Natureza  para Atacar alvos,
-  ao fazer Animais  atacar seus inimigos, ou mesmo  fazendos as Forças
+  ao fazer Animais  atacar seus inimigos, ou mesmo  fazendo as Forças
   da Natureza atingir seus inimigos das mais diversas formas.
-- *Defender:*  É possíve  usar  a  sua Comunhão  com  a natureza  para
+- *Defender:*  É possível  usar  a  sua Comunhão  com  a natureza  para
   Defesa, seja invocando Árvores para colocar-se entre seus inimigos e
   você ou até mesmo usando as Forças da Natureza como barreiras
 
@@ -378,7 +378,7 @@ ao intelecto e natureza do animal.
 - *Permissão:* Seguidor da *Dama Altiva*
 
 O  Druida em  questão é  capaz  de fazer  que a  natureza ressurja  em
-qualquer  local, com  a possível  excessão dos  locais onde  os Darash
+qualquer  local, com  a possível  exceção dos  locais onde  os Darash
 deixaram sua mácula. Gastando um Ponto de Destino, o Druida pode fazer
 milagrosamente  uma  zona  tornar  a  ter grama  e  outras  formas  de
 vegetação,  que  por sua  vez  trará  animais. Essa  vegetação  também
@@ -402,7 +402,7 @@ acima.
 ###### Comunhão com a Natureza
 
 Esse Druida é  capaz de ver e  ouvir os sons e imagens  que os animais
-vêem. Uma vez  por sessão, o personagem pode usar  *Comunhão* no lugar
+veem. Uma vez  por sessão, o personagem pode usar  *Comunhão* no lugar
 de  *Investigar* ou  *Percepção*  para procurar  pistas  ou coisas.  O
 alcance do mesmo  é limitado a um  número de Zonas igual  ao seu bônus
 de *Comunhão* (mínimo 1)
@@ -445,7 +445,7 @@ As benesses para os Seis Animais da Dama Altiva são:
 - Coelho: +2 em *Investigar* e *Notar*
 - Urso: +2 em *Vigor* e *Lutar*
 - Raposa: +2 em *Furtividade* e *Notar*
-- Coruja: +2 em *Investigar* e Aspecto *Vôo*
+- Coruja: +2 em *Investigar* e Aspecto *Voo*
 - Gato: +2 em *Atletismo* e *Furtividade*
 
 Para quaisquer outros animais, o Mestre é quem determina as benesses.
@@ -466,7 +466,7 @@ uma cena, podendo ser cancelado a qualquer momento pelo Druida.
 As benesses para os Seis Animais do Indomável são:
 
 - Leão: +2 em *Vigor* e *Lutar*
-- Morcego: +2 em *Furtividade* e Aspecto *Vôo*
+- Morcego: +2 em *Furtividade* e Aspecto *Voo*
 - Crocodilo: +2 em *Furtividade* e *Vigor*
 - Serpente: +2 em *Enganar* e *Provocar*
 - Hiena: +2 em *Provocar* e *Furtividade*
@@ -500,7 +500,7 @@ com o Indomável,  transformando-se em uma perigosa Fera,  um Dragão de
 Marfim. Nessa forma, ele recebe as seguintes mudanças:
 
 - +2 em *Lutar*, *Vigor*, *Atletismo* e *Provocar*
-- Aspectos *Vôo* e *Indomável*
+- Aspectos *Voo* e *Indomável*
 - *Hálito de Vento:* pode, um número de vezes igual aos seus níveis de
   *Comunhão*, utilizar  um Hálito de  Vento Quente que ataca  todos os
   inimigos à frente do mesmo por um  número de Zonas igual a seu nível
@@ -515,7 +515,7 @@ Marfim. Nessa forma, ele recebe as seguintes mudanças:
 Essa transformação leva um Turno (no  qual o Druida fica *Indefeso*) e
 dura por  um Conflito. Após  o mesmo,  o Druida fica  *Exaurido* (como
 Consequência  Suave),  e não  pode  utilizar  suas Façanhas  Druídicas
-enquanto estiver com essa Consequencia.
+enquanto estiver com essa Consequência.
 
 ###### A Ave Fênix
 - *Permissão:*  Seguidor  da  *Dama  Altiva*,  ao  menos  outras  duas
@@ -524,13 +524,13 @@ enquanto estiver com essa Consequencia.
 
 Um Druida da Dama Altiva pode  alcançar uma ligação tão profunda com a
 mesma que,  quando a natureza  precisa ser restaurada  e/ou protegida,
-ele assume a forma da Poderosa  *Ave Fenix*.  Uma vez por sessão, esse
+ele assume a forma da Poderosa  *Ave Fênix*.  Uma vez por sessão, esse
 personagem pode entra  em contato com a  Dama Altiva, transformando-se
-em um belo  Pássaro de Fogo, a  Ave Fenix. Nessa forma,  ele recebe as
+em um belo  Pássaro de Fogo, a  Ave Fênix. Nessa forma,  ele recebe as
 seguintes mudanças:
 
 - +2 em *Lutar*, *Vigor*, *Comunicação* e *Empatia*
-- Aspectos *Vôo* e *Protetor*
+- Aspectos *Voo* e *Protetor*
 - *Asas de  Fogo:* pode, um número  de vezes igual aos  seus níveis de
 *Comunhão*, utilizar um  ataque com suas Asas de Fogo  que ataca todos
 os inimigos à frente do mesmo por um número de Zonas igual a seu nível
@@ -540,13 +540,13 @@ seguinte. Os Alvos podem se Defender normalmente.
   de  Zonas igual  ao seu  nível de  *Comunhão* podem,  uma vez  nesse
   Conflito, realizar um  teste de *Vigor*, como um teste  de Cura (*FB
   153*).  Em  caso  de  Sucesso,  podem reduzir  em  um  o  nível  das
-  Consequencias que tenham recebido.
+  Consequências que tenham recebido.
 
 Essa transformação leva um Turno (no  qual o Druida fica *Indefeso*) e
 dura por  um Conflito. Após  o mesmo,  o Druida fica  *Exaurido* (como
 Consequência  Suave),  e não  pode  utilizar  suas Façanhas  Druídicas
-enquanto  estiver com  essa Consequencia.  Como bonificação,  o Druida
-remove automaticamente sua pior Consequencia. 
+enquanto  estiver com  essa Consequência.  Como bonificação,  o Druida
+remove automaticamente sua pior Consequência. 
 
 #### Clérigos
 - *Permissão:* Aspecto da Devoção
@@ -571,7 +571,7 @@ ou bosques.  Embora estejam ligados  aos Reinos de Moreania  podem ser
 usados livremente em qualquer outro cenário.
 
 A Dama  Altiva e o  Indomável são  representados a seguir  com algumas
-regras adicionais - eles oferecem maioor número de Poderes Concedidos,
+regras adicionais - eles oferecem maior número de Poderes Concedidos,
 para representar sua superioridade sobre os demais deuses.
 
 - Divindades
@@ -594,7 +594,7 @@ para representar sua superioridade sobre os demais deuses.
          para  Criar   Vantagens  relacionadas   ao  *ethos*   de  sua
          Divindade. Um  Clérigo da *Dama Altiva*  poderá, por exemplo,
          Curar ou  Abençoar com maior facilidade,  enquanto um Clérigo
-         de Lamashtu,  por exemplo, normalmente terá  maior facilidade
+         de *Lamashtu*, por exemplo, normalmente terá maior facilidade
          para criar morte e pestilência
        - *Superar  Obstáculos:* Clérigos  em geral  tendem a  procurar
          remover a  influência de divindades  opostas (ou ao  menos em
@@ -640,10 +640,10 @@ para representar sua superioridade sobre os demais deuses.
        permitiria
         - Em caso de sucesso ao fazer algo que a Divindade normalmente
           não permitiria  por meio da  Fé, ele  faz o que  deseja, mas
-          recebe uma Consequencia *Apostata*;
+          recebe uma Consequência *Apostata*;
         - Deve cumprir  algum tipo  de missão  ou rito  de purificação
-          antes de poder remover essa Consequencia;
-        - A Remoção do Aspecto de  Devoção elimina a Consequencia, mas
+          antes de poder remover essa Consequência;
+        - A Remoção do Aspecto de  Devoção elimina a Consequência, mas
           não a  Perícia de *Fé*, que  deve ser removida em  um *Marco
           Menor*.
         - Um personagem pode  se Afastar da Fé se trocar  o Aspecto de
@@ -653,7 +653,7 @@ para representar sua superioridade sobre os demais deuses.
           Fraca. Apenas o Indomável merece devoção*)
   - Esferas de Poder
      - Vida - lida com Criar e Restaurar a Vida
-     - Morte - lida com o Pós-Vida e o que é relacionado à Morte
+     - Morte - lida com o Pós-vida e o que é relacionado à Morte
      - Proteção - lida com manter o que existe
      - Destruição - lida com a destruição do que existe
      - Bem - lida com a Bondade e a Caridade
@@ -683,7 +683,7 @@ matam, exceto para sobreviver.
 
 Quando visita  o mundo dos  mortais, a Dama  adota a aparência  de uma
 bela dríade usando  um vestido florido. Ela sempre  carrega uma cesta,
-cujo  conteúdo  pode  variar:  frores,  frutas  frescas,  filhotes  de
+cujo  conteúdo  pode  variar:  flores,  frutas  frescas,  filhotes  de
 animais...
 
 Druidas e  xamãs estrangeiros muitas  vezes entram em conflito  com os
@@ -697,7 +697,7 @@ mas em alguns casos pode resultar em violência.
 - *Ethos:* *"A vida surge, floresce, cresce, prospera"*
 - Façanhas de Devoção
   - Cura
-     - Baixa todas as Conseqüências em um Nível;
+     - Baixa todas as Consequências em um Nível;
   - Benção
      - +2 em *Ataques* para uma pessoa *ou* arma durante um conflito;
   - Proteção Mágica
@@ -731,7 +731,7 @@ de suas formas.
   - Ataque Destruidor
      - +2 em um  único *Ataque*.  Caso provoque mais de  dois ponto de
        Estresse,    deve    ser   absorvido    obrigatoriamente    nas
-       Conseqüências;
+       Consequências;
   - Toque da Morte
      - Caso seja  bem sucedido  em um  *Ataque* de  *Lutar*, o  alvo é
        automaticamente *Retirado  de Jogo*  (normalmente morto,  mas a
@@ -817,7 +817,7 @@ juiz  de todas  as  disputas, de  duelos de  espadas  a guerras  entre
 reinos,  de jogos  de  cartas a  corrida de  cavalos.  Ele abençoa  os
 vencedores e  perdoa (ou amaldiçoa)  os perdedores.  Os  adoradores de
 Champarr conseguem  traçar sua origem  até os mais  distantes domínios
-extraplanares.
+extra-planares.
 
 Há  milhares de  anos, ele  teria  participado de  um torneio  cósmico
 promovido por  um poderoso Deus  da Guerra. Vitória após  vitória, ele
@@ -827,12 +827,12 @@ imortalidade e o título de Deus dos Jogos.
 
 Champarr  tem  aparência de  um  poderoso  gladiador, usando  um  elmo
 fechado que mantém suas emoções  indecifráveis. Está sempre armado com
-duas espadas curtas idênticas: uma delsas concede a benção da vitória,
+duas espadas curtas idênticas: uma delas concede a benção da vitória,
 e a outra, a maldição da derrota.
 
 Champarr é especialmente querido no  reino de Brando, onde flâmulas em
 sua  homenagem são  hasteadas antes  de  cada grande  torneio, e  seus
-clérigos atuam como juízes. Pessoas  diantes de provações muitas vezes
+clérigos atuam como juízes. Pessoas  diante de provações muitas vezes
 rogam seu nome para assegurar a vitória.
 
 - *Símbolo de Fé:* Troféu
@@ -899,7 +899,7 @@ graças a  qualquer preço  — os  cultistas de  Lamashtu estão  entre os
 vilões mais odiados em Moreania.
 
 A Rainha Tanar’ri se deleita  com sacrifícios humanos, mas também pode
-ser  seduzida por  belas jóias,  sua única  fraqueza conhecida.  Entre
+ser  seduzida por  belas joias,  sua única  fraqueza conhecida.  Entre
 aventureiros,  como forma  de  bravata exagerada,  é  comum dizer  que
 “posso até mesmo roubar o tesouro de Lamashtu”.
 
@@ -909,7 +909,7 @@ domínios infernais, de guerra e  matança. Avançando diante das tropas,
 sua  fúria em  batalha  não  pode ser  igualada,  exceto pelo  próprio
 Indomável.
 
-- *Símbolo de Fé:* Jóias de Cor de Sangue (Rubis, por exemplo)
+- *Símbolo de Fé:* Joias de Cor de Sangue (Rubis, por exemplo)
 - *Arma Espiritual:* Machado de Batalha
 - *Esferas de Poder:* Destruição, Guerra, Mal, Morte
 - *Ethos:* *"Todo o sangue da Existência me pertence!"*
@@ -931,7 +931,7 @@ que ele  é capaz de  tocar todos  os tipos de  instrumentos musicais;,
 além de carregar  dezenas de mapas de todas  as localidades conhecidas
 nos Reinos e além.
 
-De acordo com uma antiga lenda, um feito heróico presenciado por Gojan
+De acordo com uma antiga lenda, um feito heroico presenciado por Gojan
 jamais é  esquecido pelo  povo de Moreania.  Justamente por  isso, sua
 presença em um  grupo de heróis é tida como  sinal de vitória iminente
 (embora nem sempre isso seja verdade).
@@ -1049,7 +1049,7 @@ natureza e convocarem seus poderes.
     é determinada pelo maior nível de Elemento exigido:
      - *Exemplo:*  *Barreira de  Escuridão* tem  dificuldade *Razoável
        (+2)* para ser executada
-  - Contramágicas  são  ações  de  *Superar  Obstáculo*,  baseadas  em
+  - Contra-mágicas  são  ações  de  *Superar  Obstáculo*,  baseadas  em
     elementos opostos ao da Mágica:
      - *Terra* opõe-se a *Ar*
      - *Fogo* opõe-se a *Água*
@@ -1095,11 +1095,11 @@ Aspecto como Consequência, como se tivesse sofrido um Ataque Mental.
 - Algumas Canções Verdadeiras:
   - *Medo* - provoca *Pânico* em todos os que a ouvem
   - *Coragem* - oferece *Coragem* em todos os que a ouvem
-  - *Descanso* - oferece *Calma e Ralaxamento* a todos os que a ouvem
+  - *Descanso* - oferece *Calma e Relaxamento* a todos os que a ouvem
   - *Melancolia* - provoca *Boas Lembranças* em todos os que a ouvem
   - *Desespero* - evoca *As Piores Memórias* em todos os que a ouvem
   - *Insanidade* - induz aqueles que a ouvem à *Loucura*
-  - *Paz* - evoca *Tanquilidade* em todos os que a ouvem
+  - *Paz* - evoca *Tranquilidade* em todos os que a ouvem
 
 #### *Histórias de Inspiração*
 - *Permissão:* Bardo
@@ -1132,7 +1132,7 @@ involuntários oferecem uma invocação gratuita do Aspecto ao Bardo.
 - *Permissão:* Bardo
 - *Custo:* Façanha
 
-Bardos são repositórios de Conhecimmentos sobre Lendas e Mitos. Quanto
+Bardos são repositórios de Conhecimentos sobre Lendas e Mitos. Quanto
 mais hábil um Bardo for, mais apurado ele será em distinguir a verdade
 e a  mentira dentro dos mitos  e lendas.  Sempre que  o Bardo precisar
 verificar algo  relativo aos  mitos e lendas,  ele poderá  executar um
