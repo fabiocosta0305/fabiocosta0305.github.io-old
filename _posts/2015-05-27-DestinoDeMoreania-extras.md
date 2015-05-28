@@ -758,8 +758,8 @@ convite para o Barão no cemitério mais próximo.
 
 O  Barão  gosta muito  de  crianças,  porque  são jovens  demais  para
 morrer. É comum entre as crianças  Moreau dormir com um boneco de pano
-que representa  o Barão, para pedir  sua por sua proteção.  Os adultos
-gostam de disfarçar- se como barão  para alegrar as crianças em festas
+que representa o  Barão, para pedir sua por sua  proteção.  Os adultos
+gostam de disfarçar-se como o Barão para alegrar as crianças em festas
 (apesar de  que em alguns casos  o disfarçado seja o  próprio Samoieda
 ...)
 
