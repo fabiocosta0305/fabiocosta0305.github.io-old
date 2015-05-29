@@ -1122,13 +1122,14 @@ novas  capacidades ao  mesmo. No  caso de  um sucesso  em um  teste de
 um objeto  na forma  de um  Aspecto.  Esse  Aspecto pode  ser invocado
 naturalmente pelo possuidor do objeto, gastando 1 PD.
 
-#### Objeto de Poder
-- *Permissão:* *Ofícios Ótimo (+4)*
+#### Mensagem 
+- *Permissão:* *Comunicação Regular (+1)*
 
-Gastando 1 PD na criação, o  Lexical pode criar uma versão restrita de
-qualquer Façanha de  Lexical que ele conheça e imbuir  nesse objeto. A
-dificuldade varia conforme o tipo de poder, seus efeitos e restrições,
-a critério do Mestre.
+Uma  magia  muito simples,  mas  muito  conveniente, permite  ao  Mago
+Lexical  enviar,  por  meio  físico ou  simplesmente  por  magia,  uma
+mensagem para um alvo ou grupo de  alvo *E APENAS PARA ELES*, por meio
+de  magia. O  Teste é  pela perícia  *Comunicação*, com  a dificuldade
+determinada pela distância do alvo
 
 #### O Contrato Mágico
 - *Permissão:* *Comunicação Regular (+1)*, *Imbuir Objeto*
@@ -1240,6 +1241,14 @@ inutilizar *Maldição*  e vice versa.  Toda *Benção* e  *Maldição* deve
 ter uma situação na  qual ela pode ser quebrada, ou  durante a qual (e
 apenas durante a mesma) ela ocorre.
 
+#### Objeto de Poder
+- *Permissão:* *Ofícios Ótimo (+4)*
+
+Gastando 1 PD na criação, o  Lexical pode criar uma versão restrita de
+qualquer Façanha de  Lexical que ele conheça e imbuir  nesse objeto. A
+dificuldade varia conforme o tipo de poder, seus efeitos e restrições,
+a critério do Mestre.
+
 #### Transfiguração
 - *Permissão:* Uma  das seguintes  perícias em  *Ótimo*, as  demais em
 *Bom*:  *Comunicação*, *Enganar*,  *Comunicação*;  ao  menos outras  3
@@ -1292,15 +1301,6 @@ Magos Léxicos e seres ligados ao alvo ainda irão lembrar da existência
 do alvo, e  poderão tentar trazer o  mesmo de volta (com o  uso de uma
 magia *Benção*  bem poderosa, de dificuldade  equivalente ao resultado
 do teste de *Obliviar*)
-
-#### Mensagem 
-- *Permissão:* *Comunicação Regular (+1)*
-
-Uma  magia  muito simples,  mas  muito  conveniente, permite  ao  Mago
-Lexical  enviar,  por  meio  físico ou  simplesmente  por  magia,  uma
-mensagem para um alvo ou grupo de  alvo *E APENAS PARA ELES*, por meio
-de  magia. O  Teste é  pela perícia  *Comunicação*, com  a dificuldade
-determinada pela distância do alvo
 
 ### Monges
 *Permissão:*  Aspecto  da Ordem  Monástica  à  qual pertece  (ou  está
