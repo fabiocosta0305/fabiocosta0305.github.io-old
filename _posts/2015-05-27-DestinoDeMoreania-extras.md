@@ -1124,6 +1124,7 @@ naturalmente pelo possuidor do objeto, gastando 1 PD.
 
 #### Objeto de Poder
 - *Permissão:* *Ofícios Ótimo (+4)*
+
 Gastando 1 PD na criação, o  Lexical pode criar uma versão restrita de
 qualquer Façanha de  Lexical que ele conheça e imbuir  nesse objeto. A
 dificuldade varia conforme o tipo de poder, seus efeitos e restrições,
