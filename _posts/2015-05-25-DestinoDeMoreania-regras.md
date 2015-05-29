@@ -305,7 +305,10 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
     estilo  de  combate  relacionado   a  alguma  ordem  guerreira  ou
     secto. Algumas  vezes, personagens  comuns podem ter  acesso essas
     técnicas,  mas em  outras  é  necessário uma  série  de treinos  e
-    dedicação a uma ordem para obter-se tal capacidade
+    dedicação a  uma ordem para  obter-se tal capacidade. Em  geral as
+    Técnicas de Combate oferecem +2  ao personagem ao usar determinado
+    tipo  de arma  ou  técnica, ou  ainda  permitem substituir  certas
+    perícias por outras.
   - *__Exemplos:__*
   - *As Bolas Gu-On*
      - Produzidas por uma ordem de monges de Lancaster, as Bolas Gu-On
@@ -323,12 +326,12 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
            - O personagem  é capaz  de usar uma  bola Gu-On  contra um
              alvo, chutando-a  contra o mesmo. A  bola normalmente irá
              quicar e retornar ao personagem, exceto em caso de Falha,
-             quando  o personagem  estará *Sem  a Bola*.  Essa Técnica
-             permite usar *Lutar* no lugar de *Arremesso* para atingir
-             adversários  com a  Bola  Gu-On (e  apenas  com ela).   O
-             personagem  pode  atacar  um  alvo  a  até  uma  Zona  de
-             distância do mesmo usando a Bola Gu-On, usando *Lutar* no
-             lugar de *Arqueria* ou *Arremesso*
+             quando o  personagem estará  *Sem a Bola*.   Essa Técnica
+             permite  usar   *Lutar*  ou   *Atletismo*  no   lugar  de
+             *Arremesso* para  atingir adversários com uma  Bola Gu-On
+             (e apenas com elas).  O  personagem pode atacar um alvo a
+             até uma Zona  de distância do mesmo usando  a Bola Gu-On,
+             usando *Lutar* no lugar de *Arqueria* ou *Arremesso*
      - *Técnica de Combate: Chute de Rebote*
         - *Permissão:* *Chute Gu-On*
            - O personagem é  capaz de, aproveitando o  rebote da bola,

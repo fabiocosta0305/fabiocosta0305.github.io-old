@@ -1061,6 +1061,213 @@ natureza e convocarem seus poderes.
     Narrador o que acontece)
   
 ### Monges
+*Permissão:*  Aspecto  da Ordem  Monástica  à  qual pertece  (ou  está
+tentando fundar)
+
+As ordens monásticas em Moreania surgiram com o tempo, conforme alguns
+integrantes dos antigos  Clãs bárbaros que deram origem  aos Reinos de
+Moreania a partir dos Doze  Animais sagrados, procuraram se afastar da
+violência  gratuita  humana,  procurando compreender  e  retornar  aos
+instintos  primitivos que  tornam  os animais  mais  pacíficos. Com  o
+tempo,  porém,  perceberam  que  mesmo  as  criaturas  mais  pacíficas
+precisam  se  defender. Desse  modo,  começou  a se  formar  tradições
+monásticas de  estudo do  combate desarmado, das  artes marciais  e do
+aprimoramento do corpo e da mente.
+
+As  ordens  monásticas em  Moreania  alcançam  maior florescimento  em
+Lancaster, devido à  manutenção de tradições que os  mesmos acham mais
+interessante. Entretanto,  existem grandes  ordens monásticas  fora de
+Lancaster,  tão importante  quanto os  Monges Gu-On,  como a  Ordem de
+Kholl-Taril de  Laughton e A  Visão, a Ordem  que protege Brando  e os
+Reinos a partir da Torre Argos em  Kil'mer. Em comum, todas elas tem a
+procura pelo  aprimoramento do  corpo e da  mente, elevando  os mesmos
+para  além dos  limites naturais,  por meio  de intensivos  exercícios
+físicos, estudos e meditação. Isso  permite aos mesmos alcançar feitos
+"impossíveis" aos demais, como reduzir  a velocidade de queda, como se
+tivessem  flutuando no  ar, destruir  paredes maciças  como se  fossem
+feitas de papel e até  mesmo tornarem-se imateriais e viajarem através
+dos  planos de  maneira totalmente  natural, feito  que mesmo  os mais
+poderosos magos, clérigos e druidas levam anos para fazer.
+
+Cada  Ordem  Monástica possui  alguns  segredos  especiais, mas  todas
+possuem certas  habilidades comuns. Em  termos de regras,  todas essas
+habilidades são Façanhas  que podem ser compradas  pelos Monges. Todas
+essas Façanhas tem um *bloqueio*:  se o personagem perder sua Harmonia
+Interior, todas as Façanhas  Monásticas ficam bloqueadas, o personagem
+não podendo as usar.
+
+#### Queda Suave
+- *Permissão:* Monge, *Atletismo Razoável (+2)*
+
+Esse  monge  pode controlar  quando  está  caindo, como  se  estivesse
+flutuando no  ar. Ele  reduz o  dano de Estresse  Físico devido  a uma
+queda em 2 pontos.   O personagem ainda tem a opção  de, pagando 1 PD,
+realizar um teste de *Atletismo Regular (+1)*. Em caso de sucesso, ele
+reduz o dano  de Estresse baseado no nível de  tensão obtido no teste,
+cumulativamente ao benefício normal dessa Façanha
+
+#### Punhos de Ferro
+- *Permissão:*  Monge, *Vigor  Regular  (+1)*,  *Lutar Regular  (+1)*,
+  *Vontade Regular (+1)*
+
+Devido a  um intenso treinamento físico  e mental, o monge  em questão
+conseguiu aumentar a força do impacto  de seu ataque com as mãos, como
+se seu punho fosse coberto por uma manopla de Ferro. O Monge recebe +2
+no Ataque com *Lutar* e o benefício da Façanha *Golpe Matador*, apenas
+quando luta desarmado
+
+#### Golpe Destruidor
+- *Permissão:* Monge, *Punhos de Ferro*, uma das seguintes perícias em
+*Ótimo (+4)* e as demais em *Bom (+3)* : *Lutar*, *Vigor*, *Vontade*
+
+Esse Monge,  quando opta por  lutar, é  uma máquina de  Destruição que
+faria  o Indomável  sentir  inveja.  Esse Monge  recebe  +2 para  usar
+*Lutar* para *Superar Obstáculos*  destruindo-os, como demolindo muros
+ou destruindo pequenas construções.
+
+#### O Mão que Guia O Arco
+- *Permissão:* Monge,  *Arremesso* ou *Arqueria* (dependendo  da Arma)
+  *Regular (+1)*, *Vontade Razoável (+2)*
+
+Esse Monge é um especialista na arte da Arqueria ou do Arremesso. Essa
+Façanha funciona como *Punhos de  Ferro*, para *Arremesso* (no caso de
+Lanças,  Discos ou  outras  armas de  arremesso)  ou *Arqueria*  (para
+flechas)
+
+#### O Bêbado Louco
+- *Permissão:* Monge, *Enganar Regular (+1)*, *Enganar Provocar (+1)*,
+  *Lutar Regular (+1)*
+
+Esse monge é capaz de atacar de maneiras totalmente "aleatórias", como
+se fosse  um bêbado. Todo  personagem que  tentar se defender  de seus
+Ataques sofre -2 na Defesa.
+
+#### Pés Suaves
+- *Permissão:*  Monge, *Atletismo  Ótimo (+3)*,  ao menos  outras três
+  Façanhas de Monge, que devem incluir *Queda Suave*
+
+Esse monge consegue caminhar pelo  ar ou pelas águas normalmente, como
+se tivesse andando sobre  a Terra. Com um 1 PD,  ele pode caminhar por
+qualquer piso (ou  ausência de) que de outra forma  não permitisse ele
+de o fazer  (como ar). Pisos que tenham outras  influências que possam
+lhe provocar dano (como lava ou ácido) ainda podem ser tentados, mas o
+personagem  deve testar  *Atletismo* contra  uma dificuldade  definida
+pelo Mestre.  Caso não consiga, sofre  um Ataque normal, que  deve ser
+absorvido normalmente.
+
+#### Mente Serena
+- *Permissão:* Monge, *Vontade Regular (+1)*
+
+Esse personagem está  em harmonia interior profunda. Ele  recebe +2 em
+seus testes de Defesa por *Vontade*.
+
+#### Corpo Etéreo
+- *Permissão:* Monge, pelo menos duas Façanhas de Monge, incluindo
+   *Mente  Serena*, *Vontade Bom (+3)*
+
+Esse personagem  já alcançou um  alto nível de  iluminação espiritual,
+podendo transformar seu  corpo em matéria espiritual.  Desse modo, ele
+recebe +2  em seus  testes de *Furtividade*  e *Roubar*  para *Superar
+Obstáculos* relativos a alcançar locais normalmente inacessíveis. Além
+disso, uma  vez por sessão  ele pode  transformar seu corpo  em *Corpo
+Etéreo*. Durante uma cena ou até ele desejar cancelar esse efeito, ele
+não pode provocar nenhum dano a nada físico, mas não pode ser impedido
+por restrições físicas de alcançar  locais específicos. Porém, ele não
+é invisível,  ainda que receba +2  em seus testes de  *Roubar* para se
+Defender de ser localizado.
+
+#### Alma Cristalina
+- *Permissão:* Monge,  pelo menos  cinco Façanhas de  Monge, incluindo
+  *Queda Suave* e *Mente  Serena*, *Vontade Ótimo (+4)*, *Conhecimento
+  Bom (+3)*
+
+Esse personagem  alcançou um nível  de iluminação  tão alta que  ele é
+respeitado  por criaturas  extra-dimensionais.  Ele pode  naturalmente
+caminhar  entre os  planos, com  um teste  de *Vontade*,  sem precisar
+gastar PDs.
+
+#### Golpe Piedoso
+- *Permissão:*  Monge, *Punhos  de  Ferro*, as  seguintes perícias  em
+  *Razoável (+2)* : *Lutar*, *Vigor*, *Vontade*
+
+Esse Monge é capaz de nocautear seus adversários sem precisar matá-los
+ou provocar-lhes  graves danos.  Se  o monge for bem-sucedido,  caso o
+alvo sofra pelo  menos 2 pontos de  Estresse *ou* o Monge  pague 1 PD,
+ele pode  optar por  *derrotar* o alvo  automaticamente, aplicando-lhe
+uma  Consequência  Suave  *Nocauteado*  que conta  como  se  estivesse
+tratado (ou seja, dura apenas até o  final da cena). O alvo pode negar
+esse efeito com um teste de  *Vontade* contra o resultado do Ataque do
+Monge.
+
+#### Removedor de Montanha
+- *Permissão:* Monge, *Punhos de Ferro*, uma das seguintes perícias em
+  *Bom (+3)* : *Lutar*, *Vigor*, *Vontade*
+
+Esse  Monge  possui  uma  Força monstruosa,  obtida  pelo  treinamento
+intensivo  do corpo,  da mente  e da  técnica. Essa  força é  capaz de
+remover montanhas e até mesmo nos mais poderosos fazer o fluxo da água
+ser invertido. Caso seja bem sucedido em um Ataque, o Monge pode pagar
+1 PD  para reduzir a tensão  do Ataque até  um mínimo de 0:  para cada
+nível de  tensão que foi  reduzido, o alvo  é deslocado uma  zona para
+longe do Monge.
+
+#### Visão além do Alcance
+- *Permissão:* Monge da Visão, *Percepção Razoável (+2)*
+
+Os Monges  da Torre de  Argos, em Brando, são  especialmente treinados
+para enxergar coisas que normalmente uma pessoa normal não seria capaz
+de enxergar. Esses monges podem enxergar qualquer coisa a um número de
+Zonas igual  ao seu bônus de  *Percepção* na sua linha  visual (mínimo
+1). Isso quer dizer que até  esse limite eles não sofrem redutores por
+distância  em  testes  de  *Investigar*, *Lutar*  e  quaisquer  outros
+relaciondado à Visão.
+
+#### Visão do micro-mundo
+- *Permissão:* Monge da Visão, *Percepção Regular (+1)*
+
+Esses  Monges  são  capazes  de  visualizar  objetos  muito  pequenos,
+ignorando totalmente qualquer tipo de modificador ao se Defenderem com
+*Percepção* de tentativas de *Furtividade* baseado no tamanho.
+
+#### Visão Mística
+- *Permissão:* Monge da Visão, *Percepção Razoável (+2)*
+
+Esses Monges são capazes de visualizar qualquer coisa oculta por meios
+místicos, recebendo  +2 em  seus testes  de *Percepção*  para *Superar
+Obstáculos* mágicos  relacionados a visão, como  disfarces, mágicas de
+invisibilidade e afins.  Isso não afeta, porém,  criaturas que estejam
+se deslocando por outros planos.
+
+#### Visão Límpida
+- *Permissão:* Monge da Visão, *Percepção Razoável (+2)*
+
+Esses  Monges possuem  uma visão  clara do  que está  acontecendo, não
+importa as condições  que sob as quais estão. Eles  recebem +2 em seus
+testes de *Percepção* para *Superar  Obstáculos* naturais em relação à
+visão,   como   neblina,   fumaça,    chamas,   brilhos   intensos   e
+afins. Perceba, porém, que isso não se aplica à escuridão.
+
+#### Visão Noturna
+- *Permissão:* Monge da Visão, *Percepção Regular (+1)*
+
+Esses Monges podem  enxergar na escuridão, não importando  se a origem
+da  mesma é  natural ou  mágica.  Eles recebem  +2 em  seus testes  de
+*Percepção* para *Superar Obstáculos* relativos à falta de luz.
+
+#### Visão Perfeita
+- *Permissão:*  Monge da  Visão,  ao menos  outras  três Façanhas  que
+  tenham como Permissão *Monge da Visão*, *Percepção Ótimo (+4)*
+
+Esse Monge tem  uma visão perfeita. Todas as Façanhas  que possuem tem
+seus bônus aumentados em +2
+
+#### Visão do Tempo e do Espaço
+- *Permissão:*  Monge  da  Visão, *Percepção  Bom  (+3)*,  *Investigar
+  Bom (+3)*
+
+Esse Monge, sabendo o  que procurar e quando, é capaz  de ver o futuro
+dessa  coisa.  Ele recebe  +2  em  seus  testes de  *Criar  Vantagens*
+relativos a coisas do futuro ou passado.
 
 ### Bardos
 *Permissão:* Aspecto que indica o fato de ser Bardo
