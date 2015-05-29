@@ -1059,10 +1059,48 @@ natureza e convocarem seus poderes.
     Tensão na  Falha), ou podem  optar (no  caso de *Sucesso  a Grande
     Custo*)  por  fazer a  Magia  tornar-se  Selvagem (a  critério  do
     Narrador o que acontece)
-  
+
+### Magos do Nome Verdadeiro (Lexicais)
+*Permissão:* Aspecto *Lexical* como Conceito
+
+Os Lexicais,  sediados em  Brando, na cidade  de Vallaria  (mas também
+atuantes  em   outros  pontos  do   reino),  acreditam  no   poder  da
+palavra. Esta ordem de sábios preza pelo estudo, conhecimento e magia;
+ao longo  dos anos,  desenvolveram domínio sobre  tudo que  é escrito,
+ouvido ou falado.
+
+Mestres  da etmologia  (origem das  palavras) e  lingüística, além  de
+conhecedores dos  símbolos e rituais arcanos,  os Lexicais descobriram
+que  para tudo  existe uma  designação —  um Nome  Verdadeiro que  é a
+própria essência  das criaturas e  objetos. Os Lexicais  compreendem a
+força dos juramentos, dos votos,  promessas e maldições.  Eles dominam
+qualquer coisa ou criatura cujo nome verdadeiro conheçam.
+
+Não  há em  Moreania  melhores  diplomatas do  que  os Lexicais.  Suas
+palavras  podem acalmar  monstros ou  separar casais  apaixonados. Por
+isso são muito admirados e também temidos.
+
+- *O Aspecto de  Lexical pode ser Invocado para:*  aumentar as chances
+  de  usar-se  as  Magias  das  Palavras;  obter  pistas  sobre  Nomes
+  Verdadeiros;
+- *O Aspecto de Lexical pode ser  Forçado para:* forçar o personagem a
+  manter uma promessa ou juramento;  demonstrar que outros obtiveram o
+  Nome Verdadeiro do alvo;
+
+As formas de Magia das Palavras são Façanhas
+
+#### Descobrindo o Nome Verdadeiro
+- *Permissão:* *Investigar Regular (+1)*
+
+O Lexical  é capaz de  descobrir o Nome  Verdadeiro de algo  ou alguém
+apenas observando o alvo e usando  seus poderes mágicos. Ele recebe +2
+ao *Criar  Vantagens* de  maneira mágica por  meio de  *Investigar*. O
+alvo possui  a chance  de resistir naturalmente,  ao menos  se estiver
+consciente das ações do Lexical.
+
 ### Monges
 *Permissão:*  Aspecto  da Ordem  Monástica  à  qual pertece  (ou  está
-tentando fundar)
+tentando fundar) como *Conceito*
 
 As ordens monásticas em Moreania surgiram com o tempo, conforme alguns
 integrantes dos antigos  Clãs bárbaros que deram origem  aos Reinos de
