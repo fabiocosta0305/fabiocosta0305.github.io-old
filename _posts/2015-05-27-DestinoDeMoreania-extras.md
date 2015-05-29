@@ -1087,16 +1087,219 @@ isso são muito admirados e também temidos.
   manter uma promessa ou juramento;  demonstrar que outros obtiveram o
   Nome Verdadeiro do alvo;
 
-As formas de Magia das Palavras são Façanhas
+#### Habilidade Lexical: Descobrir o Nome Verdadeiro
+- *Permissão:* Lexical
+- *Custo:* Nenhum (é parte da Magia do Lexical)
 
-#### Descobrindo o Nome Verdadeiro
-- *Permissão:* *Investigar Regular (+1)*
+Todo Lexical é capaz de descobrir  o Nome Verdadeiro de algo ou alguém
+apenas observando o alvo e usando seus poderes mágicos. Ele deve fazer
+um  teste  de  *Criar  Vantagens*   de  maneira  mágica  por  meio  de
+*Investigar*.  O  alvo possui  a chance  de resistir  naturalmente, ao
+menos se  estiver consciente das  ações do  Lexical. Uma vez  obtido o
+Nome Verdadeiro do ser, esse Nome  Verdadeiro é um Aspecto que fica no
+alvo por tempo indeterminado
 
-O Lexical  é capaz de  descobrir o Nome  Verdadeiro de algo  ou alguém
-apenas observando o alvo e usando  seus poderes mágicos. Ele recebe +2
-ao *Criar  Vantagens* de  maneira mágica por  meio de  *Investigar*. O
-alvo possui  a chance  de resistir naturalmente,  ao menos  se estiver
-consciente das ações do Lexical.
+As formas de Magia das Palavras são Façanhas e todas elas exigem que o
+personagem conheça o Nome Verdadeiro do alvo.
+
+#### Ocultando o Nome Verdadeiro
+- *Permissão:* *Enganar Regular (+1)*
+
+O Lexical é capaz  de ocultar o Nome Verdadeiro de  algo ou alguém por
+meio  de  suas mágicas.  Ele  recebe  +2  para *Criar  Vantagens*  com
+*Enganar*. Sendo bem-sucedido, o *Falso  Nome Verdadeiro* fica como um
+Aspecto que  pode ser  invocado para dificultar  a descoberta  do Nome
+Verdadeiro de algo por outros entes.
+
+#### Imbuir objeto
+- *Permissão:* *Ofícios Razoável (+2)*
+
+O Lexical, por meio  de suas mágicas, é capaz de  imbuir um objeto com
+algum tipo de  poder, dando-lhe um Nome Verdadeiro que  lhe torna algo
+único no  mundo, ou  modificando esse  Nome Verdadeiro  para adicionar
+novas  capacidades ao  mesmo. No  caso de  um sucesso  em um  teste de
+*Criar Vantagem* com  *Ofícios* *Bom (+3)*, ele imbui um  poder novo a
+um objeto  na forma  de um  Aspecto.  Esse  Aspecto pode  ser invocado
+naturalmente pelo possuidor do objeto, gastando 1 PD.
+
+#### Objeto de Poder
+- *Permissão:* *Ofícios Ótimo (+4)*
+Gastando 1 PD na criação, o  Lexical pode criar uma versão restrita de
+qualquer Façanha de  Lexical que ele conheça e imbuir  nesse objeto. A
+dificuldade varia conforme o tipo de poder, seus efeitos e restrições,
+a critério do Mestre.
+
+#### O Contrato Mágico
+- *Permissão:* *Comunicação Regular (+1)*, *Imbuir Objeto*
+
+O  Lexical é  capaz de  selar um  Contrato Mágico  entre duas  ou mais
+partes. Para  isso, ele utiliza  uma folha  de papel que  representa o
+Contrato Mágico, imbuindo-o com os termos do Contrato como um Aspecto.
+O Lexical  deve ser bem sucedido  em um teste de  *Comunicação* contra
+uma  dificuldade  que   depende  da  duração  e   termos  do  Contrato
+Mágico. Contratos mais simples,  como um acordo comercial convencional
+ou um tratado  de solidariedade entre líderes  menores tem dificuldade
+*Regular (+1)*, enquanto um tratado envolvendo os reinos da Ilha Nobre
+pode ter dificuldades chegando até a  *Épico (+7)* ou ainda maiores. O
+Contrato deve  estabelecer penalidades  que afetarão os  envolvidos em
+caso de  descumprimento, e  esse fator também  afeta a  dificuldade do
+mesmo. Nenhuma das  partes que participam do Contrato  Mágico pode ser
+involuntária.  Uma  vez  o  Contrato Mágico  tenha  sido  celebrado  e
+assinado (com uma caneta comum mesmo), ele é válido e é considerado um
+Aspecto que  pode ser  Invocado ou Forçado  conforme a  necessidade de
+ambas as partes.
+
+#### Convocação
+- *Permissão:* *Comunicação Regular (+1)*, *Provocar Regular (+1)*
+
+O  Lexical pode  Invocar  qualquer  criatura que  ele  conheça o  Nome
+Verdadeiro. Para isso, ele deve passar  em um teste de *Provocar*, com
+dificuldade  dependendo da  distância  onde essa  criatura  está e  de
+outras características.  A criatura  pode resistir a isso normalmente,
+usando *Vontade*.  O tempo  que levará para  a criatura  ser convocada
+depende  da distância  onde ela  está, afinidade  ao Lexical  e outros
+fatores. Perceba que  o fato da criatura ser convocada  não implica em
+ela estar sob controle.
+
+#### Submissão
+- *Permissão:*  *Comunicação Regular  (+1)*,  *Enganar Regular  (+1)*,
+*Empatia Regular (+1)*, *Provocar Regular (+1)*
+
+Por meio do  conhecimento do Nome Verdadeiro, o Lexical  pode dobrar a
+vontade de  um alvo, forçando-o a  fazer o que você  deseja. O Lexical
+deve fazer um teste de *Enganar* para *Criar Vantagem* de Submissão no
+alvo, que pode resistir por *Vontade*. Apesar disso, porém, o alvo não
+perde seu livre-arbítrio e também não tem suas opiniões modificadas em
+relação ao Lexical.  Sempre que o alvo for realizar  qualquer ação que
+vá contra suas crenças (ou seja,  que possa ser considerada um Aspecto
+Forçado contra o submisso), ele pode  fazer um novo teste de *Vontade*
+para romper a  submissão. A Submissão dura uma cena,  exigindo um novo
+teste a  cada cena  (exceto em  caso de *Sucesso  com Estilo*,  onde a
+Submissão dura de maneira indeterminada)
+
+#### Alterar Sentimentos
+- *Permissão:*  *Comunicação Regular  (+1)*,  *Enganar Regular  (+1)*,
+*Empatia Regular (+1)*
+
+O Lexical pode utilizar essa magia  para, por meio do conhecimento das
+palavras,  do  Nome  Verdadeiro  e  de  suas  interações,  alterar  os
+sentimentos de um  alvo em relação a qualquer coisa.   O Lexical testa
+*Empatia* com  dificuldade dependendo da  voluntariedade do alvo  e da
+propensão do mesmo em acreditar no que  o Lexical diz. O alvo possui a
+chance de resistir a essa trapaça  por meio de *Vontade*. Ao alterar o
+sentimento do alvo,  ele irá agir como se  sempre acreditasse naquilo,
+mas  sem saber  o motivo.  Como no  caso de  *Submissão*, o  alvo pode
+resistir  novamente se  por um  acaso  realizar qualquer  ação que  vá
+contra as suas crenças ou que possa revelar a trapaça.
+
+#### Retorno ao Estado Original
+- *Permissão:* *Comunicação Regular  (+1)*, *Investigar Regular (+1)*,
+*Empatia Regular (+1)*
+
+O Lexical  pode perceber se  algo ou  alguém sofreu alterações  em seu
+Nome Verdadeiro e  pode retornar o alvo ao seu  Estado Original. Nesse
+caso, ele  deve ser capaz de  descobrir o Nome Verdadeiro  original do
+alvo e restaurá-lo. Dado que  consiga o Nome Verdadeiro original, como
+na  habilidade  especial  do  alvo, ele  pode  utilizar  essa  mágica,
+realizando um teste de *Superar Obstáculos* com *Empatia* para remover
+as alterações feitas. Em caso de  sucesso, os vários efeitos do uso da
+Magia  do  Nome  Verdadeiro  são  desfeitos,  conforme  os  resultados
+obtidos.
+
+#### Purificar/Compuscar
+- *Permissão:*  *Comunicação Razoável  (+2)*, *Empatia  Razoável (+2)*
+(para *Purificar*), *Enganar Razoável (+2)* (para *Compuscar*)
+
+O Mago de  Nome Verdadeiro pode utilizar essas  poderosas mágicas para
+remover (ou provocar) danos físicos ou mentais do alvo (incluindo a si
+próprio).   Role  *Empatia*  (para  *Purificar*)  ou  *Enganar*  (para
+*Compuscar*).  O  alvo possui  o direito  a um  teste de  *Defesa* por
+*Vigor* ou *Vontade* para negar o efeito de *Compuscar*. A dificuldade
+é    definida   pelo    nível    da    Consequência   que    deseja-se
+eliminar/provocar. No  caso de *Purificar*, a  Consequência em questão
+tem  seu nível  reduzido em  um  para cada  dois níveis  de tensão  no
+teste. No  caso de *Compuscar*, além  de *Purificar*, a magia  de Nome
+Verdadeiro   *Retorno  ao   Estado   Original*   pode  eliminar   essa
+Consequência, além da cura "natural"
+
+#### Benção/Maldição
+- *Permissão:*  *Comunicação  Bom  (+3)*,  *Empatia  Bom  (+3)*  (para
+*Benção*), *Provocar Bom (+3)* (para *Maldição*)
+
+Como  em  *Purificar/Compuscar*,  essa  magia  pode  colocar  Aspectos
+positivos (ou negativos,  no caso de *Maldição*) que  podem ser usados
+pelo alvo  (ou seu portador,  no caso  de objetos) durante  um período
+pré-estabelecido.  O personagem rola  *Comunicação* ou *Provocar*.  Em
+caso de sucesso, o Aspecto de Benção ou Maldição é colocada no alvo. A
+dificuldade é baseada no teor da Benção  ou Maldição, e o quão fácil é
+quebrar esse Aspecto.  Em geral a dificuldade é *Bom (+3)*. O alvo tem
+a possibilidade de *Defender-se* normalmente por *Vontade* e a duração
+desse  Aspecto é  de uma  Sessão ou  até ser  quebrada. *Benção*  pode
+inutilizar *Maldição*  e vice versa.  Toda *Benção* e  *Maldição* deve
+ter uma situação na  qual ela pode ser quebrada, ou  durante a qual (e
+apenas durante a mesma) ela ocorre.
+
+#### Transfiguração
+- *Permissão:* Uma  das seguintes  perícias em  *Ótimo*, as  demais em
+*Bom*:  *Comunicação*, *Enganar*,  *Comunicação*;  ao  menos outras  3
+Façanhas Léxicas
+
+Conhecendo o  Nome Verdadeiro de  um Alvo e  o de outras  criaturas, o
+Lexical  é capaz  de elaborar  um "novo"  Nome Verdadeiro  e com  isso
+alterar as características do alvo. O  Alvo ainda mantem sua vontade e
+lembrança  de sua  forma original,  mas ele  assume uma  nova forma  a
+critério do Lexical, com todas as vantagens e defeitos da mesma.  Para
+isso, ele deve  passar em um teste  de *Enganar Ótimo (+4)*,  e o alvo
+tem chance de *Defender-se* por *Vontade*. A duração da Transfiguração
+é de  uma sessão, ou até  que o Lexical quebre  a Transfiguração. Como
+opção,  o  Lexical  pode   reduzir  a  dificuldade  da  Transfiguração
+implantando uma cláusula  de quebra, que permitirá o  alvo retornar ao
+seu estado original se ela ocorrer (*"o beijo do amor verdadeiro..."*)
+
+#### Transfiguração Permanente
+- *Permissão:* Uma das seguintes  perícias em *Espetacular*, as demais
+em *Ótimo*: *Comunicação*, *Enganar*, *Comunicação*, ao menos outras 5
+Façanhas de Lexical
+
+Essa  poderosa  mágica  Lexical funciona  como  *Transfiguração*,  mas
+consegue transformar totalmente o  Nome Verdadeiro do alvo, tornando-o
+completamente uma nova  criatura, sem lembrança do seu  passado e nada
+mais,   tendo  inclusive   todo  um   novo  passado.    Funciona  como
+*Transfiguração*, mas a dificuldade do teste é *Fantástico (+6)*. Como
+opção,  a  dificuldade  pode  ser  reduzida  se  o  alvo  mantiver  as
+lembranças do seu "eu passado".  A Transfiguração Permanente, como diz
+o nome, é Permanente.
+
+#### Obliviar
+- *Permissão:*  Uma das  seguintes perícias  em *Bom  (+3)*, outra  em
+*Razoável   (+2)*,  e   as  demais   em  *Regular   (+1)*,  *Enganar*,
+*Comunicação*,  *Provocar*,  *Vontade*;  ao menos  4  outras  Façanhas
+Léxicas.
+
+Um dos mais terríveis e bem  guardados segredos da Magia Léxica é essa
+magia de Obliviar.  Por meio de seus poderes, um  mago Lexical é capaz
+de,  usando  essa magia,  literalmente  APAGAR  o nome  verdadeiro  da
+criatura, eliminando-a da existência.
+
+O Mago  deve pagar  1 PD  e testar  *Vontade*, contra  uma dificuldade
+dependendo do tamanho  e da complexidade do alvo. O  alvo tem a chance
+de *Defender-se* por *Vontade*. Caso o personagem seja bem sucedido, o
+alvo  é  literalmente  APAGADO  da existência.  Uma  das  coisas  mais
+interessantes é que, no caso de um  *Sucesso a custo*, o alvo não terá
+sido apagado completamente, e sim apenas eliminado fisicamente: outros
+Magos Léxicos e seres ligados ao alvo ainda irão lembrar da existência
+do alvo, e  poderão tentar trazer o  mesmo de volta (com o  uso de uma
+magia *Benção*  bem poderosa, de dificuldade  equivalente ao resultado
+do teste de *Obliviar*)
+
+#### Mensagem 
+- *Permissão:* *Comunicação Regular (+1)*
+
+Uma  magia  muito simples,  mas  muito  conveniente, permite  ao  Mago
+Lexical  enviar,  por  meio  físico ou  simplesmente  por  magia,  uma
+mensagem para um alvo ou grupo de  alvo *E APENAS PARA ELES*, por meio
+de  magia. O  Teste é  pela perícia  *Comunicação*, com  a dificuldade
+determinada pela distância do alvo
 
 ### Monges
 *Permissão:*  Aspecto  da Ordem  Monástica  à  qual pertece  (ou  está
