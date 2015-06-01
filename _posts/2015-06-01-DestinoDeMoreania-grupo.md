@@ -9,6 +9,7 @@ tags: ["Fate","Fate Core", "Personagens", "Moreania", "Reinos de Moreania", "Dra
 ## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
 - [Cenário](/DestinoDeMoreania)
+- [Extras](/DestinoDeMoreania-regras)
 - [Extras](/DestinoDeMoreania-extras)
 
 ### Astarte Treehills
