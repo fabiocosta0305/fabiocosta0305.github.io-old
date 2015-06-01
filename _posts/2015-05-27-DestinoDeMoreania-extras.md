@@ -1158,10 +1158,11 @@ O  Lexical pode  Invocar  qualquer  criatura que  ele  conheça o  Nome
 Verdadeiro. Para isso, ele deve passar  em um teste de *Provocar*, com
 dificuldade  dependendo da  distância  onde essa  criatura  está e  de
 outras características.  A criatura  pode resistir a isso normalmente,
-usando *Vontade*.  O tempo  que levará para  a criatura  ser convocada
+usando *Vontade*.   O tempo que  levará para a criatura  ser convocada
 depende  da distância  onde ela  está, afinidade  ao Lexical  e outros
 fatores. Perceba que  o fato da criatura ser convocada  não implica em
-ela estar sob controle.
+ela  estar sob  controle.  O mago  pode, sem  custo  ou teste  nenhum,
+Dispensar a criatura, devolvendo-a para seu local de origem.
 
 #### Submissão
 - *Permissão:*  *Comunicação Regular  (+1)*,  *Enganar Regular  (+1)*,
@@ -1172,12 +1173,13 @@ vontade de  um alvo, forçando-o a  fazer o que você  deseja. O Lexical
 deve fazer um teste de *Enganar* para *Criar Vantagem* de Submissão no
 alvo, que pode resistir por *Vontade*. Apesar disso, porém, o alvo não
 perde seu livre-arbítrio e também não tem suas opiniões modificadas em
-relação ao Lexical.  Sempre que o alvo for realizar  qualquer ação que
+relação ao Lexical.  Sempre que o  alvo for realizar qualquer ação que
 vá contra suas crenças (ou seja,  que possa ser considerada um Aspecto
 Forçado contra o submisso), ele pode  fazer um novo teste de *Vontade*
 para romper a  submissão. A Submissão dura uma cena,  exigindo um novo
 teste a  cada cena  (exceto em  caso de *Sucesso  com Estilo*,  onde a
-Submissão dura de maneira indeterminada)
+Submissão dura  de maneira indeterminada),  ou até o Lexical  anular o
+efeito, sem necessidade de teste.
 
 #### Alterar Sentimentos
 - *Permissão:*  *Comunicação Regular  (+1)*,  *Enganar Regular  (+1)*,

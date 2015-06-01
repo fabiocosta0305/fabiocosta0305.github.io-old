@@ -179,3 +179,62 @@ informaçaõ que ele ache relevante.
   - *Moderada (4):*
   - *Severa (6):*
 
+### Theon Siovarn
+
+A Família Siovarn de guerreiros é  conhecida por proteger a região Sul
+de Brando,  entre Skulkia e  Ax'aria. Alguns  dizem que o  Fundador da
+linhagem Siovarn,  Karesh, foi um  dos primeiros Soberanos da  Acha, e
+que após  alcançar sua redenção,  permaneceu na região,  auxiliando os
+Soberanos no  cumprimento do seu Dever.  Um Clã de Herdeiros  do Urso,
+sua fúria é direcionada contra o mal.
+
+O mais jovem deles, Theon, decidiu sair de casa muito jovem (apenas 12
+anos)  e  encontrar seu  próprio  destino.  Embora tenha  "se  voltado
+contra" seus  pais, ainda assim  mantêm a  tradição de Fúria  contra o
+mal.  Ele  é "pequeno" para os  padrões dos Descendentes do  Urso, mas
+sua Espada de  Duas Mãos, que ele maneja com  precisão apesar do peso,
+prova que  ele já sobreviveu a  embates o bastante para  comprovar que
+qualquer um  que ache  que ele  é jovem demais  para se  aventurar, se
+arrependa amargamente disso.
+
+#### **Aspectos**
+
+|                  |                                                        |
+|------------------|--------------------------------------------------------|
+| **Conceito:**    | Bárbaro descendente do Urso do Clã Siovarn             |
+| **Dificuldade:** | Jovem Demais: 12 anos de idade - não é levado a sério  |
+|                  | Espada de Duas Mãos                                    |
+|                  | Deseja provar-se                                       |
+|                  | [em aberto]                                            |
+
+#### **Perícias**
+
+|                 |              |           |             |          |
+|-----------------|--------------|-----------|-------------|----------|
+| *Ótimo (+4)*    | Lutar        |           |             |          |
+| *Bom (+3)*      | Vigor        | Atletismo |             |          |
+| *Razoável (+2)* | Empatia      | Enganar   | Arremesso   |          |
+| *Regular (+1)*  | Arqueria     | Roubar    | Comunicação | Provocar |
+
+#### **Façanhas**
+
+- *Mestre de Armas: Espada de Duas Mãos*
+- *Arma Especial: Espada de Duas Mãos*
+  - *Força Adicional*
+  - *Defesa Aprimorada*
+
+#### Extras
+
+- *Herdeiro do Urso*
+
+#### Recarga, Estresse e Conseqüencias
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* \[\]\[\]\[\]\[\]
+  - *Mental:* \[\]\[\]\[\]
+- **Consequencias:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+

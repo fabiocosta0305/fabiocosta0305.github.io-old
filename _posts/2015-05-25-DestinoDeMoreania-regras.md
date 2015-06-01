@@ -133,20 +133,6 @@ tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSl
     - **Observação:** Adiante,  em *Druidas,  Clérigos e  Magos*, será
       detalhado como a  magia funciona e quais  estão disponíveis para
       os magos
-- *Mago/Feiticeiro/Bruxa*
-  - Os Moreau  acreditam que toda a  magia vem da vida  e da natureza,
-    portanto não  recusam o  uso de magias  para curar,  melhorar suas
-    chances e afins.  Esse personagem,  em especial, dedica sua vida a
-    pesquisar e aprender  sobre a magia espalhada  nos Reinos. Algumas
-    vezes, porém,  esse desejo  de conhecimento pode  levá-lo a  ir em
-    locais onde ninguém deveria ir, como o Reino das Torres
-    - **O Jogador  pode Invocar para:** demonstrar  um entendimento de
-      como a magia funciona
-    - **O  Mestre   pode  Forçar  para:**  aguçar   a  curiosidade  do
-      personagem para além da prudência
-    - **Observação:** Adiante,  em *Druidas,  Clérigos e  Magos*, será
-      detalhado como a  magia funciona e quais  estão disponíveis para
-      os magos
 - *Bardos*
   - Os Moreau respeitam os contadores  de histórias, pois muitas vezes
     eles são os  únicos que levam notícias entre os  vários locais dos
