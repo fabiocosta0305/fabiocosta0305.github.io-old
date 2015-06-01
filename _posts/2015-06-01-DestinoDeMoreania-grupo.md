@@ -57,11 +57,11 @@ guerreiro tem que saber de tudo
 - *Contra-Ataque (FB 82)*
 - *Pancada em Cheio (FB 107)*
 
-#### Extras
+#### **Extras**
 
 - *Mago* (pago por Aspecto e Perícia *Fogo*)
 
-#### Recarga, Estresse e Conseqüencias
+#### **Recarga, Estresse e Conseqüencias**
 
 - **Recarga:** 3
 - **Estresse:**
@@ -96,12 +96,12 @@ alongado, similar ao focinho de um coelho
 
 #### **Perícias**
 
-|                 |              |           |            |       |
-|-----------------|--------------|-----------|------------|-------|
-| *Ótimo (+4)*    | Conhecimento |           |            |       |
-| *Bom (+3)*      | Ofício       | Provocar  |            |       |
-| *Razoável (+2)* | Empatia      | Enganar   | Vontade    |       |
-| *Regular (+1)*  | Lutar        | Percepção | Investigar | Vigor |
+|                 |              |             |            |       |
+|-----------------|--------------|-------------|------------|-------|
+| *Ótimo (+4)*    | Ofício       |             |            |       |
+| *Bom (+3)*      | Conhecimento | Comunicação |            |       |
+| *Razoável (+2)* | Empatia      | Enganar     | Vontade    |       |
+| *Regular (+1)*  | Provocar     | Percepção   | Investigar | Vigor |
 
 #### **Façanhas**
 
@@ -124,3 +124,58 @@ alongado, similar ao focinho de um coelho
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
+
+### Shion Wisdomseeker
+
+Treinado na Escola de Magia do Nome Verdadeiro de Vallaria, Shion teve
+uma visão de seu Destino por parte dos companheiros de Ordem, onde ele
+deveria buscar por  mais conhecimento além dos muros  de Vallaria. Foi
+dito, porém, que chegaria o dia em que ele voltaria para Vallaria e lá
+permaneceria em definitivo. Desde então,  Shion passou a participar de
+missões  procurando  aprender   mais  sobre  os  Reinos   e  os  Nomes
+Verdadeiros de tudo. Shion se veste de maneira sóbria, mas elegante, e
+carrega  sempre consigo  uma série  de  pergaminhos com  todo tipo  de
+informaçaõ que ele ache relevante.
+
+#### **Aspectos**
+
+|                  |                                                                    |
+|------------------|--------------------------------------------------------------------|
+| **Conceito:**    | Mago do Nome Verdadeiro em busca de Conhecimento                   |
+| **Dificuldade:** | Vaticínio: Um dia voltará em definitivo para Vallaria              |
+|                  | *"Não há desculpa para estar deselegante!"*                        |
+|                  | Conhecimentos em sua Mochila                                       |
+|                  | [em aberto]                                                        |
+
+#### **Perícias**
+
+|                 |              |           |            |          |
+|-----------------|--------------|-----------|------------|----------|
+| *Ótimo (+4)*    | Conhecimento |           |            |          |
+| *Bom (+3)*      | Empatia      | Ofícios   |            |          |
+| *Razoável (+2)* | Comunicação  | Enganar   | Vontade    |          |
+| *Regular (+1)*  | Recursos     | Lutar     | Investigar | Provocar |
+
+#### **Façanhas**
+
+- *Ocultar o Nome Verdadeiro*
+- *Imbuir Objeto*
+- *O Contrato Mágico*
+- *Convocação*
+- *Mensagem*
+
+#### Extras
+
+- *Mago Lexical* (pago por Aspecto e Façanhas)
+
+#### Recarga, Estresse e Conseqüencias
+
+- **Recarga:** 1
+- **Estresse:**
+  - *Físico:* \[\]\[\]
+  - *Mental:* \[\]\[\]\[\]
+- **Consequencias:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
