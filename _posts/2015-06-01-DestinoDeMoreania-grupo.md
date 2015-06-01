@@ -333,7 +333,7 @@ Altiva que encontra forças.
 |                  |                                                           |
 |------------------|-----------------------------------------------------------|
 | **Conceito:**    | Iniciada Druida seguidora da Dama Altiva                  |
-| **Dificuldade:** | *As Tradições da Dama Altiva são sagradas*                |
+| **Dificuldade:** | *"As Tradições da Dama Altiva são sagradas"*              |
 |                  | Sempre se arrisca em favor da vida                        |
 |                  | Tenta refletir antes de julgar                            |
 |                  | [em aberto]                                               |
