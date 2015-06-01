@@ -355,7 +355,7 @@ Altiva que encontra forças.
 
 #### Extras
 
-- *Herdeiro do Urso*
+- *Druida*
 
 #### Recarga, Estresse e Conseqüencias
 
