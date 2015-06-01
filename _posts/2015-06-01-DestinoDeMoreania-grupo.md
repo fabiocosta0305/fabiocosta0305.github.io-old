@@ -30,7 +30,7 @@ Como Soldado da Fortuna, sabe que em expedições, batalhas e aventuras,
 não  se pode  depender  apenas da  espada ou  da  magia: o  verdadeiro
 guerreiro tem que saber de tudo
 
-#### *Aspectos:*
+#### **Aspectos**
 
 |                  |                                                  |
 |------------------|--------------------------------------------------|
@@ -40,7 +40,7 @@ guerreiro tem que saber de tudo
 |                  | Sempre tem a hora certa para tudo                |
 |                  |                                                  |
 
-#### Perícias
+#### **Perícias**
 
 |                 |          |          |           |     |
 |-----------------|----------|----------|-----------|-----|
@@ -49,7 +49,7 @@ guerreiro tem que saber de tudo
 | *Razoável (+2)* | Fogo     | Empatia  | Vontade   |     |
 | *Regular (+1)*  | Arqueria | Notar    | Atletismo | Luz |
 
-#### Façanhas
+#### **Façanhas**
 
 - *Técnica Especial:  Imbuir Chamas:* -  usando suas mágicas  de Fogo,
   Astarte pode Imbuir Chamas em uma arma, durante um conflito, pagando
