@@ -442,9 +442,9 @@ uma cena, podendo ser cancelado a qualquer momento pelo Druida.
 As benesses para os Seis Animais da Dama Altiva são:
 
 - Búfalo: +2 em *Vigor* e *Atletismo*
-- Coelho: +2 em *Investigar* e *Notar*
+- Coelho: +2 em *Investigar* e *Percepção*
 - Urso: +2 em *Vigor* e *Lutar*
-- Raposa: +2 em *Furtividade* e *Notar*
+- Raposa: +2 em *Furtividade* e *Percepção*
 - Coruja: +2 em *Investigar* e Aspecto *Voo*
 - Gato: +2 em *Atletismo* e *Furtividade*
 
@@ -1410,14 +1410,14 @@ seus testes de Defesa por *Vontade*.
    *Mente  Serena*, *Vontade Bom (+3)*
 
 Esse personagem  já alcançou um  alto nível de  iluminação espiritual,
-podendo transformar seu  corpo em matéria espiritual.  Desse modo, ele
-recebe +2  em seus  testes de *Furtividade*  e *Roubar*  para *Superar
+podendo transformar seu corpo em  matéria espiritual.  Desse modo, ele
+recebe  +2 em  seus testes  de *Furtividade*  e *Roubo*  para *Superar
 Obstáculos* relativos a alcançar locais normalmente inacessíveis. Além
 disso, uma  vez por sessão  ele pode  transformar seu corpo  em *Corpo
 Etéreo*. Durante uma cena ou até ele desejar cancelar esse efeito, ele
 não pode provocar nenhum dano a nada físico, mas não pode ser impedido
 por restrições físicas de alcançar  locais específicos. Porém, ele não
-é invisível,  ainda que receba +2  em seus testes de  *Roubar* para se
+é invisível,  ainda que receba  +2 em seus  testes de *Roubo*  para se
 Defender de ser localizado.
 
 #### Alma Cristalina

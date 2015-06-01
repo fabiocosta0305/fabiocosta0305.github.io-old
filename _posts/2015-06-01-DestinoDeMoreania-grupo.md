@@ -42,12 +42,12 @@ guerreiro tem que saber de tudo
 
 #### **Perícias**
 
-|                 |          |           |           |     |
-|-----------------|----------|-----------|-----------|-----|
-| *Ótimo (+4)*    | Lutar    |           |           |     |
-| *Bom (+3)*      | Vigor    | Provocar  |           |     |
-| *Razoável (+2)* | Fogo     | Empatia   | Vontade   |     |
-| *Regular (+1)*  | Arqueria | Percepção | Atletismo | Luz |
+|                 |          |           |           |          |
+|-----------------|----------|-----------|-----------|----------|
+| *Ótimo (+4)*    | Lutar    |           |           |          |
+| *Bom (+3)*      | Vigor    | Provocar  |           |          |
+| *Razoável (+2)* | Fogo     | Empatia   | Vontade   |          |
+| *Regular (+1)*  | Arqueria | Percepção | Atletismo | Contatos |
 
 #### **Façanhas**
 
@@ -55,7 +55,7 @@ guerreiro tem que saber de tudo
   Astarte pode Imbuir Chamas em uma arma, durante um conflito, pagando
   1 PD. Essa arma causa +2 no Estresse em caso de Sucesso nos Ataques.
 - *Contra-Ataque (FB 82)*
-- *Pancada em Cheio (FB 107)*
+- *Ouvido Atento (FB 98)*
 
 #### **Extras**
 
@@ -197,6 +197,9 @@ prova que  ele já sobreviveu a  embates o bastante para  comprovar que
 qualquer um  que ache  que ele  é jovem demais  para se  aventurar, se
 arrependa amargamente disso.
 
+Curiosamente, a  Família Siovarn  aposta nele  como sendo  seu próximo
+líder...
+
 #### **Aspectos**
 
 |                  |                                                        |
@@ -214,7 +217,7 @@ arrependa amargamente disso.
 | *Ótimo (+4)*    | Lutar        |           |             |          |
 | *Bom (+3)*      | Vigor        | Atletismo |             |          |
 | *Razoável (+2)* | Empatia      | Enganar   | Arremesso   |          |
-| *Regular (+1)*  | Arqueria     | Roubar    | Comunicação | Provocar |
+| *Regular (+1)*  | Arqueria     | Roubo     | Comunicação | Provocar |
 
 #### **Façanhas**
 
@@ -238,3 +241,129 @@ arrependa amargamente disso.
   - *Moderada (4):*
   - *Severa (6):*
 
+### Leorio Sanodar
+
+Dizem que  existe uma  grupo de  pessoas que se  arriscam a  viver bem
+próximas do perigoso local conhecido como  o Mangue do Barão, ao Norte
+de Lancaster. Um local de morte e caos, é dedicado ao Senhor da Morte,
+Barão Samoieda.  Poucos são  os aventureiros que  se atrevem  a entrar
+muito fundo nesse local onde muitos acreditam que os mortos descansam.
+
+Poucos sabem da verdade.
+
+Muitos  seguidores do  Barão  Samoieda vão  até  esse Mangue  oferecer
+sacrifícios e ritos, procurando por  conhecimentos e, até mesmo, ver o
+próprio Barão Samoieda.  Esses sacrifícios sempre são  feitos em forma
+de comida e bebida, de preferência bebidas alcóolicas fortes e comidas
+com tempeiros fortes, como apraz ao Barão.
+
+Em  especial,  um grupo  de  pessoas  vive razaovelmente  próximas  ao
+Mangue. Andarilhos e vagabundos que  são protegidos pelo próprio Barão
+Samoieda, fiéis inegáveis do Senhor da Morte e da Festa.
+
+Leorio é um deles.
+
+Nascido entre  os Sanodar  (como são  chamados esses  vagabundos), ele
+cresceu em meio ao mangue, um maltrapilho garoto se divertindo em meio
+ao local que causa asco e ojeriza a outros. Com o tempo, cresceu na Fé
+ao  Barão e  tornou-se seu  seguidor. Atualmente  encontra-se viajando
+para obter  mais conhecimentos  sobre o  mundo e  aprimorar sua  Fé no
+Barão. Ele não teme caminhar e  se arriscar diante da morte: afinal de
+contas, só o Barão sabe quando é a hora de cada um.
+
+Sendo um  descendente da  Raposa, seu  pelo é  avermelhado na  cauda e
+locais assim. Em compensação, carrega  junto ao peito do corpo pintado
+com desenhos de ossos o boneco com cartola símbolo de sua devoção.
+
+#### **Aspectos**
+
+|                  |                                                           |
+|------------------|-----------------------------------------------------------|
+| **Conceito:**    | Devoto do Barão Samoieda Herdeiro da Raposa               |
+| **Dificuldade:** | Desencanado - ocasionalmente corre riscos desnecessários  |
+|                  | Sorriso nos lábios                                        |
+|                  | Conhecedor de Segredos                                    |
+|                  | [em aberto]                                               |
+
+#### **Perícias**
+
+|                 |              |           |             |          |
+|-----------------|--------------|-----------|-------------|----------|
+| *Ótimo (+4)*    | Vontade      |           |             |          |
+| *Bom (+3)*      | Fé           | Atletismo |             |          |
+| *Razoável (+2)* | Roubo        | Enganar   | Provocar    |          |
+| *Regular (+1)*  | Lutar        | Arremesso | Comunicação | Empatia  |
+
+#### **Façanhas**
+
+- *Sempre há uma saída (FB 116)*
+- *Gíria da Malandragem (FB 116)*
+- *Armadura de Medo (FB 113)*
+
+#### Extras
+
+- *Herdeiro da Raposa*
+- *Clérigo do Barão Samoieda*
+
+#### Recarga, Estresse e Conseqüencias
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* \[\]\[\]\[\]\[\]
+  - *Mental:* \[\]\[\]\[\]
+- **Consequencias:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
+
+### Kiera Savan
+
+Lancaster, o  mais tradicional  dos Três Reinos,  é fonte  contínua de
+Druidas da Dama Altiva e do Indomável que viajam os Reinos em busca de
+uma  maior sintonia  aos Irmãos  Selvagens e  de disseminar  a fé  e o
+respeito às tradições que os mesmos estabeleceram.
+
+Kiera é uma recém-empossada iniciada druida que está em sua jornada de
+fé,  procurando  conhecer  o mundo  e  ver  o  que  a natureza  tem  a
+apresentar. Respeita  igualmente aos Dois  Irmãos, mas é junto  à Dama
+Altiva que encontra forças.
+
+#### **Aspectos**
+
+|                  |                                                           |
+|------------------|-----------------------------------------------------------|
+| **Conceito:**    | Iniciada Druida seguidora da Dama Altiva                  |
+| **Dificuldade:** | *As Tradições da Dama Altiva são sagradas*                |
+|                  | Sempre se arrisca em favor da vida                        |
+|                  | Tenta refletir antes de julgar                            |
+|                  | [em aberto]                                               |
+
+#### **Perícias**
+
+|                 |              |           |             |          |
+|-----------------|--------------|-----------|-------------|----------|
+| *Ótimo (+4)*    | Comunhão     |           |             |          |
+| *Bom (+3)*      | Vontade      | Contatos  |             |          |
+| *Razoável (+2)* | Comunicação  | Empatia   | Provocar    |          |
+| *Regular (+1)*  | Enganar      | Percepção | Investigar  | Recursos |
+
+#### **Façanhas**
+
+- *Popular (FB 92)*
+- *Comunhão com a Natureza*
+- *O Animal Interior: Coelho*
+
+#### Extras
+
+- *Herdeiro do Urso*
+
+#### Recarga, Estresse e Conseqüencias
+
+- **Recarga:** 3
+- **Estresse:**
+  - *Físico:* \[\]\[\]\[\]\[\]
+  - *Mental:* \[\]\[\]\[\]
+- **Consequencias:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
