@@ -6,6 +6,9 @@
   url: "/rpg/"
   side: left
 
+- title: "Fate"
+  - url: "/fate/"
+
 # - title: "Templates"
 #   url: "/design/"
 #   side: left

@@ -6,7 +6,7 @@ categories:
  - RPG
 tags:
  - Fate
- - Fate Core
+ - Fate-core
  - Extras
  - Moreania
  - Reinos de Moreania
@@ -317,6 +317,70 @@ pelo menos, vivos) da maioria dos problemas.
 - *Pode ser Forçado para:* demonstrar ira súbita e inconsequência;
 
 ### Licantropos
+
+- *Permissão:* Conceito indicando que é um Licantropo - apenas para os
+  Animais que pediram para se tornar humanos ao Indomável
+
+Nos  Reinos de  Moreania, doze  animais pediram  aos Irmãos  Selvagens
+paraserem  humanos.  Seis deles  fizeram  seu  pedido à  bondosa  Dama
+Altiva.   Os outros  seis,  pediram ao  cruel  Indomável. Todos  foram
+transformados em humanos; mas, dentre  aqueles atendidos pelo Deus dos
+Monstros,  existem  aqueles  que  preservaram a  maior  parte  de  sua
+natureza bestial — seja como bênção ou maldição.
+
+Os Licantropos são os mais  selvagens Moreau, capazes de reverter para
+suas versões  primitivas originais. Eles  têm aparência de  humanos ou
+Herdeiros, mas  podem assumir uma  forma animal, ou uma  forma híbrida
+monstruosa.
+
+Por sua  maior afinidade com  o Indomável, quase todos  os Licantropos
+são  malignos e  existem à  margem da  sociedade, em  áreas selvagens,
+longe  de  qualquer  civilização.  Eles não  podem  absorver  ou  usar
+qualquer vestimenta, arma ou equipamento quando adotam formas animais,
+por  isso  é  raro  que  usem  qualquer  outra  coisa  além  de  peles
+rústicas.  Devotos  da  Dama  Altiva muitas  vezes  caçam  e  destroem
+Licantropos: são muito poucos aqueles  que aceitam (e são aceitos) nos
+povoados Moreau.  Alguns conseguem ser aventureiros,  mas sua presença
+muitas  vezes causa  transtornos a  seus companheiros  quando precisam
+lidar com devotos da Mãe Natureza.
+
+Um Licantropo  em forma híbrida  pode ser muito  facilmente confundido
+com um Herdeiro.  Estrangeiros têm grande dificuldade em perceber essa
+diferença, para nativos dos Reinos,  a dificuldade é menor.  Dentre os
+descendentes dos Doze Animais, apenas seis existem como Licantropos: o
+leão, o morcego, o crocodilo, a serpente, a hiena, e o lobo.
+
+Todos os  Licantropos podem assumir  forma humana, animal  ou híbrida,
+mas seu equipamento não é absorvido na nova forma. Sua forma híbrida é
+bípede. A  cabeça é quase  totalmente animal. As mãos  são humanóides,
+mas maiores e com garras (embora  nem todos consigam usar essas garras
+em combate).  Um Licantropo pode  falar, usar armas, escudos  e lançar
+magias na forma híbrida, mas não pode usar armaduras.
+
+A forma animal corresponde sempre a um animal adulto, de grande porte,
+sem qualquer traço humano. E  quase indistinguível de um animal comum,
+exceto  por observação  atenta (por  exemplo,  sua reação  a armas  de
+prata) ou  meios mágicos.  Nesta forma um  Licantropo não  pode falar,
+lançar magias, ou usar quaisquer armas, armaduras ou escudos.
+
+Assumir forma animal  ou híbrida requer uma ação completa  e um PD. Um
+Licantropo pode  mudar de forma  quantas vezes quiser, e  manter-se em
+cada forma por quanto tempo quiser.  A reversão para a forma humana ou
+"Herdeira"  é  gratuita,  mas  ainda  exige  uma  ação  completa.   Um
+Licantropo morto reverte à sua forma humanóide.
+
+Diferentemente de licantropos de  outros cenários, o Licantropo Moreau
+não  passa  sua   "maldição"  para  outros:  esse  é   um  reflexo  da
+bestialidade mantida por alguns Moreau.
+
+- *Esse Aspecto  pode ser  Invocado para:* assumir  a forma  Animal ou
+  Híbrida, retornar para a forma original;
+- *Esse  Apsecto  pode  ser  Forçado para:*  refletir  a  bestialidade
+  interior do  licantropo em  seu comportamento; aumentar  a gravidade
+  dos ferimentos provocados por prata;
+
+
+#### Homens-Lobo
 
 ### Quellons
 
