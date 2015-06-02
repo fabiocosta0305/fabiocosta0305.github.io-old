@@ -320,6 +320,62 @@ pelo menos, vivos) da maioria dos problemas.
 
 ### Quellons
 
+- *Permissão:* Conceito
+- *Custo:* Nenhum
+
+Os  quellons  são  humanóides,  uma mistura  de  homens  e  tartarugas
+marinhas.  Têm  baixa   estatura  (variam  de  l,20m   a  l,60m),  são
+corpulentos   (pesam  de   80kg  a   120kg)  e   carregam  uma   forte
+carapaça. Tais como  as tartarugas, têm a visão, o  olfato e a audição
+extremamente desenvolvidos.  Além disso, contam com uma impressionante
+capacidade  de  orientação,  que  faz com  que,  mesmo  dispersos  nos
+oceanos, saibam o momento e o local de reunir-se para a reprodução.
+
+Há teorias de que os quellons  surgiram da vontade de Tamagrah, a ilha
+viva. Mas, hoje  em dia, ou eles nascem da  reprodução normal — quando
+as fêmeas colocam ovos em praias, de onde surgem filhos que, desde sua
+infância,  conseguem  viver   sozinhos  —  ou  alguma   outra  raça  é
+transformada pelo ritual dos monges Quellon.
+
+Os  quellons são  geralmente  tranqüilos e  centrados.  Não são  muito
+ligados  a assuntos  referentes a  outras raças,  vivendo dispersos  e
+isolados na maioria das vezes.  Apenas se juntam quando precisam achar
+um par  para dar continuidade a  sua raça. Por nascerem  sem a atenção
+dos   pais,    tornam-se   egocêntricos    e   orgulham-se    de   sua
+auto-suficiência. Os  quellons transformados  já agem  diferente. Como
+pertenciam a outra raça anteriormente, vivem em grupo e formam a Ordem
+dos Monges Quellon.
+
+Como explicado acima, os quellons  são humanóides com traços fortes de
+tartarugas. As  diferenças de aparência  de cada um podem  ser notadas
+especialmente  por  causa do  casco.   Uns  são formados  por  escamas
+marrons e amarelas,  sobrepostas como as telhas de  um telhado, outros
+são  de  coloração  castanho  esverdeada  ou  acinzentada,  cor  cinza
+esverdeada  e, mais  raramente, totalmente  pretos, com  alguns pontos
+azuis.   O macho  e a  fêmea pode  ser distinguidos  pelo tamanho,  as
+fêmeas geralmente são maiores e mais pesadas do que os machos.
+
+Um quellon  quase não se relaciona  com outros seres, vivem  para si e
+gostam da solidão.  Nas raras vezes em que se juntam com outros seres,
+pode ser despertado o prazer da amizade, companhia ou até amor. Nesses
+casos, o  quellon se adaptará às  novas emoções, como a  compaixão e a
+proteção.
+
+Apesar  de viverem  dispersos  pelos cantos  do  mundo, alguns  locais
+concentram uma  quantidade significativa de  seres dessa raça.  A ilha
+viva de Tamagrah é um desses locais, lá existem quellons de nascença e
+transformados. Uma  espécie de  sociedade é  mantida, mas  não existem
+leis ou regras,  somente um convívio neutro e  pacífico. Outros pontos
+onde podem ser encontrados quellons são  nas crias de Tamagrah e ilhas
+afastadas.
+
+- *O  Aspecto pode  ser Invocado  para:* Representar  calma diante  da
+  pressão;  beneficiarem-se  de  seus Sentidos  Apurados  da  audição,
+  olfato e visão.
+- *O Aspecto pode  ser Forçado para:* indicar timidez e  falta de tato
+  na  relação  com  outros;   causar  problemas  devido  aos  Sentidos
+  Apurados.
+
 ### Druidas, Clérigos e Magos
 
 #### Druidas
