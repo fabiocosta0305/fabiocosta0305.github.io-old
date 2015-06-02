@@ -37,8 +37,6 @@ guerreiro tem que saber de tudo
 #### **Aspectos**
 
 |------------------|--------------------------------------------------|
-|                  |                                                  |
-|------------------|--------------------------------------------------|
 | **Conceito:**    | Soldado da Fortuna de Brando                     |
 | **Dificuldade:** | Pouco à vontade sozinho                          |
 |                  | Espada e Magia, conforme os príncipios de Brando |
@@ -48,8 +46,6 @@ guerreiro tem que saber de tudo
 
 #### **Perícias**
 
-|-----------------|----------|-----------|-----------|----------|
-|                 |          |           |           |          |
 |-----------------|----------|-----------|-----------|----------|
 | *Ótimo (+4)*    | Lutar    |           |           |          |
 | *Bom (+3)*      | Vigor    | Provocar  |           |          |
@@ -95,8 +91,6 @@ alongado, similar ao focinho de um coelho
 #### **Aspectos**
 
 |------------------|--------------------------------------------------------------------|
-|                  |                                                                    |
-|------------------|--------------------------------------------------------------------|
 | **Conceito:**    | Barda Herdeira do Coelho de Laughton                               |
 | **Dificuldade:** | Desejo de Viagem - não passa mais que uma semana em qualquer lugar |
 |                  | Histórias estão em todos os lugares                                |
@@ -106,8 +100,6 @@ alongado, similar ao focinho de um coelho
 
 #### **Perícias**
 
-|-----------------|--------------|-------------|------------|-------|
-|                 |              |             |            |       |
 |-----------------|--------------|-------------|------------|-------|
 | *Ótimo (+4)*    | Ofício       |             |            |       |
 | *Bom (+3)*      | Conhecimento | Comunicação |            |       |
@@ -152,8 +144,6 @@ informaçaõ que ele ache relevante.
 #### **Aspectos**
 
 |------------------|--------------------------------------------------------------------|
-|                  |                                                                    |
-|------------------|--------------------------------------------------------------------|
 | **Conceito:**    | Mago do Nome Verdadeiro em busca de Conhecimento                   |
 | **Dificuldade:** | Vaticínio: Um dia voltará em definitivo para Vallaria              |
 |                  | *"Não há desculpa para estar deselegante!"*                        |
@@ -163,8 +153,6 @@ informaçaõ que ele ache relevante.
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|------------|----------|
-|                 |              |           |            |          |
 |-----------------|--------------|-----------|------------|----------|
 | *Ótimo (+4)*    | Conhecimento |           |            |          |
 | *Bom (+3)*      | Empatia      | Ofícios   |            |          |
@@ -219,8 +207,6 @@ líder...
 #### **Aspectos**
 
 |------------------|--------------------------------------------------------|
-|                  |                                                        |
-|------------------|--------------------------------------------------------|
 | **Conceito:**    | Bárbaro descendente do Urso do Clã Siovarn             |
 | **Dificuldade:** | Jovem Demais: 12 anos de idade - não é levado a sério  |
 |                  | Espada de Duas Mãos                                    |
@@ -230,8 +216,6 @@ líder...
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|-------------|----------|
-|                 |              |           |             |          |
 |-----------------|--------------|-----------|-------------|----------|
 | *Ótimo (+4)*    | Lutar        |           |             |          |
 | *Bom (+3)*      | Vigor        | Atletismo |             |          |
@@ -298,8 +282,6 @@ com desenhos de ossos o boneco com cartola símbolo de sua devoção.
 #### **Aspectos**
 
 |------------------|-----------------------------------------------------------|
-|                  |                                                           |
-|------------------|-----------------------------------------------------------|
 | **Conceito:**    | Devoto do Barão Samoieda Herdeiro da Raposa               |
 | **Dificuldade:** | Desencanado - ocasionalmente corre riscos desnecessários  |
 |                  | Sorriso nos lábios                                        |
@@ -309,8 +291,6 @@ com desenhos de ossos o boneco com cartola símbolo de sua devoção.
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|-------------|----------|
-|                 |              |           |             |          |
 |-----------------|--------------|-----------|-------------|----------|
 | *Ótimo (+4)*    | Vontade      |           |             |          |
 | *Bom (+3)*      | Fé           | Atletismo |             |          |
@@ -355,8 +335,6 @@ Altiva que encontra forças.
 #### **Aspectos**
 
 |------------------|-----------------------------------------------------------|
-|                  |                                                           |
-|------------------|-----------------------------------------------------------|
 | **Conceito:**    | Iniciada Druida seguidora da Dama Altiva                  |
 | **Dificuldade:** | *"As Tradições da Dama Altiva são sagradas"*              |
 |                  | Sempre se arrisca em favor da vida                        |
@@ -366,8 +344,6 @@ Altiva que encontra forças.
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|-------------|----------|
-|                 |              |           |             |          |
 |-----------------|--------------|-----------|-------------|----------|
 | *Ótimo (+4)*    | Comunhão     |           |             |          |
 | *Bom (+3)*      | Vontade      | Contatos  |             |          |
