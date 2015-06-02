@@ -336,3 +336,45 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+/* adding justification for blogposts
+------------------------------------------------------------------- */
+[itemprop="articleSection"]
+{
+        text-align: justify;
+        
+        h1
+        {
+                text-align: center;
+        }
+
+        h3, h4, h5
+        {
+                border-bottom-style: solid;
+                border-bottom-width: 3px;
+        }                       
+        
+        h1, h3
+        {
+                font-weight: bold;
+        }
+
+        h2, h4, h5
+        {
+                font-weight: normal;
+        }
+
+        h6
+        {
+                font-style: italic;
+                margin-bottom: 0px;
+                border-bottom-style: solid;
+                border-bottom-width: 1px;
+        }
+
+        td
+        {      
+          padding-right: 10px;
+          padding-left: 10px;
+        }       
+}
