@@ -11,6 +11,7 @@ tags:
   - Uma Cilada para Roger Rabbit
   - Roger Rabbit
   - Destino dos Desenhos Animados
+header: no
 ---
 ## Personagens
 
