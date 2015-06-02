@@ -1,15 +1,19 @@
 ---
-title: Regras para o Destino de Moreania
-layout: post
-tags: ["Fate","Fate Core", "Regras", "Moreania", "Reinos de Moreania", "DragonSlayer"]
+title: Grupo Inicial para o Destino de Moreania
+subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
+layout: page
+tags:
+ - Fate
+ - Fate Core
+ - Regras
+ - Moreania
+ - Reinos de Moreania
+ - DragonSlayer
 ---
-
-# Regras do Destino de Moreania
-
-## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
 - [Cenário](/DestinoDeMoreania)
 - [Extras](/DestinoDeMoreania-extras)
+- [Grupo](/DestinoDeMoreania-grupo)
 
 ### Criação de Personagens
 
