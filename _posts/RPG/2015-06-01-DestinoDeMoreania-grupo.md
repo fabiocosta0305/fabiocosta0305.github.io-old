@@ -349,3 +349,9 @@ Altiva que encontra forças.
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
+
+<ul>
+    {% for tag in page.tags %}
+    <li>{{ tag.title }}</li>
+    {% endfor %}
+</ul>
