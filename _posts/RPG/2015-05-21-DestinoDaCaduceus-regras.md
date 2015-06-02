@@ -1,6 +1,6 @@
 ---
 title: Regras para o Destino da Caduceus
-subheadline: baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii
+subheadline: baseado na série de Jogos Trauma Center para Nintendo DS/Wii
 layout: page
 categories:
  - RPG
