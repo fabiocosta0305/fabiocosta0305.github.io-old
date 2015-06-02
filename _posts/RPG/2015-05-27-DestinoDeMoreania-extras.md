@@ -13,11 +13,11 @@ tags:
  - DragonSlayer
 ---
 
-- [Cenário](/DestinoDeMoreania)
-- [Regras](/DestinoDeMoreania-regras)
-- [Grupo](/DestinoDeMoreania-grupo)
+- [Cenário](/rpg/DestinoDeMoreania)
+- [Regras](/rpg/DestinoDeMoreania-regras)
+- [Grupo](/rpg/DestinoDeMoreania-grupo)
 
-### Moreau Herdeiros
+### Herdeiros Moreau
 - *Permissão:* Indicar qual  dos Doze Animais o  personagem é Herdeiro
   no Conceito do mesmo
 - *Custo:* Nenhum

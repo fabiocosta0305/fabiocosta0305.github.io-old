@@ -13,9 +13,9 @@ tags:
  - DragonSlayer
 ---
 
-- [Cenário](/DestinoDeMoreania)
-- [Extras](/DestinoDeMoreania-extras)
-- [Grupo](/DestinoDeMoreania-grupo)
+- [Cenário](/rpg/DestinoDeMoreania)
+- [Extras](/rpg/DestinoDeMoreania-extras)
+- [Grupo](/rpg/DestinoDeMoreania-grupo)
 
 ### Criação de Personagens
 

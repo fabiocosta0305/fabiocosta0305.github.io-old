@@ -13,9 +13,9 @@ tags:
  - DragonSlayer
 ---
 
-- [Regras](/DestinoDeMoreania-regras)
-- [Extras](/DestinoDeMoreania-extras)
-- [Extras](/DestinoDeMoreania-grupo)
+- [Regras](/rpg/DestinoDeMoreania-regras)
+- [Extras](/rpg/DestinoDeMoreania-extras)
+- [Extras](/rpg/DestinoDeMoreania-grupo)
 
 ### Ambientação e Escala
 

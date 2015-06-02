@@ -13,9 +13,9 @@ tags:
  - DragonSlayer
 ---
 
-- [Cenário](/DestinoDeMoreania)
-- [Regras](/DestinoDeMoreania-regras)
-- [Extras](/DestinoDeMoreania-extras)
+- [Cenário](/rpg/DestinoDeMoreania)
+- [Regras](/rpg/DestinoDeMoreania-regras)
+- [Extras](/rpg/DestinoDeMoreania-extras)
 
 ### Astarte Treehills
 
