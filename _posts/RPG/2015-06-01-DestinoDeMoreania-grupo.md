@@ -44,12 +44,10 @@ guerreiro tem que saber de tudo
 
 #### **Perícias**
 
-|-----------------|----------|-----------|-----------|----------|
 | *Ótimo (+4)*    | Lutar    |           |           |          |
 | *Bom (+3)*      | Vigor    | Provocar  |           |          |
 | *Razoável (+2)* | Fogo     | Empatia   | Vontade   |          |
 | *Regular (+1)*  | Arqueria | Percepção | Atletismo | Contatos |
-|-----------------|----------|-----------|-----------|----------|
 
 #### **Façanhas**
 
@@ -88,22 +86,18 @@ alongado, similar ao focinho de um coelho
 
 #### **Aspectos**
 
-|------------------|--------------------------------------------------------------------|
 | **Conceito:**    | Barda Herdeira do Coelho de Laughton                               |
 | **Dificuldade:** | Desejo de Viagem - não passa mais que uma semana em qualquer lugar |
 |                  | Histórias estão em todos os lugares                                |
 |                  | Se sente a vontade quando protegida                                |
 |                  | [em aberto]                                                        |
-|------------------|--------------------------------------------------------------------|
 
 #### **Perícias**
 
-|-----------------|--------------|-------------|------------|-------|
 | *Ótimo (+4)*    | Ofício       |             |            |       |
 | *Bom (+3)*      | Conhecimento | Comunicação |            |       |
 | *Razoável (+2)* | Empatia      | Enganar     | Vontade    |       |
 | *Regular (+1)*  | Provocar     | Percepção   | Investigar | Vigor |
-|-----------------|--------------|-------------|------------|-------|
 
 #### **Façanhas**
 
@@ -141,22 +135,18 @@ informaçaõ que ele ache relevante.
 
 #### **Aspectos**
 
-|------------------|--------------------------------------------------------------------|
 | **Conceito:**    | Mago do Nome Verdadeiro em busca de Conhecimento                   |
 | **Dificuldade:** | Vaticínio: Um dia voltará em definitivo para Vallaria              |
 |                  | *"Não há desculpa para estar deselegante!"*                        |
 |                  | Conhecimentos em sua Mochila                                       |
 |                  | [em aberto]                                                        |
-|------------------|--------------------------------------------------------------------|
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|------------|----------|
 | *Ótimo (+4)*    | Conhecimento |           |            |          |
 | *Bom (+3)*      | Empatia      | Ofícios   |            |          |
 | *Razoável (+2)* | Comunicação  | Enganar   | Vontade    |          |
 | *Regular (+1)*  | Recursos     | Lutar     | Investigar | Provocar |
-|-----------------|--------------|-----------|------------|----------|
 
 #### **Façanhas**
 
@@ -204,22 +194,18 @@ líder...
 
 #### **Aspectos**
 
-|------------------|--------------------------------------------------------|
 | **Conceito:**    | Bárbaro descendente do Urso do Clã Siovarn             |
 | **Dificuldade:** | Jovem Demais: 12 anos de idade - não é levado a sério  |
 |                  | Espada de Duas Mãos                                    |
 |                  | Deseja provar-se                                       |
 |                  | [em aberto]                                            |
-|------------------|--------------------------------------------------------|
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|-------------|----------|
 | *Ótimo (+4)*    | Lutar        |           |             |          |
 | *Bom (+3)*      | Vigor        | Atletismo |             |          |
 | *Razoável (+2)* | Empatia      | Enganar   | Arremesso   |          |
 | *Regular (+1)*  | Arqueria     | Roubo     | Comunicação | Provocar |
-|-----------------|--------------|-----------|-------------|----------|
 
 #### **Façanhas**
 
@@ -279,22 +265,18 @@ com desenhos de ossos o boneco com cartola símbolo de sua devoção.
 
 #### **Aspectos**
 
-|------------------|-----------------------------------------------------------|
 | **Conceito:**    | Devoto do Barão Samoieda Herdeiro da Raposa               |
 | **Dificuldade:** | Desencanado - ocasionalmente corre riscos desnecessários  |
 |                  | Sorriso nos lábios                                        |
 |                  | Conhecedor de Segredos                                    |
 |                  | [em aberto]                                               |
-|------------------|-----------------------------------------------------------|
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|-------------|----------|
 | *Ótimo (+4)*    | Vontade      |           |             |          |
 | *Bom (+3)*      | Fé           | Atletismo |             |          |
 | *Razoável (+2)* | Roubo        | Enganar   | Provocar    |          |
 | *Regular (+1)*  | Lutar        | Arremesso | Comunicação | Empatia  |
-|-----------------|--------------|-----------|-------------|----------|
 
 #### **Façanhas**
 
@@ -332,22 +314,18 @@ Altiva que encontra forças.
 
 #### **Aspectos**
 
-|------------------|-----------------------------------------------------------|
 | **Conceito:**    | Iniciada Druida seguidora da Dama Altiva                  |
 | **Dificuldade:** | *"As Tradições da Dama Altiva são sagradas"*              |
 |                  | Sempre se arrisca em favor da vida                        |
 |                  | Tenta refletir antes de julgar                            |
 |                  | [em aberto]                                               |
-|------------------|-----------------------------------------------------------|
 
 #### **Perícias**
 
-|-----------------|--------------|-----------|-------------|----------|
 | *Ótimo (+4)*    | Comunhão     |           |             |          |
 | *Bom (+3)*      | Vontade      | Contatos  |             |          |
 | *Razoável (+2)* | Comunicação  | Empatia   | Provocar    |          |
 | *Regular (+1)*  | Enganar      | Percepção | Investigar  | Recursos |
-|-----------------|--------------|-----------|-------------|----------|
 
 #### **Façanhas**
 
