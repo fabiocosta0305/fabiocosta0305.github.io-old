@@ -1,7 +1,7 @@
 ---
 title: Grupo Inicial para o Destino de Moreania
 subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
-layout: page
+layout: page-fulwidth
 tags:
  - Fate
  - Fate Core
@@ -10,7 +10,6 @@ tags:
  - Reinos de Moreania
  - DragonSlayer
 ---
-
 
 - [Cenário](/DestinoDeMoreania)
 - [Regras](/DestinoDeMoreania-regras)

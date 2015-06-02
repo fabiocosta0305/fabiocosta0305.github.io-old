@@ -1,15 +1,19 @@
 ---
 title: Extras para o Destino de Moreania
-layout: post
-tags: ["Fate","Fate Core", "Extras", "Moreania", "Reinos de Moreania", "DragonSlayer"]
+subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
+layout: page-fullwidth
+tags:
+ - Fate
+ - Fate Core
+ - Extras
+ - Moreania
+ - Reinos de Moreania
+ - DragonSlayer
 ---
-
-# Extras para o Destino de Moreania
-
-## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
 - [Cenário](/DestinoDeMoreania)
 - [Regras](/DestinoDeMoreania-regras)
+- [Grupo](/DestinoDeMoreania-grupo)
 
 ### Moreau Herdeiros
 - *Permissão:* Indicar qual  dos Doze Animais o  personagem é Herdeiro
