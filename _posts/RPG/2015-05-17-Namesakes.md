@@ -1,6 +1,7 @@
 ---
 title: Namesakes (Honôminos) 
-layout: baseado na webcomic "Namesakes" - http://namesakecomic.com
+subheadline: baseado na webcomic "Namesakes" - http://namesakecomic.com
+layout: page
 categories:
  - RPG
 tags:
