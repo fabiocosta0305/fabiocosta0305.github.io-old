@@ -7,7 +7,7 @@ categories:
 tags:
  - Fate
  - Fate Core
- - Personagens
+ - Personagens 
  - Moreania
  - Reinos de Moreania
  - DragonSlayer
