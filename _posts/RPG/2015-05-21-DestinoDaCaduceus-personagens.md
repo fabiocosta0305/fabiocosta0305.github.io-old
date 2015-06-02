@@ -1,16 +1,22 @@
 ---
-title: Destino da Caduceus - Personagens
-layout: post
-tags: ["Fate","Fate Core","Personagens", "Trauma Center", "Destino da Caduceus"]
+title: Personagens do Destino da Caduceus
+subheadline: baseado na série de Jogos Trauma Center para Nintendo DS/Wii
+layout: page
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Personagem
+ - Trauma Center
+ - Destino da Caduceus
 ---
-
-# Personagens do Destino da Caduceus
 
 ## baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii
 
 - [versão original para FATE 2.0](http://maisquatro.wordpress.com/2008/08/16/mini-cenario-para-fudgefate-terrorismo-medico/)
-- [informações de cenário](/DestinoDaCaduceus)
-- [regras](/DestinoDaCaduceus-regras)
+- [informações de cenário](/rpg/DestinoDaCaduceus)
+- [regras](/rpg/DestinoDaCaduceus-regras)
 
 ### Derek Stiles
 
