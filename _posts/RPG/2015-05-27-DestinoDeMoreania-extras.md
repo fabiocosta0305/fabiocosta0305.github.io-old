@@ -1,7 +1,7 @@
 ---
 title: Extras para o Destino de Moreania
 subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
-layout: page-fullwidth
+layout: page
 tags:
  - Fate
  - Fate Core
