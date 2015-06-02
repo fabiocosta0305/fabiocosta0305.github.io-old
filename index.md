@@ -4,8 +4,9 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: Blog-Pages
+layout: frontpage
 title: "Os Cacarecos do Fábio"
-header: no
+header:
+   image_fullwidth: "header_unsplash_12.jpg"
 ---
 
