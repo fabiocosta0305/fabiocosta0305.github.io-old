@@ -391,7 +391,8 @@ capacidade de distinguir cor e detalhes.
 Licantropos podem atacar,  em sua forma animal ou  híbrida com garras,
 mordida ou cauda,  conforme a espécie. Ataques com  armas naturais são
 considerados  ataques   desarmados,  portanto  utilizando   a  Perícia
-*Lutar*.
+*Lutar*. Em todas  as formas, o Licantropo recebe +2  em *Lutar*, além
+de uma segunda Perícia conforme o tipo de Licantropo e a forma.
 
 Armas de Prata  são Anátema para os Licantropos. Se  o jogador estiver
 usando uma  arma de prata contra  um Licantropo, o mesmo  recebe +2 de
@@ -406,9 +407,9 @@ devido às características  sociais dos lobos.  No  entanto, aqueles em
 estado  selvagem  sáo  muito  perigosos, justamente  porque  vivem  em
 matilhas formadas por outros lobos ou Lobisomens.
 
-- *Bônus da  Forma Híbrida:* +2 em  *Vigor* e *Lutar* (não  aumenta as
+- *Bônus  da   Forma  Híbrida:*   +2  em   *Vigor*  (não   aumenta  as
   Conseqüências);
-- *Bônus da Forma Animal:* +2 em *Atletismo* e *Percepção*
+- *Bônus da Forma Animal:* +2 em *Atletismo* 
 
 #### Homens-Crocodilo
 
@@ -419,8 +420,19 @@ ficar imóveis durante horas (ou  até mesmo dias) enquanto esperam pela
 passagem  de  uma presa.   É  comum  que  se  organizem em  bandos  de
 assaltantes, espreitando à beira das estradas.
 
-- *Bônus da Forma Híbrida:* +2 em *Furtividade* e *Lutar*
-- *Bônus da Forma Animal:* +2 em *Enganar* e *Lutar*
+- *Bônus da Forma Híbrida:* +2 em *Furtividade*
+- *Bônus da Forma Animal:* +2 em *Enganar*
+
+#### Homens-Leão
+
+Habitante de campos e montanhas, o  Homem- Leão tende a ser um eremita
+solitário e  territorial, muito  perigoso, atacando todos  aqueles que
+invadem  seus domínios.  Alguns  comandam bandos  formados por  outros
+leões  (apenas fêmeas  e filhotes),  mas nunca  aceitam a  presença de
+outro Licantropo.
+
+- *Bônus da Forma Híbrida:* +2 em *Provocar* 
+- *Bônus da Forma Animal:* +2 em *Provocar*
 
 
 ### Quellons
