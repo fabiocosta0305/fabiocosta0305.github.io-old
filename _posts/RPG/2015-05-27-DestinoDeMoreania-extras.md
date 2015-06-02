@@ -459,8 +459,17 @@ origem maligna e decidem ser heróis.
 - *Bônus da Forma Híbrida:* Aspecto *Voar*
 - *Bônus da Forma Animal:* Aspecto *Voar*
 
+#### Homens-Serpentes
 
+Os  mais   sinistros  Licantropos   demonstram  ser  também   os  mais
+inteligentes  e  traiçoeiros.  Sáo  muito  astutos  em  disfarçar  sua
+verdadeira  natureza, assumindo  identidades falsas,  misturandose aos
+Moreau em suas próprias cidades,  para atacá-los quando menos esperam:
+assassinatos cometidos na calada da noite são muitas vezes perpetrados
+por estes monstros de sangue frio.
 
+- *Bônus da Forma Híbrida:* +2 em *Lutar*
+- *Bônus da Forma Animal:*  +2 em *Furtividade*
 
 ### Quellons
 
