@@ -36,13 +36,11 @@ guerreiro tem que saber de tudo
 
 #### **Aspectos**
 
-|------------------+--------------------------------------------------|
 | **Conceito:**    | Soldado da Fortuna de Brando                     |
 | **Dificuldade:** | Pouco à vontade sozinho                          |
 |                  | Espada e Magia, conforme os príncipios de Brando |
 |                  | Sempre tem a hora certa para tudo                |
 |                  | [em aberto]                                      |
-|------------------+--------------------------------------------------|
 
 #### **Perícias**
 
