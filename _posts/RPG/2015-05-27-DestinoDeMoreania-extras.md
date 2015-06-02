@@ -1,4 +1,4 @@
----
+]---
 title: Extras para o Destino de Moreania
 subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
 layout: page
@@ -419,9 +419,8 @@ ficar imóveis durante horas (ou  até mesmo dias) enquanto esperam pela
 passagem  de  uma presa.   É  comum  que  se  organizem em  bandos  de
 assaltantes, espreitando à beira das estradas.
 
-- *Bônus da Forma  Híbrida:* +2 em *Atletismo* e  *Lutar* (não aumenta
-  as Conseqüências);
-- *Bônus da Forma Híbrida:* +2 em *Atletismo* e *Lutar*
+- *Bônus da Forma Híbrida:* +2 em *Furtividade* e *Lutar*
+- *Bônus da Forma Animal:* +2 em *Enganar* e *Lutar*
 
 
 ### Quellons
