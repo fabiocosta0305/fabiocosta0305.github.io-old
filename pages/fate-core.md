@@ -13,3 +13,9 @@ permalink: "/fate-core/"
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+<ul>
+    {% for tag in site.tags %}
+    <li>{{ tag.title }}</li>
+    {% endfor %}
+</ul>
