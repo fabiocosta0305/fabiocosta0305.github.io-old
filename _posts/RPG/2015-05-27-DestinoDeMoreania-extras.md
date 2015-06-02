@@ -376,11 +376,53 @@ bestialidade mantida por alguns Moreau.
 - *Esse Aspecto  pode ser  Invocado para:* assumir  a forma  Animal ou
   Híbrida, retornar para a forma original;
 - *Esse  Apsecto  pode  ser  Forçado para:*  refletir  a  bestialidade
-  interior do  licantropo em  seu comportamento; aumentar  a gravidade
-  dos ferimentos provocados por prata;
+  interior do  licantropo em  seu comportamento;
 
+#### Extra: Formas Animais ou Híbridas
+
+- *Permissão:* Licantropo
+- *Custo:* Nenhum
+
+Todo Licantropo enxerga,  quando em sua forma animal  ou híbrida, duas
+vezes mais  longe que os  Humanos sob a luz  das estrelas, da  lua, de
+tochas ou  outras condições  de pouca  iluminação. Eles  preservam sua
+capacidade de distinguir cor e detalhes.
+
+Licantropos podem atacar,  em sua forma animal ou  híbrida com garras,
+mordida ou cauda,  conforme a espécie. Ataques com  armas naturais são
+considerados  ataques   desarmados,  portanto  utilizando   a  Perícia
+*Lutar*.
+
+Armas de Prata  são Anátema para os Licantropos. Se  o jogador estiver
+usando uma  arma de prata contra  um Licantropo, o mesmo  recebe +2 de
+Estresse  no dano  final.  Apenas tocar  em  um objeto  de  prata é  o
+suficiente para provocar 1 ponto de Estresse direto.
 
 #### Homens-Lobo
+
+É o mais conhecido e comum  entre os Licantropos, e também aquele mais
+propenso a  ignorar sua natureza selvagem  e viver entre os  humanos —
+devido às características  sociais dos lobos.  No  entanto, aqueles em
+estado  selvagem  sáo  muito  perigosos, justamente  porque  vivem  em
+matilhas formadas por outros lobos ou Lobisomens.
+
+- *Bônus da  Forma Híbrida:* +2 em  *Vigor* e *Lutar* (não  aumenta as
+  Conseqüências);
+- *Bônus da Forma Animal:* +2 em *Atletismo* e *Percepção*
+
+#### Homens-Crocodilo
+
+Talvez  os mais  irracionais  e primitivos  entre  os Licantropos,  os
+Homens-Crocodilo  são movidos  pela voracidade,  atacando e  devorando
+qualquer coisa  que se  mova.  Sáo mestres  em emboscadas,  capazes de
+ficar imóveis durante horas (ou  até mesmo dias) enquanto esperam pela
+passagem  de  uma presa.   É  comum  que  se  organizem em  bandos  de
+assaltantes, espreitando à beira das estradas.
+
+- *Bônus da Forma  Híbrida:* +2 em *Atletismo* e  *Lutar* (não aumenta
+  as Conseqüências);
+- *Bônus da Forma Híbrida:* +2 em *Atletismo* e *Lutar*
+
 
 ### Quellons
 
