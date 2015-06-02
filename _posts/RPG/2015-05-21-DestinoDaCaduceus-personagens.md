@@ -57,7 +57,7 @@ Novo, ainda “verde” na pesquisa e exercício da Medicina, Derek Stiles foi e
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Angela "Angie" Thompston
 
@@ -96,7 +96,7 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Robert Hoffman
 
@@ -138,7 +138,7 @@ Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman tam
 
 __*Observação:*__ O Doutor Hoffman já passou por *ao menos* Dois Marcos Maiores
 
-===
+
 
 ### Greg Kasal
 
@@ -180,7 +180,7 @@ Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Sidney Kasal
 
@@ -223,7 +223,7 @@ Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Stephen Clarks
 
@@ -261,7 +261,7 @@ Principal cirurgião da CADUCEUS América, é também um dos seus principais pes
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Cybil Myers
 
@@ -299,7 +299,7 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Victor Nigel
 
@@ -339,7 +339,7 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Tyler Chase
 
@@ -347,17 +347,14 @@ Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irm
 
 #### Aspectos
 
-- **Conceito:** Médico Pesquisador da CADUCEUS América
-- **Dificuldade:** Irmã muito doente - *GUILT Deftera*
-- **Chamado de Hipócrates:** A vida e a morte devem ser dignas - pesquisador de eutanásia e ortotanásia
-- **Aspectos:**
-  - Cavalheiro com mulheres
-  - Conhece Derek Stiles da Faculdade
+ | **Conceito** | Médico Pesquisador da CADUCEUS América | 
+ | **Dificuldade** |  Irmã muito doente - *GUILT Deftera* | 
+ | **Chamado de Hipócrates**  | A vida e a morte devem ser dignas - pesquisador de eutanásia e ortotanásia | 
+ |  | Cavalheiro com mulheres | 
+ |  | Conhece Derek Stiles da Faculdade | 
 
 #### Perícias
 
-|                |             |             |            |             |
-|----------------|-------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Medicina    |             |            |             |
 |*Bom (+3)*      | Patologia   | Instrução   |            |             |
 |*Razoável (+2)* | Empatia     | Educação    | Tecnologia |             |
@@ -367,8 +364,8 @@ Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irm
 
 - Especialidade Médica - Cirurgião Geral
 - Técnica Anti-Ética - Eutanásia
-  - Tyler conhece muito sobre como induzir uma pessoa à morte. Ele pode usar *Medicina* para Atacar pessoas
-- Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Medicina*)
+  - Tyler conhece muito sobre como induzir uma pessoa à morte. Ele pode usar *Medicina* para *Atacar* pessoas
+- Escudo da Razão (__FB 96__, aplicável a *Medicina*)
 
 #### Recarga, Estresse e Consequências
 
@@ -381,7 +378,7 @@ Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irm
   - *Moderada (4):*
   - *Severa (6):*
 
-===
+
 
 ### Adel Tulba
 
@@ -389,17 +386,14 @@ Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele
 
 #### Aspectos
 
-- **Conceito:** Médico de Campo da CADUCEUS 
-- **Dificuldade:** Sempre pensa no melhor para seu povo
-- **Chamado de Hipócrates:** Só quem passa pelo que passei e perdeu o que perdi sabe o quanto é duro
-- **Aspectos:**
-  - Novato Inseguro
-  - Tutor Exigente: Tyler Chase
+ |  **Conceito**  | Médico de Campo da CADUCEUS  | 
+ |  **Dificuldade**  | Sempre pensa no melhor para seu povo | 
+ |  **Chamado de Hipócrates**  | Só quem passa pelo que passei e perdeu o que perdi sabe o quanto é duro | 
+ |  |  Novato Inseguro | 
+ |  |  Tutor Exigente: Tyler Chase | 
 
 #### Perícias
 
-|                |             |             |            |             |
-|----------------|-------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Medicina    |             |            |             |
 |*Bom (+3)*      | Empatia     | Instrução   |            |             |
 |*Razoável (+2)* | Patologia   | Educação    | Tecnologia |             |
@@ -409,7 +403,7 @@ Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele
 
 - Especialidade Médica - Cirurgião Geral
 - Médico de Campo
-- Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Medicina*)
+- Escudo da Razão (__FB 96__, aplicável a *Medicina*)
 
 #### Recarga, Estresse e Consequências
 
@@ -424,7 +418,7 @@ Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele
 
 *Obs:* Quando ele está infectado pelo **Neo-GUILT** *Sige*, o Aspecto *Novato Inseguro* troca para *Toque de Cura*. Ele recebe a *Façanha* *Toque de Cura - Velocidade Ampliada*, mas ao mesmo tempo cada uso vai piorando nele uma *Conseqüência __Mente Instável__*.
 
-===
+
 
 ### Naomi Kishikima
 
@@ -432,17 +426,14 @@ Fria e calculista, a bela *Naomi Kishikima* é amoral quanto ao uso de suas habi
 
 #### Aspectos
 
-- **Conceito:** Ex-agente da DELPHI, cirurgiã e médica forense
-- **Dificuldade:** Médica do Demônio (devido ao seu Toque de Cura, considerado anti-natural)
-- **Chamado de Hipócrates:** Apenas uma forma de viver
-- **Aspectos:**
-  - Elegante não importa o que aconteça
-  - Evita se prejudicar
+ |  **Conceito**  | Ex-agente da DELPHI, cirurgiã e médica forense | 
+ |  **Dificuldade**  | Médica do Demônio (devido ao seu Toque de Cura, considerado anti-natural) | 
+ |  **Chamado de Hipócrates**  | Apenas uma forma de viver | 
+ |  |  Elegante não importa o que aconteça | 
+ |  | Evita se prejudicar | 
 
 #### Perícias
 
-|                |             |             |            |             |
-|----------------|-------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Medicina    |             |            |             |
 |*Bom (+3)*      | Investigar  | Instrução   |            |             |
 |*Razoável (+2)* | Patologia   | Educação    | Provocar   |             |
