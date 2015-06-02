@@ -6,8 +6,10 @@
   url: "/rpg/"
   side: left
   # dropdown:
-  #   - title: Fate
-  #     - url: "/fate/"
+
+- title: Fate
+  url: "/fate/"
+  side: left
 
 # - title: "Templates"
 #   url: "/design/"
