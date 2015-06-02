@@ -8,6 +8,7 @@ tags:
   - Fate
   - Cenário
   - Namesakes
+header: no
 ---
 
 ### Ambientação e Escala
