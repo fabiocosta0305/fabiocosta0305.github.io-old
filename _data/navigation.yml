@@ -16,7 +16,7 @@
   side: left
   dropdown:
     - title: "Destino de Moreania"
-    - url: "/fate-core/moreania/"
+      url: "/fate-core/moreania/"
 
 # - title: "Templates"
 #   url: "/design/"
