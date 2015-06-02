@@ -1,11 +1,17 @@
 ---
-title: Destino do Protetorado da Sombrinha - Problemas e Aspectos
-layout: post
-tags: ["Fate","Fate Core","Cenário", "Protetorado da Sombrinha", "Parasol Protectorate", "Alexia Tarabotti"]
+title: Destino do Protetorado da Sombrinha
+subheadline: baseado na série de livros O Protetorado da Sombrinha de Gail Carriger
+layout: page
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Cenário
+ - Protetorado da Sombrinha
+ - Parasol Protectorate
+ - Alexia Tarabotti
 ---
-
-Protetorado da Sombrinha 
-========================
 
 ### Ambientação e Escala
 
