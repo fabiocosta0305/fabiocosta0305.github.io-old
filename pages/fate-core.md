@@ -6,7 +6,7 @@ title: "Meus Materiais de Fate Core!"
 teaser: "Esses são alguns materiais de Fate Core que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/fate/"
+permalink: "/fate-core/"
 ---
 <ul>
     {% for post in site.tags.Fate-Core %}
