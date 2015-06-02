@@ -352,6 +352,6 @@ Altiva que encontra forças.
 
 <ul>
     {% for tag in page.tags %}
-    <li>{{ tag.name }}</li>
+    <li>{{ tag }}</li>
     {% endfor %}
 </ul>
