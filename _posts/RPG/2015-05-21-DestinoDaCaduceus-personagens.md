@@ -24,17 +24,14 @@ Novo, ainda “verde” na pesquisa e exercício da Medicina, Derek Stiles foi e
 
 #### Aspectos
 
-- **Conceito:** Médico da CADUCEUS portador do Toque da Cura
-- **Dificuldade:** Às vezes inseguro, faz qualquer coisa para salvar um paciente
-- **Chamado de Hipócrates:** *"Meu pai morreu antes do tempo..."*
-- **Aspectos:**
-  - Relação de amor tensa com sua parceira como enfermeira Angie Thompson
-  - *"Todos sempre me ensinam algo"*
+| **Conceito** | Médico da CADUCEUS portador do Toque da Cura |
+| **Dificuldade** | Às vezes inseguro, faz qualquer coisa para salvar um paciente |
+| **Chamado de Hipócrates** | *"Meu pai morreu antes do tempo..."* |
+| | Relação de amor tensa com sua parceira como enfermeira Angie Thompson |
+| |  - *"Todos sempre me ensinam algo"* |
 
 #### Perícias
 
-|                |           |             |            |           |
-|----------------|-----------|-------------|------------|-----------|
 |*Ótimo (+4)*    | Vontade   |             |            |           |
 |*Bom (+3)*      | Medicina  | Empatia     |            |           |
 |*Razoável (+2)* | Educação  | Notar       | Tecnologia |           |
