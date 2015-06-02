@@ -1,5 +1,5 @@
 ---
-title: Uma Cilada Para Roger Rabbits
+title: Uma Cilada Para Roger Rabbit
 layout: page
 categories:
  - RPG
