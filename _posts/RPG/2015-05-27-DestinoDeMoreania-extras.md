@@ -425,14 +425,40 @@ assaltantes, espreitando à beira das estradas.
 
 #### Homens-Leão
 
-Habitante de campos e montanhas, o  Homem- Leão tende a ser um eremita
+Habitante de campos  e montanhas, o Homem-Leão tende a  ser um eremita
 solitário e  territorial, muito  perigoso, atacando todos  aqueles que
-invadem  seus domínios.  Alguns  comandam bandos  formados por  outros
+invadem  seus domínios.   Alguns comandam  bandos formados  por outros
 leões  (apenas fêmeas  e filhotes),  mas nunca  aceitam a  presença de
 outro Licantropo.
 
 - *Bônus da Forma Híbrida:* +2 em *Provocar* 
 - *Bônus da Forma Animal:* +2 em *Provocar*
+
+#### Homens-Hiena
+
+Vivem em pequenos bandos nômades, conservando os hábitos necrófagos de
+seus  ancestrais —  são  os Licantropos  com  apetite menos  exigente,
+capazes de comer quase qualquer  coisa, incluindo carniça. No entanto,
+quase  nunca  perdem  a  oportunidade   de  emboscar  e  matar  presas
+indefesas, explorando  sua superioridade numérica —  seja na companhia
+de outros Licantropos ou hienas comuns.
+
+- *Bônus da Forma Híbrida:* +2 em *Enganar* 
+- *Bônus da Forma Animal:* +2 em *Furtividade*
+
+#### Homens-Morcegos
+
+Embora sejam os  menores Licantropos, são também os  únicos capazes de
+voar, enchendo suas vítimas de  terror. Espreitam fazendas paxa atacar
+o gado e matar camponeses, mas também podem ser encontrados em grandes
+cidades, escondidos nas  torres dos templos e  igrejas, esperando pela
+proteçáo da noite.  Sáo sombrios e sinistros, mesmo  quando vencem sua
+origem maligna e decidem ser heróis.
+
+- *Bônus da Forma Híbrida:* Aspecto *Voar*
+- *Bônus da Forma Animal:* Aspecto *Voar*
+
+
 
 
 ### Quellons

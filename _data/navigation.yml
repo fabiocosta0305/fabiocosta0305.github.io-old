@@ -11,9 +11,12 @@
   url: "/fate/"
   side: left
 
-- title: Destino de Moreania
-  url: "/moreania/"
+- title: Fate Core
+  url: "/fate-core/"
   side: left
+  dropdown:
+    - title: "Destino de Moreania"
+    - url: "/fate-core/moreania/"
 
 # - title: "Templates"
 #   url: "/design/"
