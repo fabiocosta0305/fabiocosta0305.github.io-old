@@ -8,6 +8,7 @@
 
 - title: "Fate"
   - url: "/fate/"
+  - side: left
 
 # - title: "Templates"
 #   url: "/design/"
