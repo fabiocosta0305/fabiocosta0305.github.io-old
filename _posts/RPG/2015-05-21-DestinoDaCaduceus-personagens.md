@@ -285,8 +285,8 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
 #### Façanhas
 
 - Especialidade Médica - Anestesiologia
-- Bate Pesado (*__Heavy Hitter__, FC111*)
-- Okay, você pediu! (*__Okay, Fine__, FC120*)
+- Pancada em Cheio (**FB 107**)
+- Certo, Tudo Bem! (**FB 113**)
 
 #### Recarga, Estresse e Consequências
 
