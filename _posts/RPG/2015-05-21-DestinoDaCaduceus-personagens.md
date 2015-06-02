@@ -65,17 +65,14 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
 
 #### Aspectos
 
-- **Conceito:** Enfermeira Gênio da CADUCEUS
-- **Dificuldade:** Não suporta demonstrações de fraqueza
-- **Chamado de Hipócrates:** Quer entender o que levou o pai a abandoná-la quando criança
-- **Aspectos:**
-  - Anjo Protetor: o pai, Kenneth Blackwell (agente da DELPHI)
-  - Tenta não demonstrar, mas gosta muito de Derek
+| **Conceito** | Enfermeira Gênio da CADUCEUS |
+| **Dificuldade** | Não suporta demonstrações de fraqueza |
+| **Chamado de Hipócrates** | Quer entender o que levou o pai a abandoná-la quando criança |
+| | Anjo Protetor: o pai, Kenneth Blackwell (agente da DELPHI) |
+| | Tenta não demonstrar, mas gosta muito de Derek |
 
 #### Perícias
 
-|                |            |             |            |           |
-|----------------|------------|-------------|------------|-----------|
 |*Ótimo (+4)*    | Instrução  |             |            |           |
 |*Bom (+3)*      | Medicina   | Educação    |            |           |
 |*Razoável (+2)* | Investigar | Notar       | Tecnologia |           |
@@ -84,7 +81,7 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
 #### Façanhas
 
 - Especialidade Médica - Enfermagem
-- Li Sobre isso (__*I've Read about That!*, FC115__, focado em *Medicina*)
+- Já Li Sobre Isso (__FB 96__, focado em *Medicina*)
 - Técnica Nocauteadora
   - Se Angie é bem sucedida em um *Ataque* por *Lutar*, ela pode, ao custo de 1 Ponto de Destino, aplicar uma *Conseqüência Suave __Nocauteado__* no alvo, que será considerado Fora de Jogo;
 
@@ -107,17 +104,14 @@ Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman tam
 
 #### Aspectos
 
-- **Conceito:** Médico altamente conceituado e Diretor Geral da CADUCEUS
-- **Dificuldade:** Meio enferrujado - permaneceu afastado da prática médica por um tempo
-- **Chamado de Hipócrates:** *"O Dom de Curar e o Toque da Cura podem ser um peso muito grande"*
-- **Aspectos:**
-  - Duro, mas gentil
-  - Fundador do Hospital Hope
+| **Conceito** | Médico altamente conceituado e Diretor Geral da CADUCEUS | 
+| **Dificuldade** | Meio enferrujado - permaneceu afastado da prática médica por um tempo | 
+| **Chamado de Hipócrates** | *"O Dom de Curar e o Toque da Cura podem ser um peso muito grande"* | 
+| |  Duro, mas gentil | 
+| | Fundador do Hospital Hope | 
 
 #### Perícias
 
-|                |            |             |            |             |
-|----------------|------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Medicina   |             |            |             |
 |*Bom (+3)*      | Instrução  | Patologia   |            |             |
 |*Razoável (+2)* | Investigar | Notar       | Recursos   |             |
@@ -127,7 +121,7 @@ Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman tam
 
 - Especialidade Médica - Cirurgia Geral
 - Especialidade Médica - Clínica Geral
-- Li Sobre isso (__*I've Read about That!*, FC115__, focado em *Medicina*)
+- Já Li Sobre isso (__FB 96__, focado em *Medicina*)
 - Psicólogo
   - Recebe +2 nos testes para reduzir Conseqüências Mentais em outros
 
@@ -152,7 +146,7 @@ Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início
 
 #### Aspectos
 
-- **Conceito:** Médico Cirurgião do Hospital Hope
+| - **Conceito:** Médico Cirurgião do Hospital Hope
 - **Dificuldade:** Sério com o trabalho, não espera menos dos outros
 - **Chamado de Hipócrates:** Temos que dar nosso melhor para salvar as pessoas
 - **Aspectos:**
@@ -194,12 +188,12 @@ Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão
 
 #### Aspectos
 
-- **Conceito:** Médico Cirurgião e diretor da CADUCEUS América
-- **Dificuldade:** Homem de Gelo
-- **Chamado de Hipócrates:** Perdi minha esposa
-- **Aspectos:**
-  - Calmo sob Pressão
-  - Irmão Gêmeo: Greg
+|  **Conceito**  | Médico Cirurgião e diretor da CADUCEUS América | 
+| **Dificuldade**  | Homem de Gelo |
+| **Chamado de Hipócrates**  | Perdi minha esposa |
+| **Aspectos:** |
+| | Calmo sob Pressão |
+| | Irmão Gêmeo: Greg |
 
 #### Perícias
 
@@ -237,17 +231,14 @@ Principal cirurgião da CADUCEUS América, é também um dos seus principais pes
 
 #### Aspectos
 
-- **Conceito:** Chefe do Corpo Clínico e de Pesquisa da CADUCEUS América
-- **Dificuldade:** Tem alguma dificuldade em certos tipos de cirurgia
-- **Chamado de Hipócrates:** *Mens Sana in Corpore Sano*
-- **Aspectos:**
-  - Bom Camarada
-  - Dedicação Absoluta ao que faz
+ | - **Conceito**  | Chefe do Corpo Clínico e de Pesquisa da CADUCEUS América | 
+ | - **Dificuldade**  | Tem alguma dificuldade em certos tipos de cirurgia | 
+ | - **Chamado de Hipócrates** |  *Mens Sana in Corpore Sano* | 
+ |  |   - Bom Camarada | 
+ |  |   - Dedicação Absoluta ao que faz | 
 
 #### Perícias
 
-|                |             |             |            |             |
-|----------------|-------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Medicina    |             |            |             |
 |*Bom (+3)*      | Empatia     | Investigar  |            |             |
 |*Razoável (+2)* | Tecnologia  | Patologia   | Educação   |             |
@@ -278,17 +269,14 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
 
 #### Aspectos
 
-- **Conceito:** Anestesiologia da CADUCEUS América
-- **Dificuldade:** *"A Raposa de Aço"*
-- **Chamado de Hipócrates:** Desejo de melhorar vidas, como na época da polícia
-- **Aspectos:**
-  - Graça Sob Pressão
-  - Ex-namorado na Polícia (Esquadrão Anti-bombas)
+ |  **Conceito**  | Anestesiologia da CADUCEUS América | 
+ |  **Dificuldade**  | *"A Raposa de Aço"* | 
+ |  **Chamado de Hipócrates:** Desejo de melhorar vidas, como na época da polícia | 
+ |  |  Graça Sob Pressão | 
+ |  | Ex-namorado na Polícia (Esquadrão Anti-bombas) | 
 
 #### Perícias
 
-|                |             |             |            |             |
-|----------------|-------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Lutar       |             |            |             |
 |*Bom (+3)*      | Físico      | Provocar    |            |             |
 |*Razoável (+2)* | Medicina    | Patologia   | Educação   |             |
@@ -319,17 +307,14 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
 
 #### Aspectos
 
-- **Conceito:** Pesquisador de Tecnologia Médica e Biomedicina da CADUCEUS América
-- **Dificuldade:** *"Estou cercado de Idiotas"*
-- **Chamado de Hipócrates:** Doenças são a charada definitiva, e eu adoro resolver charadas
-- **Aspectos:**
-  - Boca Suja
-  - Extremamente Irritadiço
+ |  **Conceito** |  Pesquisador de Tecnologia Médica e Biomedicina da CADUCEUS América | 
+ |  **Dificuldade** |  *"Estou cercado de Idiotas"* | 
+ |  **Chamado de Hipócrates:** Doenças são a charada definitiva, e eu adoro resolver charadas | 
+ |  |    Boca Suja | 
+ |  |    Extremamente Irritadiço | 
 
 #### Perícias
 
-|                |             |             |            |             |
-|----------------|-------------|-------------|------------|-------------|
 |*Ótimo (+4)*    | Tecnologia  |             |            |             |
 |*Bom (+3)*      | Patologia   | Medicina    |            |             |
 |*Razoável (+2)* | Roubar      | Educação    | Provocar   |             |
@@ -337,11 +322,11 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
 
 #### Façanhas
 
-- Li Sobre isso (__*I've Read about That!*, FC115__, focado em *Tecnologia*)
-- Especialista - *Biotecnologia* (__*Specialist*, FC115__, aplicável a *Tecnologia*)
-- Especialista - *Tecnologia Médica* (__*Specialist*, FC115__, aplicável a *Tecnologia*)
-- Escudo da Razão (__*Shield of Reason*, FC115__, aplicável a *Tecnologia*)
-- Duro na Queda (__*Hard Boiled*, FC127__)
+- Já Li Sobre isso (__FB 96__, focado em *Tecnologia*)
+- Especialista - *Biotecnologia* (__FB 96__, aplicável a *Tecnologia*)
+- Especialista - *Tecnologia Médica* (__FB 96__, aplicável a *Tecnologia*)
+- Escudo da Razão (__FB 96__, aplicável a *Tecnologia*)
+- Duro na Queda (__FB 119__)
 
 #### Recarga, Estresse e Consequências
 
