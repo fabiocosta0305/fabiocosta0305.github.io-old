@@ -17,6 +17,8 @@
   dropdown:
     - title: "Destino de Moreania"
       url: "/fate-core/moreania/"
+    - title: "Destino da Caduceus"
+      url: "/fate-core/caduceus/"
 
 # - title: "Templates"
 #   url: "/design/"
