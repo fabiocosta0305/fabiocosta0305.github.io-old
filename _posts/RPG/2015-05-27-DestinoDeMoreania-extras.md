@@ -6,7 +6,7 @@ categories:
  - RPG
 tags:
  - Fate
- - Fate-core
+ - Fate Core
  - Extras
  - Moreania
  - Reinos de Moreania
