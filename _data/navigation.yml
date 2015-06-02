@@ -5,9 +5,9 @@
 - title: RPG
   url: "/rpg/"
   side: left
-  dropdown:
-    - title: Fate
-      - url: "/fate/"
+  # dropdown:
+  #   - title: Fate
+  #     - url: "/fate/"
 
 # - title: "Templates"
 #   url: "/design/"
