@@ -9,7 +9,7 @@ header:
 permalink: "/rpg/"
 ---
 <ul>
-    {% for post in site.tags.rpg %}
+    {% for post in site.categories.rpg %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
