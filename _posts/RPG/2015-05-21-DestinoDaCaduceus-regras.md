@@ -1,6 +1,6 @@
 ---
 title: Regras para o Destino da Caduceus
-subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
+subheadline: baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii
 layout: page
 categories:
  - RPG
@@ -11,8 +11,6 @@ tags:
  - Trauma Center
  - Destino da Caduceus
 ---
-
-## baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii
 
 - [versão original para FATE 2.0](http://maisquatro.wordpress.com/2008/08/16/mini-cenario-para-fudgefate-terrorismo-medico/)
 - [informações de cenário](/rpg/DestinoDaCaduceus)
