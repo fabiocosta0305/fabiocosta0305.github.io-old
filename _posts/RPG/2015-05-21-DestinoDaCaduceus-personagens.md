@@ -271,7 +271,7 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
 
  |  **Conceito**  | Anestesiologia da CADUCEUS América | 
  |  **Dificuldade**  | *"A Raposa de Aço"* | 
- |  **Chamado de Hipócrates:** Desejo de melhorar vidas, como na época da polícia | 
+ |  **Chamado de Hipócrates**   | Desejo de melhorar vidas, como na época da polícia | 
  |  |  Graça Sob Pressão | 
  |  | Ex-namorado na Polícia (Esquadrão Anti-bombas) | 
 
@@ -309,7 +309,7 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
 
  |  **Conceito** |  Pesquisador de Tecnologia Médica e Biomedicina da CADUCEUS América | 
  |  **Dificuldade** |  *"Estou cercado de Idiotas"* | 
- |  **Chamado de Hipócrates:** Doenças são a charada definitiva, e eu adoro resolver charadas | 
+ |  **Chamado de Hipócrates**  |  Doenças são a charada definitiva, e eu adoro resolver charadas | 
  |  |    Boca Suja | 
  |  |    Extremamente Irritadiço | 
 
