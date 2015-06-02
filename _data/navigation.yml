@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-# - title: RPG
-#   url: "/rpg/"
-#   side: left
+- title: RPG
+  url: "/rpg/"
+  side: left
 
 # - title: "Templates"
 #   url: "/design/"
