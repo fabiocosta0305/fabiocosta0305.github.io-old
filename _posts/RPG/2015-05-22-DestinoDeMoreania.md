@@ -1,15 +1,21 @@
 ---
-title: Destino de Moreania
-layout: post
-tags: ["Fate","Fate Core","Cenário", "Moreania", "Reinos de Moreania", "DragonSlayer"]
+title: O Destino de Moreania
+subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
+layout: page
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Regras
+ - Moreania
+ - Reinos de Moreania
+ - DragonSlayer
 ---
-
-# Destino de Moreania
-
-## adaptação dos Reinos de Moreania da DragonSlayer para Fate
 
 - [Regras](/DestinoDeMoreania-regras)
 - [Extras](/DestinoDeMoreania-extras)
+- [Extras](/DestinoDeMoreania-grupo)
 
 ### Ambientação e Escala
 
