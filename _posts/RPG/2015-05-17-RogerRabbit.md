@@ -1,10 +1,17 @@
 ---
-title: Uma Cilada Para Roger Rabbit
-layout: post
-tags: ["Fate","Fate Acelerado", "FAE", "Personagens", "Uma Cilada para Roger Rabbit", "Roger Rabbit", "Destino dos Desenhos Animados"]
+title: Uma Cilada Para Roger Rabbits
+layout: page
+categories:
+ - RPG
+tags:
+  - Fate
+  - Fate Acelerado
+  - FAE
+  - Personagens
+  - Uma Cilada para Roger Rabbit
+  - Roger Rabbit
+  - Destino dos Desenhos Animados
 ---
-# Uma Cilada Para Roger Rabbit
-
 ## Personagens
 
 ### Eddie Valiant

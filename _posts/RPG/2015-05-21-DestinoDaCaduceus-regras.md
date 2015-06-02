@@ -82,19 +82,19 @@ As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportame
   - **Empatia** (*Empathy*)
     - Todo usuário de Empatia pode utilizar a habilidade da Façanha *Psicólogo* (_**Psychologist**, FC109_) gratuitamente. Ela é cumulativa com a Façanha *Especiliadade Médica: Psicologia*;
   - **Educação**
-    - substitui *Saber (Lore)*, exceto pelas Ciências, que pode ser coberta por **Tecnologia**, e pelas Ciências Médicas, cobertas por **Medicina**, à exceção de Psicologia, que ainda é coberta por **Empatia**
+    - substitui *Conhecimento (Lore)*, exceto pelas Ciências, que pode ser coberta por **Tecnologia**, e pelas Ciências Médicas, cobertas por **Medicina**, à exceção de Psicologia, que ainda é coberta por **Empatia**
   - Enganar (*Deceive*)
   - Físico (*Physique*)
   - Furtividade (*Stealth*)
   - **Instrução**
-    - Funciona como comunicação, mas para repassar informações técnicas de maneira mais fácil
+    - Funciona como Comunicação, mas para repassar informações técnicas de maneira mais fácil
   - **Investigar** (*Investigate*)
     - Não pode ser utilizada para testes relacionados a como uma doença age, embora possa ser usada para definir focos de doenças e afins.
   - **Medicina**
-    - É usada no lugar de *Saber* para a parte médica. Cada especialização médica é considerada uma Façanha diferente;
+    - É usada no lugar de *Conhecimento* para a parte médica. Cada especialização médica é considerada uma Façanha diferente;
   - **Montaria**
     - Funciona como *Condução*, mas para montar em cavalos e outros animais
-  - Notar (Notice)
+  - Percepção (*Notice*)
   - **Patologia**
     - Funciona como *Medicina*, mas apenas para a análise de patologias. Inclui também ações de *Investigar*, quando involve a análise de doenças e sobre como elas funcionam;
   - **Profissão** (*Crafts*)
@@ -102,7 +102,7 @@ As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportame
   - Provocar (*Provoke*)
   - **Pilotar**
     - Funciona como *Condução* para veículos aéreos
-  - Roubar (*Burglary*)
+  - Roubo (*Burglary*)
   - **Tecnologia**
     - Funciona como *Profissão*, mas para coisas de alta tecnologia
   - Tiro (*Shoot*)

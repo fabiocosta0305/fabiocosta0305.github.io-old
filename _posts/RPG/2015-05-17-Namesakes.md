@@ -1,14 +1,18 @@
 ---
-title: Namesakes
-layout: post
-tags: ["Fate", "Cenário", "Namesakes"]
+title: Namesakes (Honôminos) 
+layout: baseado na webcomic "Namesakes" - http://namesakecomic.com
+categories:
+ - RPG
+tags:
+  - Fate
+  - Cenário
+  - Namesakes
 ---
 
-# Namesakes (Honôminos) 
+### Ambientação e Escala
 
-## baseado na webcomic "Namesakes" - http://namesakecomic.com
-
-### Cenário/Escala - Fantasia Urbana/Medieval/Contos de Fadas - Pessoal
+- **Ambientação:** Fantasia Urbana/Medieval/Contos de Fadas
+- **Escala:** Pessoal
 
 ### Problemas
 
@@ -19,9 +23,15 @@ tags: ["Fate", "Cenário", "Namesakes"]
 - A *"Chave-Mestra"* (Pendente)
    - A batalha entre a Calliope e os Rippers
    - Esse mundo e os outros podem sofrer as consequências do abuso
-
+- Os Fantasmas (Pendente)
+   - Qual a relação deles com os Honôminos
+   
 ### Pessoas e Locais
 
+- Honôminos
+  - Entram nos Mundos Paralelos, revivendo "contos de fadas"
+  - Podem ser ajudados pelos Escritores
+  - São ligados aos "Nomes Verdadeiros", que os ligam aos "Contos" que revivem
 - Emma Crewe
   - Honômina de Oz
   - A *"Chave-Mestra"*?
@@ -32,10 +42,6 @@ tags: ["Fate", "Cenário", "Namesakes"]
 - Um
   - O líder dos Rippers
   - Ligado ao passado de Alice Purcell?
-- Honôminos
-  - Entram nos Mundos Paralelos, revivendo "contos de fadas"
-  - Podem ser ajudados pelos Escritores
-  - São ligados aos "Nomes Verdadeiros", que os ligam aos "Contos" que revivem
 - Escritores
    - Capazes de alterar (de certa forma) o destino dos Honônimos fora de nossa realidade
    - De alguma forma ligado a eles
