@@ -14,8 +14,3 @@ permalink: "/fate-core/"
     {% endfor %}
 </ul>
 
-<ul>
-    {% for tag in site.tags %}
-    <li>{{ tag }}</li>
-    {% endfor %}
-</ul>
