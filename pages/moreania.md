@@ -6,7 +6,7 @@ title: "O Destino de Moreania"
 teaser: "Minha Adaptação para Fate Core de Reinos de Moreania, o cenário oficial da DragonSlayer"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/moreania/"
+permalink: "/fate-core/moreania/"
 ---
 <ul>
 {% for post in site.tags.Moreania %}
