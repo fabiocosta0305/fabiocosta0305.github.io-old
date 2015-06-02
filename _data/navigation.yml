@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: RPG
-  url: "/rpg/"
-  side: left
+# - title: RPG
+#   url: "/rpg/"
+#   side: left
 
 # - title: "Templates"
 #   url: "/design/"
@@ -70,10 +70,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Pesquisa"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contato"
   url: "/contact/"
   side: right
