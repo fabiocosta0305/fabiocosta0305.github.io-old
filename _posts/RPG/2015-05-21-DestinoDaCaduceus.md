@@ -1,16 +1,20 @@
 ---
-title: Destino da Caduceus
-layout: post
-tags: ["Fate","Fate Core","Cenário", "Trauma Center", "Destino da Caduceus"]
+title: Personagens do Destino da Caduceus
+subheadline: baseado na série de Jogos Trauma Center para Nintendo DS/Wii
+layout: page
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Cenário
+ - Trauma Center
+ - Destino da Caduceus
 ---
 
-# Destino da Caduceus
-
-## baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii
-
 - [versão original para FATE 2.0](http://maisquatro.wordpress.com/2008/08/16/mini-cenario-para-fudgefate-terrorismo-medico/)
-- [regras](/DestinoDaCaduceus-regras)
-- [personagens](/DestinoDaCaduceus-personagens)
+- [regras](/rpg/DestinoDaCaduceus-regras)
+- [personagens](/rpg/DestinoDaCaduceus-personagens)
 
 ### Ambientação e Escala
 
