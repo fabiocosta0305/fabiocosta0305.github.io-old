@@ -9,7 +9,7 @@ header:
 permalink: "/fate-core/"
 ---
 <ul>
-    {% for post in site.tags.fate-core %}
+    {% for post in site.tags.fate_core %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
