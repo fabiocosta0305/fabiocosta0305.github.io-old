@@ -1,11 +1,17 @@
 ---
 title: Destino do Protetorado da Sombrinha - Regras
-layout: post
-tags: ["Fate","Fate Core","Regras", "Protetorado da Sombrinha", "Parasol Protectorate", "Alexia Tarabotti"]
+subheadline: baseado na série de livros O Protetorado da Sombrinha de Gail Carriger
+layout: page
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Regras
+ - Protetorado da Sombrinha
+ - Parasol Protectorate
+ - Alexia Tarabotti
 ---
-
-Protetorado da Sombrinha
-========================
 
 ### Aspectos
 
@@ -34,18 +40,18 @@ Protetorado da Sombrinha
   - Contatos (Contacts)
   - Empatia (Empathy)
   - Enganar (Deceive)
-  - Físico (Physique)
   - Furtividade (Stealth)
   - Investigar (Investigate)
   - Montaria
-  - Notar (Notice)
+  - Percepção (Notice)
   - Profissão (Substitui Ofícios)
   - Trato Social (funde Comunicação e Provocar, junto aos ambientes sociais corretos)
   - Jogos (Conhecimento de como os jogos em geral funcionam)
   - Recursos (Resources)
-  - Ladinagem (Burglary - amplia para "grandes planos")
-  - Educação (substitui Saber, exceto pelas Ciências)
+  - Ladinagem (Burglary - amplia para "grandes planos", substituindo Roubo)
+  - Educação (substitui Conhecimento, exceto pelas Ciências)
   - Timoneiro (para navíos e dirigíveis)
+  - Vigor (Physique)
   - Vontade (Will)
 
 ### Façanhas
