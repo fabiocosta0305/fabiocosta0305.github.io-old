@@ -10,6 +10,7 @@ tags:
  - Personagem
  - Trauma Center
  - Destino da Caduceus
+header: no
 ---
 
 ## baseado na série de Jogos **Trauma Center** para Nintendo DS/Wii

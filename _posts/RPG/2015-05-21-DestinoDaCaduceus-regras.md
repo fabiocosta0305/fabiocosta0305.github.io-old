@@ -10,6 +10,7 @@ tags:
  - Regras
  - Trauma Center
  - Destino da Caduceus
+header: no
 ---
 
 - [versão original para FATE 2.0](http://maisquatro.wordpress.com/2008/08/16/mini-cenario-para-fudgefate-terrorismo-medico/)

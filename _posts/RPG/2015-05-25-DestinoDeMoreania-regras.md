@@ -11,6 +11,7 @@ tags:
  - Moreania
  - Reinos de Moreania
  - DragonSlayer
+header: no
 ---
 
 - [Cenário](/rpg/DestinoDeMoreania)
