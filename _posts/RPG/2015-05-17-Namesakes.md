@@ -7,7 +7,7 @@ categories:
 tags:
   - Fate
   - Cenário
-  - Namesakes
+  - namesakes
 header: no
 ---
 
