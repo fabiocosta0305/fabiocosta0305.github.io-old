@@ -12,6 +12,7 @@ tags:
  - Parasol Protectorate
  - Alexia Tarabotti
  - Parasol-Protectorate
+ - Fate-Core
 header: no
 ---
 
