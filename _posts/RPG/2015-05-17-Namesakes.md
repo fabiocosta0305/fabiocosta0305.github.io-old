@@ -10,7 +10,8 @@ tags:
   - FAE
   - Cenário
   - namesakes
-header: no
+header:
+ image_fullwidth: FundoBlog.png
 ---
 
 ### Ambientação e Escala
