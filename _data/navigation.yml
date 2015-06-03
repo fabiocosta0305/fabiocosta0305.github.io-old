@@ -21,6 +21,8 @@
       url: "/fate-core/caduceus/"
     - title: "Destino do Protetorado da Sombrinha"
       url: "/fate-core/parasol-protectorate/"
+    - title: "Namesakes"
+      url: "/fate-core/namesakes/"
 
 - title: Fate Acelerado
   url: "/fae/"
