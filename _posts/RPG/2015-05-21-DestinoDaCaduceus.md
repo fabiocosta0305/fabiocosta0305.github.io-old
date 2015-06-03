@@ -25,11 +25,11 @@ header: no
 
 ### Problemas
 
-- A Eterna Batalha contra as Doenças e a Morte (Atual)
+- A Eterna Batalha contra as Doenças e a Morte (Existente)
    - Preparação acima da normal, tanto física quanto mental, moral e espiritual
-- Terrorismo Médico (Pendente)
+- Terrorismo Médico (Por Vir)
    - Doenças que não apenas matam, mas fazem as vítimas *desejarem a morte*
-- Toque de Cura dos Descendentes de Asclépio (Pendente)
+- Toque de Cura dos Descendentes de Asclépio (Por Vir)
    - Um poder sobrenatural, uma capacidade sobrehumana, ou apenas uma evolução não antes percebida?
 
 ### Pessoas e Locais

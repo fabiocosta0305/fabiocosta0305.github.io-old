@@ -10,6 +10,7 @@ tags:
  - Regras
  - Trauma Center
  - Destino da Caduceus
+ - Destino-da-Caduceus
 header: no
 ---
 
@@ -76,6 +77,7 @@ header: no
 As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportamento ou escopo alterado em relação ao Fate Core. Os nomes *em itálico e entre parenteses* são os nomes das perícias originais em inglês do Fate Core da Evil Hat.
 
   - Atletismo (*Athletics*)
+  - Atirar (*Shoot*)
   - Comunicação (*Rapport*)
   - Condução (*Drive*)
   - Contatos (*Contacts*)
@@ -85,7 +87,6 @@ As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportame
   - **Educação**
     - substitui *Conhecimento (Lore)*, exceto pelas Ciências, que pode ser coberta por **Tecnologia**, e pelas Ciências Médicas, cobertas por **Medicina**, à exceção de Psicologia, que ainda é coberta por **Empatia**
   - Enganar (*Deceive*)
-  - Físico (*Physique*)
   - Furtividade (*Stealth*)
   - **Instrução**
     - Funciona como Comunicação, mas para repassar informações técnicas de maneira mais fácil
@@ -95,9 +96,9 @@ As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportame
     - É usada no lugar de *Conhecimento* para a parte médica. Cada especialização médica é considerada uma Façanha diferente;
   - **Montaria**
     - Funciona como *Condução*, mas para montar em cavalos e outros animais
-  - Percepção (*Notice*)
   - **Patologia**
     - Funciona como *Medicina*, mas apenas para a análise de patologias. Inclui também ações de *Investigar*, quando involve a análise de doenças e sobre como elas funcionam;
+  - Percepção (*Notice*)
   - **Profissão** (*Crafts*)
     - Mais focada na questão artesanato e outro tipos de trabalhos manuais. 
   - Provocar (*Provoke*)
@@ -106,7 +107,7 @@ As perícias marcadas em **negrito** *ou* são novas *ou* tiveram seu comportame
   - Roubo (*Burglary*)
   - **Tecnologia**
     - Funciona como *Profissão*, mas para coisas de alta tecnologia
-  - Tiro (*Shoot*)
+  - Vigor (*Physique*)
   - Vontade (*Will*)
 
 ### Façanhas
