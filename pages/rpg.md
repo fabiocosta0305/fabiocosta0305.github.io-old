@@ -5,7 +5,7 @@ subheadline: "RPG"
 title: "Meus Materiais de RPG!"
 teaser: "Esses são alguns materiais de RPG que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+    image_fullwidth: FundoBlog.png
 permalink: "/rpg/"
 ---
 <ul>
