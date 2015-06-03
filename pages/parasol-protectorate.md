@@ -9,7 +9,7 @@ header:
 permalink: "/parasol-protectorate/"
 ---
 <ul>
-    {% for post in site.tags.parasol-protectorate %}
+    {% for post in site.tags.Parasol-Protectorate %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
