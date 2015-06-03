@@ -22,7 +22,17 @@ header: no
 
 ### Derek Stiles
 
-Novo, ainda “verde” na pesquisa e exercício da Medicina, Derek Stiles foi escolhido para ser parte da CADUCEUS por seu Toque de Cura. Obstinado e ocasionalmente disperso, Derek descobriu seu toque de cura em meio a uma cirurgia extremamente complexa de emergência, onde o paciente tinha uma série de destroços de um acidente em seu coração, uma cirurgia que, de outra forma, seria fatal. Depois de perder seu pai graças a um cancer, decidiu tornar-se médico, sem saber que era um dos “Descendentes de Asclépio” com o Toque de Cura. Após entrar sem saber em contato com um dos GUILT, Derek foi convidado aentrar para a CADUCEUS, onde foi importante para desmantelar a base da DELPHI no Pacífico.
+Novo, ainda “verde” na pesquisa  e exercício da Medicina, Derek Stiles
+foi  escolhido   para  ser  parte   da  CADUCEUS  por  seu   Toque  de
+Cura. Obstinado  e ocasionalmente disperso, Derek  descobriu seu toque
+de cura  em meio a  uma cirurgia extremamente complexa  de emergência,
+onde o  paciente tinha uma  série de destroços  de um acidente  em seu
+coração,  uma cirurgia  que, de  outra forma,  seria fatal.  Depois de
+perder seu pai graças a um cancer, decidiu tornar-se médico, sem saber
+que era  um dos “Descendentes de  Asclépio” com o Toque  de Cura. Após
+entrar sem  saber em  contato com  um dos  GUILT, Derek  foi convidado
+aentrar para a  CADUCEUS, onde foi importante para  desmantelar a base
+da DELPHI no Pacífico.
 
 #### Aspectos
 
@@ -63,7 +73,15 @@ Novo, ainda “verde” na pesquisa e exercício da Medicina, Derek Stiles foi e
 
 ### Angela "Angie" Thompston
 
-A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internacional em enfermagem bem rapidamente. Atuando em vários hospitais, foi alocada para trabalhar junto com Derek Stiles no Hospital Hope, após a antiga enfermeira se aposentar. Dedicada e mandona, ela não botava fé em Derek, até ver ele atuar no caso do acidente onde revelou-se o Toque de Cura de Derek. Presente na cirurgia onde acidentalmente Derek entrou em contato pela primeira vez com um GUILT, Angie também entrou para a CADUCEUS, pois algo estava errado e ela precisava saber o que era.
+A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado
+internacional  em  enfermagem  bem   rapidamente.  Atuando  em  vários
+hospitais,  foi  alocada para  trabalhar  junto  com Derek  Stiles  no
+Hospital  Hope, após  a  antiga enfermeira  se  aposentar. Dedicada  e
+mandona, ela  não botava  fé em Derek,  até ver ele  atuar no  caso do
+acidente  onde  revelou-se o  Toque  de  Cura  de Derek.  Presente  na
+cirurgia onde acidentalmente Derek entrou em contato pela primeira vez
+com um  GUILT, Angie também entrou  para a CADUCEUS, pois  algo estava
+errado e ela precisava saber o que era.
 
 #### Aspectos
 
@@ -85,7 +103,9 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
 - Especialidade Médica - Enfermagem
 - Já Li Sobre Isso (__FB 96__, focado em *Medicina*)
 - Técnica Nocauteadora
-  - Se Angie é bem sucedida em um *Ataque* por *Lutar*, ela pode, ao custo de 1 Ponto de Destino, aplicar uma *Conseqüência Suave __Nocauteado__* no alvo, que será considerado Fora de Jogo;
+  - Se Angie é  bem sucedida em um *Ataque* por  *Lutar*, ela pode, ao
+    custo  de 1  Ponto  de Destino,  aplicar  uma *Conseqüência  Suave
+    __Nocauteado__* no alvo, que será considerado Fora de Jogo;
 
 #### Recarga, Estresse e Consequências
 
@@ -102,7 +122,10 @@ A Teuto-Americana Angie Thompson é muito nova, mas tirou o certificado internac
 
 ### Robert Hoffman
 
-Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman também é dotado de Toque de Cura. Bastante compreensivo, ele ajuda Derek na decisão de ir ou não à CADUCEUS. Depois ele próprio assume o posto de Diretor Geral da CADUCEUS.
+Afastado das cirurgias por vontade própria, após “o acidente”, Hoffman
+também é  dotado de  Toque de Cura.  Bastante compreensivo,  ele ajuda
+Derek na decisão de ir ou não  à CADUCEUS. Depois ele próprio assume o
+posto de Diretor Geral da CADUCEUS.
 
 #### Aspectos
 
@@ -144,7 +167,9 @@ __*Observação:*__ O Doutor Hoffman já passou por *ao menos* Dois Marcos Maior
 
 ### Greg Kasal
 
-Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início de carreira e o orienta. Tranqüilo e amigo, Greg sempre mantem a cabeça em um único objetivo: salvar vidas.
+Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu
+início de carreira e o orienta.  Tranqüilo e amigo, Greg sempre mantem
+a cabeça em um único objetivo: salvar vidas.
 
 #### Aspectos
 
@@ -186,7 +211,10 @@ Diretor do Corpo Clínico do Hospital Hope, é quem auxilia Derek em seu início
 
 ### Sidney Kasal
 
-Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão Greg. Ele é frio e dedicado à função que escolheu, que é a de pesquisar medicina. Dedicou-se cada vez mais à medicina após a perda da sua esposa.
+Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu
+irmão Greg. Ele  é frio e dedicado  à função que escolheu, que  é a de
+pesquisar medicina. Dedicou-se  cada vez mais à medicina  após a perda
+da sua esposa.
 
 #### Aspectos
 
@@ -210,9 +238,12 @@ Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão
 
 - Especialidade Médica - Cirurgia Geral
 - Silêncio Protetor
-  - Sidney recebe *+2 ao Criar Vantagens* para Atacar pessoas que tentem *Atacar outros mentalmente*;
+  - Sidney  recebe *+2  ao Criar  Vantagens* para  Atacar pessoas  que
+    tentem *Atacar outros mentalmente*;
 - Rastrear a fonte de recursos
-  - Devido às capacidades administrativas que possui, Sidney recebe *+2 ao Superar Obstáculos* para encontrar as fontes de recursos de adversários usando *Investigar*
+  - Devido às  capacidades administrativas  que possui,  Sidney recebe
+    *+2 ao Superar Obstáculos* para encontrar as fontes de recursos de
+    adversários usando *Investigar*
 
 #### Recarga, Estresse e Consequências
 
@@ -229,7 +260,9 @@ Cirurgião e diretor da CADUCEUS América, Sidney é bem diferente de seu irmão
 
 ### Stephen Clarks
 
-Principal cirurgião da CADUCEUS América, é também um dos seus principais pesquisadores. É simpático e camarada, e seu temperamento bom ajuda muitas pessoas a se curar.
+Principal  cirurgião  da  CADUCEUS  América,  é  também  um  dos  seus
+principais pesquisadores.  É simpático e camarada,  e seu temperamento
+bom ajuda muitas pessoas a se curar.
 
 #### Aspectos
 
@@ -267,7 +300,11 @@ Principal cirurgião da CADUCEUS América, é também um dos seus principais pes
 
 ### Cybil Myers
 
-Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um temperamento frio e às vezes ríspido, por isso é apelidada de “Dama de Ferro”. Devido ao seu treinamento como policial, ela possui grande força de vontade e um caráter honesto, ainda que duro. É também considerada graciosa sob pressão
+Anestesiologista    principal    da    CADUCEUS   América,    é    uma
+ex-policial. Possui um temperamento frio  e às vezes ríspido, por isso
+é  apelidada  de “Dama  de  Ferro”.  Devido  ao seu  treinamento  como
+policial, ela  possui grande  força de vontade  e um  caráter honesto,
+ainda que duro. É também considerada graciosa sob pressão
 
 #### Aspectos
 
@@ -305,7 +342,12 @@ Anestesiologista principal da CADUCEUS América, é uma ex-policial. Possui um t
 
 ### Victor Nigel
 
-Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. Chefe do Setor de Pesquisa e Desenvolvimento da CADUCEUS América, ele é um especialista em biotecnologia. Extremamente focado, detesta “idiotas” próximo a ele quando trabalhando (subententendo-se idiota qualquer um com QI menor que o dele). Tem a mania de xingar enquanto acompanha operações.
+Narcisista, egocêntrico e convencido, é o  que se pode dizer de Victor
+Niguel.  Chefe do  Setor  de Pesquisa  e  Desenvolvimento da  CADUCEUS
+América, ele é um  especialista em biotecnologia. Extremamente focado,
+detesta “idiotas”  próximo a ele quando  trabalhando (subententendo-se
+idiota qualquer  um com QI  menor que o dele).  Tem a mania  de xingar
+enquanto acompanha operações.
 
 #### Aspectos
 
@@ -345,7 +387,15 @@ Narcisista, egocêntrico e convencido, é o que se pode dizer de Victor Niguel. 
 
 ### Tyler Chase
 
-Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irmã, Amy, contaminada com uma variante do GUILT. Porém, cada vez mais amargo com a falta de progresso e após ver um professor morrer em meio a sofrimento, acabou aconselhando várias pessoas na prática de eutanásia, o que levou-o a ser conhecido fora da CADUCEUS, em especial na Internet, como “Doutor Morte”. Tyler para com essa faceta após Derek auxiliar na cura de sua irmã e com isso, passa a lutar junto com os demais contra as pandemias, em especial contra as GUILT e contra a organização DELPHI, sua criadora.
+Formado junto  com Derek, entrou  para a CADUCEUS procurando  uma cura
+para sua irmã, Amy, contaminada com uma variante do GUILT. Porém, cada
+vez  mais amargo  com a  falta de  progresso e  após ver  um professor
+morrer em  meio a  sofrimento, acabou  aconselhando várias  pessoas na
+prática de eutanásia, o que levou-o  a ser conhecido fora da CADUCEUS,
+em  especial na  Internet, como  “Doutor Morte”.  Tyler para  com essa
+faceta após  Derek auxiliar na  cura de sua irmã  e com isso,  passa a
+lutar junto com  os demais contra as pandemias, em  especial contra as
+GUILT e contra a organização DELPHI, sua criadora.
 
 #### Aspectos
 
@@ -366,7 +416,8 @@ Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irm
 
 - Especialidade Médica - Cirurgião Geral
 - Técnica Anti-Ética - Eutanásia
-  - Tyler conhece muito sobre como induzir uma pessoa à morte. Ele pode usar *Medicina* para *Atacar* pessoas
+  - Tyler conhece  muito sobre  como induzir uma  pessoa à  morte. Ele
+    pode usar *Medicina* para *Atacar* pessoas
 - Escudo da Razão (__FB 96__, aplicável a *Medicina*)
 
 #### Recarga, Estresse e Consequências
@@ -384,7 +435,12 @@ Formado junto com Derek, entrou para a CADUCEUS procurando uma cura para sua irm
 
 ### Adel Tulba
 
-Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele é tão inseguro quanto Derek no início de sua carreira. Porém, é ainda mais duro para ele, por ter vindo de um país pobre e em guerra civil, e ele pode não medir esforços (ou ter escrúpulos) para melhorar suas habilidades médicas. A perda do irmão, em especial, sempre o choca
+Um  novato indicado  pela OMS  à CADUCEUS  durante suas  atividades em
+Costigar,  ele  é   tão  inseguro  quanto  Derek  no   início  de  sua
+carreira. Porém, é ainda mais duro para  ele, por ter vindo de um país
+pobre  e em  guerra  civil, e  ele  pode não  medir  esforços (ou  ter
+escrúpulos) para melhorar suas habilidades  médicas. A perda do irmão,
+em especial, sempre o choca
 
 #### Aspectos
 
@@ -418,13 +474,20 @@ Um novato indicado pela OMS à CADUCEUS durante suas atividades em Costigar, ele
   - *Moderada (4):*
   - *Severa (6):*
 
-*Obs:* Quando ele está infectado pelo **Neo-GUILT** *Sige*, o Aspecto *Novato Inseguro* troca para *Toque de Cura*. Ele recebe a *Façanha* *Toque de Cura - Velocidade Ampliada*, mas ao mesmo tempo cada uso vai piorando nele uma *Conseqüência __Mente Instável__*.
-
-
+*Obs:* Quando ele está infectado  pelo **Neo-GUILT** *Sige*, o Aspecto
+ *Novato Inseguro* troca para *Toque  de Cura*. Ele recebe a *Façanha*
+ *Toque de  Cura - Velocidade Ampliada*,  mas ao mesmo tempo  cada uso
+ vai piorando nele uma *Conseqüência __Mente Instável__*.
 
 ### Naomi Kishikima
 
-Fria e calculista, a bela *Naomi Kishikima* é amoral quanto ao uso de suas habilidades médicas. Trabalhou por muito tempo junto à DELPHI e atualmente está em condicional, trabalhando como Médica Forense, onde suas habilidades de Toque de Cura não são mais necessárias para preservar a "vida" de infortunados como os *Sinners*, as crianças que funcionavam como Pacientes-Zero inoculados com as cepas iniciais (e cada vez mais fortes) dos GUILT.
+Fria e calculista, a bela *Naomi  Kishikima* é amoral quanto ao uso de
+suas habilidades médicas.  Trabalhou por muito tempo junto  à DELPHI e
+atualmente está em condicional,  trabalhando como Médica Forense, onde
+suas  habilidades de  Toque  de  Cura não  são  mais necessárias  para
+preservar a "vida" de infortunados  como os *Sinners*, as crianças que
+funcionavam como  Pacientes-Zero inoculados  com as cepas  iniciais (e
+cada vez mais fortes) dos GUILT.
 
 #### Aspectos
 

@@ -20,6 +20,10 @@
     - title: "Destino da Caduceus"
       url: "/fate-core/caduceus/"
 
+- title: Fate Acelerado
+  url: "/fae/"
+  side: left
+
 # - title: "Templates"
 #   url: "/design/"
 #   side: left
