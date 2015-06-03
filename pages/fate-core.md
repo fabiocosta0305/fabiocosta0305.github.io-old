@@ -5,7 +5,7 @@ subheadline: "Fate Core"
 title: "Meus Materiais de Fate Core!"
 teaser: "Esses são alguns materiais de Fate Core que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+    image_fullwidth: FundoBlog.png
 permalink: "/fate-core/"
 ---
 <ul>

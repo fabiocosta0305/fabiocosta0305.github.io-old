@@ -5,7 +5,7 @@ subheadline: "Fate"
 title: "Meus Materiais de Fate!"
 teaser: "Esses são alguns materiais de Fate que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+    image_fullwidth: FundoBlog.png
 permalink: "/fate/"
 ---
 <ul>
