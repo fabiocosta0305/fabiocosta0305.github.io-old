@@ -1,5 +1,5 @@
 ---
-title: Personagens do Destino da Caduceus
+title: Destino da Caduceus
 subheadline: baseado na série de Jogos Trauma Center para Nintendo DS/Wii
 layout: page
 categories:
