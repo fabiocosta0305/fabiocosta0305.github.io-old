@@ -6,7 +6,7 @@ title: "Meus Materiais do Destino do Protetorado da Sombrinha!"
 teaser: "Esses são alguns materiais do Destino do Protetorado da Sombrinha que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/parasol-protectorate/"
+permalink: "/fate-core/parasol-protectorate/"
 ---
 <ul>
     {% for post in site.tags.Parasol-Protectorate %}
