@@ -11,6 +11,7 @@ tags:
  - Protetorado da Sombrinha
  - Parasol Protectorate
  - Alexia Tarabotti
+ - Parasol-Protectorate
 header: no
 ---
 

@@ -19,6 +19,8 @@
       url: "/fate-core/moreania/"
     - title: "Destino da Caduceus"
       url: "/fate-core/caduceus/"
+    - title: "Destino do Protetorado da Sombrinha"
+      url: "/fate-core/parasol-protectorate/"
 
 - title: Fate Acelerado
   url: "/fae/"

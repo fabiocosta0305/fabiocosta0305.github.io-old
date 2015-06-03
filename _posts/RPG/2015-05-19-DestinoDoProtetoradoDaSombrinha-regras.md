@@ -11,6 +11,7 @@ tags:
  - Protetorado da Sombrinha
  - Parasol Protectorate
  - Alexia Tarabotti
+ - Parasol-Protectorate
 header: no
 ---
 
@@ -33,27 +34,27 @@ header: no
 - Lista de Perícias
   - Esgrima
   - Armas de Fogo
-  - Atletismo (Athletics)
+  - Atletismo (*Athletics*)
   - Briga
   - Ciências
   - Comando
-  - Condução (Drive)
-  - Contatos (Contacts)
-  - Empatia (Empathy)
-  - Enganar (Deceive)
-  - Furtividade (Stealth)
-  - Investigar (Investigate)
+  - Condução (*Drive*)
+  - Contatos (*Contacts*)
+  - Empatia (*Empathy*)
+  - Enganar (*Deceive*)
+  - Furtividade (*Stealth*)
+  - Investigar (*Investigate*)
   - Montaria
-  - Percepção (Notice)
+  - Percepção (*Notice*)
   - Profissão (Substitui Ofícios)
   - Trato Social (funde Comunicação e Provocar, junto aos ambientes sociais corretos)
   - Jogos (Conhecimento de como os jogos em geral funcionam)
-  - Recursos (Resources)
+  - Recursos (*Resources*)
   - Ladinagem (Burglary - amplia para "grandes planos", substituindo Roubo)
   - Educação (substitui Conhecimento, exceto pelas Ciências)
   - Timoneiro (para navíos e dirigíveis)
-  - Vigor (Physique)
-  - Vontade (Will)
+  - Vigor (*Physique*)
+  - Vontade (*Will*)
 
 ### Façanhas
 - Sem mudança de regras
