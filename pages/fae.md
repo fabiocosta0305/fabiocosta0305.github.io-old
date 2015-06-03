@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-subheadline: "Fate Acerelaro"
+subheadline: "Fate Acerelado"
 title: "Meus Materiais de Fate Acelerado!"
 teaser: "Esses são alguns materiais de Fate Acelerado que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
