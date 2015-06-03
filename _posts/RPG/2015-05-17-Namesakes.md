@@ -18,15 +18,18 @@ header: no
 
 ### Problemas
 
-- As histórias que se "repetem" (Atual)
+- As histórias que se "repetem" (Existente)
    - Honôminos repetem as mesmas sem parar
-- Escritores e Honôminos (Atual)
+- Escritores e Honôminos (Existente)
    - Escritores podem apoiar (ou não) os Honôminos, tendo certa capacidade de alterar seus destinos
-- A *"Chave-Mestra"* (Pendente)
+- A *"Chave-Mestra"* (Por Vir)
    - A batalha entre a Calliope e os Rippers
    - Esse mundo e os outros podem sofrer as consequências do abuso
-- Os Fantasmas (Pendente)
-   - Qual a relação deles com os Honôminos
+- Os Fantasmas (Por Vir)
+   - Qual a relação deles com os Honôminos?
+- A Destruição dos Mundos-Beta (Por Vir)
+   - Ocorre quando os honôminos não revivem suas histórias
+   - Qual a ligação com os fantasmas?
    
 ### Pessoas e Locais
 
