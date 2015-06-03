@@ -7,9 +7,9 @@
   side: left
   # dropdown:
 
-- title: Fate
-  url: "/fate/"
-  side: left
+# - title: Fate
+#   url: "/fate/"
+#   side: left
 
 - title: Fate Core
   url: "/fate-core/"
