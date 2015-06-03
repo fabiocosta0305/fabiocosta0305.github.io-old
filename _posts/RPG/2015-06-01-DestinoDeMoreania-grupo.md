@@ -7,6 +7,7 @@ categories:
 tags:
  - Fate
  - Fate Core
+ - Fate-Core
  - Personagens
  - Moreania
  - Reinos de Moreania

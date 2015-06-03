@@ -7,6 +7,7 @@ categories:
 tags:
  - Fate
  - Fate Core
+ - Fate-Core
  - Regras
  - Trauma Center
  - Destino da Caduceus

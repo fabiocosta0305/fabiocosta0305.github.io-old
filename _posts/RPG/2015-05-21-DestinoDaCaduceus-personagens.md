@@ -7,7 +7,8 @@ categories:
 tags:
  - Fate
  - Fate Core
- - Personagem
+ - Fate-Core
+ - Personagens
  - Trauma Center
  - Destino da Caduceus
  - Destino-da-Caduceus

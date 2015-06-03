@@ -7,6 +7,7 @@ categories:
 tags:
  - Fate
  - Fate Core
+ - Fate-Core
  - Cenário
  - Protetorado da Sombrinha
  - Parasol Protectorate

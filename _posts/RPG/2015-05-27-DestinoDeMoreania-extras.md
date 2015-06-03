@@ -9,6 +9,7 @@ tags:
  - Fate Core
  - Extras
  - Moreania
+ - Fate-Core
  - Reinos de Moreania
  - DragonSlayer
 header: no
