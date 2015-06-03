@@ -6,6 +6,8 @@ categories:
  - RPG
 tags:
   - Fate
+  - Fate-Core
+  - FAE
   - Cenário
   - namesakes
 header: no
