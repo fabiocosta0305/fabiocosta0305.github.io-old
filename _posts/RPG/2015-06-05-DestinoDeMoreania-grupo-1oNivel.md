@@ -150,7 +150,7 @@ em tais eventos
 
 #### **Extras**
 
-- Herdeiro do Búfalo (pago por Aspecto)
+- Monge Gu-On (pago por Aspecto)
 
 #### **Recarga, Estresse e Conseqüencias**
 
