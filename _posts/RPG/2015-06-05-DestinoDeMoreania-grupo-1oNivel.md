@@ -251,3 +251,53 @@ procura aprender sempre mais.
   - *Suave (2):*
   - *Moderada (4):*
   - *Severa (6):*
+
+### Livia Stringmeister
+
+Nascida em Brando,  um reino com enfoque na Espada  e na Magia, muitos
+imaginavam que Livia não serviria de  nada, por ser muito pequena para
+pegar a espada e ter pouco tino  com a mágica.  Mas ela demonstrou que
+poderia  fazer  mais  do  que  sua  família  imaginava,  ao  pegar  os
+instrumentos musicais e  conseguir inspirar seus irmãos  à Batalha por
+meio das  canções e  histórias que  ouvia.  Desde  então ela  passou a
+correr  a  Ilha   Nobre  como  barda,  procurando   mais  histórias  e
+conhecimentos sobre  o mundo. Com  o tempo, desenvolveu também  uma fé
+inabalável em Gojan, divindade dos viajantes, fé essa que passou a ser
+agraciada pela divindade com poderes.
+
+#### **Aspectos**
+
+| **Conceito:**    | Barda e Clériga de Gojan nascida em Brando                             |
+| **Dificuldade:** | Pequena e franzina - dá a impressão que pode se partir como um graveto |
+|                  | Procura aprender o máximo do cancioneiro de Moreania                   |
+|                  |                                                                        |
+|                  |                                                                        |
+
+#### **Perícias**
+
+| *Bom (+3)*      | Ofícios       |              |           |
+| *Razoável (+2)* | Fé            | Conhecimento |           |
+| *Regular (+1)*  | Contatos      | Empatia      | Vontade   |
+
+#### **Façanhas**
+
+- *Canção Verdadeira: Coragem*
+- *Canção Verdadeira: Paz*
+- *Histórias de Inspiração*
+- *Conhecimento das Lendas*
+
+#### **Extras**
+
+- Clériga de Gojan (pago no Conceito)
+- Barda (pago no Conceito)
+
+#### **Recarga, Estresse e Conseqüencias**
+
+- **Recarga:** 1
+- **Estresse:**
+  - *Físico:* \[\]\[\]
+  - *Mental:* \[\]\[\]\[\]
+- **Consequencias:**
+  - *Suave (2):*
+  - *Moderada (4):*
+  - *Severa (6):*
