@@ -47,10 +47,10 @@ guerreiro tem que saber de tudo
 
 #### **Perícias**
 
-| *Ótimo (+4)*    | Lutar    |           |           |          |
-| *Bom (+3)*      | Vigor    | Empatia   |           |          |
-| *Razoável (+2)* | Fogo     | Provocar  | Vontade   |          |
-| *Regular (+1)*  | Arqueria | Percepção | Atletismo | Contatos |
+| *Ótimo (+4)*    | Lutar    |                |           |          |
+| *Bom (+3)*      | Vigor    | Armas Brancas  |           |          |
+| *Razoável (+2)* | Empatia  | Provocar       | Vontade   |          |
+| *Regular (+1)*  | Arqueria | Fogo           | Atletismo | Contatos |
 
 #### **Façanhas**
 
