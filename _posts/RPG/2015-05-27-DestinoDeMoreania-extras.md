@@ -1202,13 +1202,18 @@ estão empenhados em buscas para encontrar estes raros tesouros...
      - Igual descrito *Fate  Sistema Básico*, Página 80.  Caso o mesmo
        já possua uma habilidade similar, recebe +2 nos testes
 
-#### Magos
-*Permissão:* Aspecto que indica o uso de magia
+#### Magos e Feiticeiros
+
+*Permissão:*  Aspecto que  indica o  uso de  magia. Feiticeiros  devem
+indicar no _Conceito_ o fato de serem usuários de magia
 
 Alguns temem a  Magia Arcana como antinatural (em  especial os Druidas
 de  Lancaster),  mas  muitos  estudiosos,  em  especial  em  Brando  e
 Laughton, utilizam a Magia Arcana como  uma forma de entender melhor a
-natureza e convocarem seus poderes. 
+natureza e convocarem  seus poderes.  Além disso,  existem aqueles que
+possuem,  por  algum  motivo  (contato  com  seres  extradimensionais,
+descendências de dragões,  talento natural puro e  simples) um contato
+mais íntimo, natural com a magia. A esses chamam-se _Feiticeiros_
 
 - *Elementos de Poder*
   - Tratados como Perícias
@@ -1252,9 +1257,11 @@ natureza e convocarem seus poderes.
   - Magias  mais  complexas  podem   ser  feitas  pela  combinação  de
     Elementos.
      - Rolamentos serão feitos pelo nível do *pior elemento*
-  - Um mago  começa com  todos os seus  Elementos em  *Medíocre (+0)*,
-    portanto qualquer Elemento que não esteja em sua pirâmide de poder
-    é considerado automaticamente *Ruim*.
+  - Um mago só  pode utilizar Elementos de Poder que  ele tenha em sua
+    Pirâmide  de  perícias.    Feiticeiros,  porém,  _podem  utilizar_
+    Elementos de Poder  que não possuam em suas  Pirâmides de Perícias
+    (elas  serão   consideradas  _Medíocres   (+0)_  para   efeito  de
+    rolamentos e níveis de pré-requisitos)
   - Toda  magia, para  ser  usada,  exige que  o  personagem tenha  os
     Elementos de Poder em determinados níveis.
      - *Exemplo:* *Cura  Mágica* exige  *Luz Medíocre  (+0)*, enquanto
@@ -1275,6 +1282,8 @@ natureza e convocarem seus poderes.
     Tensão na  Falha), ou podem  optar (no  caso de *Sucesso  a Grande
     Custo*)  por  fazer a  Magia  tornar-se  Selvagem (a  critério  do
     Narrador o que acontece)
+     - Magos podem recorrer a isso  para utilizarem Elementos de Poder
+       que não possuem, como se fossem Feiticeiros.
 
 ### Magos do Nome Verdadeiro (Lexicais)
 *Permissão:* Aspecto *Lexical* como Conceito
