@@ -9,7 +9,6 @@ tags:
  - Fate Core
  - Fate-Core
  - fate-masters
- - fate-masters-podcast
  - Aspectos
  - Guardiões da Galáxia
  - Podcast
