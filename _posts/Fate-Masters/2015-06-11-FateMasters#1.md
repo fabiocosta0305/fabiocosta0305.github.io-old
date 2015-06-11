@@ -15,4 +15,5 @@ header: no
 
 Nesse primeiro Episódio, os Fate Masters Fábio, Rafael e Felipe, começam contando suas experiências e opiniões sobre o Fate, e como melhorar as coisas com o Tarrasque Voador movido a Diarréia!
 
-Link para o áudio do podcast : [https://archive.org/download/fate_masters_1_201506/fate_masters_1.mp3](https://archive.org/download/fate_masters_1_201506/fate_masters_1.mp3)
+- Duração: 52min
+ [https://archive.org/download/fate_masters_1_201506/fate_masters_1.mp3](https://archive.org/download/fate_masters_1_201506/fate_masters_1.mp3)

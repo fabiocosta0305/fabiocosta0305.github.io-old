@@ -33,3 +33,57 @@ Traceback (most recent call last):
 1434024197209	addons.update-checker	WARN	Update manifest for togglepersona@davidvincent.tld did not contain an updates property
 1434024197309	addons.update-checker	WARN	Update manifest for isreaditlater@ideashower.com did not contain an updates property
 1434024198482	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+** (firefox:7221): CRITICAL **: gst_app_src_set_size: assertion `GST_IS_APP_SRC (appsrc)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_insert: assertion `GTK_IS_TEXT_BUFFER (buffer)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_iter_at_mark: assertion `GTK_IS_TEXT_MARK (mark)' failed
+
+(firefox:7221): Gtk-CRITICAL **: _gtk_text_layout_get_block_cursor: assertion `layout != NULL' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_layout_get_cursor_locations: assertion `layout != NULL' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_insert: assertion `GTK_IS_TEXT_BUFFER (buffer)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_iter_at_mark: assertion `GTK_IS_TEXT_MARK (mark)' failed
+
+(firefox:7221): Gtk-CRITICAL **: _gtk_text_layout_get_block_cursor: assertion `layout != NULL' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_layout_get_cursor_locations: assertion `layout != NULL' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_insert: assertion `GTK_IS_TEXT_BUFFER (buffer)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_iter_at_mark: assertion `GTK_IS_TEXT_MARK (mark)' failed
+
+(firefox:7221): Gtk-CRITICAL **: _gtk_text_layout_get_block_cursor: assertion `layout != NULL' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_layout_get_cursor_locations: assertion `layout != NULL' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_insert: assertion `GTK_IS_TEXT_BUFFER (buffer)' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_buffer_get_iter_at_mark: assertion `GTK_IS_TEXT_MARK (mark)' failed
+
+(firefox:7221): Gtk-CRITICAL **: _gtk_text_layout_get_block_cursor: assertion `layout != NULL' failed
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_text_layout_get_cursor_locations: assertion `layout != NULL' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:7221): Gdk-CRITICAL **: gdk_window_invalidate_rect_full: assertion `GDK_IS_WINDOW (window)' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+@chrome://tabmixplus/content/changecode.js line 1 > eval:37:21
+noscriptOverlay<.browserAccess.openURI@chrome://noscript/content/noscriptOverlay.js:2818:13
