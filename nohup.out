@@ -87,3 +87,11 @@ WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isCo
 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
 @chrome://tabmixplus/content/changecode.js line 1 > eval:37:21
 noscriptOverlay<.browserAccess.openURI@chrome://noscript/content/noscriptOverlay.js:2818:13
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+LastPassContainer/this.lponcontentloaded@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1241:187
