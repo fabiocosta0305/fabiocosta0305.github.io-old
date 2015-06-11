@@ -1,0 +1,32 @@
+1434022994443	addons.manager	WARN	Exception calling callback: TypeError: a is null (chrome://toomanytabs/content/hacks.js:32) JS Stack trace: Visibo.TMT.initializePatch/<@hacks.js:32:1 < safeCall@AddonManager.jsm:173:5 < getAddonByID_noMoreObjects@AddonManager.jsm:2091:9 < AOC_callNext@AddonManager.jsm:305:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < PL_getAddon@PluginProvider.jsm:126:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2081:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < GMPProvider.getAddonByID@GMPProvider.jsm:541:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2081:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:362:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2081:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3824:7 < makeSafe/<@XPIProviderUtils.js:145:17 < getRepositoryAddon@XPIProviderUtils.js:126:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1074:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37
+console.error: html5_outliner: 
+  DEPRECATED: The widget module is deprecated.  Please consider using the sdk/ui module instead.
+Traceback (most recent call last):
+  File "resource://gre/modules/Promise-backend.js", line 867, in Handler.prototype.process
+    nextValue = this.onResolve.call(undefined, nextValue);
+  File "resource://gre/modules/commonjs/sdk/addon/runner.js", line 86, in startup/</<
+    run(options);
+  File "resource://gre/modules/commonjs/sdk/addon/runner.js", line 145, in run
+    let program = main(options.loader, options.main);
+  File "resource://gre/modules/commonjs/toolkit/loader.js", line 697, in main
+    return loader.load(loader, module).exports;
+  File "resource://gre/modules/commonjs/sdk/loader/cuddlefish.js", line 79, in CuddlefishLoader/options<.load
+    result = load(loader, module);
+  File "resource://gre/modules/commonjs/toolkit/loader.js", line 323, in load
+    evaluate(sandbox, module.uri);
+  File "resource://gre/modules/commonjs/toolkit/loader.js", line 271, in evaluate
+    : loadSubScript(uri, sandbox, encoding);
+  File "resource://jid1-99orusryltwwqq-at-jetpack/html5_outliner/lib/main.js", line 11, in null
+    var widgets = require("sdk/widget");
+  File "resource://gre/modules/commonjs/toolkit/loader.js", line 604, in require
+    freeze(load(loader, module));
+  File "resource://gre/modules/commonjs/sdk/loader/cuddlefish.js", line 79, in CuddlefishLoader/options<.load
+    result = load(loader, module);
+  File "resource://gre/modules/commonjs/toolkit/loader.js", line 323, in load
+    evaluate(sandbox, module.uri);
+  File "resource://gre/modules/commonjs/toolkit/loader.js", line 271, in evaluate
+    : loadSubScript(uri, sandbox, encoding);
+  File "resource://gre/modules/commonjs/sdk/widget.js", line 59, in null
+    require("./util/deprecate").deprecateUsage(
+  File "resource://gre/modules/commonjs/sdk/util/deprecate.js", line 18, in deprecateUsage
+    let stack = get().slice(2);
