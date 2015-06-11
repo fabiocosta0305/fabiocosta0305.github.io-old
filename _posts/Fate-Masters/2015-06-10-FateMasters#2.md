@@ -20,7 +20,7 @@ Os Fate Masters Fábio, Rafael e Filipe voltam para dissecar Aspectos: o que sã
 - **Duração:** 59min
 - [Os Aspectos dos *Guardiões da Galáxia* - **ATENÇÃO:** - contém _spoilers_][1]
 - [Assine o _feed_ do Fate Masters][feed-fatemasters]
-- **Link para o áudio:**  [https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.mp3][link-mp3]
+- [**Link para o áudio**][link-mp3]
 
 [1]: /rpg/FateMasters2-AspectosGuardioesDaGalaxia/
 [feed-fatemasters]: http://feeds.feedburner.com/FateMastersRPG
