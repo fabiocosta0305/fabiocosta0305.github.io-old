@@ -16,7 +16,7 @@ a  felicidade dos  seus jogadores  e, acima  de tudo,  tornar aventura
 materiais e os áudios do Podcast do Fate Masters.
 
 <ul>
-    {% for post in site.categories.fate-masters %}
+    {% for post in site.tags.fate-masters %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
