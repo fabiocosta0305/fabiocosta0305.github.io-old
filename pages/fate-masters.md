@@ -6,7 +6,7 @@ title: "Fate Masters"
 teaser: "O Podcast dos Algozes dos Jogadores!"
 header:
     image_fullwidth: FundoBlog.png
-permalink: "/fate/"
+permalink: "/fate-masters/"
 ---
 
 Esse é  o podcast onden você  irá aprender a  fazer tudo o que  um bom
