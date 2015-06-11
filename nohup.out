@@ -30,3 +30,6 @@ Traceback (most recent call last):
     require("./util/deprecate").deprecateUsage(
   File "resource://gre/modules/commonjs/sdk/util/deprecate.js", line 18, in deprecateUsage
     let stack = get().slice(2);
+1434024197209	addons.update-checker	WARN	Update manifest for togglepersona@davidvincent.tld did not contain an updates property
+1434024197309	addons.update-checker	WARN	Update manifest for isreaditlater@ideashower.com did not contain an updates property
+1434024198482	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
