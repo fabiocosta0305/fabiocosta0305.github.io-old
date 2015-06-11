@@ -1,5 +1,5 @@
 ---
-title: Fate Masters #1 - Piloto
+title: Fate Masters Episódio 1 - Piloto
 subheadline: Começando os trabalhos em grande estilo!
 layout: page
 categories:
