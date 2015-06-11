@@ -186,11 +186,12 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
 ### Façanhas
 
 #### Mestre das Tradições
-- *Façanha de __Conhecimentos__*
-  - O personagem  em questão  é um amplo  conhecedor das  Tradições de
-     alguma Aspecto  de Moreania (escolha  no momento da  aquisição da
-     Façanha).   O  personagem  recebe  +2   em  todos  os  testes  de
-     _Conhecimentos_ sobre o assunto em questão.
+- *Façanha de __Conhecimento__*
+  - O personagem em questão é um amplo conhecedor das Tradições de uma
+    determinada Raça ou  Povo de Nárnia (deve ser  definido no momento
+    da compra da  Façanha). O personagem recebe +2 em  todos os testes
+    relativos àquele povo ou Raça  em Tradições, à exceção de qualquer
+    teste de Magia.
 
 #### Mestre de Armas
 - *Façanha de  __Armas Brancas__  ou __Arqueria__ ou  __Arremesso__*
