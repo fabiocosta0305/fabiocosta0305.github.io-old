@@ -15,7 +15,7 @@ a  felicidade dos  seus jogadores  e, acima  de tudo,  tornar aventura
 épica  e divertida  para você  e seus  jogadores. Aqui  colocaremos os
 materiais e os áudios do Podcast do Fate Masters.
 
-- [http://feeds.feedburner.com/FateMastersRPG](Assine o _feed_ do Fate Masters) 
+- [Assine o _feed_ do Fate Masters][http://feeds.feedburner.com/FateMastersRPG]
 
 <ul>
     {% for post in site.tags.fate-masters %}
