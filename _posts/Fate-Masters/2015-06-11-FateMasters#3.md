@@ -1,7 +1,7 @@
 ---
 title: Fate Masters Episódio 3 - Habilidades E Abordagens
 subheadline: Testando a paciência dos jogadores
-layout: page
+layout: fatemasters
 categories:
  - RPG
 tags:

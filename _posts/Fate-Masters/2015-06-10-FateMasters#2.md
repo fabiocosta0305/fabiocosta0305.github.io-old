@@ -1,7 +1,7 @@
 ---
 title: Fate Masters Episódio 2 - Aspectos
 subheadline: Invocando a diversão e Forçando contra a Apelação
-layout: page
+layout: fatemasters
 categories:
  - RPG
 tags:
