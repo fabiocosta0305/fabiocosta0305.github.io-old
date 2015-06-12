@@ -1,0 +1,9 @@
+<ul>
+{% include podcast_text.html %}
+                  {% for audio in page.audios %}
+                  <li>
+                  <a href="{{ audio.link }}">Programa em {{audio.format}}</a>
+                  </li>
+                  {% endfor %}
+
+                  

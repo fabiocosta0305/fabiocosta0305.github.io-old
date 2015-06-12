@@ -1,0 +1,18 @@
+  <li> <strong>Duração:</strong> {{page.podcast_time}}
+
+                  {% if page.related_links %}
+  {% for link in page.related_links %}
+                  <li>
+                  <a href="{{ link.link }}">{{ link.text }}</a>
+                  </li>
+            {% endfor %}
+                  {% endif %}
+  
+                  {% if site.data.podcast %}
+                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
+                  {% endif %}
+                  {% for link in site.data.podcast.podcast_links %}
+                  <li>
+                  <a href="{{ link.link }}">RSS do Podcast em {{link.format}}</a>
+                  </li>
+            {% endfor %}
