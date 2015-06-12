@@ -17,7 +17,9 @@ Nesse primeiro Episódio, os Fate Masters Fábio, Rafael e Felipe, começam cont
 
 - **Duração:** 52min
 - [Assine o _feed_ do Fate Masters][feed-fatemasters]
+- [Nossa comunidade no Google+][comunidade-g+]
 - [**Link para o áudio**][link-mp3]
 
 [feed-fatemasters]: http://feeds.feedburner.com/FateMastersRPG
+[comunidade-g+]: https://plus.google.com/communities/100913016060492249875
 [link-mp3]: https://archive.org/download/fate_masters_1_201506/fate_masters_1.mp3
