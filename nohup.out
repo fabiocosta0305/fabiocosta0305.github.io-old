@@ -163,3 +163,38 @@ setVisibility@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gr
 updateItemVisibilities@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/context-menu.js:1019:7
 
 Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+
+(firefox:7221): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+@chrome://tabmixplus/content/changecode.js line 1 > eval:37:21
+noscriptOverlay<.browserAccess.openURI@chrome://noscript/content/noscriptOverlay.js:2818:13
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+
+** (firefox:7221): CRITICAL **: murrine_style_draw_focus: assertion `height >= -1' failed
+
+** (firefox:7221): CRITICAL **: murrine_style_draw_focus: assertion `height >= -1' failed
+
+** (firefox:7221): CRITICAL **: murrine_style_draw_focus: assertion `height >= -1' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+LastPassContainer/this.lponcontentloaded@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1241:187
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+LastPassContainer/this.lponcontentloaded@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1241:187
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+1434110596894	addons.update-checker	WARN	Update manifest for togglepersona@davidvincent.tld did not contain an updates property
+1434110597027	addons.update-checker	WARN	Update manifest for isreaditlater@ideashower.com did not contain an updates property
+1434110598290	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
