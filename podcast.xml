@@ -9,8 +9,20 @@
 		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.tags.fate-masters-podcast %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
-					<description>{{ post.content | xml_escape }}</description>
+				<title>{{ post.title | xml_escape }}</title>                                
+					<description>{{ post.content | xml_escape }}
+                                        {% for audio in post.audios %}
+                                        {% if audio.format == "MP3" %}
+                                        {% capture link %}
+                                        {% include rss_podcast_text.html %}
+                                        <a href="{{ audio.link }}">
+                                          <li>Link para o programa em {{audio.format}}
+                                        </a>
+                                        {% endcapture %}
+                                        {{ link | xml_escape}}
+                                        {% endif %}
+                                        {%endfor%}
+                                        </description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
