@@ -12,8 +12,12 @@ tags:
  - Podcast
 header: no
 podcast_time: "59min"
+hosts:
+ - Fábio Emilio Costa
+ - Rafael Sant'Anna Meyer
+ - Filipe Dalmatti Lima
 related_links:
- - text: Os Aspectos dos <em>Guardiões da Galáxia</em> - <strong>ATENÇÃO</strong> - contém <em>spoilers</em>!
+ - text: Os Aspectos dos <em>Guardiões da Galáxia</em> - <strong>ATENÇÃO - contém <em>spoilers</em>!</strong>
    link: /rpg/FateMasters2-AspectosGuardioesDaGalaxia/
 audios:
  - format: MP3

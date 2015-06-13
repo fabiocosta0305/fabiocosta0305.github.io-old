@@ -11,6 +11,10 @@ tags:
  - fate-masters-podcast
  - Podcast
 header: no
+hosts:
+ - Fábio Emilio Costa
+ - Rafael Sant'Anna Meyer
+ - Filipe Dalmatti Lima
 podcast_time: "52min"
 audios:
  - format: MP3

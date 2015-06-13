@@ -10,7 +10,8 @@
 		{% for post in site.tags.fate-masters-podcast %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>                                
-					<description>{{ post.content | xml_escape }}
+				<description>{{ post.content | xml_escape }}
+                  {{ shownotes | xml_escape %}}
                                         {% for audio in post.audios %}
                                         {% if audio.format == "MP3" %}
                                         {% capture link %}

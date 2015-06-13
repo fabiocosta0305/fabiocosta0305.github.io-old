@@ -12,6 +12,11 @@ tags:
  - Podcast
 header: no
 podcast_time: "61min"
+hosts:
+ - Fábio Emilio Costa
+ - Rafael Sant'Anna Meyer
+ - Filipe Dalmatti Lima
+ - <strong>Vilão Especialmente Convidado - </strong>Leonardo Paixão
 audios:
  - format: MP3
    link: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.mp3

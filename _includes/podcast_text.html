@@ -1,4 +1,10 @@
-  <li> <strong>Duração:</strong> {{page.podcast_time}}
+<li> <strong>Participantes:</strong>
+<ul>
+  {% for host in page.hosts %}
+  <li>{{ host }}
+{% endfor %}
+</ul>
+<li> <strong>Duração:</strong> {{page.podcast_time}}
 
                   {% if page.related_links %}
   {% for link in page.related_links %}
