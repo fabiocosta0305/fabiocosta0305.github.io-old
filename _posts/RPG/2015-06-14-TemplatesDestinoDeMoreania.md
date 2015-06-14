@@ -158,3 +158,33 @@ header: no
     ocasionalmente com Herdeiros e alguns outros, como *Bardo* para os
     Clérigos de Gojan
 
+### Druidas
+
+- **Aspectos:**
+   - **Conceito:** Druidas devem indicar a qual dos *Irmãos Selvagens*
+     é devotado em seu Conceito.
+      - *__Exemplo:__   Druida da *Dama Altiva**
+   - **Dificuldade:**  Em geral,  será  relacionada com  a devoção  do
+     personagem  aos  *Irmãos  Selvagens*.  Também  pode  refletir  um
+     problema de adaptação ao novo e um foco nas tradições
+      - *__Exemplo:__ Força é tudo, assim diz o Indomável; Os caminhos
+        da Dama Altiva são perfeitos, não precisamos de outros*
+   - **Demais  Aspectos:** Costumam  ser relacionados  à interação  do
+     personagem com a  natureza, e seu desconforto com  as coisas mais
+     novas. Também pode refletir seu temor com coisas diferentes, como
+     a magia arcana e certas coisas que ocorrem em reinos mais abertos
+     ao novo, como Brando e, em especial, Laughton
+      - *__Exemplo:__ A  Natureza a  tudo nos provê;  Os Laugthonianos
+        são insanos; Procurar  o conhecimento dos Darash  é procurar a
+        Morte*
+- **Perícias:**
+  - **Naipes  Fortes:** 
+    - **Para Ambos:** Comunhão, Recursos, Comunicação
+    - **Para Seguidores da Dama Altiva:** Empatia, Conhecimentos
+    - **Para Seguidores do Indomável:** Provocar, Lutar
+- **Façanhas:**
+  - Normalmente são gastas para comprar as Façanhas Druídicas
+- **Extras:**
+  - Druida;  não costumam  ter  outros Extras,  à  exceção de  *Moreau
+    Herdeiro* ou, no caso de seguidores do Indomável, *Licantropo*
+
