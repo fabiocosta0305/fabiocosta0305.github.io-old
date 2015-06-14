@@ -11,6 +11,7 @@ tags:
  - fate-masters-podcast
  - Podcast
 header: no
+podcast_comments: true 
 hosts:
  - Fábio Emilio Costa
  - Rafael Sant'Anna Meyer
