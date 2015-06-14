@@ -17,7 +17,7 @@ hosts:
  - Rafael Sant'Anna Meyer
  - Filipe Dalmatti Lima
 related_links:
- - text: Os Aspectos dos <em>Guardiões da Galáxia</em> - <strong>ATENÇÃO - contém <em>spoilers</em>!</strong>
+ - text: Os Aspectos dos *Guardiões da Galáxia* - **ATENÇÃO - contém _spoilers_!**
    link: /rpg/FateMasters2-AspectosGuardioesDaGalaxia/
 audios:
  - format: MP3

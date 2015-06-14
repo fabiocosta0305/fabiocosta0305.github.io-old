@@ -16,7 +16,7 @@ hosts:
  - Fábio Emilio Costa
  - Rafael Sant'Anna Meyer
  - Filipe Dalmatti Lima
- - <strong>Vilão Especialmente Convidado - </strong>Leonardo Paixão
+ - Leonardo Paixão (*Vilão Especialmente Convidado*)
 audios:
  - format: MP3
    link: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.mp3

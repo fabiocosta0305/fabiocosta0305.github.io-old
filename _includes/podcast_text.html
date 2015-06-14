@@ -1,7 +1,7 @@
 <li> <strong>Participantes:</strong>
 <ul>
   {% for host in page.hosts %}
-  <li>{{ host }}
+  <li>{{ host | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 </ul>
 <li> <strong>Duração:</strong> {{page.podcast_time}}
@@ -9,7 +9,7 @@
                   {% if page.related_links %}
   {% for link in page.related_links %}
                   <li>
-                  <a href="{{ link.link }}">{{ link.text }}</a>
+                  <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
                   </li>
             {% endfor %}
                   {% endif %}
