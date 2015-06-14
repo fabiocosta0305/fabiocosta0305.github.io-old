@@ -69,35 +69,6 @@ header: no
 - **Extras:**
   - Nenhum em especial
 
-### Magos e Feiticeiros
-
-- **Aspectos:**
-   - **Conceito:** Feiticeiros  devem indicar o  fato de que o  são no
-     Conceito, enquanto Magos deveriam o fazer aqui
-      - *__Exemplo:__  Feiticeiro das  Montanhas  de  Marfim, Mago  de
-        Lancaster, Guerreiro Mago de Kil'mer*
-   - **Dificuldade:**  Indica  desconfiança   das  pessoas  quanto  às
-     habilidades místicas,  reflexo do tempo de  estudo, sensibilidade
-     ou percepção  anormal do místico  ou pouco conforto  com combates
-     físicos
-      - *__Exemplo:__  Todos  temem  minhas habilidades,  Vejo  o  que
-        outros não vêem, Rato de Biblioteca*
-   - **Demais Aspectos:** Costumam  refletir habilidades paralelas que
-     ele  obteve devido  aos estudos  ou  então o  desejo perpétuo  de
-     aprender
-      - *__Exemplo:__ Diplomacia sempre resolve  problemas, Se está em
-        livros sei o que é, Sempre tem o que aprender*
-- **Perícias:**
-  - **Naipes   Fortes:**  Conhecimentos,   Os   Elementos  de   Poder,
-    Comnunicação, Empatia
-- **Façanhas:**
-  - Podem  refletir  magias  que  o   mago  domina  com  maior  poder,
-    habilidades especiais, entre outros
-- **Extras:**
-  - Magia e Feitiçaria;  Além disso, o mago pode  querer adquirir como
-    Extras  Contatos  Extraplanares,   Familiares  mísitcos  e  outros
-    efeitos místicos similares
-
 
 ### Magos e Feiticeiros
 
