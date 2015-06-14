@@ -11,7 +11,7 @@ tags:
  - fate-masters-podcast
  - Podcast
 header: no
-comments: on
+comments: true 
 podcast_time: "61min"
 hosts:
  - Fábio Emilio Costa

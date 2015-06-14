@@ -59,7 +59,7 @@ include: ['.htaccess']
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+language: "pt_BR"
 
 # Exclude these files from your production _site
 exclude:
@@ -180,8 +180,9 @@ msapplication_tilecolor:                "#fabb00"
 #
 # used in _includes/comments.html
 
-#disqus_shortname: feelingresponsive
-podcast_disqus_shortname: fatemasters
+disqus_shortname: fatemasters
+#podcast_disqus_shortname: fatemastes
+
 
 
 #      _____                
