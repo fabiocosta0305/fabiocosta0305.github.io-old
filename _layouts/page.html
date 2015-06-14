@@ -49,7 +49,8 @@ format: post
 
 			{% if page.podcast_comments == true %}
 			{% include podcast_comments.html %}
-			{% else if page.comments == true %}
+			{% endif %}
+			{% if page.comments == true %}
 			{% include comments.html %}
 			{% endif %}
 		</article>

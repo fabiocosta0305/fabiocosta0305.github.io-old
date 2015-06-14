@@ -11,6 +11,7 @@ tags:
  - fate-masters-podcast
  - Podcast
 header: no
+comments: true
 podcast_comments: true 
 podcast_time: "61min"
 hosts:
