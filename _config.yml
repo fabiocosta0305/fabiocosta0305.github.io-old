@@ -180,8 +180,8 @@ msapplication_tilecolor:                "#fabb00"
 #
 # used in _includes/comments.html
 
-disqus_shortname: fatemasters
-#podcast_disqus_shortname: fatemastes
+disqus_shortname: hufflepuffbr
+podcast_disqus_shortname: fatemastes
 
 
 
