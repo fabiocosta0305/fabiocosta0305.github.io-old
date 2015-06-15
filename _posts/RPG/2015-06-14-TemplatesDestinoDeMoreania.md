@@ -400,6 +400,67 @@ cantados pelos bardos.
   *Ladino*.  Dificilmente   escolheriam  Extras  que   envolvem  maior
   reflexão ou paciência, como *Monge* ou *Mago*
 
+### Herdeiros Moreau
+
+Como todos os Moreau sabem, os Herdeiros são os Moreau que possuem uma
+essência   mais  primitiva,   mais  ligada   com  os   *Doze  Animais*
+originais. De qualquer modo, são parte da sociedade normalmente, e são
+reconhecidos e muitas vezes respeitados
+
+- **Aspectos:**
+   - **Conceito:** Herdeiros Moreau devem indicar no Conceito qual dos
+     Doze Animais  ele é herdeiro. Isso  irá refletir em uma  série de
+     invocações e  forçamentos que o  personagem pode sofrer  devido a
+     isso
+      - *__Exemplo:__ Herdeiro do Gato  Swashbuckler; Mago Herdeiro do
+        Coelho*
+   - **Dificuldade:** nenhum em especial,  mas se o personagem desejar
+     pode refletir alguma característica especial que o personagem tem
+     maior afinidade em relação ao Animal em questão
+      - *__Exemplo:__ O  Leão defende seu  grupo, assim como  eu; __"A
+        curiosidade matou o gato?"__ Bem, eu sou mais esperto que ele*
+   - **Demais  Aspectos:** Idem ao caso da Dificuldade
+- **Perícias:**
+  - **Naipes Fortes:**  Os mesmos de outros,  ocasionalmente incluindo
+    coisas como Empatia e Provocar
+- **Façanhas:**
+  - Nenhuma em especial, mas podem adquirir coisas relativas ao Animal
+    do qual é Herdeiro
+- **Extras:**
+  - Qualquer um  que desejar,  mas alguns animais  se afinam  melhor a
+    certos Extras, como *Bárbaro* para Herdeiros  do Urso ou do Lobo e
+    *Bardo* e *Swashbuckler* para Herdeiros do Coelho ou do Gato
+
+### Estrangeiros
+
+Parte dos povos  estranhos das Terras Desconhecidas, você  é visto com
+curiosidade e desconfiança  pelos povos de Moreania. Você  tem os mais
+estranhos motivos para  estar em Moreania, e pode  muitas vezes sentir
+falta de  casa. De qualquer  forma, você é  tão estranho a  essa terra
+quanto ela é a voce
+
+- **Aspectos:**
+   - **Conceito:**   costumam  indicar   profissões  ou   mesmo  raças
+     existente apenas nas Terras Desconhecidas
+      - *__Exemplo:__ Guerreiro de Terras Distantes; Homem-Lagarto das
+        Terras Desconhecidas em Busca de Trabalho*
+   - **Dificuldade:**  irá normalmente  demonstrar o  estranhamento do
+     personagem com a Ilha Nobre
+      - *__Exemplo:__  Mitos Estranhos  que  podem  fazer um  dinheiro
+        quando voltar a minha terra; __"Povos esquisitos..."__*
+   - **Demais Aspectos:** Podem ser quaisquer um, inclusive reforçando
+     motivações para estar  na Ilha Nobre, estranhamento  com os Povos
+     daqui e efeitos similares
+      - *__Exemplo:__ Não  sou um monstro  como o tal do  povo Darash;
+        Uma terra nova, portanto novas oportunidade; Minha Espada pode
+        ser alugada por qualquer um, pelo preço certo*
+- **Perícias:**
+  - **Naipes  Fortes:**  Depende apenas do tipo de personagem
+- **Façanhas:**
+  - Podem refletir habilidades estranhas aos Moreau
+- **Extras:**
+  - Podem  adotar  quaisquer outros  Extras,  à  exceção de  *Herdeiro
+    Moreau*.
 
 ### Aristocratas
 
