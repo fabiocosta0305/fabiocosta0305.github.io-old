@@ -216,7 +216,7 @@ de sua devoção.
 - **Aspectos:**
    - **Conceito:** Druidas devem indicar a qual dos *Irmãos Selvagens*
      é devotado em seu Conceito.
-      - __Exemplo:__   Druida da __Dama Altiva__*
+      - *__Exemplo:__   Druida da __Dama Altiva__*
    - **Dificuldade:**  Em geral,  será  relacionada com  a devoção  do
      personagem  aos  *Irmãos  Selvagens*.  Também  pode  refletir  um
      problema de adaptação ao novo e um foco nas tradições
