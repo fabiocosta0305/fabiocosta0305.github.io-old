@@ -4,6 +4,7 @@ subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
 layout: page
 categories:
  - RPG
+comments: true
 tags:
  - Fate
  - Fate Core
