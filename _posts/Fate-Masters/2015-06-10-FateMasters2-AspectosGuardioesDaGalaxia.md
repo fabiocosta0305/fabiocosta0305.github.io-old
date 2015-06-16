@@ -4,6 +4,7 @@ subheadline: Complemento Fate Masters Episódio 2 - Aspectos
 layout: page
 categories:
  - RPG
+podcast_comments: true
 tags:
  - Fate
  - Fate Core
