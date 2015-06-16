@@ -1915,17 +1915,20 @@ Darash e possa se voltar contra seus atuais mestres.
 
 ###### Aspectos:
 
- **Conceito** | *Golem Darash*
-              | *Obediência Total a seu Dono*
-              | *Tudo que não é Darash não é digno*
-              | *"Espécime interessante... Demanda maior análise"*
+ **Aspectos**     |
+ ----------------:|--------------
+ **Conceito**     | *Golem Darash*
+                  | *Obediência Total a seu Dono*
+                  | *Tudo que não é Darash não é digno*
+                  | *"Espécime interessante... Demanda maior análise"*
 
 ###### Competência e Perícias:
 - **Competência:** *Razoável (+2)*
-- **Perícias:**
 
-*Razoável (+2):* | Conhecimentos |
-*Regular (+1):*  | Enganar       | Lutar
+ **Perícias**     | | 
+ ----------------:|---------------|--------|
+ *Razoável (+2)*  | Conhecimentos |        |
+ *Regular (+1)*   | Enganar       | Lutar  |
 
 ###### Façanhas:
 - *Campo de Distorção:* utilizando  sua tecnologia Darash, Pascal pode
