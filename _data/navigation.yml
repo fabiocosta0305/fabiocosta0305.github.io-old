@@ -15,6 +15,8 @@
   url: "/fate-core/"
   side: left
   dropdown:
+    - title: "Destino de Perry Rhodan"
+      url: "/fate-core/perry-rhodan/"
     - title: "Destino de Moreania"
       url: "/fate-core/moreania/"
     - title: "Destino da Caduceus"
