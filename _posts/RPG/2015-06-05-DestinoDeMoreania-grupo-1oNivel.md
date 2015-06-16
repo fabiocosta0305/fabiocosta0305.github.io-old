@@ -2,6 +2,7 @@
 title: Grupo de Primeiro Nível para o Destino de Moreania
 subheadline: adaptação dos Reinos de Moreania da DragonSlayer para Fate
 layout: page
+comments: true
 categories:
  - RPG
 tags:

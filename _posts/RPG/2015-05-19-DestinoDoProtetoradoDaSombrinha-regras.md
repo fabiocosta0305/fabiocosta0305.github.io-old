@@ -4,6 +4,7 @@ subheadline: baseado na série de livros O Protetorado da Sombrinha de Gail Carr
 layout: page
 categories:
  - RPG
+comments: true
 tags:
  - Fate
  - Fate Core

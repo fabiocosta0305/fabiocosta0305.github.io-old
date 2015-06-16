@@ -4,6 +4,7 @@ subheadline: baseado na webcomic "Namesakes" - http://namesakecomic.com
 layout: page
 categories:
  - RPG
+comments: true
 tags:
   - Fate
   - Fate-Core

@@ -4,6 +4,7 @@ subheadline: baseado na série de Jogos Trauma Center para Nintendo DS/Wii
 layout: page
 categories:
  - RPG
+comments: true
 tags:
  - Fate
  - Fate Core

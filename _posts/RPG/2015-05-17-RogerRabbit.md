@@ -3,6 +3,7 @@ title: Uma Cilada Para Roger Rabbit
 layout: page
 categories:
  - RPG
+comments: true
 tags:
   - Fate
   - Fate Acelerado
