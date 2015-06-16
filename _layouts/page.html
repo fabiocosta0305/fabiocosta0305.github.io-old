@@ -43,16 +43,17 @@ format: post
 			{% include podcast.html %}
 			{% endif %}
 
-			{% if page.show_meta == true %}
-			{% include meta_information.html %}
-			{% endif %}
-
 			{% if page.podcast_comments == true %}
 			{% include podcast_comments.html %}
 			{% endif %}
 			{% if page.comments == true %}
 			{% include comments.html %}
 			{% endif %}
+
+          {% if page.show_meta == true %}
+			{% include meta_information.html %}
+			{% endif %}
+
 		</article>
 	</div><!-- /.medium-8.columns -->
 
