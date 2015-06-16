@@ -1820,3 +1820,124 @@ antiguidade do mito  ou a sua obscuridade. Se for  relativo a pessoas,
 deuses e outras criaturas, o Mestre pode optar por uma Defesa Ativa.
 
 ### Artefatos Darash
+- *Permissão:* Aspectos *ou* Façanhas
+- *Custo:* Nenhum (incluido na Permissão)
+
+Em geral os habitantes de Moreania evitam qualquer tipo de coisa vinda
+do perdido Reino  das Torres, considerando-os na  melhor das hipóteses
+coisas que os Moreanios não precisam,  na pior uma abominação frente a
+Dama Altiva ou  o Indomável. Porém, alguns grupos  de aventureiros, em
+especial de Laughton, tem adotado cada vez mais objetos e itens vindos
+dos   Darash   como   parte   de   seus   equipamentos   enquanto   se
+aventuram.  Muitos deles  dizem  que a  tecnologia super-avançada  dos
+Darash pode  facilitar a vida  dos habitantes  de Moreania e  só podem
+trazer boas coisas,  se usadas com sabedoria. Todavia,  em especial em
+Lancaster, isso  é muito mal-visto,  como crianças brincando  com fogo
+frente a  Dama Altiva  e (acima  de tudo)  ao Indomável.  Muitos ainda
+lembram  que foi  justamente  o Indomável  que  lançou *Morte  Branca*
+contra os Darash, destruindo a  pretenciosa civilização que renegou os
+*Irmãos Selvagens* e ofenderam a natureza em poucos dias.
+
+O fato  é que,  apesar da imprevisibilidade  em seu  funcionamento, os
+Artefatos  Darash podem  ser muito  úteis para  aqueles corajosos  (ou
+insanos) o bastante para correrem o risco. Armas de raios misteriosas,
+pólvora  explosiva, alguma  fumaça  capaz de  alucinar  os inimigos  e
+permitir fuga... E  até mesmo serviçais mecânicos que  podem atacar ou
+fazer outras ações segundo a vontade do seu dono (ou assim se imagina)
+
+Mestre, em  termos de regras,  um Artefato Darash pode  ser construído
+tanto como  uma coleção de Façanhas  (como *Armas/Armadura* Especial),
+mas com uma desvantagem de ter um Aspecto *Artefato Darash* nele. Esse
+Aspecto  pode ser  Forçado  tanto para  provocar  temor e  superstição
+naqueles que vejam o mesmo quanto para provocar efeitos imprevistos (e
+em especial negativos)  contra seu possuidor: lembre-se  que os Darash
+odiavam tudo que não era Darash,  e que isso pode (e deve) refletir-se
+em seus artefatos.
+
+Os *Golems  Robóticos Darash* em  especial são considerados  como NPCs
+sem importância  (FB 198  a 201).  Eles demandam do  dono do  Golem um
+Aspecto e um número de Façanhas equivalente à competência dos mesmos:
+
+- 1 para *Regular (+1)*;
+- 2 para *Razoável (+2)*;
+- 3 para *Bom (+3)*;
+
+Todo  *Golem   Robótico  Darash*   tem  os  Aspectos   *Golem  Darash*
+(considerado *Conceito*),  *Obediência Total a  seu Dono* e  *Tudo que
+não  é  Darash  não  é  digno*,  além  dos  Aspectos  que  normalmente
+receberiam como NPCs sem importância. Em geral, Golens Darash obedecem
+fielmente  a   seus  donos,   ainda  que   muitas  vezes   de  maneira
+literal. Golens  Darash tendem a ter  algum tipo de problema  ao lidar
+com coisas  que não são Darash  (com a possível exceção  de seu dono):
+embora não ataquem eles de imediato, podem ser ríspidos, irônicos e de
+maneira  geral ofensivos  a tudo  que  não é  Darash.  Darash  recebem
+também  três Façanhas  para distribuir  em equipamentos  e habilidades
+especiais.   Uma Façanha  pode ser  removida para  eliminar-se um  dos
+Aspectos do Golem Darash (à exceção do *Conceito Golem Darash*).
+
+Além disso, muitos Golens  Darash possuem conhecimentos perdidos sobre
+a estrutura de poder, ciência, política e civilização dos Darash. Isso
+pode ser tanto uma fonte  preciosa de informações para os aventureiros
+que necessitarem quanto um fonte de encrenca, pois eles podem estar em
+missões secretas para os Lordes Darash, estejam eles vivos ou não.
+
+#### Exemplo de Artefatos Darash
+
+##### Pistola de Raio da Morte
+
+Um estranho equipamento Darash, funciona  como algo similar a uma arma
+de fogo Laughtoniana, mas feita de  um estranho metal escuro e frio ao
+toque. O mesmo é ligado a um  cabo estranho a um objeto retangular, de
+tamanho similar ao de uma bolsa  de moedas, que funciona como fonte de
+energia para  a mesma. Essa arma  pode ser utilizada como  uma arma de
+fogo para  atirar contra um  alvo. Para  usar essa arma,  o personagem
+realiza seus testes  por *Arqueria*, e se for bem  sucedido, soma 2 às
+tensões  de   Estresse  provocadas   pelo  ataque.   Essa   arma  pode
+ocasionalmente  liberar *Estranhos  Vapores* que  machucam o  portador
+(considere que  o personagem sofre  um *Ataque Físico  Razoável (+2)*,
+que pode  ser absorvido  com *Vigor*), e  ocasionalmente sua  fonte de
+energia pode falhar,  demandando uma nova ou deixar a  mesma sob o sol
+por 24 horas.
+
+#### Pascal, o Golem Darash
+
+Encontrado por um grupo de aventureiros desativado e perdido na região
+das    Montanhas     de    Marfim,    esse    Golem     (chamado    de
+*Pascalotageschneider*) é um pequeno Golem  Batedor Darash. Ele foi um
+dos últimos Golens que conseguiram  escapar à Destruição provocada por
+*Morte Branca* e tentou fugir para  a região dos Reinos e tentar levar
+a  diante sua  missão, de  coletar o  máximo de  informações possíveis
+sobre os  Reinos, sua fauna,  flora e geologia. Atualmente,  depois de
+reativado ele  atua como parte  de um grupo de  aventureiros... Embora
+muitos  ainda desconfiem  que  Pascal possui  uma  missão secreta  dos
+Darash e possa se voltar contra seus atuais mestres.
+
+
+###### Aspectos:
+
+ **Conceito** | *Golem Darash*
+              | *Obediência Total a seu Dono*
+              | *Tudo que não é Darash não é digno*
+              | *"Espécime interessante... Demanda maior análise"*
+
+###### Competência e Perícias:
+- **Competência:** *Razoável (+2)*
+- **Perícias:**
+
+*Razoável (+2):* | Conhecimentos |
+*Regular (+1):*  | Enganar       | Lutar
+
+###### Façanhas:
+- *Campo de Distorção:* utilizando  sua tecnologia Darash, Pascal pode
+  Ocultar visualmente a  si próprio e a todos em  uma Zona, utilizando
+  *Conhecimentos*  no lugar  de *Furtividade*  para se  ocultar em  um
+  local, gerando uma imagem ilusória
+
+- *Análise Ambiental:* utilizando uma série de sensores Darash, Pascal
+  pode *Criar  Vantagens* usando *Conhecimentos* ao  obter informações
+  sobre a  composição do solo,  temperatura, geologia e  topografia do
+  mesmo.
+
+###### Permissão e Custo de Pascal
+- *Permissão:* Aspecto e Duas Façanhas
+- *Custo:* Façanhas e Aspectos
