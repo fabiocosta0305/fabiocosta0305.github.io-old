@@ -15,8 +15,8 @@ a  felicidade dos  seus jogadores  e, acima  de tudo,  tornar aventura
 épica  e divertida  para você  e seus  jogadores. Aqui  colocaremos os
 materiais e os áudios do Podcast do Fate Masters.
 
-- [Assine o _feed_ do Fate Masters em MP3](http://feeds.feedburner.com/FateMastersRPG)
-- [Assine o _feed_ do Fate Masters em Ogg Vorbis](http://feeds.feedburner.com/FateMastersRPG-OGG)
+- [Assine o _feed_ do Fate Masters em MP3][fate-masters-feed]
+- [Assine o _feed_ do Fate Masters em Ogg Vorbis][fate-masters-ogg-feed]
 
 <ul>
     {% for post in site.tags.fate-masters %}
@@ -24,5 +24,5 @@ materiais e os áudios do Podcast do Fate Masters.
     {% endfor %}
 </ul>
 
-[fate-masters-feed]: [http://feeds.feedburner.com/FateMastersRPG]
-[fate-masters-ogg-feed]: [http://feeds.feedburner.com/FateMastersRPG-OGG]
+[fate-masters-feed]: <http://feeds.feedburner.com/FateMastersRPG>
+[fate-masters-ogg-feed]: <http://feeds.feedburner.com/FateMastersRPG-OGG>
