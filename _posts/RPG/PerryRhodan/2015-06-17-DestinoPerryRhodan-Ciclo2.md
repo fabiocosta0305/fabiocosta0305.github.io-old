@@ -140,6 +140,9 @@ header: no
     - Isso é feito no semiespaço dos druuf
     - Gucky precisa descansar devido  às suas recentes experiências no
       semiespaço
+  - Atlan  se  lembra  sobre  como combateve  os  invasores  da  outra
+    dimensão no passado, mas como  isso resultou na queda de Atlântida
+    e na sua hibernação
 
 ### Pessoas e Lugares
 
