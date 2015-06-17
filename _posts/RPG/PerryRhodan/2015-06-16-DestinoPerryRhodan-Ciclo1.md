@@ -1,5 +1,5 @@
 ---
-title: Destino de Perry Rhodan
+title: Destino de Perry Rhodan - 1° Arco - A Terceira Potência (Volumes P-001 a P-059)
 subheadline: Do clássico de Ficção Científica Alemão para o Fate Básico
 layout: page
 comments: true
@@ -13,9 +13,7 @@ tags:
 header: no
 ---
 
-### *1° Arco: A Terceira Potência*
-
-#### Questões e Aspectos
+### Questões e Aspectos
 
 - Não estamos sós no Espaço!
   - Arconitas - primeiro contato no Lado Escuro da Lua
@@ -62,8 +60,15 @@ header: no
   - Nega a Crest e Thora o retorno a Arcon
 - As manipulações dos Aras
   - Criadores de Doenças e Curas
+- A *"Destruição da Terra"*
+  - Auxilia na manutenção do segredo sobre a localização da Terra
+    - Um planeta similar desabitado foi destruído no lugar,
+    - Dados  enganosos do  local da  Terra apresentados  ao Computador
+      Regente de Árco
+  - Oferece tempo para  o reforço da posição da Terra,  sua evolução e
+    crescimneto
 
-#### Pessoas e Lugares
+### Pessoas e Lugares
 
 - *Terceira Potência*
   - Perry Rhodan
@@ -263,7 +268,7 @@ header: no
     - O Computador Regente conclui que a ameaça terrana foi eliminada
     - Tempo para reestruturar e reforçar a posição terrana no Universo
 
-#### Equipamentos e Tecnologias
+### Equipamentos e Tecnologias
 
 - Psicoradiador
 - Armas Térmicas
