@@ -134,6 +134,12 @@ header: no
     meio de  poderes mentais. Ele  é colocado  fora de ação  por André
     Noir.
   - Um ataque do transmissor fictício destrói a nave druuf
+- *Ameaça Druuf começa a se intensificar*
+  - Bell precisa  passar novamente pela Ducha  Celular (Fisiotron), ou
+    vai regredir para a forma de uma criança ou mesmo de um bebê!
+    - Isso é feito no semiespaço dos druuf
+    - Gucky precisa descansar devido  às suas recentes experiências no
+      semiespaço
 
 ### Pessoas e Lugares
 
