@@ -18,15 +18,122 @@ header: no
 - *O Segredo Terrano*
   - A Terra não foi destruída
     - Sua destruição foi uma Farsa
+  - Uma continua missão de manutenção desse segredo
 - *Arcon e seu Regente*
   - Computador  Positrônico  comanda toda  forma  de  vida no  Império
     Arconita
+  - Vê em Rhodan uma ameaça a Arcon
 - *A Imortalidade Relativa*
   - Dada pela Superconsciência *AQUILO* a Rhodan e alguns aliados
 - *Atlan Desperta*
   - Amigo da Humanidade ou potencial Ditador Arconita?
   - Aprisionado depois de uma batalha corpo-a-corpo com Rhodan
-
+- *Crest e Thora estão velhos*
+  - Imortalidade Relativa negada por *AQUILO*
+  - Rhodan se preocupa com sua esposa Thora
+  - Apenas um soro dos aras pode impedir o envelhecimento e a demência
+    de chegar aos mesmos
+- *Os movimentos clandestinos terranos*
+  - O Regente certamente notou algo estranho
+- *Rhodan vs Atlan:*
+  - Uma batalha resolvida nos punhos e nos cérebros
+  - Uma grande amizade surge
+  - Atlan faz Rhodan jurar o ajudar a derrubar o Computador-Regente
+    - Ambos não aceitam a idéia de serem comandados por uma máquina
+- *O Supercrânio está de volta?!*
+  - Agentes Traidores
+    - Gregor Tropnow e Nomo Yatuhin
+    - Foi-lhes negada a Ducha Celular
+    - Querem chantagear  Rhodan - a  Ducha Celular pela  manutenção do
+      Segredo Terrano
+  - Planeta Volat
+  - Thora é sequestrada!
+  - Talamon  entrega  o segredo  de  que  Rhodan  está ainda  vivo  ao
+    Computador Regente
+- *A primeira colônia extra-solar*
+  - Formada por dissidentes
+  - Rhodan sofre um atentado e "morre"
+    - Um falso Rhodan robótico
+  - Dois grupos políticos dissidentes
+    - Democratas Autênticos
+      - Horace Oliver Mullon
+    - Filósofos da Natureza
+      - Seu Líder na verdade deseja o poder para si
+      - Walter Stanley Hollander
+  - Todos foram capturados
+  - Mullon é levado para Rhodan
+    - Rhodan  explica que  oito  mil homens,  os  principais dos  dois
+      grupos,  seriam  exilados do  Sistema  Solar,  enviados para  um
+      planeta chamado Rigel III
+  - Viagem dos Exilados falha
+    - Transformador de Transição danificado durante um motim
+    - Transição joga os exilados em uma região desconhecida
+  - Planeta Girafante
+  - Mullon ainda consegue  enviar uma mensagem a  partir dos escombros
+    da nave
+    - Primeira cidade do planeta é criada: *Greenwich*
+- *A Ameaça Invisível*
+  - Engole planetas inteiros
+  - Ataque em Mirsal II forma uma nova aliança inquieta entre Rhodan e
+    o Computador Regente
+  - A Ameaça vem de outro contínuo de espaço-tempo
+    - 72000 vezes mais lento que a nossa
+  - Aliança prevê  que Rhodan tenha  ordem de comandar 75%  das tropas
+    arconitas e acesso e uso ilimitado às bases do Império Arconita
+  - Atlan viu eventos similares há 10  mil anos em Venus (Larsa, nosso
+    sistema sendo conhecido na época  como Larsaf), quando o mesmo foi
+    enviado para prender  e deportar o governador da  colônia em Vênus
+    de volta a Arcon
+  - Colonos foram enviados  para uma ilha ente os  dois continentes do
+    planeta vizinho (Terra) - Atlântida
+  - Alguns anos depois,  cem mil colonos de Larsa  desapareceram em um
+    ataque misterioso, sendo que Atlan presencia um segundo ataque, na
+    forma  de  um   feixe  misterioso  de  luz   que  propaga-se  pela
+    superfície, tragando humanos e animais
+  - Um ser desconhecido (*AQUILO*) lhe  entrega o ativador celular que
+    lhe  dá Imortalidade,  e o  projeto do  Canhão Conversor,  que foi
+    usado durante  a guerra  entre Arconitas e  Metanitas, mas  que se
+    perdeu
+- *A doença Azul*
+  - Doença que forma manchas azuis nos habitantes
+  - Mungos
+    - Criaturas similares a macacos rhesus com certa inteligência
+    - Preparam um mingau  com folhas mascadas que curam  os humanos da
+      Doença Azul
+  - Contato com os Anões Azuis
+    - Mullon é salvo por eles de um atentando
+- *Ameaça em Swoofon*
+  - Sistema Swaft
+  - *Os três toque de sino* - ameaça grave contra a Terra
+  - Um espião secreto embarca da nau-capitânea DRUSUS
+    - Uma máquina implantada  em um possoncal, um animal  similar a um
+      cão bassê
+  - Os swoons concordaram em construir um goniômetro de compensação
+    - Capta e anula os efeitos do Compensador Estrutural, permitindo a
+      localização de veículos em transição hiperespacial
+  - Drog
+    - Saltador que pediu pelo goniômetro
+      - Na verdade, a mando do regente
+  - Rhodan obtem  o projeto e  usando os  mutantes apaga a  memória de
+    Drog
+    - Vinte mil swoons emigram para a Terra com Rhodan
+- *Desaparecimentos no sistema Morag*
+  - Rhodan envia uma equipe de pesquisa para esse sistema
+  - Ao passar pelo círculo de luz, entram no outro contínuo
+    - Percebem uma nave estranha e  encontram uma criatura em forma de
+      lagarta, a qual chamam druufs
+    - Encontram também o girino que se perdeu em Mirsal-II, o K7
+    - Mesmo considerando o deslocamento  temporal, emitem um sinal SOS
+      para Rhodan
+  - Quando Rhodan chega, testa um novo gerador de curvatura e entra no
+    continuo paralelo
+  - Em um  dos vários  locais no  continuo paralelo,  uma nave  que se
+    aproximava, Ras Tschubai se teleporta  e encontra um mapa da Terra
+    incluindo Atlântida
+  - A nave  de Rhodan, SAMBO, é  atacada por um "emissário  druuf" por
+    meio de  poderes mentais. Ele  é colocado  fora de ação  por André
+    Noir.
+  - Um ataque do transmissor fictício destrói a nave druuf
 
 ### Pessoas e Lugares
 
@@ -133,8 +240,40 @@ header: no
     - Comanda Arcon com mão de ferro
     - Atua enquanto não encontra um  Arconita digno de ser o Imperador
       de Arcon, não degenerado como os Arconitas atuais
+- Girafante
+  - Primeira colônia extra-solar
+  - Formada por exilados
+  - Fauna  composta  de  animais  similares a  cruza  entre  Girafa  e
+    Elefante
+- Swoons
+  - Mestres em microtecnologia
+  - Similares a pepinos pequenos
+- Mungos
+  - Criaturas similares a macacos rhesus com certa inteligência
+- Anões Azuis
+  - Parecem trapos azuis cintilantes
+  - Ajudam os humanos perdidos em Girafante
+- Horace Oliver Mullon
+  - Um dos Exilados para Girafante
+  - Tornou-se líder dos mesmos em Greenwich
+- Walter Stanley Hollander
+  - Líder Filósofos da Natureza
+    - Na verdade apenas deseja o poder para si
+  - Tenta derrubar Mullon e tomar o poder em Greenwich
+- Gunter Chellich
+  - Finge ser um dos homens de Hollander
+  - Na  verdade,  um   agente  secreto  do  Império   Solar  que  visa
+    supervisionar os exilados
+- Druufs
+  - Forma de lagarta
+  - Habitantes do continuo paralelo
+  
 
 ### Equipamentos e Tecnologias
+
+- Gerador de Curvatura
+  - Modificação de um Gerador de Campo de Energia
+  - Permite o acesso ao contínuo paralelo
 
 ### Fontes:
 
