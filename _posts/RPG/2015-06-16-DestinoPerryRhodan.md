@@ -131,6 +131,7 @@ header: no
   - Ameaça militar trazida pelos sinais da destruição da nave Arconita
     na lua
   - Criaturas com feições reptilianas
+  - Comandados por um ditador, possuem rígida estrutura militar
 - Ferrônios
   - Primeiros  aliados  extraterrestes  dos terranos  (à  exceção  dos
     Arconitas)
@@ -243,7 +244,25 @@ header: no
   - Considerados os "Médicos Espaciais"
     - Criam tanto curas quanto as doenças para as mesmas
   - Negociantes tanto quanto os saltadores
-  
+  - Planeta Natal: Aralon
+    - O Centro de Epidemias
+  - Foram  desmascarados  por  Rhodan  após os  eventos  envolvendo  a
+    "Hipereuforia"
+  - Criadores dos Bios
+    - Seres imunes a poderes mutantes
+- Talamon
+  - Superpesado
+  - Torna-se aliado de Rhodan após ter  seu clã poupado nos eventos em
+    Aralon
+- Sistema Beta
+  - Usado para enganar o Computador Regente de Arcon
+    - Dados implantados para indicar o 3° planeta desse sistema como a
+      Terra
+    - O  terceiro planeta  foi destruído  (não havia  vida inteligente
+      nele)
+    - O Computador Regente conclui que a ameaça terrana foi eliminada
+    - Tempo para reestruturar e reforçar a posição terrana no Universo
+
 #### Equipamentos e Tecnologias
 
 - Psicoradiador
@@ -261,8 +280,9 @@ header: no
   - Saltos Hiperespaciais
     - Deslocamento na 5ª dimensão
     - Processo extremamente doloroso, mas (em geral) inofensivo
-    - Podem ser detectados por sensores especiais
-    - Compensadores
+    - Podem ser  detectados por sensores especiais  devidos aos Abalos
+      nas dimensões provocados pelo processo
+    - Compensadores Estruturais
       - Podem ser usados para "ocultar"  as distorções na 5ª dimensões
         provocadas pelos Saltos
   - Girinos
