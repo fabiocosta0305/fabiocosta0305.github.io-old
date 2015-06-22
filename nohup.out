@@ -1,0 +1,43 @@
+1434626087118	addons.manager	WARN	Exception calling callback: TypeError: a is null (chrome://toomanytabs/content/hacks.js:32) JS Stack trace: Visibo.TMT.initializePatch/<@hacks.js:32:1 < safeCall@AddonManager.jsm:173:5 < getAddonByID_noMoreObjects@AddonManager.jsm:2091:9 < AOC_callNext@AddonManager.jsm:305:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < PL_getAddon@PluginProvider.jsm:126:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2081:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < GMPProvider.getAddonByID@GMPProvider.jsm:541:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2081:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:362:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2081:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2086:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3824:7 < makeSafe/<@XPIProviderUtils.js:145:17 < getRepositoryAddon@XPIProviderUtils.js:126:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1074:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37
+1434626120513	addons.xpi	WARN	Attempting to activate an already active default theme
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+LastPassContainer/this.lponcontentloaded@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1241:187
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+Failed to open VDPAU backend libvdpau_nouveau.so: Não é possivel abrir arquivo de objetos compartilhado: Arquivo ou diretório não encontrado
+1434628177282	addons.update-checker	WARN	Update manifest for togglepersona@davidvincent.tld did not contain an updates property
+1434628177487	addons.update-checker	WARN	Update manifest for isreaditlater@ideashower.com did not contain an updates property
+1434628178535	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+Iq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:34:148
+LastPassContainer/this.lploadpage@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1244:53
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+Iq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:34:148
+LastPassContainer/this.lploadpage@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1244:53
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+ur@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:249
+Bd@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:152:338
+LastPassContainer/this.lpLaunchUrl@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1390:270
+nf@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:56:298
+Jq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:44:407
+Iq@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:34:148
+LastPassContainer/this.lploadpage@file:///home/19219948869/.mozilla/firefox/ntq6re61.default/extensions/support@lastpass.com/components/lastpass.js:1244:53
