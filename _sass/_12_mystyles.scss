@@ -55,3 +55,17 @@ Check typography variables › _3_typography_settings.scss
   font-size: 2em;
   line-height: 1.2em;
 }
+
+article
+{
+    h3, h4, h5, h6 
+    {
+      border-bottom-style: solid;
+      border-bottom-width: 3px;
+    }     
+}
+
+    blockquote p
+    {   
+        font-style: normal;
+    }

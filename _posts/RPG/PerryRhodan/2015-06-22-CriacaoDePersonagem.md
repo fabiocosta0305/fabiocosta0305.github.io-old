@@ -37,7 +37,8 @@ Façanhas, etc...
 
 - *Espécies:* Todo personagem deverá indicar a Espécie à qual pertence
   em seu Conceito. Cada Espécie garante acesso a uma série de Aspectos
-  Raciais e Façanhas Racial.
+  Raciais (sob  os quais estão)  e Façanhas Raciais, sendo  que dessas
+  uma é gratuíta, as demais podendo ser adquiridas normalmente.
 - *Tecnologia:* Ao  escolher uma  Espécie, o personagem  possui acesso
   automático a  todas as  teorias envolvidas com  a tecnologia  de sua
   espécie. Em  termos de regras,  ele não  sofre redutor ao  lidar com
@@ -59,14 +60,15 @@ utilizado como ponto de partida a lista de perícias de Fate Básico.
   - Especialização nova
     - **Comando**
       - Para controlar e comandar tropas:
-        - *Criar Vantagens* - Normalmente um comandante Cria Vantagens
-          ao  articular  *Planos  Adequados*,  ou mesmo  por  meio  de
-          *Discursos Inspiradores*
-        - *Superar* - Ao coordenar suas  tropas, ele pode Superar todo
-          tipo de barreira estratégica ou  tática que se coloque entre
-          ele e seu objetivo.
-        - *Atacar* - Não é usada para Ataque
-        - *Defesa* - Pode ser usada para *Retiradas Estratégicas*
+        - `C`{:   .fate_font}  -   Normalmente  um   comandante  *Cria
+          Vantagens*  ao articular  *Planos Adequados*,  ou mesmo  por
+          meio de *Discursos Inspiradores*
+        - `O`{:  .fate_font}  - Ao  coordenar  suas  tropas, ele  pode
+        *Superar* todo tipo  de barreira estratégica ou  tática que se
+        coloque entre ele e seu objetivo.
+        - `A`{: .fate_font} - Não é usada para Ataque
+        - `D`{:  .fate_font}   -  Pode   ser  usada   para  *Retiradas
+          Estratégicas*
 - **Condução (*Drive*)**
   - Especializa-se
     - **Navegar** - voltado a veículos maritimos
@@ -100,12 +102,12 @@ utilizado como ponto de partida a lista de perícias de Fate Básico.
 Aqui descreveremos Façanhas mais genéricas. As sessões sobre cada Arco
 poderá trazer novos materiais
 
-#### Treinamento Hipnótico
+#### Treinamento Especial
 
-O personagem recebeu algum tipo de treinamento hipnótico que oferece a
-ele   acesso   a   algum    tipo   de   informação   ou   conhecimento
-qualquer.  Normalmente,  ele recebe  +2  ao  tentar *Criar  Vantagens*
-relacionadas a determinadas coisas
+O personagem recebeu algum tipo  de treinamento especial que oferece a
+ele  acesso  a algum  tipo  de  informação ou  conhecimento  qualquer.
+Normalmente, ele recebe +2 ao  tentar *Criar Vantagens* relacionadas a
+determinadas coisas. 
 
 > _**Exemplo:** Treinamento Hipnótico Arconita_ - Com esse treinamento
 > hipnótico, o personagem em questão  recebe +2 para *Criar Vantagens*
@@ -136,6 +138,13 @@ Como *Fleuma*, mas aplicado a *Empatia*
 Você é um estrategista nato, treinado  na Arte do Combate, da Tática e
 da Estratégia,  recebendo +2 em  todos os testes de  *Criar Vantagens*
 com *Comando* durante uma batalha.
+
+#### Autoridade
+
+Você possui autoridade legal determinada  pelo governo contra um grupo
+qualquer (definido no  momento da escolha da Façanha).  Você recebe +2
+em todos  os testes de  *Criar Vantagens*  com *Comando* para  fazer o
+grupo em questão agir segundo sua vontade
 
 #### Líder de Homens
 
@@ -223,7 +232,7 @@ perícias ou Façanhas,  mas se acumula com usos de  Aspectos e afins. O
 Mestre  pode decidir  se outras  Façanhas  se aplicam,  mas caso  isso
 ocorra, essa Façanha deixa de funcionar naquela situação em especial.
 
-#### *"Para quem tem martelo..."*
+#### *"Para quem só tem martelo..."*
 
 Em geral, em testes de tecnologia, o personagem sofre redutores ao não
 estar com  as ferramentas ou  não poder executar reparos  adequados. O
