@@ -333,7 +333,7 @@ preso a essa máquina!_)
 > **_Exemplo:_** Em  _Crepúsculo dos Deuses  - P-004_, Crest  aplica o
 > Treinamento  Hipnótico  Arconita tanto  em  Perry  Rhodan quanto  em
 > Reginald  Bell  para  dar-lhes  acesso ao  conhecimento,  ciência  e
-> tecnologia  Arconita.   Normalmente  esse seria  um  procesos  muito
+> tecnologia  Arconita.   Normalmente  esse seria  um  processo  muito
 > complexo, na prática  impossível, mas como Crest tem  muito tempo (7
 > dias) e é um operador muito hábil, como parte do Corpo Científico de
 > Arcon,  a dificuldade  é  "apenas"  *Fantástica (+6)*.   Entretanto,
