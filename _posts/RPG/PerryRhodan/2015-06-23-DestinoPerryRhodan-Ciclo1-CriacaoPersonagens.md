@@ -347,3 +347,104 @@ preso a essa máquina!_)
 > Especial:   Treinamento  Hipnótico   Arconita*.    Desse  modo,   se
 > precisarem  de   um  outro  treinamento  hipnótico   não  precisarão
 > _"perder"_ o treinamento já existente
+
+#### Psicoradiador e Sondas Mentais
+
+Embora  sejam levemente  diferentes,  tanto a  Sonda  Mental quanto  o
+Psicoradiador funcionam em termos de regras de maneira similar.
+
+Um Psicoradiador é uma arma similar a  uma arma de fogo normal ou a um
+radiador térmico. Entretanto, ele  utiliza uma onda eletromagnética em
+uma certa freqüência  específica que torna a maioria  das pessoas mais
+abertas a sugestionamento mental.
+
+De modo similar, a Sonda Mental  é utilizada para forçar-se a mente da
+pessoa até  que ela revele  todos os seus segredos.  Curiosamente, ela
+funciona  de  maneira  similar  à máquina  de  *Treinamento  Hipnótico
+Arconita*. Entretanto, uma vez usada  contra um alvo, pode reduzir ele
+a um vegetal sem mente.
+
+Em termos  mecânicos, ambos  são considerados  *Ataques*, sendo  que o
+Psicoradiador usa *Atirar* e a Sonda Mental usa *Conhecimentos*. Ambos
+os Ataques são considerados *Ataques Mentais*, portanto Defendidos por
+*Vontade*. Em ambos os casos, no caso de Ataques que provoquem mais de
+1 de Estresse, o usuário pode, pagando um *Ponto de Destino*, forçar o
+alvo   a  absorver   o  dano   por  meio   de  Conseqüências.    Essas
+*Consequências* representam  o sugestionamento  mental ao qual  o alvo
+está submetido, e é colocado pelo  atacante, como se fosse uma ação de
+*Criar Vantagens*.
+
+Em especial, se um alvo for *Tirado de Jogo* por uma Sonda Mental, sua
+mente estará destruída, e uma Conseqüência Extrema *Vegetal sem Mente*
+poderá ser  aplicada. De qualquer  modo, em geral o  personagem estará
+fundamentalmente fora de jogo.
+
+Em especial,  algumas máquinas,  incluindo os  psicorradiadores, podem
+ser  usadas para  colocar *bloqueios  hipnóticos* em  alvos, colocando
+sugestões  pós-hipnóticas nos  mesmos.  Todos  esses blocos  podem ser
+colocados como Aspectos que o personagem carrega enquanto esses blocos
+estiverem sobre o mesmo.  Veja adiante em *bloqueios hipnóticos* o que
+ocorre nesses casos.
+
+#### Bloqueios Hipnóticos
+
+Um efeito  muito comum  em Perry  Rhodan é a  modificação da  mente de
+pessoas. Ainda que as modificações mais complexas sejam muito difíceis
+de  serem  criadas,  pequenos *"ajustes  comportamentais"*  podem  ser
+feitos  facilmente   por  um  hipno   ou  uma  pessoa  armada   de  um
+psicorradiador.  Essas  alterações   são  conhecidas  como  *Bloqueios
+Hipnóticos*.
+
+Em termos de regra, todo bloqueio  hipnótico é um Aspecto colocado sob
+um alvo com uma ação de *Criar  Vantagens* (ou de *Atacar*, no caso de
+um  psicorradiador). Em  geral,  a  duração de  um  Aspecto desse  não
+costuma ser  maior que  uma Seção. Além  disso, um  Bloqueio Hipnótico
+pode ser  novamente resistido como se  fosse uma ação de  *Superar* da
+pessoa  (mesma dificuldade  do teste  original) toda  vez que,  por um
+acaso, o *Bloqueio Hipnótico* o induzir  a fazer algo que vá contra um
+de seus Aspectos de Personagem.
+
+Existem situações em que alguém pode induzir um bloqueio hipnótico tão
+intenso que ele  oculte os Aspectos originais do alvo.  Um Telepata ou
+um  Hipno  pode detectar  tais  situações  por  meio  de um  teste  de
+*Empatia* ou de sua Capacidade  Parapsicológica. Desse modo, os mesmos
+também  podem  remover tais  Bloqueios  como  uma ação  de  *Superar*,
+novamente usando *Empatia* ou sua Capacidade Parapsicológica.
+
+#### Armas
+
+Em Perry Rhodan, as armas  e armaduras utilizam as regras apresentadas
+no Fate Básico, página 255. Além disso, elas devem possuir descritores
+que indicam  o tipo  de dano  que provocam:  *Físico* ou  *Energia* (o
+Mestre    pode    determinar    novos    descritores    conforme    as
+necessidades). Normalmente, se  não houver um descritor,  ela será uma
+arma física (ao  menos no 1° Ciclo  - pode ocorrer de  as armas padrão
+para outros ambientes  seja as de *Energia*). Uma  Arma provoca apenas
+um tipo  de dano por descritor,  enquanto uma Armadura apenas  ajuda a
+absorver dano de um determinado  descritor. O descritor inicial de uma
+Arma/Armadura  é  gratuito, para  efeito  de  determinação de  custos,
+enquanto os descritores adicionais adicionam  o equivalente a um bônus
++1 para fim de custos.
+
+> *Exemplo:*  Um radiador  térmico  arconita é  considerado uma  Arma:
+> Energia 1.  Se  você tivesse um radiador térmico  pesado, esse seria
+> uma Arma: Energia 2.  Ambas  poderiam ser paradas normalmente por um
+> gerador de  escudo arconita (Armadura:  Energia 1), mas não  por uma
+> Armadura  completa medieval  (Armadura:  Físico  1). Entretanto,  um
+> gerador de escudo arconita não defende o alvo contra uma faca (Arma:
+> Físico 0)
+
+Certas  armaduras que  aparecem  em Perry  Rhodan,  como as  Armaduras
+Arconitas, são consideradas  *Extras*, devido a seu  custo. Elas podem
+incluir,  além dos  níveis  de  Armadura, uma  série  de Façanhas  que
+representam capacidades técnicas das mesmas:
+
+> *Exemplo:* Uma Armadura Leve Arconita tem as seguintes estatísticas.
+>
+>- *Armadura:*  Energia, Fisico  1
+>    - *Armamento  Incorporado:*  Radiador   Térmico  Arconita  (Arma:
+>      Energia 1)
+>    - *Radares:*  +2 ao  *Criar Vantagens*  com *Conhecimentos*  para
+>      localizar alvos
+>    - *Suporte de Vida:* +2  ao *Criar Vantagens* com *Conhecimentos*
+>      para facilitar a sobrevivência do usuário
