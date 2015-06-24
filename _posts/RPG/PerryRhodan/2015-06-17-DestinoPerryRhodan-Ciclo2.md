@@ -24,16 +24,199 @@ header: no
   - Computador  Positrônico  comanda toda  forma  de  vida no  Império
     Arconita
   - Vê em Rhodan uma ameaça a Arcon
+  - Acaba se submetendo a Atlan
+    - Circuito A1
 - *A Imortalidade Relativa*
   - Dada pela Superconsciência *AQUILO* a Rhodan e alguns aliados
 - *Atlan Desperta*
   - Amigo da Humanidade ou potencial Ditador Arconita?
   - Aprisionado depois de uma batalha corpo-a-corpo com Rhodan
+  - De inimigo a amigo
+  - Imperador Atlan de Gonozal
+    - Aliado de Rhodan
 - *Crest e Thora estão velhos*
   - Imortalidade Relativa negada por *AQUILO*
   - Rhodan se preocupa com sua esposa Thora
-  - Apenas um soro dos aras pode impedir o envelhecimento e a demência
-    de chegar aos mesmos
+  - Não resistem até o final e morrem
+- *O Supercrânio está de volta?!*
+  - Agentes Traidores
+  - Thora é sequestrada!
+  - Talamon  entrega  o segredo  de  que  Rhodan  está ainda  vivo  ao
+    Computador Regente
+- *A primeira colônia extra-solar*
+  - Formada por dissidentes exilados
+  - Destruída pelos Druufs
+- *Os Druufs*
+  - Belicosos de outra dimensão
+  - Acessam nosso universo pelas zonas de superposição
+  - Dimensão *mais devagar* que a nossa - luz tendendo para o vermelho
+- *O retorno do teletemporador*
+  - Ernst Ellert está vivo!
+  - Possui o corpo de um Druuf
+- *Os Antigos Arconitas*
+  - Encontrados por Gucky em uma antiga naves colonial arconita
+  - Passam a colaborar com Atlan
+- *A destruição de Vagabundo*
+  - Vinte e oito  ratos-castores conseguem ser salvos por  Gucky com a
+    ajuda dos Terranos, mas isso resulta na destruição de Vagabundo
+    
+### Pessoas e Lugares
+
+- *Império Solar*
+  - Perry Rhodan
+    - Comandante-em-Chefe
+  - Reginald Bell
+    - Segundo em Comando
+  - Crest de Zoltral
+    - Conselheiro e amigo de Perry Rhodan
+  - Thora de Zoltral
+    - Antiga Arconita, atualmente caiu nas  graças de Perry, sendo sua
+      esposa
+  - Allan D. Mercant
+  - Conrad Derringhouse
+  - Jullian Tifflor
+  - Peter Kosnow
+    - Ministro da Defesa do Império Solar
+- *Atlan*
+  - Amigo da Terra, ou um Ditador em potencial
+  - Arconita Antigo
+    - Não degenerado e muito ativo
+  - Longevidade
+    - Ativador Celular
+      - Similar à Ducha Celular, mas permanentemente, enquanto o mesmo
+        estiver o usando perto do corpo
+- *Exército de Mutantes*
+  - *John Marshal* - Telepata
+  - *Anne Sloane* - Telepata e Telecineta
+  - *Betty Toufry* - Telepata
+  - *Tako Kakuta* - Teleportador
+  - *Ras Tschubai* - Teleportador
+  - *Ernst Ellert* - Teletemporador (teleportador temporal)
+  - *Wuriu Sengu* - Teleótico (pode ver além de paredes e a distâncias
+    enormes)
+  - *Tanaka Seiko* -  Vidente (pode ver faixas  de energia normalmente
+      inacessíveis   ao  ser   humano,  como   o  infravermelho   e  o
+      ultravioleta)
+  - *Ishi Matsu*
+  - *Kitai Ishibashi* -  Hipno (induz na pessoa  efeitos hipnóticos de
+      domínio mental e "gravação" na mente de outrem)
+  - *Tama Yokida*
+    - Telecineta
+  - *Fellmer Lloyd*  - Telepata  e Localizador,  Capaz de  analizar os
+      padrões mentais das pessoas e as localizar por meio deles
+  - *André Noir* - Hipno
+  - *Ivan Ivanovitch Goratchim* - Psicodetonador - Pode com o poder da
+        mente fazer qualquer coisa que  tenha cálcio ou carbono em sua
+        composição entrar em fissão nuclear
+    - Aparência monstruosa: Duas cabeças, ambas pensantes
+        - Ivan - mais sério e compenetrado
+        - Ivanovitch - mais descontraído e brincalhão
+        - Seus poderes só  funcionam quando ambas as  cabeças estão em
+          acordo
+      - Gigante asustador, mas de bom coração
+  - Gucky
+    - Rato-castor
+      - Mais hábil em poderes mentais que seus semelhantes
+        - Telecineta, Telepata e Teleportador
+      - Mais inteligente também
+      - Passa a atuar junto com Perry Rhodan
+      - Tem uma "rivalidade amistosa" com Reginald Bell
+- *AQUILO*
+- Peregrino
+  - Planeta-lar da entidade superconsciente *AQUILO*
+  - Local onde fica a Ducha Celular
+- Ducha Celular
+  - Oferece "imortalidade relativa*
+    - Deve ser renovada a cada 62 anos
+    - Apenas impede o  envelhecimento ou a morte por  doença. Não cura
+      doenças e nem impede a morte provocada por violência ou destino
+- Terrânia
+  - Cidade artificial no meio do Deserto de Gobbi
+  - Ponto de pouso da Stardust
+  - Primeira cidade com tecnologia Arconita
+- Saltadores
+  - Descendentes dos Arconitas
+  - Vivem em naves, sem terem "planetas natais"
+    - Pulam de sistema em sistema, por isso do nome
+  - Altos, robustos, com cabelos e barbas compridos e vermelhos
+  - Chamados para a Terra por um assecla do Supercrânio
+- Superpesados
+  - Parentes dos Saltadores
+  - Criados em um planeta de alta gravidades, adaptaram-se
+  - Menores e muito mais pesados
+  - São uma espécie de "Segurança privada galática"
+  - Talamon
+    - Torna-se aliado de  Rhodan após ter seu clã  poupado nos eventos
+      em Aralon
+- Aras
+  - Descendentes dos Saltadores
+  - Considerados os "Médicos Espaciais"
+    - Criam tanto curas quanto as doenças para as mesmas
+  - Negociantes tanto quanto os saltadores
+  - Planeta Natal: Aralon
+    - O Centro de Epidemias
+- Arcon
+  - Três Planetas
+  - Arconitas
+    - Atualmente degenerados e indolentes
+    - Desistiram de procurar evoluir
+  - O Computador-Regente
+    - O maior e mais poderoso computador positrônico conhecido
+    - Comanda Arcon com mão de ferro
+    - Atua enquanto não encontra um  Arconita digno de ser o Imperador
+      de Arcon, não degenerado como os Arconitas atuais
+- Fera Cinzenta
+  - Primeira colônia extra-solar
+  - Formada por exilados
+  - Fauna  composta  de  animais  similares a  cruza  entre  Girafa  e
+    Elefante
+- Swoons
+  - Mestres em microtecnologia
+  - Similares a pepinos pequenos
+- Mungos
+  - Criaturas similares a macacos rhesus com certa inteligência
+- Anões Azuis
+  - Parecem trapos azuis cintilantes
+  - Ajudam os humanos perdidos em Girafante
+- Horace Oliver Mullon
+  - Um dos Exilados para Girafante
+  - Tornou-se líder dos mesmos em Greenwich
+- Walter Stanley Hollander
+  - Líder Filósofos da Natureza
+    - Na verdade apenas deseja o poder para si
+  - Tenta derrubar Mullon e tomar o poder em Greenwich
+- Gunter Chellich
+  - Finge ser um dos homens de Hollander
+  - Na  verdade,  um   agente  secreto  do  Império   Solar  que  visa
+    supervisionar os exilados
+- Druufs
+  - Forma Insetóide
+  - Habitantes do continuo paralelo
+  - Gigantes de 3 metros de altura, cabeça esférica com 50cm, Quatro olhos e boca triangular
+  - Inteligentes e hostis
+- Harno
+  - Ser de energia
+  - Assume a forma de uma bola de metal
+  - Teleótico (mostra o que está a distância)
+    - Quanto mais poder usa, mais se encolhe
+  - Telepatia de alcance limitado
+- Thomas Cardif
+  - Filho de Rhodan e Thora
+  - Ambição terrana com arrogânica arconita
+  - Acredita ser seu destino dominar ambos os impérios
+  - Odeia Rhodan
+    - Foi criado  por outra família  por decisão de  ambos, orientados
+      pelo computador positrônico de Vênus
+    - Acredita que Rhodan abandonou Thora
+- *Os Anti*
+  - Culto de Baalor
+  - Possuem o poder de anular os poderes mutantes
+  - Também  criam  escudos de  energia  que  podem anular  ataques  de
+    energia
+    - Não ambos ao mesmo tempo
+
+### Eventos
+
 - *Os movimentos clandestinos terranos*
   - O Regente certamente notou algo estranho
 - *Rhodan vs Atlan:*
@@ -51,7 +234,8 @@ header: no
   - Thora é sequestrada!
   - Talamon  entrega  o segredo  de  que  Rhodan  está ainda  vivo  ao
     Computador Regente
-- *A primeira colônia extra-solar*
+- *Planeta Fera Cinzenta*
+  - A primeira colônia extra-solar
   - Formada por dissidentes
   - Rhodan sofre um atentado e "morre"
     - Um falso Rhodan robótico
@@ -69,7 +253,6 @@ header: no
   - Viagem dos Exilados falha
     - Transformador de Transição danificado durante um motim
     - Transição joga os exilados em uma região desconhecida
-  - Planeta Fera Cinzenta
     - Por causa da feras que vivem nesse planeta, similares a misto de
       elefante com girafa
   - Mullon ainda consegue  enviar uma mensagem a  partir dos escombros
@@ -97,14 +280,6 @@ header: no
     lhe  dá Imortalidade,  e o  projeto do  Canhão Conversor,  que foi
     usado durante  a guerra  entre Arconitas e  Metanitas, mas  que se
     perdeu
-- *A doença Azul*
-  - Doença que forma manchas azuis nos habitantes
-  - Mungos
-    - Criaturas similares a macacos rhesus com certa inteligência
-    - Preparam um mingau  com folhas mascadas que curam  os humanos da
-      Doença Azul
-  - Contato com os Anões Azuis
-    - Mullon é salvo por eles de um atentando
 - *Ameaça em Swoofon*
   - Sistema Swaft
   - *Os três toque de sino* - ameaça grave contra a Terra
@@ -405,185 +580,6 @@ header: no
   - Cardif é capturado
     - Memória foi pesadamente modificada para que ele se esquecesse de
       suas origens e identidade
-- *A destruição de Vagabundo*
-  - Gucky está infeliz e com saudade de casa
-    - Rhodan lhe concede férias (a muito acumladas)
-  - Gucky estranha  que Vagabundo,  seu planeta  natal, não  está onde
-    deveria
-    - Ele encontra estranhos aparelhos
-    - Foram  implantados por  uma  raça insetóide  desconhecida e  são
-      chamados de orghs
-  - Os rato-castores  ativaram sem  querer um e  causaram com  isso um
-    desastre que tirou Vagabundo de sua órbita
-  - Gucky encontra  os sobreviventes e  um equipamento similar  ao que
-    provocou a catástrofe
-    - Ele o aciona e uma nova catástrofe ocorre
-    - Vinte e oito ratos-castores conseguem ser salvos por Gucky com a
-      ajuda dos Terranos, mas isso resulta na destruição de Vagabundo
-- *A Morte de Crest*
-  - Crest sabe que sua hora está chegando
-  - Ele recebe  de Rhodan  um mundo onde  pode descansar  seus últimos
-    dias
-  - Criminosos fogem de uma penitenciária e chegam lá
-  - Crest os enfrenta, e os derrota, mas é ferido no processo e morre
-  - Em Terrânia, ele  é homenageado com uma estátua, como  o "Amigo da
-    Terra"
-    
-### Pessoas e Lugares
-
-- *Império Solar*
-  - Perry Rhodan
-    - Comandante-em-Chefe
-  - Reginald Bell
-    - Segundo em Comando
-  - Crest de Zoltral
-    - Conselheiro e amigo de Perry Rhodan
-  - Thora de Zoltral
-    - Antiga Arconita, atualmente caiu nas  graças de Perry, sendo sua
-      esposa
-  - Allan D. Mercant
-  - Conrad Derringhouse
-  - Jullian Tifflor
-  - Peter Kosnow
-    - Ministro da Defesa do Império Solar
-- *Atlan*
-  - Amigo da Terra, ou um Ditador em potencial
-  - Arconita Antigo
-    - Não degenerado e muito ativo
-  - Longevidade
-    - Ativador Celular
-      - Similar à Ducha Celular, mas permanentemente, enquanto o mesmo
-        estiver o usando perto do corpo
-- *Exército de Mutantes*
-  - *John Marshal* - Telepata
-  - *Anne Sloane* - Telepata e Telecineta
-  - *Betty Toufry* - Telepata
-  - *Tako Kakuta* - Teleportador
-  - *Ras Tschubai* - Teleportador
-  - *Ernst Ellert* - Teletemporador (teleportador temporal)
-  - *Wuriu Sengu* - Teleótico (pode ver além de paredes e a distâncias
-    enormes)
-  - *Tanaka Seiko* -  Vidente (pode ver faixas  de energia normalmente
-      inacessíveis   ao  ser   humano,  como   o  infravermelho   e  o
-      ultravioleta)
-  - *Ishi Matsu*
-  - *Kitai Ishibashi* -  Hipno (induz na pessoa  efeitos hipnóticos de
-      domínio mental e "gravação" na mente de outrem)
-  - *Tama Yokida*
-    - Telecineta
-  - *Fellmer Lloyd*  - Telepata  e Localizador,  Capaz de  analizar os
-      padrões mentais das pessoas e as localizar por meio deles
-  - *André Noir* - Hipno
-  - *Ivan Ivanovitch Goratchim* - Psicodetonador - Pode com o poder da
-        mente fazer qualquer coisa que  tenha cálcio ou carbono em sua
-        composição entrar em fissão nuclear
-    - Aparência monstruosa: Duas cabeças, ambas pensantes
-        - Ivan - mais sério e compenetrado
-        - Ivanovitch - mais descontraído e brincalhão
-        - Seus poderes só  funcionam quando ambas as  cabeças estão em
-          acordo
-      - Gigante asustador, mas de bom coração
-  - Gucky
-    - Rato-castor
-      - Mais hábil em poderes mentais que seus semelhantes
-        - Telecineta, Telepata e Teleportador
-      - Mais inteligente também
-      - Passa a atuar junto com Perry Rhodan
-      - Tem uma "rivalidade amistosa" com Reginald Bell
-- *AQUILO*
-- Peregrino
-  - Planeta-lar da entidade superconsciente *AQUILO*
-  - Local onde fica a Ducha Celular
-- Ducha Celular
-  - Oferece "imortalidade relativa*
-    - Deve ser renovada a cada 62 anos
-    - Apenas impede o  envelhecimento ou a morte por  doença. Não cura
-      doenças e nem impede a morte provocada por violência ou destino
-- Terrânia
-  - Cidade artificial no meio do Deserto de Gobbi
-  - Ponto de pouso da Stardust
-  - Primeira cidade com tecnologia Arconita
-- Saltadores
-  - Descendentes dos Arconitas
-  - Vivem em naves, sem terem "planetas natais"
-    - Pulam de sistema em sistema, por isso do nome
-  - Altos, robustos, com cabelos e barbas compridos e vermelhos
-  - Chamados para a Terra por um assecla do Supercrânio
-- Superpesados
-  - Parentes dos Saltadores
-  - Criados em um planeta de alta gravidades, adaptaram-se
-  - Menores e muito mais pesados
-  - São uma espécie de "Segurança privada galática"
-  - Talamon
-    - Torna-se aliado de  Rhodan após ter seu clã  poupado nos eventos
-      em Aralon
-- Aras
-  - Descendentes dos Saltadores
-  - Considerados os "Médicos Espaciais"
-    - Criam tanto curas quanto as doenças para as mesmas
-  - Negociantes tanto quanto os saltadores
-  - Planeta Natal: Aralon
-    - O Centro de Epidemias
-- Arcon
-  - Três Planetas
-  - Arconitas
-    - Atualmente degenerados e indolentes
-    - Desistiram de procurar evoluir
-  - O Computador-Regente
-    - O maior e mais poderoso computador positrônico conhecido
-    - Comanda Arcon com mão de ferro
-    - Atua enquanto não encontra um  Arconita digno de ser o Imperador
-      de Arcon, não degenerado como os Arconitas atuais
-- Fera Cinzenta
-  - Primeira colônia extra-solar
-  - Formada por exilados
-  - Fauna  composta  de  animais  similares a  cruza  entre  Girafa  e
-    Elefante
-- Swoons
-  - Mestres em microtecnologia
-  - Similares a pepinos pequenos
-- Mungos
-  - Criaturas similares a macacos rhesus com certa inteligência
-- Anões Azuis
-  - Parecem trapos azuis cintilantes
-  - Ajudam os humanos perdidos em Girafante
-- Horace Oliver Mullon
-  - Um dos Exilados para Girafante
-  - Tornou-se líder dos mesmos em Greenwich
-- Walter Stanley Hollander
-  - Líder Filósofos da Natureza
-    - Na verdade apenas deseja o poder para si
-  - Tenta derrubar Mullon e tomar o poder em Greenwich
-- Gunter Chellich
-  - Finge ser um dos homens de Hollander
-  - Na  verdade,  um   agente  secreto  do  Império   Solar  que  visa
-    supervisionar os exilados
-- Druufs
-  - Forma Insetóide
-  - Habitantes do continuo paralelo
-  - Gigantes de 3 metros de altura, cabeça esférica com 50cm, Quatro olhos e boca triangular
-  - Inteligentes e hostis
-- Harno
-  - Ser de energia
-  - Assume a forma de uma bola de metal
-  - Teleótico (mostra o que está a distância)
-    - Quanto mais poder usa, mais se encolhe
-  - Telepatia de alcance limitado
-- Thomas Cardif
-  - Filho de Rhodan e Thora
-  - Ambição terrana com arrogânica arconita
-  - Acredita ser seu destino dominar ambos os impérios
-  - Odeia Rhodan
-    - Foi criado  por outra família  por decisão de  ambos, orientados
-      pelo computador positrônico de Vênus
-    - Acredita que Rhodan abandonou Thora
-- *Os Anti*
-  - Culto de Baalor
-  - Possuem o poder de anular os poderes mutantes
-  - Também  criam  escudos de  energia  que  podem anular  ataques  de
-    energia
-    - Não ambos ao mesmo tempo
-
 
 ### Equipamentos e Tecnologias
 
