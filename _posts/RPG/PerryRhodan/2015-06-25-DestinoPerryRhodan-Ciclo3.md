@@ -152,6 +152,8 @@ header: no
     - Não ambos ao mesmo tempo
   - Não gostam de Rhodan por tolher-lhe seu poder
 
+blah
+
 ### Eventos
 
 
