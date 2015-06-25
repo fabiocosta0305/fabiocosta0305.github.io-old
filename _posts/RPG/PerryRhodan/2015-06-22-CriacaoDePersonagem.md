@@ -193,9 +193,8 @@ qualidade em geral garante +1 de bônus se for uma Arma ou Armadura
 Esse personagem é alguém que não  enxerga uma barreira entre o prático
 e o teórico. Escolha um determinado ramo de conhecimento (como motores
 de transição  ou compensadores  estruturais. Sempre que  você precisar
-*Criar Vantagens* com *Conhecimentos*  (escolhida no momento da compra
-da Façanha) relativo a esse  ramo do Conhecimento, o Personagem recebe
-+2 no teste.
+*Criar Vantagens* com  *Profissão* em situações relativas  a esse ramo
+do Conhecimento, o Personagem recebe +2 no teste.
 
 #### Imunidade a Desorientação 
 
