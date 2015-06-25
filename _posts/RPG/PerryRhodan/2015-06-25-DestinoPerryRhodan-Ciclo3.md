@@ -151,9 +151,130 @@ header: no
     energia
     - Não ambos ao mesmo tempo
   - Não gostam de Rhodan por tolher-lhe seu poder
+- *Os Aconenses*
+  - Antepassados dos Arconitas
+    - Ainda mais arrogantes que os mesmos
+  - Não evoluiram mais as naves para viajar pelo espaço
+    - Utilizam principalmente transmissores de matéria
 
 ### Eventos
 
+- *O Vôo linear e o Sistema Azul*
+  - *Fantasy*
+    - A primeira nave humana equipada com um motor linear
+      - Motor Kalup
+        - Nomeado a partir do desenvolvedor do mesmo, Arno Kalup
+        - Motor de Propulsão linear baseado na tecnologia druuf
+    - Um incidente que poderia gerar catástrofe
+      - Envelopados em matéria em fusão nuclear de um sol
+        - Escapada por meio das ações de Brazo Alkher
+  - O sistem Azul
+    - Chamado assim pelo sol da mesma, uma estrela Azul
+    - Lar dos Aconenses
+    - Uma Fuga rápida
+      - Aconenses ameçam os Terranos ao  descobrirem que os mesmos não
+        são arconitas
+      - Gucky consegue auxiliar na fuga
+  - Uma explosão catastrófica
+    - A  *Fantasy* é  destruída e  seus ocupantes  caem em  um planeta
+      perdido
+      -  100% matéria orgânica - um grande organismo unicelular
+    - Resgatados por uma nave vagabunda - *Lizard*
+- *A Terceira Divisão*
+  - Parte do Serviço de Inteligência do Império Solar
+  - Acionada no incidente da nave-cargueira Carolina
+    - Destruída enquanto inspecionada por uma nave desconhecida
+  - Chefe da Terceira Divisão: Nike Quinto
+    - Envia seus agentes
+  - Agente da Terceira Divisão Ron Landry
+    - Descobre que a Carolina foi  destruída por armas térmicas devido
+      a uma nuvem de gás ainda existente no local do acontecimento
+    - Descobre também que uma nave de fuga sobreviveu ao ataque
+  - Agente da Terceira Divisão Larry Randall
+    - Postado no planeta Gama, sistema Toghma
+    - Encontra a nave de fuga (Carolina II)
+      - Foi abatida por impactos de energia
+   - Plante Gama
+     - Colônia Terrana, mas também base comercial dos Saltadores
+     - Gamenses
+       - Povo anfíbio
+       - Salva os ocupantes: três passageiros,  o Tenente Silligan e o
+         Cabo Laughlin
+       - Aliados dos Saltadores
+   - Lidiok
+     - Monstro-marinho fabricado
+     - Sua derrota pelos Terranos convence os Gamenses a ajudá-los
+   - Guluch
+     - Cidade submersa onde os Saltadores se estabeleceram
+     - Lucros imensos com o vidro Gamense
+       - Altamente resistente e caro
+       - Saltadores faziam os Gamenses entregarem o vidro ao "Lidiok"
+     - Os Saltadores são desmascarados e presos
+       - Plano  final:   eliminar  a  base  Terrana,   que  viam  como
+         concorrentes
+- *Uma trapaça Aconense*
+  - Uma nave saltadora perdida
+    - Metade  da tripulação  morta  por  causa de  um  virus do  trato
+      intestinal
+    - A Terra envia socorro
+    - A Doença que matou os Saltadores é de origem Terrana!
+  - Uma nave segue em viagem
+    - Nave Aconense
+    - Viajando para Betegelse-VII, em Orion
+      - Tem uma missão
+    - Tão logo a missão é bem sucedida, abandona o sistema.
+      - Comando Terrano da Drusus chega tarde demai
+  - Construções Estranhas
+    - Um transmissor de matéria ligado ao Sistema Azul
+    - É usado para enviar o *Myl-Sé*
+      - Uma doença que impregna todos na Drusus e depois, o planeta Terra!
+      - Um protoplasma que ataca a albumina (existente em todas as células)
+        - Curiosamente, ataca também o virus que matou os saltadores
+  - Uma cura após uma corrida contra o tempo
+    - *Soisy-on-Seine*
+      - Não há infectados pelo protoplasma na cidade
+      - Base secreta dos Aras
+        - Tem a cura para ambas as doenças
+        - Iriam  espalhar o  virus  do trato  intestinal pelo  Sistema
+          Solar todo
+        - Pulsador
+          - Mantem o protoplasma à distância
+      - Aras são presos e julgados por assassinato
+- *Tráfico de Ópio*
+  - Drogas terranas
+    - Traficantes fazem dinheiro com as mesmas pela Galáxia
+      - Efeitos potencializados na biologia estranha de outros povos
+  - Saltadores procurando ópio para vender
+    - Confundem John Edgar Pincer com *Shaugnessy*
+      - *John Edgar Pincer:* herdeiro da *Cosmic Fruit Company*
+      - *Shaugnessy:* Traficante de ópio
+        - Na verdade, um associado de Vincent Aplied
+    - Objetivo final: enfraquecer a  posição dos terranos, acusando-os
+      de traficantes
+  - A Terra é acusada!
+    - Rhodan  fecha o  Sistema Solar  em quarentena  para descobrir  o
+      traficante
+  - Homem-passáros
+    - Pacíficos, ajudam Pincer e sua noiva a fugir
+    - Graças a ajuda dos mesmos, Pincer envia seu SOS
+  - Shuagnessy morre, e Aplied é parado
+    - Cai o tráfico de ópio espacial
+- *O Exército Fantasma*
+  - Uma nave Aconense parte do Sistema Azul até Arcon III
+    - Gera um campo temporal para 15 mil anos atrás
+      - Imperador Metzal II
+    - Os aconenses  acusam a  Terra de ser  um povo  inconveniente que
+      está se aproximando de Arcon
+    - 30  mil naves  viajam  à  Terra para  colocarem-a  sob o  regime
+      arconita
+      - Passam pelo campo temporal gerado pela nave Aconense
+    - O Regente está paralisado
+      - Os mundos coloniais começam a se rebelar
+    - Gucky implanta uma bomba na nave aconense
+    - Em cima da hora, o ataque do Exército Fantasma é impedido
+      - A bomba explode a nave aconense, desfazendo o campo temporal e
+        devolvendo  a função  ao Regente,  reestabelecendo a  ordem no
+        Império
 
 
 ### Equipamentos e Tecnologias
