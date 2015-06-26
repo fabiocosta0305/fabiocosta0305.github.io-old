@@ -479,8 +479,17 @@ header: no
     - Seu objetivo: manipular o Circuito A1
     - Eles conseguem, mesmo com Rhodan conseguindo os expulsar do mesmo
       - Todos os terranos devem abandonar Arcon
+  - Rhodan se vê forçado a declarar Estado de Emergência
+    - Todas as naves voltam à terra
+  - O Computador Regente recusa-se a receber ordens de Atlan!
+  - Uma nave Aconense chega a Arcon
+    - A trama fica clara
+      - Retirar Atlan por Carba, um fantoche na mão dos Aconenses
+    - O Psico-Duelo
+      - Ocorre sem vencedores, na mente de Atlan e Carba
+  - Atlan é deposto
+    - A existência do Sistema Solar é ameaçada
     
-      
 ### Equipamentos e Tecnologias
 
 
