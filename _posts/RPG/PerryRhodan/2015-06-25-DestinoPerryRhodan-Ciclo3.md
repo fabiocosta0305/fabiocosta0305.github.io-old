@@ -656,7 +656,82 @@ header: no
       corretamente à pergunta Posbi
       - *"Vocês são a verdadeira vida?"*
       - Horas angustiantes até que os canhões Posbis cessam o fogo!
-    
+    - Uma aliança  surge entre todas  as raças enquanto os  Terranos e
+      Arconitas procuram salvar o que é possível
+  - Os Laurins aparecem
+    - Enviam um sinal dizendo que os Terranos são seus aliados!
+    - A batalha recomeça
+    - Rhodan opta por atacar Frago antes que este destrua Arcon
+    - Dispositivos Swoons  são implantados  em um planeta  imitando as
+      emanações mentais Laurins
+    - Os Posbis avançam contra eles, mas não encontram nada
+    - Novamente as batalhas cessam, e  os Posbis agradecem os humanos,
+      ainda que deixem claro não precisarem da ajuda dos mesmos
+  - O Mundo Surprise
+    - Vários  tipos de  máquinas similares  às de  Mecânica, e  outras
+      completamente diferentes
+    - Descoberta a origem dos Posbis e seu conflito contra os Laurins
+      - Laurins eram inimigos dos Saurien de Mecânica
+      - Os Saurien criaram robôs contra  os Laurins, e este os pegaram
+        e injetaram  um protoplasma que  reagia a um programa  de ódio
+        contra os Sauriens
+        - Esse  programa  provou-se bom  demais  quando  os Posbis  se
+          voltaram contra seus "Mestres"
+   - O Teletemporador assume o comando
+     - Ernst  Ellert assume  o controle  de  uma nave  Posbi para  que
+       Rhodan e  sua equipe recupere  alguns dos poderosos  Canhões de
+       Transformação Posbi
+       - Ao  forçar a  mente,  o corpo  de Ernst  Ellert  começa a  se
+         deteriorar na Terra
+     - O  teletemporador começa  a perder  o  controle e  sua mente  é
+       tragada pelo protoplasma
+       - Ainda consegue sabotar os controles  da nave posbi e a lançar
+         contra Frago
+       - O corpo  deteriorado totalmente  na Terra,  a mente  de Ernst
+         Ellert se projeta novamente no tempo e espaço
+- *A traição dos Anti e os prisioneiros Laurin*
+  - Molol alerta a terra
+    - Estranhos entraram em contato com o Culto de Baalor e o Universo
+      corre perigo
+    - A *Terceira Divisão* novamente atua
+    - Eles invadem a base Anti e enfrentam uma criatura invisível
+    - Descoberto o plano Anti
+      - Os Laurins auxiliariam os Anti a derrotarem os terranos
+    - Um traidor dos Anti ajuda os Terranos
+    - Eles conseguem fugir com três Laurins prisioneiros
+  - O material antiflex
+    - Campo de invisibilidade Laurin é baseado na mudança do ângulo de
+      refração luminosa
+    - Antiflex inutiliza  essa vantagem,  tornando os  Laurin visiveis
+      para os que usam
+  - Os Aconenses se unem aos Laurin e aos Anti
+    - Três mil Laurins invadem o sistema solar por meio do transmissor
+      de matéria que liga Esfinge a Marte
+    - Os prisioneiros laurin são mortos por seus compatriotas
+    - Milhões de terranos são mortos no processo
+  - O plano é descoberto e a ajuda posbi solicitada
+- *A Descoberta em Fossil*
+  - Um dispositivo que permite os Posbis encontrarem os Laurins
+  - Obtido com a ajuda do povo nativo
+- *O Circuito do Ódio*
+  - Atlan e Rhodan são levados até um planeta desconhecido
+    - O mundo dos cem sóis
+  - Todos os mistérios sobre a origem dos Posbis são revelados
+  - Atlan e Rhodan conseguem, por fim,  destruir o circuito de ódio, e
+    isso coloca os Posbis como aliados dos mesmos
+- *Os Luxidas*
+  - Rhodan deseja rever os Barconitas
+  - O local onde ele viaja  tem um planetóide aparentemente desabitado
+    de 850 km de diâmetro
+  - Aos poucos  eles encontram uma  forma de  vida que se  alimenta de
+    energia
+  - Corpos de Laurins
+    - Prenderam as criaturas de energia em alguns desses planetóides
+    - Os luxidas são mortos ao serem  tragados para dentro de um motor
+      linear Kalup por meio de um Raio Trator
+  - *AQUILO* ressalta que os Luxidas são  uma ameaça não apenas a ele,
+    mas a toda a galáxia
+
 
 ### Equipamentos e Tecnologias
 
