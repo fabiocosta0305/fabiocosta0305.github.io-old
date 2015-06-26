@@ -41,16 +41,9 @@ header: no
     - Comandante-em-Chefe
   - Reginald Bell
     - Segundo em Comando
-  - Crest de Zoltral
-    - Conselheiro e amigo de Perry Rhodan
-  - Thora de Zoltral
-    - Antiga Arconita, atualmente caiu nas  graças de Perry, sendo sua
-      esposa
   - Allan D. Mercant
   - Conrad Derringhouse
   - Jullian Tifflor
-  - Peter Kosnow
-    - Ministro da Defesa do Império Solar
 - *Atlan*
   - Amigo da Terra, ou um Ditador em potencial
   - Arconita Antigo
@@ -157,6 +150,13 @@ header: no
   - Não evoluiram mais as naves para viajar pelo espaço
     - Utilizam principalmente transmissores de matéria
   - Planeta Nativo: Drorah (Esfinge, segundo os Terranos)
+- *Os Posbis*
+- Meech Hannigan
+- Van Moders
+- Arno Kalup
+- Auris de Tas-Loor
+- Epetran
+- Kule-Tats
 
 ### Eventos
 
@@ -490,8 +490,174 @@ header: no
   - Atlan é deposto
     - A existência do Sistema Solar é ameaçada
 - *O Salvador do Império Arconita*
-  -
-  
+  - Os Aconenses mudam a programação do Computador Regente
+    - Um conflito com o Sistema Solar é iminente
+    - As tentativas de sabotagem de Atlan e Rhodan são inefetivas
+  - O Manipulador Temporal
+    - Os  Mutantes conseguem  roubar o  aparelho e  colocar cientistas
+      aconenses em um bloqueio hipnótico  para que estes trabalhem com
+      os terranos
+    - Voltar  no  tempo,  fazendo-se  passar  por  uma  nave  que  foi
+      destruída,  para implantar  uma bomba  no Computador  Regente no
+      passado e o detonar lá
+    - Auris de Tas-Loor atua como aliada
+      - Está apaixonada por Rhodan
+      - Avisa que os Aconenses já estão cientes do plano
+  - Eles voltam no tempo e conseguem  chegar no local de construção do
+    Computador Regente
+  - Epetran
+    - O Criador do Computador Regente
+      - Os mutantes  o localizam  mas não conseguem  o colocar  sob um
+        bloqueio hipnótico
+    - Convida Atlan, Rhodan e os mutantes para um jantar
+      - Consegue  os colocar  sob  um efeito  hipnótico  e fazer  eles
+        fornecerem ao mesmo  todo o conhecimento sobre  a tecnologia e
+        história terrana!
+  - Eles  conseguem chegar  ao local  onde  implantam a  bomba, mas  o
+    Manipulador Temporal falha!
+    - 17 minutos para fugir, enfrentando Aconenses e Antis!
+    - A salvação por Epetran
+      - Uma nave para quatro chega para resgatar os combatentes
+      - Um programa de autodestruição é acionado no Computador Regente
+        - Tudo parte dos planos  de Epetran, baseado nos conhecimentos
+          que o mesmo recebeu de Atlan e demais no jantar!
+  - Uma vitória a alto custo:
+    - A Sotala foi destruída, junto com o Manipulador Temporal
+      - Auris de Las-Toor se sacrifica por Rhodan
+  - Os Terranos devem ajudar
+    - Sem o  Computador Regente,  não há  suficiente pessoal  entre os
+      Arconitas para administração do Império
+      - Unidades militares  arconitas sem  comando estão  vagando pelo
+        Universo, pronto para serem pegas por qualquer um
+- *Os Invisíveis*
+  - Três naves  são destruídas pelos  Terranos para que não  caiam nas
+    mãos dos Saltadores
+  - Gucky e Iltu
+    - Iltu é  apaixonada por Gucky,  e tão competente  nas Capacidades
+      Parapsicológicas quanto o mesmo
+  - Gucky reencontra os invisíveis que prejudicavam os Barconitas!
+  - Uma batalha entre os invisíveis e a tripulação da Caesar
+    - Baixas pesadas  para os  dois lados, mas  os invisíveis  levam a
+      pior
+- *A Vida verdadeira*
+  - O primeiro contato com vida fora da Via Láctea
+    - *"Vocês são a verdadeira vida?"*
+  - Um primeiro ataque destrói parcialmente a BOB-21
+    - Base a 5000 anos luz do centro da Galáxia
+    - Os ocupantes sobrevivem graças a uma manobra ousada
+  - Os Invisíveis estão dentro da nave!
+    - Consumo de oxigênio elevado
+    - Usam a  BOB-21 para  enfrentar o primeiro  inimigo, que  tem uma
+      nave desconhecida
+  - Meech Hannigan desaparece na fuga!
+  - Uma disputa por outra nave de guerra Arconita perdida
+    - Os  terranos conseguem,  mas  os robôs  tentam  matar toda  vida
+      orgânica!
+    - Uma nave similar à vista no caso  da BOB-21 surge e reduz a nave
+      terrana a Destroços
+    - A nave  fragmentária quase  provoca a  destruição de  outra nave
+      terrana, a Teodorico
+  - Uma  invasão terrana  contra a  nave fragmentária  quase acaba  em
+    desastre
+    - Três mutantes quase  morreram e a nave terrana  apenas foi salva
+      por 22 cruzadores que apareceram
+    - Na  nave  Arconita,  os  robôs "cometem  suicidio"  enquanto  os
+      telepatas ouvem uma risada não humana
+  - Rhodan  manda  uma  equipe   para  Mecânica,  acreditando  que  lá
+    encontrará respostas
+    - Todos carregam um absorvedor mental
+      - Impede a detecção como "criaturas orgânicas"
+    - Gucky é levado para uma base subterrânea
+      - Rhodan e Iltu o resgatam
+    - Os laurins se aproximam
+      - Nome dado aos Invisíveis
+      - Jogam bombas similares às bombas arconitas
+      - Chamam a atenção dos Posbis
+        - Os donos das naves fragmentárias
+        - Parte robôs, parte matéria orgânica
+        - Iltu descobriu  que os  robôs possuem sensações  e atividade
+          neural
+          - Ódio pela vida orgânica
+          - Capazes de pensamento e ações auto-motivadas
+      - Uma nave fragmentária foi destruída pelos Laurins
+        - Parte dos destroços foi recuperada pelos Terranos
+  - Descobertas sobre os Posbis
+    - São  compostos  de  duas   partes  -  positrônica  (Robótica)  e
+      Biológica (plasma orgânico)
+    - Hiperimpulsos são usados na comunicação entre as duas sessões
+    - A Positrônica fornece a lógica, o Plasma os sentimentos
+    - Os Posbis são comandados pela  ligação entre as duas partes, que
+      rapidamente evoluem
+  - Uma missão perigosa em Frago
+    - Dez homens se deixam capturar pelos Posbis
+    - Descobrem que  as naves recuperadas são  dissolvidas para formar
+      naves fragmentárias
+    - Criaturas orgânicas são mortas e convertidas em protoplasma para
+      o plasma dos Posbis
+  - A  *Terceira  Divisão* recupera  seu  Sargento  Robô e  ainda  faz
+    descobertas
+    - Uma forma de ver-se as naves fragmentárias
+      - um campo de distorção temporal oculta as naves fragmentárias
+    - Um gerador de campo de distorção permite ver as naves
+  - Van Moders compreende a ligação impretrônica
+    - Hiperligação  entre as  regiões  biológicas  e positrônicas  dos
+      Posbis
+    - São capazes de Aprender!
+  - O cuidado com a posição da Terra
+    - Os Posbis ocuparam Panotol
+      - Nove mil saltadores e aconenses são prisioneiros
+      - Rhodan resgata todos e destrói as naves para que a localização
+        da Terra seja preservada
+  - Everblack
+    - planeta base dos Posbis
+      - Um planeta escuro
+      - A tentativa de invasão resulta em fracasso retumbante
+        - Apenas  Rhodan,  Gucky,  Atlan  e  o  Dr.   Antzan  (um  Ara
+          estudioso dos Posbis) sobrevivem
+        - O  resgate  destes  custa   o  último  transmissor  fictício
+          terrano, sem ser bem-sucedido na ação
+      - Eles conseguem chegar a Everblack
+        - Disfarçados de vida não-orgãnica, encontram torres que são a
+          fontes do protoplasma Posbis.
+        - Utilizando armas narcotizantes, provocam pânico nos Posbis
+          - Por afetar apenas o protoplasma, considerados a parte mais
+            importante dos Posbis, causa pânico nos mesmos
+          - Eles nocateiam as grandres torres de protoplasma, deixando
+            os controles  dos Posbis  por conta da  parte positrônica,
+            que não os considera perigosos
+       - Eles são resgatados
+  - Uma última missão para Harno
+    - Sistema Salor ocupado pelos Posbis
+    - Parte do Império Aconense
+      - O Conselho Aconsense é relutante em ajudar
+    - Quase uma nave fragmentária é capturada
+      - Autodestruição acionada
+    - Salvos em cima da hora por Atlan
+    - Os Aconenses determinam a rendição dos Terranos e Arconitas
+      - Gucky de maneira pouco cerimoniosa os devolve pelo transmissor
+        de matéria
+    - Harno volta para seu próprio lar fora do nosso universo
+  - Kule-Tats
+    - Ara
+      - Resgatado da mão dos Aconenses pela *Terceira Divisão*
+      - Possui alguma quantidade de protoplasma Posbi
+  - Uma medida desesperada
+    - Testar  o  nível  de  ligação  entre  as  partes  positrônica  e
+      biológica dos posbis
+    - Eles tentam  capturar uma nave que  ainda não é imune  aos raios
+      narcóticos
+    - Dentro da nave, os mutantes ouvem a mensagem telepática de SOS
+      - *"Salvar o Coração, Amar o Coração!"*
+    - Gucky coloca a caixa de protoplasma Posbi que Kule-Tats tinha
+      - Ela informa ao resto dos posbi que foi bem-tratada
+      - As ordens odiosas vem das  massas de biomaterial que distribui
+        as ordens aos posbi
+    - Um   ataque  ao   biomaterial   e   Rhodan  consegue   responder
+      corretamente à pergunta Posbi
+      - *"Vocês são a verdadeira vida?"*
+      - Horas angustiantes até que os canhões Posbis cessam o fogo!
+    
+
 ### Equipamentos e Tecnologias
 
 
