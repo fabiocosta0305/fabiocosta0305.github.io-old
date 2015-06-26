@@ -156,8 +156,7 @@ header: no
     - Ainda mais arrogantes que os mesmos
   - Não evoluiram mais as naves para viajar pelo espaço
     - Utilizam principalmente transmissores de matéria
-
-blah
+  - Planeta Nativo: Drorah (Esfinge, segundo os Terranos)
 
 ### Eventos
 
@@ -277,8 +276,211 @@ blah
       - A bomba explode a nave aconense, desfazendo o campo temporal e
         devolvendo  a função  ao Regente,  reestabelecendo a  ordem no
         Império
-
-
+- *O Sistema Azul*
+  - Aconenses atacam Atlan e Rhodan, os sequestrando
+  - Levam-os a Drorah
+    - Auris de Las-Toor
+  - Acabam conseguindo escapar, destruindo  também os motores lineares
+    aconenses
+    - Obtêm o projeto do motor linear aconense e também o direito a um
+      posto comercial em Esfinge
+- *O Liquitivo e o Retorno de Thomas Cardif*
+  - Uma perigosa bebida
+  - Os Homens da *Terceira Divisão* estão no caso
+    - Descobrir quem produz essa bebida e o seu impacto no ser humano
+  - Planeta Goszulan
+  - Os que abusam da bebida se tornam viciados quase zumbis
+    - Inicialmente  provoca uma  sensação de  rejuvenescimento, mas  é
+      viciante e provoca envelhecimento rápído
+  - A droga está no mercado a doze anos
+  - Os Anti estão produzindo a droga
+    - Procuram minar lentamente a humanidade
+    - O Criador dessa droga é um certo Edward Hughes
+      - Na realidade, Thomas Cardif "oculto" em seu bloqueio hipnótico
+  - Rhodan atua
+    - A venda de Liquitivo passa a  ser proibida no Império Solar e no
+      Império Arconita
+    - Prender Edward Hughes (Thomas Cardif)
+  - Thomas Cardif ressurge
+    - Os Anti descobrem o bloqueio hipnótico e o removem
+    - Thomas decide distribuir gratuitamente o Liquitivo
+    - A proibição do Liquitivo no Sistema Solar provoca revoltas
+    - Rhodan é obrigado a voltar atrás para impedir mortes
+  - Descoberto o ponto de produção do Liquitivo
+    - Planeta Okul
+    - Cardif é o inventor da droga
+    - Vinda das secreções de uma criatura similar a um verme
+      - Pesquisadores estudam a secreção atrás da cura para o vício
+  - O Ultimato e o Plano de Cardif
+    - Rhodan ameaça destruir um planeta onde estão os Anti
+    - Cardif apela aos sentimentos paternos de Rhodan
+    - Cardif captura Rhodan usando esse estratagema
+- *Cardif/Rhodan*
+  - Cardif  tem o  mapa mental  de seu  pai implantado  em sua  mente,
+    ocultando seu ego
+    - Não pode ser localizado por telepatas
+    - Ainda assim não é perfeito
+  - Cardif  coloca em  Rhodan um  bloco hipnótico  similar ao  dele em
+    Rhodan, fazendo o mesmo agir como ele
+  - Para auxiliar na mascarada, Cardif revela o antídoto ao Liquitivo,
+    Alitivo
+  - As ações são estranhas
+    - Cardif/Rhodan não tem o peculiar humor do pai
+  - Ele busca os ativadores celulares
+    - Uma viagem a Peregrino
+    - Cardif/Rhodan exige 21 ativadores celulares
+      - Ele pretende utilizá-los como moeda de troca com os Anti
+    - *AQUILO* provê os mesmos
+    - Cardif/Rhodan toma um para si
+      - Na verdade, uma armadilha para Cardif/Rhodan
+        - Está ajustado para o verdadeiro Perry Rhodan
+    - Vinte são entregues para Cardif, em uma Urna Temporal ajustada a
+      Cardif/Rhodan
+      - Cardif entrega os mesmos ao Anti Rhabol, mediante chantagem
+    - Os Ativadores estão sabotados!
+      - *AQUILO* modificou-os para  realizar *"brincadeiras"* com seus
+        portadores
+      - Um dos Ativadores  faz com que todos próximos  de seu portador
+        tratem o mesmo como uma planta muito rara a ser protegida
+      - Os  Ativadores  sabotados  são  inúteis  a  qualquer  um,  não
+        cumprindo sua função
+  - Ações cada vez mais malucas
+    - Remoção dos terranos a serviço do Império Arconita
+    - Tropas avançam para M-13
+    - Bell  e os  demais integrantes  do  Império Solar  começam a  se
+      perturbar
+  - O último alerta do Imortal
+    - Cardif seria *"Grande demais e poderoso demais"*
+    - Cardif apenas ri
+    - Cinquenta  dias depois  de  começar a  usar  o Ativador,  Cardif
+      começa a sentir dores lancinantes
+      - O Ativador ficou "implantado" no mesmo
+        - Terminações nervosas ligadas diretamente aos nervos!
+    - O peso de Cardif começa  a aumentar monstruosamente e de maneira
+      continua!
+  - Os Anti se preocupam
+    - Trakarat
+      - Planeta natal dos Anti
+    - Utilizam estratagemas para enganar  os terranos a atacarem outro
+      planeta como se fosse Trakarat
+     - Ao invadir tal planeta, os terranos descobrem o estratagema e o
+       local verdadeiro de Trakarat
+       - Sistema Aptut
+  - Todos se comovem e se preocupam com a situação de *Cardif/Rhodan*
+    - Não desconfiam que não é o verdadeiro Rhodan
+    - Cada vez mais paranóico e alucinado
+      - Prisões injustas estão provocando levantes
+    - Cardif/Rhodan começa a se revelar...
+      - Pequenas diferenças em memórias começam a se apresentar
+      - Atlan está desconfiado
+   - Atlan mata a charada
+     - Lembrança da luta em Hellsgate
+     - Cardif não sabia disso!
+   - Cardif/Rhodan se desespera
+     - Lei Marcial na Ironduke!
+     - Tenta matar Atlan - não é bem suscedido graças a Gucky
+   - Cardif foge desperado, em dor insana
+     - Uma gargalhada monstruosa pode ser ouvida em sua mente!
+   - Trakarat
+     - Cardif ameaça os Anti para que eles removam o Ativador que está
+       com ele e dê a ele um dos demais vinte
+     - O verdadeiro Rhodan está lá!
+     - Atlan e Gucky salvam Rhodan
+       - O Ativador  Celular se  desconecta forçosamente de  Cardif, o
+         que resulta em uma morte dolorosa
+       - O Ativador Celular vai a seu legítimo dono: Perry Rhodan!
+       - Rhodan presta ao menos uma última homenagem a seu filho antes
+         de soltar seu corpo no espaço
+  - Limpando a sujeira
+    - Mil naves foram enviadas para cercar o Sistema Azul
+    - Elas são enviadas para um Sol para serem destruídas
+      - Na verdade um subterfúgio
+      - São recolhidas em um sistema deserto
+- *Os esporos de gordura*
+  - Planeta Azgola
+    - Nenhum dos habitantes são encontrados
+    - Uma criatura em forma de baleia gigante!
+  - A *Terceira Divisão* é chamada
+    - Meech Hannigan, o Sargento Robô
+  - O solo de Azgola está infestado por um tipo de liquen
+  - Eles encontram uma criatura sem face
+    - Descobrem ser um Azgolano
+  - Duas naves espaciais aparecerem
+    - Pouco depois de seu desparecimento, os Azgolanos perderam a fome
+      e começaram a engordar e perder sua forma
+  - Baladoor, o Azgolano encontrado pelos agentes, não foi afetado
+    - Sistema de ar fechado
+  - O elemento nutritivo está espalhado na própria atmosfera!
+  - Os Saltadores estão envolvidos?
+  - O lipofungo
+    - Um  fungo hipercalórico  que  permeia o  ar  e provoca  nutrição
+      excessiva!
+  - Azgola é evacuda
+  - O Regente analisa a situação
+    - Uma nave batedora, uma nave plantadora, e uma nave colheitadera
+  - Outro sistema é escrutinado!
+    - A nave plantadora chega a Snarfot (sistema Snarf)
+  - Hordas robotizadas surgem e começam o "semeio"!
+    - Gucky consegue destruir a nave semeadora
+  - Os robôs "semeadores" explicam o que aconteceu
+    - Sistema  original dos  *"Construtores"*  (a raça  que os  criou)
+      ficou frio demais para produzir alimento
+    - As naves  procuravam planetas  adequados e plantavam  os fungos,
+      gerando o alimento que depois era coletado.
+    - As naves perderam o contato com os *"Construtores"*
+    - Um sinal foi percebido
+  - Arcon II foi contaminada!
+    - Esporos foram enviados para estudos
+    - Conselho Científico de Arcon foi descuidado
+  - Outside
+    - Sol de um sistema na borda da galáxia
+    - Mecânica
+      - Origem do sinal
+      - Chamado assim por causa da grande quantidade de robôs
+    - Nenhum ser vivo no planeta
+    - Procuram a lista de planetas "plantados"
+    - Os  Construtores, já  extintos,  são  conhecidos como  "Saurien"
+      (devido a sua suposta aparência reptiliana)
+  - Eles conseguem  localizar a  "Colheitadeira" e remover  os esporos
+    dos planetas afetados
+- *A Queda de Atlan de Gonozal*
+  - Thekus desaparece
+    - Arconita importante - conselheiro de Atlan
+    - Encontrado morto na Embaixada Terrana em Arcon I
+  - *Terceira Divisão*
+    - Chefiada por Nike Quinto
+      - Hannigan
+        - O Sargento Robô
+      - Landry
+      - Patterson
+      - Randall
+    - Investigação sobre como Thekus foi morto
+      - Recriando Thekus como um robô para pegar o assassino
+  - Landry e o Mokoki
+    - Animal capaz de reproduzir as verdadeiras feições de quem ele vê
+  - Thekus foi sequestado na realidade
+    - Substituído por um Robô
+  - O Mokoki assume a face de um dos inimigos
+    - Carba de Minterol
+      - Família antiga de Arcon, rival dos Gonozal
+    - Fuga para o planeta Kusma
+      - Lá há uma máquina para ativar Segundo Cérebros
+  - Uma conspiração começa a se formar
+    - Os Aconenses estão envolvidos
+    - Tifflor recebe essa informação do computador positrônico de Vênus
+  - Uma arma substituída
+    - A arma de impulsos de John Marshall
+      - Substituída por uma Bomba
+    - O pior é evitado graças a Wuriu Sengu e Gucky
+  - Carba mata seu tio Thekus
+    - Thekus se opunha aos Aconenses
+    - O objetivo final dos Aconenses: a Destruição do Sistema Solar
+  - Os Aconenses invadem o Computador Regente
+    - Seu objetivo: manipular o Circuito A1
+    - Eles conseguem, mesmo com Rhodan conseguindo os expulsar do mesmo
+      - Todos os terranos devem abandonar Arcon
+    
+      
 ### Equipamentos e Tecnologias
 
 
