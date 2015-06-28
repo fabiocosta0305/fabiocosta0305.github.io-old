@@ -31,8 +31,13 @@ header: no
 - *Atlan de Gonozal*
   - Imperador de Arcon
     - Aliado de Perry Rhodan
-- *Os Posbis*
-  - Procuram a *"Vida verdadeira"*
+- *Os aconenses*
+  - Ainda mais arrogantes que os Arconitas
+  - Vivem no Sistema Azul
+  - Apenas se aliam aos terranos devido à ameaça maior
+- *A batalha entre os Laurins e os Posbis*
+  - Posbis Procuram a *"Vida verdadeira"*
+  - Laurin desejam dominar tudo
 
 ### Pessoas e Lugares
 
@@ -151,12 +156,52 @@ header: no
     - Utilizam principalmente transmissores de matéria
   - Planeta Nativo: Drorah (Esfinge, segundo os Terranos)
 - *Os Posbis*
+  - Consideram-se a *"vida verdadeira"*
+  - Robôs impetrônicos
+    - Computadores Positrônicos e Protoplasma biológico
+    - Positrônica dá lógica
+    - Protoplasma dá emoção e capacidade de aprendizado
+  - O circuito do ódip
+    - Programação dos Laurins
+    - Deu *"certo demais"*
+    - Contra toda vida biológica
+  - O mundo de cem sóis
+    - Onde fica o Computador Central e o Protoplasma Central
+    - Procuram assumir o controle dos Posbis
+  - A interação impetrônica
+    - Fonte de conflito interno e externo
 - Meech Hannigan
-- Van Moders
+  - Sargento-Robô
+  - Importante membro da *"Terceira Divisão"*
+  - Descobre segredos importantes dos Posbis
 - Arno Kalup
+  - Um tipo alto e colérico
+  - Parece um *"hamster gordo"*
+  - Teórico da hiper-física
+  - Parte importante  do desenvolvimento do motor  de propulsão linear
+    druuf
+    - Chamado *motor kalup*
 - Auris de Tas-Loor
+  - Aconense parte do Conselho de Ácon
+  - Se apaixona por Rhodan
+  - Auxilia-o contra os Aconenses na manipulação do tempo
+  - A explosão da  nave onde estava o manipulador  temporal resulta na
+    sua morte
 - Epetran
+  - Arconita Antigo
+  - Projetista do Computador Regente de Arcon
+  - Obtem conhecimento do futuro com Rhodan e Atlan
+  - Implanta  um circuito  de  autodestruição para  auxiliar Rhodan  e
+    Atlan
+- Van Moders
+  - Téorico Estudioso dos Posbis
+  - Desenvolvedor da teoria da ligação impetrônica
+  - Desenvolveu  muitas  tecnologias de  apoio  na  comunicação com  e
+    batalha contra os Posbis
 - Kule-Tats
+  - Estudioso Ara
+  - Tornou-se renegado dos Ara e aliado dos Terranos
+  - Auxiliou no desenvolvimento e compreensão do protoplasma Posbi
 
 ### Eventos
 
@@ -731,7 +776,40 @@ header: no
       linear Kalup por meio de um Raio Trator
   - *AQUILO* ressalta que os Luxidas são  uma ameaça não apenas a ele,
     mas a toda a galáxia
-
+- *Ainda há Posbis odiosos*
+  - Nem todos os Posbis estão  submetidos aos computadores centrais do
+    Mundo de Cem Sóis
+  - Rhodan e  os Terranos  enfrentam e são  bem sucedidos  em combater
+    esses Posbis
+  - Aconenses e Saltadores procuram os usar para seus próprios fins
+- *A Batalha por Frago*
+  - Dois grupos de Posbis divididos: os leais ao computador central do
+    Mundo de  Cem Sóis e  aqueles que  ainda se submetem  aos comandos
+    impertronicos e ao circuito do ódio
+  - O  Protroplasma  dos  computadores   centrais  pedem  socorro  aos
+    Terranos
+  - O  computador central  por fim  assume comando  da impetrônica  de
+    todos os Posbis, mas esse controle é instável
+  - Os Laurins atacam!
+    - A  Gauss é  destruída devido  ao  estresse do  equipamento e  os
+      ataques dos Laurins
+  - As  reservas de  energia dos  computadores centrais  diminuem e  a
+    impetrônica assume o controle
+    - Os Posbis voltam-se contra os terranos!!
+  - Os  Laurins  começam  a  destruir   os  sóis...  Com  o  apoio  da
+    impetrônica!
+    - A impetrônica decide que não precisa dos computadores centrais e
+      a destruição dos sóis minam a fonte de energia dos mesmos!
+  - Van  Moders  repara  o  link  que  permitia  ao  protoplasma  e  a
+    impetronica se ligarem
+    - O  protoplama,  por meio  dos  computadores  centrais, assume  o
+      controle!
+- *Acaba a guerra entre Terranos e Posbis*
+  - Um acordo entre Rhodan e o protoplasma
+    - Projeto dos canhões de conversão  Posbis, com todos os detalhes,
+      são dados a Rhodan
+    - Rhodan se compromete a buscar o  planeta de origem dos Posbis na
+      Galáxia Andrômeda
 
 ### Equipamentos e Tecnologias
 
