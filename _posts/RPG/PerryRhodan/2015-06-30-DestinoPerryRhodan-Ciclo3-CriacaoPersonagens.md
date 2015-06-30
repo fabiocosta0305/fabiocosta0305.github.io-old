@@ -1,5 +1,5 @@
 ---
-title: Criação de Personagens do Destino de Perry Rhodan - 2° Ciclo
+title: Criação de Personagens do Destino de Perry Rhodan - 3° Ciclo
 subheadline: Do clássico de Ficção Científica Alemão para o Fate Básico
 layout: post
 comments: true
