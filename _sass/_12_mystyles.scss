@@ -63,7 +63,16 @@ article
     {
       border-bottom-style: solid;
       border-bottom-width: 3px;
-    }     
+    }
+
+    a
+    {
+        color: $text-color;
+    }
+    a:hover
+    {
+        color: $text-color;
+    }
 }
 
     blockquote p
