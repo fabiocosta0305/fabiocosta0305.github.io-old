@@ -818,3 +818,5 @@ header: no
 
 - http://www.projtrad.org
 - http://perryrhodan.us
+- http://www.reocities.com/Area51/corridor/5967/prmenu0.htm
+- http://perryrhodan-universosparalelos.blogspot.com.br
