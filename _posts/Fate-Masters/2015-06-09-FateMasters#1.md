@@ -1,7 +1,7 @@
 ---
 title: Fate Masters Episódio 1 - Piloto
 subheadline: Começando os trabalhos em grande estilo!
-layout: page
+layout: post
 categories:
  - RPG
 tags:

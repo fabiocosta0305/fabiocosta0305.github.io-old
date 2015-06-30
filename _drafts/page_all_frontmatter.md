@@ -33,7 +33,6 @@ video:
     contentURL: ""
     thumbnailUrl: ""
 show_meta: false
-sidebar: left
 comments: true
 breadcrumb: true
 ---

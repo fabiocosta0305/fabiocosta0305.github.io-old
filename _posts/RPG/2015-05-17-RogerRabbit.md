@@ -1,6 +1,6 @@
 ---
 title: Uma Cilada Para Roger Rabbit
-layout: page
+layout: post
 categories:
  - RPG
 comments: true

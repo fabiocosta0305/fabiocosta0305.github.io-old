@@ -1,14 +1,11 @@
 ---
-layout: page
-show_meta: false
+layout: archive_category
+subheadline: "Design & Typography"
 title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+category: design
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header-design.jpg"
+   caption: Photo by Jeff Sheldon
+   caption_url: http://ugmonk.com/
 permalink: "/design/"
 ---
-<ul>
-    {% for post in site.categories.design %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

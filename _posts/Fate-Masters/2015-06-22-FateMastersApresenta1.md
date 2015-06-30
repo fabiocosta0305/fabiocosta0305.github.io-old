@@ -1,7 +1,7 @@
 ---
 title: Fate Masters Apresenta Episódio 1 - Star Fifo
 subheadline: Um cenário de Ficção Científica em uma hora!
-layout: page
+layout: post
 categories:
  - RPG
 tags:

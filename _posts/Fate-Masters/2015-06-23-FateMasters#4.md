@@ -1,7 +1,7 @@
 ---
 title: Fate Masters Episódio 4 - Dissecando Psychedemia
 subheadline: Começando a série sobre Construção de Mundos
-layout: page
+layout: post
 categories:
  - RPG
 tags:

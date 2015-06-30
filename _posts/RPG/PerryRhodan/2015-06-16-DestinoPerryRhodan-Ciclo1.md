@@ -1,7 +1,7 @@
 ---
 title: Destino de Perry Rhodan - 1° Arco - A Terceira Potência (Volumes P-001 a P-059)
 subheadline: Do clássico de Ficção Científica Alemão para o Fate Básico
-layout: page
+layout: post
 comments: true
 categories:
  - RPG

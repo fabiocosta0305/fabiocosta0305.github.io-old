@@ -1,7 +1,7 @@
 ---
 title: Destino do Protetorado da Sombrinha
 subheadline: baseado na série de livros O Protetorado da Sombrinha de Gail Carriger
-layout: page
+layout: post
 categories:
  - RPG
 comments: true

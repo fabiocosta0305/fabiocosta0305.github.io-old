@@ -1,7 +1,7 @@
 ---
 title: Exemplo de Aspectos dos Guardiões da Galáxia
 subheadline: Complemento Fate Masters Episódio 2 - Aspectos
-layout: page
+layout: post
 categories:
  - RPG
 podcast_comments: true

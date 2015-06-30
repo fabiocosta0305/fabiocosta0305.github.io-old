@@ -1,7 +1,7 @@
 ---
 title: Destino de Perry Rhodan - 3° Arco - Os Posbis (Volumes P-100 a P-149)
 subheadline: Do clássico de Ficção Científica Alemão para o Fate Básico
-layout: page
+layout: post
 comments: true
 categories:
  - RPG
