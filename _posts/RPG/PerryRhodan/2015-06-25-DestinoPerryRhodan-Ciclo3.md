@@ -10,9 +10,7 @@ tags:
  - Fate Core
  - Fate-Core
  - Perry-Rhodan
-header: no
----
-
+header: 
 
 ### Questões e Aspectos
 
