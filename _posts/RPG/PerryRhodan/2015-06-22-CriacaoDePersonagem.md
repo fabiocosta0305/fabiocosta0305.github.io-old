@@ -112,7 +112,7 @@ determinadas coisas.
 > _**Exemplo:** Treinamento Hipnótico Arconita_ - Com esse treinamento
 > hipnótico, o personagem em questão  recebe +2 para *Criar Vantagens*
 > em ações relacionadas com a tecnologia Arconita (na prática, elimina
-> o redutor que normalmente um personagem sofreria por usar o mesmo
+> o redutor que normalmente um personagem sofreria por usar o mesmo)
 
 #### Xenologia
 
@@ -277,7 +277,7 @@ outros fatores. Alvos conscientes podem resistir por *Vontade*.
   inimigo  está fazendo.  Além disso,  pode-se usar  isso para  roubar
   informação facilmente;
 - `O`{: .fate_font} - Todas  as Capacidades Parapsicológicas podem ser
-  usadas para  *Superar Obstáculis*.  Por exemplo, um  Telecineta pode
+  usadas para  *Superar Obstáculos*.  Por exemplo, um  Telecineta pode
   utilizar  seus  dons paranormais  para  remover  os *Escombros*  que
   impedem o acesso do grupo à base inimiga
 - `A`{:  .fate_font} -  Normalmente  pode-se  utilizar as  Capacidades
