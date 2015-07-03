@@ -387,8 +387,57 @@ header:
     - Uma nave blue!
     - Os terranos já a tinham encontrado
   - Gucky e Ras descobrem que as naves blues são robotizadas!
+- *O Suprahet*
+  - Impos está sofrendo modificações Gravitacionais desde o surgimento
+    dos vermes do pavor
+  - O mapa da Via Láctea tem um vazio!
+    - Os Antigos
+    - Fonte de Estudo
+  - As condições gravitacionais pioram, provocando tremores!
+  - Os Antigos alertam para o despertar do Suprahet
+    - Essa criatura destruiu uma série de sistemas no passado distante
+    - Eles a neutralizaram, mas a mesma está despertando novamente!
+  - Hercules é feita de molkex!
+    - O molkex é a "forma corpórea" do Suprahet
+    - O Suprahet irá despertar em 5 de Janeiro de 2327
+  - Rhodan toma uma atitude extrema
+    - Em 4  de Janeiro  de 2327, 85000  bombas gravitacionais  e 30000
+      bombas arconitas são usadas contra Hercules, lançando o mesmo no
+      hiperespaço!
+- *Tombstone*
+  - Planeta natal dos Vermes do Pavor
+  - Também era parte do Suprahet, mas seguiu outro caminho evolutivo
+  - Perdeu muito de sua massa devido a crescimento dos Vermes e de sua
+    fome enquanto na forma de Gafanhotos
+  - O pacto diabólico dos blues
+    - Estes  levavam  os ovos  dos  Vermes  de Tombstone  para  outros
+      planetas
+    - Quando esses  eclodiam na  forma do  Verme, eles  "resgatam-o" e
+      ficavam com o molkex
+  - Pedrinho é um traidor!
+    - Leyden, comandante da Terrânia,  convence das boas intenções dos
+      Terranos junto aos Vermes
+    - Os ovos irão para planetas adequados, mas inabitados, e em troca
+      os Vermes não interferirão nos eventos com os blues
+    - O pacto com os Terranos é aceito pelo líder dos Vermes, Oof
+  - Uma nave  blue ataca e é  arremessada no Sol do  sistema de Leyden
+    (onde fica Tombstone) pelo poder mental incrível dos Vermes
+- *O primeiro contato real com os Blues*
+  - Os pesquisadores terranos em Eysal encontram alguns blues
+    - Criaturas de pele azul, baixas e magras
+    - Braços longos com mãos com quatro dedos e três polegares
+    - Cabeça em forma de prato, com quatro olhos dispostos ao redor da
+      mesma, sustentado por um pescoço pequeno, onde fica a boca
+  - Após um combate intenso, um blue é capturado
+    - Parte do povo Apas
+      - Queriam quebrar  o monopólio  do molkex  dos Gatas,  uma outra
+        facção dos blues
+    - As instalações de Eysal procuravam  emitir o sinal de hiperondas
+      para fazer os ovos chocarem
+    - A  paz  entre Apas  e  Gatas  fez  os primeiras  abandonarem  as
+      instalações em Eysal
+    - A ativação acidental por Lemy Danger chamou a atenção dos Apas
 
-    
 ### Fontes:
 
 - http://www.projtrad.org
