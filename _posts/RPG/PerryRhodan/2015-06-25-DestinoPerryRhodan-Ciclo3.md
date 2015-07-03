@@ -11,7 +11,7 @@ tags:
  - Fate-Core
  - Perry-Rhodan
 header: 
-
+---
 ### Questões e Aspectos
 
 - *O Império Arconita*
