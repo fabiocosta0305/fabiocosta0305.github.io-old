@@ -203,3 +203,55 @@ personagens plenos em  *Destino de Perry Rhodan*.  Eles podem utilizar
 seus  Aspectos   Raciais,  em   especial  *Mente   Impetrônica*,  para
 melhorarem  chances em  momentos que  precisam de  lógica, mas  também
 podem ser forçados a "se enganarem" e falharem em sua programação.
+
+#### Humanos Adaptados
+
+Os  seres humanos  se espalharam  pelos sistemas,  procurando planetas
+adequados às suas necessidades, à  maneira dos Arconitas, Aras, Antis,
+Saltadores e outros  povos. E, da mesma forma que  os saltadores deram
+origem  a   seres  adaptados   a  condições  diferenciadas,   como  os
+Superpesados e  o Aras,  os humanos  também começaram  a dar  origem a
+essas "sub-espécies".
+
+Em termos de regras, todo humano adaptado é considerado um humano, mas
+deve em  algum de seus  Aspectos (não necessariamente  no *Conceito*),
+indicar seu  planeta ou sistema de  origem.  Isso é importante  pois o
+Narrador deverá  construir então os Aspectos  específicos daquele tipo
+de  humano. Deve-se  levar  em consideração  que  tais adaptações  são
+reflexões  das imposições  da natureza.  Devem ser  sugeridas Façanhas
+para  que o  humano adaptado  adquira como  Façanha Racial,  mas ainda
+assim essa escolha  não será obrigatória (continua valendo  o fato que
+um terrano pode escolher qualquer Façanha como façanha Racial)
+
+Vejamos como exemplo os *epsalenses*
+
+##### Epsalenses
+
+Os Epsalenses  são uma  das primeiras  adaptações resultantes  da vida
+humana em ambientes  diferentes (ainda que não muito)  do seu ambiente
+natural terrano. Os  nascidos em Epsal estão sujeitos  a uma gravidade
+maior que  a normal para  um ser humano,  ainda que aceitável  para um
+terrano típico (gravidade  de 2,1G). Epsalentes tendem a  ser um tanto
+mais baixos  que os  humanos "comuns", mas  são robustos  e compactos,
+tendo quase  a mesma  largura de sua  altura. Epsalenses,  por motivos
+culturais,  são  extremamente  proficientes  com o  comando  de  naves
+espaciais, e muitas  das mais importantes naves das  forças do Império
+Solar têm  Epsalenses como  parte de  sua tripulação  mais importante,
+senão diretamente como comandantes.
+
+- **Aspectos  Raciais:**  *Baixos  e troncudos*;  *Vozes  de  Trovão*;
+  *Hábeis cosmonautas*
+- **Façanhas  Raciais:** Sugere-se  que todo  Epsalense tenha  uma das
+  façanhas abaixo
+  - **Líder de Homens**
+  - **Especialista: Cosmonáutica (FB 96)**
+  - **Voz da Autoridade**
+    - _Façanha de **Comando**:_ Esse  personagem é capaz de disseminar
+      ordens  de  maneira  tão   natural  que  não  precisa  enfatizar
+      necessariamente sua autoridade: Algo em  sua voz o faz. Todos os
+      personagens que sejam capazes de  o ouvir (normalmente um número
+      de Zonas igual a seu nível  de Comando) podem *Agir em Conjunto*
+      com  o  personagem  para  melhorar  as  chances  de  sucesso  do
+      mesmo. Por outro lado, ele pode  repassar para outro os bônus de
+      *Agir  em  Conjunto*  se  for interessante,  com  um  teste  bem
+      sucedido de *Comando __Razoável (+2)__*
