@@ -437,6 +437,395 @@ header:
     - A  paz  entre Apas  e  Gatas  fez  os primeiras  abandonarem  as
       instalações em Eysal
     - A ativação acidental por Lemy Danger chamou a atenção dos Apas
+- *Os Espiões Terranos*
+  - Uma equipe é preparada para espionar Apas
+    - Hipno-projetores emitem uma imagem blue
+  - Tako Kakuta se trai
+    - Blues  possuem olhos  ao redor  de toda  a cabeça,  não precisam
+      virá-la para enxergar
+  - Os  Terranos conseguem  fugir  e capturam  alguns  Blues, além  de
+    obterem a posição astronômica de Gatas, o principal sistema Blue!
+- *Os conflitos com os Blues*
+  - A alta fertilidade dos Blues força seu expansionismo
+  - Uma base é instalada no sistema Verth
+    - Quarenta e nove especialistas terranos são capturados
+  - Uma missão de resgate
+    - Submarino Sigalês Luvinno
+    - Lemy Danger envolvido  no resgate do Especialista  da USO Melbar
+      Kasom
+    - A missão é bem sucedida
+- *O Transporte dos Vermes do Pavor*
+  - Três Vermes estão prontos para colocarem seus ovos
+    - Os Terranos aceitaram transportar os mesmos
+    - Os  Vermes implantam  fitas hipnóticas  para evitarem  enviar os
+      hiperimpulsos aos blues
+      - Instinto "natural" dos Vermes do pavor
+  - Uma falha séria!
+    - Foi escolhido acidentalmente um mundo com vida primitiva!
+      - A nave Kostana é abatida por mísseis a propulsão química
+      - O Verme já está em no planeta!
+    - Os Trios
+      - Vêm do planeta vizinho
+      - Eles atacam o Verme, e apenas dois deles sobrevivem
+      - O  Verme  se sente  traído  quando  os terranos  protegem  seu
+        atacante
+    - Os Blues recebem o sinal do Verme de Trio!
+      - A Bomba de Reação mata todos em Trio
+      - Os  Blues  são  alertados  sobre o  acordo  secreto  entre  os
+        Terranos e os Vermes!
+    - O Resgate que não vem a tempo
+      - A Explorer-318 é abatida pelos Blues
+      - A queda em Trap revela o povo Trio
+        - Um povo dividido e em guerra fria, descendentes dos Aconenses
+      - Os Blues decidem exterminar esse povo
+      - Um transmissor instalado, mas inativo e desconectado dos demais
+      - Bombas nucleares são usadas como sinal de socorro
+      - Os Terranos expulsam os blues do sistema
+- *Como dissolver o molkex*
+  - Os terranos utilizam uma distração
+    - O Submarino Nautilus desce em Gatas
+      - Objetivo: recolher a Luvinno
+    - Lemy Danger e Melbar Kasom atuando em conjunto novamente
+  - O tratamento do molkex
+    - Utiliza-se o hormônio das crianças blues (Hormônio-B) e perôxido
+      de hidrogênio (água oxigenada)
+      - Isso estimula a fertilidade
+    - Uma amostra do hormônio é roubada dos blues
+      - Eles percebem a ação
+  - Os  homens da  Nautilus e  da Luvinno  escapam via  transmissor de
+    matéria
+  - Isso oferece uma arma contra o molkex
+    - Testada em  Tauta
+      - canhões usam  uma mistura de água  oxigenada estabilizada pelo
+        Hormônio-B
+      - O molkex  se dissolve em uma  substância chamada *neo-molkex*,
+        que desparece,  viajando em alta  velocidade para o  centro da
+        Galáxia
+- *Traições e problemas*
+  - O Hormônio-B não pode ser totalmente sintetizado
+    - Falta-lhe os efeitos quadridimensionais necessários para seu uso
+  - Os Anti e Aconenses
+    - Antis  revelam  a posição  de  vários  sistemas importantes  aos
+      Gatenses
+    - Os Aconenses flertam  com a idéia de se aliar  a estes contra os
+      terranos
+    - Uma invasão de naves gatenses com  os escudos de molkex está por
+      vir!
+  - A missão para recolher molkex para estudo falha
+    - Presença de Gatenses
+    - A Eric Manolli é perdida
+      - Rhodan autoriza o embarque de  alguns gafanhotos do pavor para
+        serem  deslocados para  um sistema  adequado sob  controle dos
+        terranos
+  - O Conselho de Acon trai o Império Unido
+    - Cem  planetas para  os Gatenses  se  os mesmos  não atacarem  os
+      Aconenses
+  - Planeta Guingla
+    - Coberto por florestas
+    - Local de queda da Eric Manolli, com os gafanhotos do pavor
+  - O Hormônio-B é sintetizado com sucesso
+    - Milhões de toneladas de molkex comprovam a efetividade
+    - Demanda um hipertron para auxiliar no processo
+    - As bombas anti-molkex
+      - Funcionam bem, até certo ponto
+      - O Hormônio-B  é instável  quando deixa  de ser  irradiado pelo
+        hipertron
+      - Os  microtécnicos sigalenses  criam  dez mil  micro-hipertrons
+        para serem  colocados nas  bombas, para manterem  o Hormônio-B
+        sintético estável por meio de sua irradiação constante
+    - Sem o molkex, a frota Blue é derrotada e foge
+- *A Derrota dos Blues e o Fim do Segundo Império*
+  - Um grupo de mutantes é acionado
+    - Objetivo:  transformar  as  reservas  de  molkex  dos  Blues  em
+      *neo-molkex*
+  - Uma nave Gatense capturada é usada como distração
+    - Um ataque falso para enganar os blues
+  - Várias bombas  anti-molkex são implantadas nas  reservas dos Blues
+    em Gatas
+  - A explosão simultânea das bombas  converte todo o molkex dos blues
+    em  neo-molkex, mesmo  aqueles  em casas  ou prédios,  deixando-os
+    desprotegidos
+  - O Conselho de Gatas é obrigado a  se render e assinar um acordo de
+    paz com os Terranos
+- *Os candidatos da morte de Acon*
+  - Três criminosos
+    - Dois traficantes e um subversivo
+  - Themul Paiin
+    - Um homem arrogante e poderoso no Conselho de Acon
+  - O objetivo do esquadrão suicida
+    - Destruir o planeta Tombstone e com isso os Vermes do Pavor
+  - Uma nave com várias bombas arconitas
+    - A única chance do esquadrão é  armar as bombas e tentar fugir na
+      destruição
+  - A nave Akolus foi atingida por uma das bombas
+    - Os terranos sobreviventes se unem aos criminosos Aconenses
+    - Completam a missão  e usam as energias das bombas  para fugir de
+      Tombstone
+      - O planeta dos Vermes já está condenado
+    - A nave volta para o comando de Paiin
+    - O comando de Paiin é atacado por forças do Império Solar
+      - Os terranos sobreviventes protegem os aconenses "criminosos"
+      - Paiin é capturado e entregue à justiça aconense
+  - Tombstone é destruído, e com ele os Vermes do Pavor
+- *A ameaça em Beauly II*
+  - Rhodan, Atlan e outros viajam até um local específico para debater
+    os  recentes  acontecimentos  e  a  dissolução  do  Império  Unido
+    ocorrida após o fim da guerra contra os blues
+  - A Crest manda um pedido de socorro
+    - Estava estacionada  em Beauly  II, enquanto  Rhodan e  os demais
+      estavam em uma nave à parte
+  - Ao retornarem,  descobrem que  os ocupantes  da Crest  tiveram sua
+    inteligência e memórias subtraídas
+    - Uma  estranha  radiação faz  os  que  estão sob  sua  influência
+      voltarem ao barbarismo
+      - Apenas Atlan não é afetado, devido a seu segundo cérebro
+    - Atlan e os que com ele estão conseguem alcançar a Crest
+      - Atlan descobre  que a  radiação está sendo  emitida da  lua de
+        Beauly II
+      - A  estação  emissora  é   destruída  e  as  pessoas  recuperam
+        novamente a memória
+  - Três  terranos de  origem desconhecida  são capturados  na lua  de
+    Beauly II pela tripulação da Crest
+    - Eles não se lembram de sua origem
+      - Um bloqueio hipnótico contornado por André Noir
+      - São de Plofos, no sistema Eugaul
+  - Naves Plofonenses atacam a Crest e a derrubam
+    - Alguns sobreviventes são capturados elos Plofonenses
+      - Rhodan, Atlan, Melbar Kasom, Reginald Bell e André Noir
+    - A Crest é destruída  e um sinal falso é enviado  de que foi obra
+      dos Blues
+      - A Nave Moravia descobre os escombros e percebe que Rhodan e os
+        demais não estão entre as baixas
+  - O Império Unido se fragmenta de ves
+    - O vácuo de poder pela ausência de Rhodan e Atlan atiça ambições
+      - Os Blues e Aconenses voltam a cooperar entre si
+      - Colônias terranas pedem independência
+      - A Escalada de conflitos é fonte de lucros para os saltadores
+      - Rumores apenas pioram as coisas!
+- *A Ditadura Plofonense de Iratio Hondro*
+  - Hondro possui um Ativador Celular
+    - Mesmos objetivos de Rhodan, mas sem os escrúpulos do mesmo
+    - O veneno lento
+      - Hondro o aplica naqueles que deseja manter sob maior controle
+        - Exige a  aplicação constante  de um  antídoto a  cada quatro
+          semanas
+        - O mesmo aplica-o apenas naqueles que acha útil
+          - A necessidade do  antídoto coloca o alvo sob  um estado de
+            submissão, mesmo que não concorde com Hondro
+  - Greendoor
+    - Planeta com florestas densas e perigosas
+    - Parte da indústria militar secreta de Hondro
+    - Um plano de fuga dá parcialmente errado
+      - Apenas o ertruso Melbar Kasom permanece livre
+  - Arthur Konstatin
+    - Agente terrano da Defesa Galática em Plofos
+    - Investiga os eventos em Beauly II
+      - Descobre que Rhodan  e os demais estão vivos  e capturados por
+        Hondro.
+    - É descoberto e morto pelos agentes de Hondro
+      - Consegue  enviar  uma mensagem  para  a  Terra informando  que
+        Rhodan está vivo e é feito prisioneiro de Hondro
+  - Rhodan, Bell e Atlan recebem o veneno lento
+  - Kasom encontra os Neutralistas
+    - Quase tão ruins quanto Hondro
+      - Libertam  Rhodan  e os  demais,  mas  não permitem  que  estes
+        convoquem as forças da Terra
+- *Gucky e o plano de fuga*
+  - Natã, o  computador impetrônico, aconselha que  as tropas Terranas
+    se foquem na proteção do Sistema Solar
+  - Gucky procura por ajuda da superconsciência *AQUILO* e de Harno, o
+    televisor
+    - *AQUILO* não pode ser contactado, e  Harno diz que não pode agir
+      nesse caso a mando do mesmo
+  - Homunk,  Gucky e  outros mutantes  tentam  um plano  de fuga  para
+    salvar Rhodan
+    - São descobertos pela Guarda Azul, a polícia secreta Plofonense
+      - Eles tem a ajuda de Antis
+    - Descobrem que Rhodan e os demais estão em Greendoor
+  - A Nave Thora não os encontra lá
+    - Foram  libertados  dos  Neutralistas   e  encontraram  uma  nave
+      desconhecida
+  - O preço pela liberdade de Rhodan é o Ativador Celular de Hondro!
+- *A queda dos Neutralistas*
+  - Lorde Kostich Abro
+    - Tão ruim quanto Hondro
+    - Negocia o preço da liberdade de Rhodan em naves militares
+    - Vive no planeta Badun, parte de Plofos
+  - É desmascarado pelo agente de Hondro Al Diggers
+    - Tem como colaborador o Saltador Pand-Ar, que fornece mercadorias
+      a Abro
+  - O ataque das forças de Hondro oferece a chance de fuga para Rhodan
+    e seus aliados
+  - Melbar Kasom captura a filha de Abro
+    - Mory Abro
+    - Ela fica impressionada com a força de Rhodan
+  - Quase são recapturados
+    - Uma força estranha os resgata
+- *Os serviços aos desconhecidos*
+  - A hipnoesfera
+    - Enfrentam vários povos que estão no planeta *Lovely*
+    - André Noir encontra a hipnoesfera e a neutraliza
+  - Descobrem que o Ativador Celular inibe o veneno de Hondro
+  - Chegam a um novo planeta
+    - Os *bigheads*, ou *Kahalos*
+      - Criaturas pequenas com cabeças enormes e pés de galinha
+    - Rhodan e os outro cinco  deverão proteger os mesmos dos Flooths,
+      que vivem no planeta vizinho
+      - Os  *bigheads* não  possuem nenhum  tipo de  força militar  ou
+        acesso à tecnologia de seus antepassados
+      - Flooths são similares a insetos
+      - Rhodan e os demais contam com a ajuda do Grande Kahal
+        - Uma estrutura considerada sagrada pelos *bigheads*
+        - Seis pirâmides vermelhas com quinhentos metros de altura que
+          formam um círculo com dois quilômetros de diâmetro
+  - Uma nova missão em Roost, sistema Simban
+    - Três pirâmides similares ao Grande Kahal
+      - Níveis altíssimos de radioatividade
+      - Habitadas por criaturas horrendas chamadas "Blacks"
+        - Estes tentam sugestionar Rhodan e os demais
+      - Os Blacks manipulam o povo de Roost
+        - Descendentes de Saltadores que naufragaram no planeta
+        - Duas nações em Guerra
+      - Atlan mata a charada
+        - As criaturas em forma de múmia receberam vidas longas devido
+          às radiações das pirâmides
+      - A destruição da fonte de radiação resulta na morte dos Blacks
+  - Rhodan utiliza  as instalações  de Roost para  enviar um  sinal de
+    hiperimpulso
+- *Uma missão dos Ratos-Castores*
+  - Nave Vagabundo
+    - Dada ao comando de Gecko
+      - O Rato-Castor mais velho à exceção de Gucky
+    - São atacados por naves ovais e caem em um planeta sem nome
+      - O vigésimo-sétimo planeta de uma estrela não-nomeada
+      - Lar dos "Sonhadores"
+        - Capazes de  separar suas mentes  de seus corpos por  meio de
+          uma máquina, e com isso viajar pelo espaço
+        - Atacados  pelos  "Caçadores"  insetóides  que  derrubaram  a
+          Vagabundo
+    - Os  Ratos-Castores  se  unem  aos  "Sonhadores"  e  derrotam  os
+      "Caçadores"
+  - Após reparar  a Vagabundo, eles  continuam na missão  de encontrar
+    Rhodan
+  - Localizam  o sinal  de Rhodan,  mas não  conseguem o  resgatar por
+    causa dos Blues, que atacam
+    - Enviam um sinal com a localização de Rhodan para a Terra
+- *As ações de Tschato, o Leão*
+  - Nome Tschato, comandante da *Lion*
+    - O Leão - chamado assim por sua impetuosidade
+    - Missão  da *Lion*:  monitorar  o espaço  e combater  traficantes
+      Aconenses
+  - Localiza o impulso da Vagabundo e se une aos mesmos
+  - Uma nave de resgate desce a Roost
+  - Os Blues sabem o que existe em Roost e o que está em jogo
+  - Rhodan e os demais são resgatados
+  - São perseguidos pelos Blues até um comando da USO repelir o ataque
+    Blue
+    - A Lion está muito danificada
+  - Os  Aconenses  descobrem   que  Rhodan  está  vivo   e  tentam  um
+    estratagema para destruir Rhodan
+    - Este escapa ao cerco
+    - Na Terra, Julian  Tifflor declara guerra aos  Aconenses devido a
+      isso
+    - A base de Usuth, de onde os aconenses sairam, é destruída
+- *A Estrela Negra*
+  - Na Terra, eventos ocorrem
+    - Muitas colônias querem independência
+    - Oitocentos e Dois  Chefes de Estado se reunem  para decidirem se
+      vão ou não permanecer como parte do Império Unido
+    - Homer G. Adams decide acionar um plano, caso necessário
+      - Objetivo: Provocar dano econômico aos separatistas
+    - A Defesa Galática está em alerta máximo
+      - A Organização Estrela Negra visa separação
+      - Os transmissores de matéria do Sistema Solar são sabotados!
+    - Froser Metscho
+      - Parte da Estrela Negra (Líder?)
+      - Parte da delegação plofonense
+      - É resgatado rapidamente pelos seus pares
+    - Uma bomba na nave de Julian Tifflor
+    - Uma votação para  confirmar ou não Julian  Tifflor como sucessor
+      de Rhodan como Administrador Geral do Império
+    - Rhodan reaparece!
+    - As sabotagens no sistema solar aumentam
+    - A Estrela Negra é desmantelada no Sistema Solar
+      - Seu líder ainda vive: Iratio Hondro
+- *A Invasão Secreta e a queda de Iratio Hondro*
+  - Rhodan assume uma posição
+    - O  Império Unido  é desfeito,  assim  como todos  os acordos  do
+      Império Solar com outras nações
+  - Uma nave saltadora cai em Sicos - sexto planeta do sistema Eugaul,
+    mesmo sistema de Plofos
+    - Na realidade, uma distração terrana
+    - Uma base é estabelecida
+    - Os agentes terranos disfarçam-se de saltadores
+      - Ganham a confiança dos Plofonenses
+      - Vão até Plofos
+    - Uma base antiga montada pelo agente morto Arthur Konstantin
+    - O sinal para indicar que a preparação da base em Plofos terminou
+      é dado
+  - Um antídoto definitivo para o veneno lento de Hondro foi criado
+    - Usou-se como base  o soro do sangue de Rhodan  para extrair-se a
+      enzima que inutiliza o veneno
+    - Na realidade o veneno é um  vírus, que é cristalizado e expelido
+      pelo corpo
+  - Uma revolução explode
+    - Livre do veneno, a população se revolta contra Hondro
+    - O mesmo foge para o planeta secreto Last Hope
+    - Mory Abro, filha do líder  dos Neutralistas, assume como regente
+      de Plofos
+  - Rhodan divulga  os eventos da  queda do  ditador e do  antídoto ao
+    veneno
+    - A mensagem chega ao planeta Last Hope
+    - Uma revolta  ocorre com a  chegada de  Hondro, que foge  para um
+      novo esconderijo
+      - Opposite
+    - Rhodan trata a todos quando chega a Last Hope
+- *O Neo-Molkex e o Suprahet*
+  - Nomo Tschato foi  designado para localizar o  Neo-Molkex no centro
+    da galáxia
+    - O mesmo encontra-se em Pulsa, no sistema Whilor
+    - Todos os instrumentos que  funcionam na base pentadimensional da
+      Lion são destruídos, e ela é forçada a pousar em Pulsa
+    - Os Dançarinos
+      - Criaturas surgidas do neo-molkex, da mesma forma que os Vermes
+        do Pavor surgiam do molkex
+      - Parte do Suprahet
+      - Obtêm energia do neo-molkex
+      - A energia  que os  Dançarinos obtêm  do neo-molkex,  eles usam
+        para lançarem-se no hiperespaço
+    - A Lion recua
+      - Os Dançarinos são atraídos por estranhas bombas energéticas
+      - Os motores lineares e o gerador de transição estão inativos
+      - Vôo apenas abaixo da velocidade da luz
+- *O Bastião final de Hondro*
+  - Opposite fica em Whilor
+    - Mesmo sistema de Pulsa
+  - Estudos são feitos para criar  uma bomba gravitacional a partir do
+    molkex
+  - Foi Iratio quem atacou Pulsa
+  - Iratio tenta usar uma nave dos Blues para distrair os Terranos
+  - Opposite é tomada  por uma guarnição da USO,  após sua localização
+    ser entregue por um agente da Guarda Azul de Hondro
+    - Hondro é encontrado quase morto
+    - Hondro  deseja sorte  a Perry  Rhodan e  o entrega  seu Ativador
+      antes de morrer
+      - A pressão  do poder foi demais  para os sonhos de  grandeza de
+        Iratio
+    - Perry entrega o Ativador Celular de Iratio para Mory Abro
+- *O Fim de Arcon*
+  - Os Aconenses se envolvem com os Saltadores
+    - Contatos Halmen
+      - Inutilizam sistemas de Detecção
+  - Um plano para tomar Arcon
+    - Enquanto todos  se ocupam com o  casamento de Mory Abro  e Perry
+      Rhodan, oitenta  a cen mil  naves Blues armadas  pelos Aconenses
+      atacam Arcon
+      - Todas as naves possuem Contatos Halmen
+  - Os Blues e Aconenses são vencidos, mas a um alto custo
+    - Arcon III, o Planeta da Guerra, é destruído
+      - Por muito pouco, os outros  planetas da órbita de Arcon, Arcon
+        I e II, não têm um destino similar
+
 
 ### Fontes:
 
