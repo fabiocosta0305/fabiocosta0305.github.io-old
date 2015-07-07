@@ -1,5 +1,5 @@
 ---
-title: Criação de Personagens do Destino de Perry Rhodan - 3° Ciclo
+title: Criação de Personagens do Destino de Perry Rhodan - 4° Ciclo
 subheadline: Do clássico de Ficção Científica Alemão para o Fate Básico
 layout: post
 comments: true
@@ -18,240 +18,149 @@ header: no
 Lembre-se   que  esse   documento  é   suplementar  ao   documento  de
 [Diretrizes Gerais para Criação de Personagens](/rpg/2015/06/22/CriacaoDePersonagem.html),
 onde descrevemos raças, tecnologias,  e outras informações importantes
-que apareceram durante o 3° Ciclo de Perry Rhodan - *Os Posbis*
+que  apareceram durante  o  4°  Ciclo de  Perry  Rhodan  - *O  Segundo
+Império*
 
 ### Raças
 
-#### Aconenses
+#### Sigalenses (Humano Adaptado)
 
-Os Aconenses  são os antepassados  dos Arconitas, os  quais consideram
-Arcon apenas um bando de  *caipiras mal-educados*, e que completamente
-desprezam os Terranos  como arrivistas.  Seu sistema sede  é o Sistema
-Azul,  com   o  governo  sendo   em  Drorah  (*Esfinge*,   segundo  os
-terranos). Possuem pele escura e cabelos  negros, e da mesma forma que
-seus descendentes Arconitas, possuem uma placa óssea no peito no lugar
-das costelas.  Consideram-se a raça  mais importante do espaço,  e não
-medem  esforços  para  fazer-se importantes.  Sua  navegação  espacial
-estagnou-se,   mas   em   compensação  seu   conhecimento   sobre   os
-transmissores de  matéria é  muito superior, tendo  conhecimentos para
-criar até mesmo transmissores fictícios.
+Os humanos nascidos em Siga, o  segundo planeta do sistema Glador, são
+conhecidos pelo fato de que algo  na adaptação ao ambiente fez com que
+os mesmos ficassem  cada vez menores. Os  primeiros colonos Sigalenses
+eram  humanos  comuns que  estabeleceram  sua  colônia em  Siga,  como
+quaisquer outros colonos terranos, buscando nesse planeta condições de
+vida. Com o tempo, porém, os filhos de cada geração foram ficando cada
+vez menores que  as dos pais, sendo  que no século 24  onde ocorrem os
+eventos do 4° Ciclo, o Especialista  da USO descreve a si próprio como
+um gigante Sigalês, ainda que possua exatos 222,11 _**milímetros**_ de
+altura.
 
-- **Aspectos  Raciais:** *"Somos  os  mais antigos"*;  *Auto-Confiança
-  elevada*; *Fazem tudo para colocar-se em destaque*
-- **Tecnologia:**  Sua tecnologia  é  similar a  de seus  descendentes
-  Arconitas, com a possível exceção da espaçonaútica, suas naves sendo
-  um pouco  inferiores às  dos Arconitas  e Terranos.  Em compensação,
-  seus transmissores de matéria são  muito superiores a qualquer coisa
-  que seus descendentes e os terranos sejam capazes de criar.
-- **Façanhas Raciais:**  Todo Aconense pode escolher  uma das Façanhas
-  abaixo como Façanha Racial:
+Em compensação, apesar disso,  quanto menores ficaram, maior tornou-se
+a longevidade dos sigalenses. Acredita-se que um sigalês da geração de
+Lemy  Danger possa  viver por  volta de  oitocentos a  novecentos anos
+padrão.
+
+Em  termos  de aparência,  os  Sigalenses  possuem a  mesma  aparência
+humana,  à  exceção  de  uma pele  característicamente  olivada  e  do
+tamanho.  Esse  último fato  levou aos sigalenses  tornarem-se grandes
+especialistas na arte da microtécnica, criando todo tipo de objetos em
+escalas cada vez  menores e muito mais eficientes para  seu dia a dia.
+Em geral, nenhum sigalês utiliza qualquer coisa que não seja sigalesa,
+até porque em  geral esses objetos não lhes servem.  Em compensação, o
+Império Unido possui grandes usos para os equipamentos sigalenses.
+
+Sigalenses consideram qualquer  pessoa muito maior que  eles (algo não
+muito difícil) como *gigantes*, e mesmo terranos comuns assim o são em
+sua visão.  Eles não se  importam tanto  com as "vozes  trovejantes" e
+afins,   enquanto   forem  tratados   como   os   seres  humanos   que
+são. Entretanto, se  existe uma forma de irritar um  sigalense é fazer
+piadas em relação à sua altura. Isso é o suficiente para fazer com que
+eles saquem suas armas térmicas e a usem para dar "ferroadas" bastante
+dolorosas no piadista.
+
+Devido a seu tamanho, além do conhecimento em microtécnica, sigalenses
+tendem a ser ótimos espiões.  Embora não seja característica de todos,
+muitos (em especial  os que trabalham para órgãos como  a USO) treinam
+técnicas de imitações de animais, em especiais de aves. Somando isso à
+poderosa microtécnica  sigalesa, capaz de construir  veículos voadores
+que podem facilmente se passar por naves, eles se tornam espiões muito
+efetivos.
+
+- **Aspectos  Raciais:**   *Pequeninos  ao  ponto  de   precisarem  de
+  equipamento  especial*;  *Sensíveis  quanto a  comentários  sobre  a
+  altura*; *Longevidade inversamente proporcional à altura*
+- **Façanhas  Raciais:** Sugere-se  que todo  Sigalense tenha  uma das
+  façanhas abaixo
+  - **Especialista (Microtécnica - FB 96)**
+  - **Mestre das Gambiarras**
+  - **Técnico (Microtécnica)**
+  
+#### Ertrusos (Humano Adaptado)
+
+Nascidos  do   sistema  Kreit,  em   um  planeta  gigante   com  força
+gravitacional de 3.4  G chamado Ertus, os Ertrusos  são conhecidos por
+seu  tamanho  gigante,  que  também   se  reflete  em  todos  os  seus
+comportamentos. Devido à própria parte relativa à grande gravitação de
+Ertus, eles tiveram  que se adaptar ao ambiente,  tornando-se cada vez
+maiores e mais pesados para suportar tamanha gravitação.
+
+Um Ertruso típico tem por volta de  2,5 metros de altura e possuem uma
+pele avermelhada  no tom de  tijolo. Da  mesma forma que  outras raças
+adaptadas a grandes gravitações, como os Epsalenses, são tão troncudos
+quanto altos. Em  geral, devem utilizar microgravitadores  para não se
+impulsionarem  no ar  em planetas  de menor  gravitação. Ertrusos  são
+obviamente muito mais fortes que  os *"pequeninos"* terranos, mas isso
+não  quer dizer  que  sejam  brutos: muitos  Ertrusos  entram para  as
+fileiras das tropas mais exigentes, e até mesmo da USO.
+
+Devido  a seu  tamanho excepcional  e ao  gasto calórico  envolvido na
+manutenção do  mesmo em ambientes de  alta gravitação é normal  que um
+Ertruso tenha uma  necessidade alimentícia muito superior a  de um ser
+humano, devorando o  que seria uma lauta refeição terrana  como se não
+passasse de  um pequeno  lanche. Por  isso, é  pouco comum  que muitos
+Ertrusos  sejam  enviados  nas   mesmas  missões:  nesse  caso,  seria
+necessária praticamente uma nave de classe Cidade para enviar todos os
+alimentos necessários.
+
+- **Aspectos Raciais:** *Gigantes como  seu planeta de origem*; *Força
+  de  corpo  e espírito*;  *"Coma  e  Engorde!" -  cumprimento  típico
+  Ertruso*
+- **Façanhas  Raciais:** Sugere-se  que  todo  Ertruso tenha  qualquer
+  Façanha de _Vigor_ (FB 118) como Façanha Racial
+
+
+#### Gatenses (Blues)
+
+O termo *gatense* ou *blue* é usado  para uma série de povos que vivem
+no outro  lado leste  da Via  Láctea, em  especial devido  à coloração
+azulada de sua  pele. São baixos e magros, com  braços longos que mãos
+estranhas  que possuem  três  polegares e  quatro  dedos normais.   No
+pescoço fica localizada  a boca dos mesmos, enquanto em  sua cabeça em
+formato  de  prato  podem  ser  encontrados  quatro  olhos,  dispostos
+equidistantemente na mesma,  provendo aos blues uma visão  em 360° sem
+necessidade de virar o pescoço (gesto esse desconhecido pelos blues)
+
+Apareceram na  via láctea  devido aos  pulsos especiais  emitidos pelo
+Ativador Celular destruído por Lemy  Danger em Eysal, que lembravam os
+pulsos enviados por um Verme do  Pavor maduro envia para ser rastreado
+pelos mesmos.
+
+Os Blues possuem  uma grande taxa de natalidade, o  que causa cada vez
+mais  problema de  falta  de  espaço nos  locais  aonde dominam.  Essa
+natalidade é estimulada devido ao fato  de que os bebês blues possuem,
+enquanto  crianças,  um hormônio  que  é  utilizado para  modificar  a
+estrutura  atômica da  substância  emitida pelos  Vermes  do Pavor  (o
+molkex) de modo que o mesmo se torne maleável. E esse material é muito
+importante  na indústria  gatense, em  especial a  bélica: o  molkex é
+capaz de absorver praticamente qualquer tipo de ataque energético, até
+mesmo um raio  conversor dos Posbis tendo problemas  em provocar danos
+contra uma nave coberta por essa substância.
+
+Soma-se a  isso um pensamento  bastante prático e inumano:  o "acordo"
+com os Vermes do Pavor provê aos mesmos também a possibilidade de usar
+os  Vermes como  forma de  "esterelização" de  planetas que  lhe sejam
+interessantes antes de uma possível  ocupação. Se isso ainda assim não
+for o bastante,  normalmente irão apelar para o  campo vibratório, uma
+arma que provoca vibrações sonoras capazes  de destruir toda a vida em
+um local!
+
+Gatenses não se sentem atraídos  pelos terranos, muito pelo contrário:
+acham  que os  mesmos  roubaram deles  o  que lhe  era  de direito,  a
+dominação total sob a Via Láctea
+
+- **Aspectos Raciais:** *Vindos  do outro lado da  Via Láctea*; *Olhos
+  ao redor da cabeça - visão de 360°*; *Alto índice de natalidade*
+- **Tecnologia:** A tecnologia dos blues é similar a dos terranos, com
+  a   possível  exceção   da  falta   do  desenvolvimento   de  campos
+  defensivos. Entretanto, devido ao molkex, suas naves são difíceis de
+  derrubar, exceto quando atacadas com os armamentos anti-molkex. Para
+  compensar suas deficiências, eles contam com a ajuda dos aconenses e
+  saltadores, que os provê com o que não conseguem criar
+- **Façanhas Raciais:** Todo Gatense pode escolher como Façanha Racial
+  uma das seguintes:
   - **Líder de Homens**
-  - **Fleuma**
-  - **Técnico (Transmissores de Matéria)**
-
-#### Laurins
-
-Os Laurins vieram  de fora da nossa galáxia, vindos  de Andrômeda. São
-criaturas com três pernas que sustentam um corpo magro. Sua cabeça com
-três  olhos possui  o tamanho  de um  ponho fechado.   Suas principais
-características  são  o  fato  de  serem  descendentes  de  Saúrios  e
-possuirem capacidades especiais
-
-Primeiramente,  os Laurins  são naturalmente  invisíveis. Utilizam  um
-órgão especial chamado de *Órgão  Flexográfico*. Esse órgão modifica a
-refração luminosa, os tornando invisíveis a outros, de maneira similar
-ao camaleão.
-
-Além disso são telepatas  naturais, utilizando-se constantemente desse
-meio de comunicação para passar  informações entre si.  Todo laurin no
-raio  de alguns  quilômetros consegue  saber o  que outro  laurin está
-pensando, e  usa tais  métodos de comunicação  entre si.   Como outros
-telepatas, conseguem utilizar essa capacidade para localizar alvos que
-tenham qualquer tipo de emissão  mental. Na realidade, essa capacidade
-é também a maior fraqueza dos laurins, que podem ser interceptados por
-meio  dos seus  padrões mentais.  Seus pensamentos  são alienígenas  e
-hostis.
-
-Os Laurin  são os criadores  dos Posbis,  e seus maiores  inimigos: ao
-realizarem a programação  dos Posbis e implementarem  seu "circuito do
-ódio",  para  que os  mesmos  enfrentassem  seus inimigos,  os  Laurin
-acabaram  sendo "bem  sucedidos"  demais, fazendo  com  que os  Posbis
-odiassem todo o tipo de vida orgânica, incluindo os próprios Laurin.
-
-Quando  um  Laurin  é  atacado  por  vários  radiadores  térmicos,  em
-frequências energéticas diferentes, começam  a ficar visíveis, além de
-só então serem sucetíveis a  dano: aparentemente, o Órgão Flexográfico
-também atua como  uma proteção natural contra armas de  energia até um
-determinado  ponto.  Quando um  Laurin  morre,  entretanto, seu  corpo
-novamente fica invisível.
-
-Laurins  são militaristas  e hostis,  tendo desejo  de conquista.  Não
-admitem traidores entre  os seus e são negociadores  frios, que tentam
-obter seus objetivos não importa a  que custo ou por que métodos. Vide
-os acordos  que estes  fizeram junto  aos Anti  e aos  Aconenses. Seus
-maiores inimigos no momento são os Posbis.
-
-- **Aspectos  Raciais:**  *Criatura  Invisível*;  *Telepata  Natural*;
-  *Mentalidade Alienígena e Hostil*
-- **Tecnologia:**  A tecnologia  Laurin é  muito avançada,  mas é  bem
-  diferente da  tecnologia dos povos  da Via Láctea. Em  especial, não
-  possuem vôo linear ou outra tecnologias úteis
-- **Façanhas Raciais:**  Laurins recebem  na realidade uma  Façanha *a
-  menos* que os  demais personagens (imaginando que  um Mestre permita
-  tal aberração a trabalhar junto com outros personagens), mas recebem
-  duas Façanhas Raciais exclusivas
-  - **Telepata Natural:** o personagem em questão não precisa realizar
-    qualquer  teste   especial  para   usar  *Telepatia*.   Caso  seja
-    necessário algum teste, ele deverá utilizar *Vontade*
-  - **Órgão Flexográfico:**  o personagem  em questão tem  um controle
-    ainda maior do seu Órgão Flexográfico. Ele recebe +2 nos testes de
-    *Criar Vantagens* por *Furtividade* ao tornar-se *Invisível*
-
-#### Posbis
-
-A estranha raça  Posbi tem como característica  principal na realidade
-serem robôs!
-
-Criados pelos Laurins,  foram criados com partes  biológicas (na forma
-de um protoplasma que é presente em todos eles) e partes positrônicas,
-que interagem entre si por meio de ligações chamadas pelos terranos de
-*impetrônicas*. Por  meio dessa  teoria, cada uma  das parcelas  de um
-Posbi (ou equipamento impetrônico) oferece ao outro lado uma vantagem:
-o  lado   positrônico  garante   maior  capacidade   de  processamento
-lógico-analítico,  enquanto  o  lado biológico  permite  emoções  (que
-oferencem ângulos diferenciados de análise) e aprendizado (que permite
-ao sistema se auto-ajustar às necessidades). Além disso, o protoplama,
-dotado de poderes  telepáticos, também oferece um  meio de comunicação
-mais eficiente e rápido do que o que seria possível pela positrônica.
-
-Isso seria muito  bom se os Laurin não tivessem  também implantado nos
-Posbis  o chamado  "circuito  de  ódio", onde  uma  série de  ligações
-impetrônicas provocavam nos Posbis um  efeito bem simples: ódio contra
-toda a  forma de  vida orgânica. Originalmente,  isso visava  fazer os
-Posbis lutarem contra os inimigos  dos Laurins. Entretanto, o circuito
-funcionou "bem  demais" e fez  com que  os Posbis se  voltassem contra
-seus senhores, levantando-se contra os mesmos em guerra.
-
-A Guerra  entre Laurins  e Posbis  acabaria sendo  atraída para  a Via
-Láctea e colocando todos os povos da Galáxia no meio da batalha... Até
-que  os  Terranos  descobriram  que  o ódio  dos  Posbis  derivava  da
-configuração do "circuito do ódio",  que sobrepunha o protoplasma e as
-demais  programações  impetrônicas.  Com  a devida  ação  terrana,  os
-Laurins  foram  rechaçados  e  o "circuito  do  ódio"  desativado  nas
-máquinas centrais de Frago, no Sistema de Cem Sóis.
-
-Um  Posbi, quando  está para  morrer ou  sente que  há risco,  pode (e
-normalmente) tomará duas atitudes. A  primeira é "ejetar" uma parte de
-si, onde  fica o  protoplasma presente no  mesmo (processo  chamado de
-*"Amar a  verdadeira vida,  adorar a verdadeira  vida"*) e  em seguida
-destruir o corpo positrônico.
-
-Os Posbis podem  ser comandados por diversos níveis  de sistemas, cada
-um composto por um volume maior  de protoplasma que oferece aos mesmos
-a capacidade de comando e  distribuição de ordens. Os mais importantes
-sistemas ficam  em Frago, no Sistema  de Cem Sóis, que  são capazes de
-redistribuir ordens a colunas  de protoplasma nas naves fragmentárias,
-naves cúbicas de  um material escuro e com  cantos estranhos, gigantes
-que são  características dos Posbis.  Esses, por sua vez,  comandam os
-Posbis individuais.  Entretanto, pode  acontecer (na realidade,  é bem
-freqüente)  que pequenas  massas de  protoplasma Posbi  tomem decisões
-independentes.
-
-- **Aspectos  Raciais:**  *A  Verdadeira Vida*;  *Mente  Impetrônica*;
-  *O Comando do Protoplasma*
-- **Tecnologia:** A tecnologia  Posbi é similar à  Laurin, mas evoluiu
-  muito pouco desde sua criação.  Não possuem, por exemplo, vôo linear
-  (já que para eles a dor  provocada pela transição no hiperespaço não
-  é nada).
-- **Façanhas  Raciais:**  Posbis  podem   possuir  uma  das  seguintes
-  Façanhas Raciais:
-  - **Capacidade Parapsicológica: telepatia** - deve pagar a permissão
-    à parte
-  - **Técnico (qualquer área relativa aos Posbis)**
-  - **Líder de Homens**  - esse normalmente terá  uma maior quantidade
-    de protoplasma
+  - **Reação Rápida (FB 112)**
+  - **Poder da Dedução (FB 106)**
 
 ### Extras
-
-#### Impertrônica
-
-Sistemas positrônicos  são muito  conhecidos. Embora sejam  muito mais
-capazes  de  processamento que  a  mente  humana  ou arconita  (com  a
-possível exceção daqueles que possuem o *Segundo Cérebro* ativo), eles
-não    conseguem   aprender    e    se    adaptar,   dependendo    dos
-acontecimentos. Essa  é a pior  parte dos sistemas  positrônicos: eles
-dependem  do  programador e  do  programa  inserido em  seus  sistemas
-computacionais.  Não  importe  o  quão preciso,  não  importe  o  quão
-completo, sempre haverá uma forma de os explorar.
-
-Em  compensação, a  mente biológica  é  capaz de  evoluir, aprender  e
-adaptar-se,   pelos  diversos   mecanismos  que   a  mente   biológica
-desenvolveu.  Entretanto, a  lógica  biológica não  é  tão apurada,  e
-algumas vezes a mente biológica  age de maneira irracional, sendo essa
-sua grande falha.
-
-Os Laurins criaram  os Posbis utilizando as  duas parcelas, oferecendo
-lógica e emoções. O que eles não  sabiam é que a lealdade não pode ser
-transportada  ou  programada por  lógica  ou  biologia. Os  Posbis  se
-voltaram  contra  seus  criadores  e  passaram a  odiar  toda  a  vida
-orgânica,  não apenas  os inimigos  dos Laurins.  Apenas com  as ações
-terranas e arconitas é que os Posbis foram livrados definitivamente do
-"circuito do ódio" e passaram a poder expressar seu melhor.
-
-Computadores  impetrônicos,   e  portanto  Posbis,   são  considerados
-personagens plenos em  *Destino de Perry Rhodan*.  Eles podem utilizar
-seus  Aspectos   Raciais,  em   especial  *Mente   Impetrônica*,  para
-melhorarem  chances em  momentos que  precisam de  lógica, mas  também
-podem ser forçados a "se enganarem" e falharem em sua programação.
-
-#### Humanos Adaptados
-
-Os  seres humanos  se espalharam  pelos sistemas,  procurando planetas
-adequados às suas necessidades, à  maneira dos Arconitas, Aras, Antis,
-Saltadores e outros  povos. E, da mesma forma que  os saltadores deram
-origem  a   seres  adaptados   a  condições  diferenciadas,   como  os
-Superpesados e  o Aras,  os humanos  também começaram  a dar  origem a
-essas "sub-espécies".
-
-Em termos de regras, todo humano adaptado é considerado um humano, mas
-deve em  algum de seus  Aspectos (não necessariamente  no *Conceito*),
-indicar seu  planeta ou sistema de  origem.  Isso é importante  pois o
-Narrador deverá  construir então os Aspectos  específicos daquele tipo
-de  humano. Deve-se  levar  em consideração  que  tais adaptações  são
-reflexões  das imposições  da natureza.  Devem ser  sugeridas Façanhas
-para  que o  humano adaptado  adquira como  Façanha Racial,  mas ainda
-assim essa escolha  não será obrigatória (continua valendo  o fato que
-um terrano pode escolher qualquer Façanha como façanha Racial)
-
-Vejamos como exemplo os *epsalenses*
-
-##### Epsalenses
-
-Os Epsalenses  são uma  das primeiras  adaptações resultantes  da vida
-humana em ambientes  diferentes (ainda que não muito)  do seu ambiente
-natural terrano. Os  nascidos em Epsal estão sujeitos  a uma gravidade
-maior que  a normal para  um ser humano,  ainda que aceitável  para um
-terrano típico (gravidade  de 2,1G). Epsalentes tendem a  ser um tanto
-mais baixos  que os  humanos "comuns", mas  são robustos  e compactos,
-tendo quase  a mesma  largura de sua  altura. Epsalenses,  por motivos
-culturais,  são  extremamente  proficientes  com o  comando  de  naves
-espaciais, e muitas  das mais importantes naves das  forças do Império
-Solar têm  Epsalenses como  parte de  sua tripulação  mais importante,
-senão diretamente como comandantes.
-
-- **Aspectos  Raciais:**  *Baixos  e troncudos*;  *Vozes  de  Trovão*;
-  *Hábeis cosmonautas*
-- **Façanhas  Raciais:** Sugere-se  que todo  Epsalense tenha  uma das
-  façanhas abaixo
-  - **Líder de Homens**
-  - **Especialista: Cosmonáutica (FB 96)**
-  - **Voz da Autoridade**
-    - _Façanha de **Comando**:_ Esse  personagem é capaz de disseminar
-      ordens  de  maneira  tão   natural  que  não  precisa  enfatizar
-      necessariamente sua autoridade: Algo em  sua voz o faz. Todos os
-      personagens que sejam capazes de  o ouvir (normalmente um número
-      de Zonas igual a seu nível  de Comando) podem *Agir em Conjunto*
-      com  o  personagem  para  melhorar  as  chances  de  sucesso  do
-      mesmo. Por outro lado, ele pode  repassar para outro os bônus de
-      *Agir  em  Conjunto*  se  for interessante,  com  um  teste  bem
-      sucedido de *Comando __Razoável (+2)__*
