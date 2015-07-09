@@ -164,3 +164,79 @@ dominação total sob a Via Láctea
   - **Poder da Dedução (FB 106)**
 
 ### Extras
+
+#### A *United Stars Organization*
+
+Criada  por Atlan  antes mesmo  da queda  do Império  Arconita, com  o
+objetivo de ser  uma organização de apoio ao Império  Solar, a *United
+Stars Organization*  foi criada  a partir  dos princípios  da lendária
+*Terceira Divisão* de Allan D. Mercant. Os agentes da mesma atuam como
+espiões e especialistas quando tudo o mais falha.
+
+A USO possui  sua própria linha de financiamento,  fornecida por Allan
+D. Mercant, Ministro  de Finanças do Império Solar, e  possui uma base
+em um Asteróide chamado de *Quinto Center*, a cerca de 30 mil anos luz
+da Terra e 10  mil de Arcon. *Quinto Center* tem em  torno de 650km de
+diâmetro, com apenas 6 km de crosta: o resto do asteróide foi escavado
+e sustentado  por muitas toneladas  de estruturas de aço  terconita. A
+mesma  é servida  com sua  própria estrutura,  na prática  sendo quase
+independente do resto do  Império, possuindo laboratórios de pesquisa,
+arsenais,   estruturas  de   comunicação,  centros   para  treinamento
+hipnótico e  até mesmo  seus próprios  transmissores de  matéria. Seus
+armamentos  defensivos  incluem  muitos  canhões  transformadores  dos
+Posbis. A localização de *Quinto Center*  é tão severo que mesmo Perry
+Rhodan  e  outras  grandes  personalidades  terranas  não  conhecem  a
+localização da mesma.
+
+Atlan  é o  Lorde-Almirante e  comandante-em-chefe da  USO, em  teoria
+sendo subordinado  apenas a Perry  Rhodan. Na realidade,  muitas vezes
+Atlan bate de frente com as  decisões do Administrador Geral e faz com
+que  as  ações e  planos  da  USO  sejam  reveladas apenas  no  último
+instante. Perry  Rhodan, entretanto, confia bastante  no julgamento do
+antigo Imperador de Arcon, o suficiente para dar tal margem de manobra
+para a USO.
+
+Os Agentes  da USO  são escolhidos dos  mais diversos  povos terranos.
+Recentemente, com  o fim  do Império  Unido, Atlan  se viu  obrigado a
+remover muitos dos agentes não-terranos,  em especial de povos como os
+aconenses,  os aras  e  os  saltadores, de  modo  a  evitar riscos  na
+segurança. Entretanto, a proporção de Humanos Adaptados na USO é muito
+maior que  na Frota Espacial  do Império  Solar. Atlan sabe  muito bem
+como aproveitar  as variadas adaptações  que a natureza e  os diversos
+planetas  provêem  aos  seres  humanos  de modo  a  manter  um  quadro
+diversificado de  agentes que  permita que ele  possa agir  das formas
+mais     inusitadas    e     complexas     possíveis    de     maneira
+bem-sucedida.  Sigalenses, Ertrusos,  Epsalenses e  tantos outros  são
+muito utilizados como parte da USO.  Além disso, os raros mutantes que
+nascem  nesse Século  23 também  são bem  aproveitados por  Atlan como
+parte da USO.
+
+Os Agentes da USO normalmente  agem em segredo, trabalhando para obter
+informações e  tomar ações  que auxiliem na  manutenção da  posição do
+Império  Solar   como  um  dos   protagonistas  dos  eventos   na  Via
+Láctea. Normalmente ninguém fora da USO  conhece os Agentes da USO até
+que os  mesmos tomem suas  ações. Agentes  da USO são  preparados para
+trabalharem  nas mais  extremas circunstâncias,  tendo um  treinamento
+intensivo tanto em combate quanto em  ciências e ações sutis. A melhor
+comparação  para os  Agentes da  USO  seriam os  agentes secretos  dos
+grandes blocos  governamentais do Século 20.  E da mesma forma  que os
+mesmos, suas ações não costumam ser  ostensivas: os Agentes da USO são
+melhor aproveitados quando conseguem agir  de maneira sutil, sem dar a
+entender aos seus inimigos que estão agindo.
+
+Os Agentes da USO são acima de tudo, grandes especialistas em sua área
+de  atuação.  São  invariavelmente  os melhores  dos  melhores,  sendo
+escolhidos a dedo  por Atlan e seus subordinados diretos,  e são acima
+de tudo  capazes de  agir de maneiras  independentes e  criativas para
+alcaçar os objetivos de suas missões.
+
+- **Permissão:** Aspecto indicando o fato de ser extremamente hábil em
+  algo; *Perícia Pico* ou *Façanha* que indiquem sua especialidade
+- **Custo:** Aspecto
+- **Aspecto _Especialista da USO_**
+  - *Pode ser Invocado para:*  indicar capacidades especiais; permitir
+    um "reuso" de seu Aspecto de Especialista enquanto agir em nome da
+    USO
+  - *Pode  ser   Forçado  para:*  alinhar   as  ações  do   Agente  às
+    necessidades  da   USO,  mesmo  contra  sua   vontade;  colocar  o
+    personagem no foco de inimigos da USO
