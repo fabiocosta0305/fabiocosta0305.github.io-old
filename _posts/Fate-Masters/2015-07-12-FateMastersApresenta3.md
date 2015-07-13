@@ -29,6 +29,10 @@ related_links:
    link: https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/11223302_10152983523707543_7459976140123187533_n.jpg?oh=427a7aeb0538c261724c68b3d9545501&oe=5621BE84&__gda__=1445356173_a10420f5947b384406a2571f260bcc81
  - text: O Mr. Mickey como Roger Rabbit, junto com Mario e Deadpool
    link: https://scontent-gru1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11251724_10152983523197543_8312035573441559799_n.jpg?oh=c6f07b903564a2a36f653808db45a151&oe=56593D16
+ - text: A Aventura da Manhã (*Quem Derreteu o Raposo?*), para Fate Acelerado, com Fichas, Cenário e Regras necessárias (em PDF)
+   link: https://drive.google.com/file/d/0B5ecFMxgUsUQQ1AwaGlBVFZVQXM/edit?usp=docslist_api
+ - text: A Aventura da Tarde (*A Base Perdida*), para Fate Básico e Acelerado, como parte do Cenário do Conto de Fadas do Espaço, com todas as Regras necessárias e Fichas de Personagem para Fate Básico
+   link: https://drive.google.com/file/d/0B5ecFMxgUsUQeWtmZm9Ma3dzRFk/edit?usp=docslist_api
 audios:
  - format: MP3
    link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.mp3
