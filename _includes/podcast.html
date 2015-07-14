@@ -1,16 +1,29 @@
-<div class="player">
-<audio controls>
-{% for audio in page.audios %}
-<source src="{{audio.link}}" type="audio/{{audio.format|downcase}}"/>
-{% endfor %}
+<script type="text/javascript">
+  LBP.options = { 
+  controlsExtra: []
+  }
+</script>
+<div class="leanback-player-audio" style="width: 350px;">
+	<audio  controls>
+{% for audio in page.audios %}<source src="{{audio.link}}" type='audio/{{audio.format|downcase}}; codecs="vorbis"'/>{% endfor %}
+		<div class="leanback-player-html-fallback">
+			<div>
+				<strong>Download Audio:</strong>
+                                {% for audio in page.audios %}
+<a href="{{audio.link}}">.{{audio.format|downcase}}</a>
+                                {% endfor %}
+			</div>
+		</div>
 </audio>
 </div>
-<ul>
+
+<div style="margin-top: 40px;">
+  <ul>
 {% include podcast_text.html %}
                   {% for audio in page.audios %}
                   <li>
                   <a href="{{ audio.link }}">Programa em {{audio.format}}</a>
                   </li>
                   {% endfor %}
-
-                  
+</ul>
+</div>

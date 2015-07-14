@@ -61,5 +61,7 @@
  	{% endif %}
 	{{ page.style }}
 	</style>
-        <link rel="stylesheet" href="https://cdn.plyr.io/1.1.13/plyr.css">
+        <link rel="stylesheet" type="text/css" href="/assets/js/leanback/css.player/leanbackPlayer.default.css"/>
+        <script type="text/javascript" src="/assets/js/leanback/js.player/leanbackPlayer.pack.js"></script>
+        <script type="text/javascript" src="/assets/js/leanback/js.player/leanbackPlayer.en.js"></script>
 </head>
