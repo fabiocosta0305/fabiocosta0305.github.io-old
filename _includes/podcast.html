@@ -1,8 +1,10 @@
-<audio controls preload="metadata">
-  {% for audio in page.audios %}
-  <source src="{{audio.link}}" type="audio/{{audio.format|downcase}}"/>
-  {% endfor %}
+<div class="player">
+<audio controls>
+{% for audio in page.audios %}
+<source src="{{audio.link}}" type="audio/{{audio.format|downcase}}"/>
+{% endfor %}
 </audio>
+</div>
 <ul>
 {% include podcast_text.html %}
                   {% for audio in page.audios %}
