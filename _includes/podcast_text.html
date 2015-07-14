@@ -1,3 +1,9 @@
+<li> <strong>Cronologia do Podcast:</strong>
+<ul>
+  {% for event in page.events %}
+  <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endfor %}
+</ul>
 <li> <strong>Participantes:</strong>
 <ul>
   {% for host in page.hosts %}

@@ -35,6 +35,42 @@ audios:
    link:  https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.ogg
  - format: MP3
    link:  https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.mp3
+events:
+  - time: "01:03"
+    text: Apresentações
+  - time: "02:43"
+    text: Apresentando Matheus Funfas
+  - time: "04:50"
+    text: Como a Solar recebeu o Fate?
+  - time: "08:28"
+    text: Sobre os problemas de arte e impressão do Fate
+  - time: "13:07"
+    text: Sobre a entrega do Fate
+  - time: "15:04"
+    text: Sobre  a  relação da  Solar com  a  Evil Hat,  outros            licenciamentos e o _Worlds of Adventure_
+  - time: "17:57"
+    text: Sobre materiais do Fate que não sejam da Evil Hat
+  - time: "19:29"
+    text:  Sobre o  Creative Commons, PDF  gratuítos, Pirataria, SRD  (_System Reference  Document_)  e  _Pay What  You  Want_
+  - time: "27:50"
+    text: Sobre a Solar e Financiamentos estilo _Patreon_
+  - time: "30:24"
+    text:  Sobre valores  de licenciamentos  e como  isso afetou decisões no Financiamento Coletivo
+  - time: "31:54"
+    text: Sobre os Desafiados do Destino e sobre como eles foram escolhidos
+  - time: "37:11"
+    text: Sobre a Solar  divulgar os Mundos Solares e Desafiados do Destino
+  - time: "40:19"
+    text: A Relação da Solar com outras editoras nacionais
+  - time: "43:20"
+    text: A Possibilidade de um concurso de cenários pela Solar
+  - time: "44:37"
+    text: Próximos passos da Solar
+  - time: "47:31"
+    text: Considerações Finais
+  - time: "50:19"
+    text: Encerramento
+
 ---
 
 Começando mais uma  série dentro do Fate Masters, em  especial no Fate
@@ -50,30 +86,5 @@ Creative Commons,  SRD e  as dificuldades no  processo de  entrega dos
 itens do financiamento coletivo
 
 Lembrando sempre: _#solarnósteamamos_
-
-- *Cronologia do Podcast*
-  - **01:03** - Apresentações
-  - **02:43** - Apresentando Matheus Funfas
-  - **04:50** - Como a Solar recebeu o Fate?
-  - **08:28** - Sobre os problemas de arte e impressão do Fate
-  - **13:07** - Sobre a entrega do Fate
-  - **15:04**  - Sobre  a  relação da  Solar com  a  Evil Hat,  outros
-                licenciamentos e o _Worlds of Adventure_
-  - **17:57** - Sobre materiais do Fate que não sejam da Evil Hat
-  - **19:29** -  Sobre o  Creative Commons, PDF  gratuítos, Pirataria,
-                SRD  (_System Reference  Document_)  e  _Pay What  You
-                Want_
-  - **27:50** - Sobre a Solar e Financiamentos estilo _Patreon_
-  - **30:24** -  Sobre valores  de licenciamentos  e como  isso afetou
-                 decisões no Financiamento Coletivo
-  - **31:54** - Sobre os Desafiados do Destino e sobre como eles foram
-                escolhidos
-  - **37:11** - Sobre a Solar  divulgar os Mundos Solares e Desafiados
-                do Destino
-  - **40:19** - A Relação da Solar com outras editoras nacionais
-  - **43:20** - A Possibilidade de um concurso de cenários pela Solar
-  - **44:37** - Próximos passos da Solar
-  - **47:31** - Considerações Finais
-  - **50:19** - Encerramento
 
 
