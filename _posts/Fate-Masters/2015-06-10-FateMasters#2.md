@@ -1,6 +1,7 @@
 ---
 title: Fate Masters Episódio 2 - Aspectos
 subheadline: Invocando a diversão e Forçando contra a Apelação
+teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
  - RPG

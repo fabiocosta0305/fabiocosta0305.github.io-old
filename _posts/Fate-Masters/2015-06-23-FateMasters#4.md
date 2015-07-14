@@ -1,6 +1,7 @@
 ---
 title: Fate Masters Episódio 4 - Dissecando Psychedemia
 subheadline: Começando a série sobre Construção de Mundos
+teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
  - RPG

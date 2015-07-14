@@ -1,6 +1,7 @@
 ---
 title: Fate Masters Episódio 1 - Piloto
 subheadline: Começando os trabalhos em grande estilo!
+teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
  - RPG
