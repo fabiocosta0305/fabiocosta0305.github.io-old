@@ -22,6 +22,16 @@ hosts:
  - Fábio Emilio Costa
  - Filipe Dalmatti Lima
 related_links:
+ - text: Anime Friends
+   link: http://www.animefriends.com.br/
+ - text: Encontro Internacional de RPG
+   link: http://www.devir.com.br/eirpg
+ - text: Webcomics *Um Sábado Qualquer*
+   link: http://www.umsabadoqualquer.com.br
+ - text: Podcast *Ao Quadrado²*
+   link: http://aoquadra.do/
+ - text: Roleplayers
+   link: http://www.roleplayers.com.br/
  - text: Cosplayers de Elza e Anna (*Frozen*) e Cinderela
    link: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpt1/v/t1.0-9/11703084_965287756868443_7519496614998231843_n.jpg?oh=9da32206cdad33a2d6ad15e771f09357&oe=56237E79&__gda__=1444283517_c4587aa4862643e4fd20212330bd71be
  - text: Cosplayer de Cinderela
@@ -39,11 +49,30 @@ audios:
    link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.ogg
  - format: MP3
    link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.mp3
+events:
+  - time: "00:05"
+    text: Apresentação
+  - time: "01:34"
+    text: Opinião do Evento como um todo
+  - time: "13:56"
+    text: Opinião sobre os *Cosplays*
+  - time: "15:58"
+    text: Sobre o EIRPG
+  - time: "16:47"
+    text: As aventuras mestradas pelo Mr. Mickey no EIRPG 
+  - time: "32:09"
+    text: A participação do Dr. Fifo no EIRPG, envolvendo conversas com pessoal de RPG e o *Nóis é Goblin*
+  - time: "43:10"
+    text: Uma comparação rápida sobre os eventos das mesas do Mr. Mickey e pelo *Nóis é Goblin* jogado pelo Dr. Fifo
+  - time: "46:35"
+    text: Os pontos bons e ruins da *Anime Friends 2015* (Aspecto *Vamos detonar a Yamato*)
+  - time: "51:28"
+    text: Considerações finais, incluindo o senhor de Canganceiro!
 ---
 
-Nesse Fate Masters Apresenta totalmente  especial, o Mr. Mickey (Fábio
-Costa)  e o  Doutor  Fifo  (Filipe Dalmatti)  expões  suas opiniões  e
-comentam sobre  a participação deles durante  o Encontro Internacional
+Nesse  Fate  Masters Apresenta  totalmente  especial,  o *Mr.  Mickey*
+(Fábio Costa) e o *Doutor Fifo* (Filipe Dalmatti) expões suas opiniões
+e comentam sobre a participação deles durante o Encontro Internacional
 de RPG, parte  da Anime Friends 2015.  Enquanto o  Mr.  Mickey mestrou
 Fate no  evento (e teve  algumas dores de  cabeça com os  jogadores de
 evento) devidamente caracterizado como Roger Rabbit, Filipe participou

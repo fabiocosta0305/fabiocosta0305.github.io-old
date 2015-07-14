@@ -1,9 +1,3 @@
-<li> <strong>Cronologia do Podcast:</strong>
-<ul>
-  {% for event in page.events %}
-  <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
-{% endfor %}
-</ul>
 <li> <strong>Participantes:</strong>
 <ul>
   {% for host in page.hosts %}
@@ -11,15 +5,25 @@
 {% endfor %}
 </ul>
 <li> <strong>Duração:</strong> {{page.podcast_time}}
+{% if page.events %}
+<li> <strong>Cronologia do Podcast:</strong>
+<ul>
+  {% for event in page.events %}
+  <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endfor %}
+</ul>
+{% endif%}
 
                   {% if page.related_links %}
+<li><strong><i>Links</i> Relacionados:</strong></li>
+<ul>
   {% for link in page.related_links %}
                   <li>
                   <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
                   </li>
             {% endfor %}
                   {% endif %}
-  
+</ul>
                   {% if site.data.podcast %}
                   <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
                   {% endif %}
@@ -28,3 +32,4 @@
                   <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a>
                   </li>
             {% endfor %}
+
