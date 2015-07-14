@@ -27,7 +27,7 @@ related_links:
  - text: Encontro Internacional de RPG
    link: http://www.devir.com.br/eirpg
  - text: Webcomics *Um Sábado Qualquer*
-   link: http://www.umsabadoqualquer.com.br
+   link: http://www.umsabadoqualquer.com
  - text: Podcast *Ao Quadrado²*
    link: http://aoquadra.do/
  - text: Roleplayers
