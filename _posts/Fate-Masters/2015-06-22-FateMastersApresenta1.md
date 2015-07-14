@@ -20,10 +20,10 @@ related_links:
    link: https://medium.com/fate-rpg/desafiando-em-1-hora-star-fifo-de2bef608d3c
 podcast_time: 64min
 audios:
- - format: MP3
-   link: https://archive.org/download/FateMastersApresenta1StarFifo/FateMastersApresenta%231-StarFifo.mp3
  - format: OGG
    link: https://archive.org/download/FateMastersApresenta1StarFifo/FateMastersApresenta%231-StarFifo.ogg
+ - format: MP3
+   link: https://archive.org/download/FateMastersApresenta1StarFifo/FateMastersApresenta%231-StarFifo.mp3
 ---
 
 Olá a todos!

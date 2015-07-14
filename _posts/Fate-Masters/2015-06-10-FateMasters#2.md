@@ -21,10 +21,10 @@ related_links:
  - text: Os Aspectos dos *Guardiões da Galáxia* - **ATENÇÃO - contém _spoilers_!**
    link: /rpg/FateMasters2-AspectosGuardioesDaGalaxia/
 audios:
- - format: MP3
-   link: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.mp3
  - format: OGG
    link: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.ogg
+ - format: MP3
+   link: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.mp3
 ---
 
 Os Fate Masters Fábio, Rafael e Filipe voltam para dissecar Aspectos: o que são, como funcionam, como utiliźa-los nas aventuras. E para isso, nada melhor que descrever os personagens principais de _Os Guardiões da Galáxia_.

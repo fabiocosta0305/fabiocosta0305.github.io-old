@@ -34,10 +34,10 @@ related_links:
  - text: A Aventura da Tarde (*A Base Perdida*), para Fate Básico e Acelerado, como parte do Cenário do Conto de Fadas do Espaço, com todas as Regras necessárias e Fichas de Personagem para Fate Básico
    link: https://drive.google.com/file/d/0B5ecFMxgUsUQeWtmZm9Ma3dzRFk/edit?usp=docslist_api
 audios:
- - format: MP3
-   link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.mp3
  - format: OGG
    link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.ogg
+ - format: MP3
+   link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.mp3
 ---
 
 Nesse Fate Masters Apresenta totalmente  especial, o Mr. Mickey (Fàbio

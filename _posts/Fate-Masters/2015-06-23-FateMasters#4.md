@@ -25,10 +25,10 @@ related_links:
  - text: Link para o Patreon dos *Worlds of Adventure* - **COLABOREM!!**
    link: https://www.patreon.com/evilhat?ty=h
 audios:
- - format: MP3
-   link:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.mp3
  - format: OGG
    link:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.ogg
+ - format: MP3
+   link:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.mp3
 ---
 
 E estamos de volta!
