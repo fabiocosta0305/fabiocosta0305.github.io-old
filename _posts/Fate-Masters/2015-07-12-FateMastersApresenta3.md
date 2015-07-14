@@ -1,5 +1,6 @@
 ---
 title: Fate Masters Apresenta Episódio 3 - Fate Masters na Anime Friends 2015
+teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: Os Fate Masters perdidos entre os Otakus
 layout: post
 categories:

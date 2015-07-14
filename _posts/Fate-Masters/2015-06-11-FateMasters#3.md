@@ -1,6 +1,7 @@
 ---
 title: Fate Masters Episódio 3 - Habilidades E Abordagens
 subheadline: Testando a paciência dos jogadores
+teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
  - RPG

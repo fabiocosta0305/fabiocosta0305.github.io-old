@@ -1,6 +1,7 @@
 ---
 title: Fate Masters Apresenta Episódio 2 - Entrevista com Matheus Funfas (Solar Editora)
 subheadline: O início de uma série de entrevistas com os envolvidos com o FATE
+teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
  - RPG
