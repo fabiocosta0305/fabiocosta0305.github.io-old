@@ -40,7 +40,7 @@ audios:
    link:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.mp3
 ---
 
-Nesse Fate Masters Apresenta totalmente  especial, o Mr. Mickey (Fàbio
+Nesse Fate Masters Apresenta totalmente  especial, o Mr. Mickey (Fábio
 Costa)  e o  Doutor  Fifo  (Filipe Dalmatti)  expões  suas opiniões  e
 comentam sobre  a participação deles durante  o Encontro Internacional
 de RPG, parte  da Anime Friends 2015.  Enquanto o  Mr.  Mickey mestrou

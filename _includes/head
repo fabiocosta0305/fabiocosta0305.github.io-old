@@ -61,4 +61,5 @@
  	{% endif %}
 	{{ page.style }}
 	</style>
+        <link rel="stylesheet" href="https://cdn.plyr.io/1.1.13/plyr.css">
 </head>
