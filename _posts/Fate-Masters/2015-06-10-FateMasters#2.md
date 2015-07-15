@@ -24,6 +24,7 @@ related_links:
 audios:
  - OGG: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.ogg
  - MP3: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.mp3
+iaplayer: fate_masters_2_aspectos_201506
 ---
 
 Os Fate Masters Fábio, Rafael  e Filipe voltam para dissecar Aspectos:

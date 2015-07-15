@@ -47,6 +47,7 @@ related_links:
 audios:
  - OGG:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.ogg
  - MP3:  https://archive.org/download/FateMastersApresenta3/FateMastersApresenta3.mp3
+iaplayer: FateMastersApresenta3
 events:
   - time: "00:05"
     text: Apresentação

@@ -33,6 +33,7 @@ related_links:
 audios:
  - OGG: https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.ogg
  - MP3:  https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.mp3
+iaplayer: FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora
 events:
   - time: "01:03"
     text: Apresentações
