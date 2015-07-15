@@ -26,12 +26,18 @@ related_links:
  - text: Link para o Patreon dos *Worlds of Adventure* - **COLABOREM!!**
    link: https://www.patreon.com/evilhat?ty=h
 audios:
- - format: OGG
-   link:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.ogg
- - format: MP3
-   link:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.mp3
+ - OGG:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.ogg
+ - MP3:  https://archive.org/download/FateMasters4Psychedemia/Fate%20Masters%20%234%20-%20Psychedemia.mp3
 ---
 
 E estamos de volta!
 
-Nesse episódio, o Velho Lich, o Doutor Fifo e o Mr. Mickey, conhecidos também como Rafael, Filipe e Fábio, dão início a uma série voltada à parte de Construção de Mundos, abordando os vários métodos de Construção de Mundo. Nesse primeiro episódio, é apresentado como aproveitar elementos vindos de cenários que já existem. E para isso, será destrinchado um dos melhores cenários produzidos pela *Evil Hat* no *Worlds of Adventure*, o *Psychedemia*! Aproveite a viagem, leia o cenário e aproveite todos os elementos possíveis para a sua campanha de Fate!
+Nesse episódio, o Velho Lich, o Doutor Fifo e o Mr. Mickey, conhecidos
+também como Rafael,  Filipe e Fábio, dão início a  uma série voltada à
+parte  de  Construção  de  Mundos,  abordando  os  vários  métodos  de
+Construção  de  Mundo. Nesse  primeiro  episódio,  é apresentado  como
+aproveitar elementos vindos  de cenários que já existem.  E para isso,
+será destrinchado um dos melhores  cenários produzidos pela *Evil Hat*
+no *Worlds of Adventure*, o  *Psychedemia*! Aproveite a viagem, leia o
+cenário e aproveite  todos os elementos possíveis para  a sua campanha
+de Fate!

@@ -1,29 +1,32 @@
 <script type="text/javascript">
-  LBP.options = { 
-  controlsExtra: []
-  }
+  LBP.options = { controlsExtra: [] }
 </script>
-<div class="leanback-player-audio" style="width: 350px;">
-	<audio  controls>
-{% for audio in page.audios %}<source src="{{audio.link}}" type='audio/{{audio.format|downcase}}; codecs="vorbis"'/>{% endfor %}
+<div class="leanback-player-audio">
+<audio  controls>
+{% for audio in page.audios %}
+  {% for audio_info in audio %}
+<source src="{{audio_info[1]}}" type='audio/{{audio_info[0]|downcase}}; codecs="vorbis"'/>{% endfor %}{% endfor %}
 		<div class="leanback-player-html-fallback">
 			<div>
 				<strong>Download Audio:</strong>
                                 {% for audio in page.audios %}
-<a href="{{audio.link}}">.{{audio.format|downcase}}</a>
+  {% for audio_info in audio %}
+<a href="{{audio_info[1]}}">.{{audio_info[0]|downcase}}</a>
+                                {% endfor %}
                                 {% endfor %}
 			</div>
 		</div>
 </audio>
 </div>
-
-<div style="margin-top: 40px;">
-  <ul>
+<div style="margin-top: 50px;">
+<ul>
 {% include podcast_text.html %}
                   {% for audio in page.audios %}
-                  <li>
-                  <a href="{{ audio.link }}">Programa em {{audio.format}}</a>
+<li>
+  {% for audio_info in audio %}
+                  <a href="{{ audio_info[1] }}">Programa em {{audio_info[0]}}</a>
                   </li>
+                  {% endfor %}
                   {% endfor %}
 </ul>
 </div>

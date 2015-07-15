@@ -22,9 +22,10 @@
                   <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
                   </li>
             {% endfor %}
-                  {% endif %}
 </ul>
-                  {% if site.data.podcast %}
+                  {% endif %}
+
+{% if site.data.podcast %}
                   <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
                   {% endif %}
                   {% for link in site.data.podcast.podcast_links %}

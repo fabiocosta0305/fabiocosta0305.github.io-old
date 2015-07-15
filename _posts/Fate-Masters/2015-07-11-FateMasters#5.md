@@ -28,10 +28,8 @@ related_links:
  - text: Guia - como fazer adaptações no Fate
    link: https://medium.com/fate-rpg/guia-como-fazer-adapta%C3%A7%C3%B5es-no-fate-3c56e03a8d09
 audios:
- - format: OGG
-   link:  https://archive.org/download/FateMasters5AdaptandoCenrios/Fate%20Masters%20%235%20-%20Adaptando%20cen%c3%a1rios.ogg
- - format: MP3
-   link:  https://archive.org/download/FateMasters5AdaptandoCenrios/Fate%20Masters%20%235%20-%20Adaptando%20cen%c3%a1rios.mp3
+ - OGG:  https://archive.org/download/FateMasters5AdaptandoCenrios/Fate%20Masters%20%235%20-%20Adaptando%20cen%c3%a1rios.ogg
+ - MP3:  https://archive.org/download/FateMasters5AdaptandoCenrios/Fate%20Masters%20%235%20-%20Adaptando%20cen%c3%a1rios.mp3
 ---
 
 Continuando a série  de Construção de Mundos, nesse  episódio de hoje,

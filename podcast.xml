@@ -12,16 +12,18 @@
 				<title>{{ post.title | xml_escape }}</title>                                
 				<description>{{ post.content | xml_escape }}
                   {{ shownotes | xml_escape %}}
-                                        {% for audio in post.audios %}
-                                        {% if audio.format == "MP3" %}
+                  {% for audio in post.audios %}
+                  {% for audio_info in audio %}
+                                        {% if audio_info[0] == "MP3" %}
                                         {% capture link %}
                                         {% include rss_podcast_text.html %}
-                                        <a href="{{ audio.link }}">
-                                          <li>Link para o programa em {{audio.format}}
+                                        <a href="{{ audio_info[1] }}">
+                                          <li>Link para o programa em {{audio_info[0]}}
                                         </a>
                                         {% endcapture %}
                                         {{ link | xml_escape}}
                                         {% endif %}
+                                        {%endfor%}
                                         {%endfor%}
                                         </description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>

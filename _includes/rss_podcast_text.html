@@ -6,13 +6,25 @@
 </ul>
 
   <li> <strong>Duração:</strong> {{post.podcast_time}}
-    
+
+{% if post.events %}
+<li> <strong>Cronologia do Podcast:</strong>
+<ul>
+  {% for event in post.events %}
+  <li><strong>{{event.time}} - </strong> {{ event.text | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endfor %}
+</ul>
+{% endif%}
+
                   {% if post.related_links %}
+<li><strong><i>Links</i> Relacionados:</strong></li>
+<ul>
   {% for link in post.related_links %}
                   <li>
-                  <a href="{{ link.link }}">{{ link.text | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+                  <a href="{{ link.link }}">{{ link.text  | markdownify | remove: '<p>' | remove: '</p>' }}</a>
                   </li>
             {% endfor %}
+</ul>
                   {% endif %}
   
                   {% if site.data.podcast %}

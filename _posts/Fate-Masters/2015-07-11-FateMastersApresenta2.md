@@ -31,10 +31,8 @@ related_links:
  - text: Foto mostrando o erro no corte do Fate
    link: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11698618_861183590584443_736237538289153633_n.jpg?oh=1f60086d291718c1bb6ef59fcaa5cb9e&oe=5610CD90&__gda__=1448372581_c4480b5f6b8eb49c584901338f06cc1b
 audios:
- - format: OGG
-   link:  https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.ogg
- - format: MP3
-   link:  https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.mp3
+ - OGG: https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.ogg
+ - MP3:  https://archive.org/download/FateMastersApresenta2EntrevistaComMatheusFunfasSolarEditora/Fate%20Masters%20Apresenta%20%232%20-%20Entrevista%20com%20Matheus%20Funfas%20%28Solar%20Editora%29.mp3
 events:
   - time: "01:03"
     text: Apresentações

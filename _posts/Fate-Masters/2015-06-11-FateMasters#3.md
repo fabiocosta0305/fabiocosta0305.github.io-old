@@ -20,11 +20,12 @@ hosts:
  - Filipe Dalmatti Lima
  - Leonardo Paixão (*Vilão Especialmente Convidado*)
 audios:
- - format: OGG
-   link: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.ogg
- - format: MP3
-   link: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.mp3
+ - OGG: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.ogg
+ - MP3: https://archive.org/download/FateMasters3HabilidadesEAbordagens/Fate%20Masters%20%233%20-%20Habilidades%20e%20abordagens.mp3
 ---
 
-E os Fate Masters estão de volta. Dessa vez Rafael, Fábio e Filipe, além do vilão especialmente convidado Leonardo Paixão dissecam as mecânicas de Habilidades, Perícias, Abordagens, e como lidar com as possíveis apelações
+E os  Fate Masters estão de  volta. Dessa vez Rafael,  Fábio e Filipe,
+além  do vilão  especialmente  convidado Leonardo  Paixão dissecam  as
+mecânicas de  Habilidades, Perícias, Abordagens,  e como lidar  com as
+possíveis apelações
 
