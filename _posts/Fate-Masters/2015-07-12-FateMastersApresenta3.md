@@ -4,7 +4,7 @@ teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: Os Fate Masters perdidos entre os Otakus
 layout: post
 categories:
- - RPG
+ - fate-masters
 tags:
  - Fate
  - Fate-Core
