@@ -1,8 +1,6 @@
-{% comment%}
 {% if page.iaplayer %}
 <iframe src="https://archive.org/embed/{{ page.iaplayer }}" width="400" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 {% else %}
-{% endcomment%}
 <script type="text/javascript">
   LBP.options = { controlsExtra: [] }
 </script>
@@ -23,9 +21,7 @@
 		</div>
 </audio>
 </div>
-{% comment%}
 {% endif %}
-{% endcomment%}
 <div style="margin-top: 50px;">
 <ul>
 {% include podcast_text.html %}
