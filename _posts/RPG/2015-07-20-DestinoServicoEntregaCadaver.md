@@ -12,8 +12,6 @@ tags:
  - Kurosagi - Corpse Delivery Service
 header: no
 ---
-# Destino do Serviço de Entrega de Cadáveres
-
 ## Baseado no Mangá “Kurosagi Corpse Delivery Service”
 
 ### O Cenário
