@@ -1,6 +1,7 @@
 ---
 title: Destino da Pole Position
 subheadline: Uma adaptação para Fate Acelerado do Desenho “Pole Position” da DIC dos anos 80em Fate
+date: 2015-07-20 15:16:00 +0300
 layout: post
 categories:
  - RPG
@@ -9,7 +10,7 @@ tags:
  - Fate Core
  - Fate-Core
  - Personagens
- - Kurosagi - Corpse Delivery Service
+ - Pole Position
 header: no
 ---
 
