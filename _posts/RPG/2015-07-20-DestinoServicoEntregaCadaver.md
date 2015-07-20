@@ -32,7 +32,7 @@ Quando cinco estudantes universitários budistas encontram o cadáver de um suic
 	* Kurosagi – Serviço de Entrega de Cadáveres
 *   **Abordagens:**  
 	*  _Cuidadosa:_ Medíocre (+0)
-    *   _Inteligente: _ Regular (+1)
+    *   _Esperta: _ Regular (+1)
     *   _Estilosa:_ Regular (+1)
     *   _Poderosa:_ Razoável (+2)
     *   _Ágil:_ Bom (+3)
@@ -61,7 +61,7 @@ Devido a seu poder, Karatsu é um dos mais importantes dos Funcionários da Kuro
 	* Passatempo Bizarro: Tirar fotos de cadáveres para revender
 *   **Abordagens**
 	* _Cuidadosa:_ Regular (+1)
-    *   _Inteligente:_ Razoável (+2)
+    *   _Esperta:_ Razoável (+2)
     *   _Estilosa:_ Medíocre (+0)
     *   _Poderosa:_ Regular (+1)
     *   _Ágil:_ Razoável (+2)
@@ -84,7 +84,7 @@ Tal fascinação pela morte se explica: ela e a irmã mais nova sobreviveram à 
 	* Intercâmbio nos EUA
 *   **Abordagens**   
 	* _Cuidadosa:_ Bom (+3)
-    *   _Inteligente:_ Razoável (+2)
+    *   _Esperta:_ Razoável (+2)
     *   _Estilosa:_ Razoável (+2)
     *   _Poderosa:_ Medíocre (+0)
     *   _Ágil:_ Regular (+1)
@@ -105,7 +105,7 @@ Keiko Makino ajuda os demais integrantes da Kurosagi – Serviço de Entrega de 
 	* Problemas Financeiros
 *   **Abordagens**  
 	*  _Cuidadosa:_ Regular (+1)
-    *   _Inteligente:_ Regular (+1)
+    *   _Esperta:_ Regular (+1)
     *   _Estilosa:_ Razoável (+2)
     *   _Poderosa:_ Bom (+3)
     *   _Ágil:_ Razoável (+2)
@@ -126,13 +126,13 @@ Makoto Kurata é um cara meio assustador, por estar sempre com uma cara de delin
 	+ Problemas de Coração
 *   **Abordagens**
 	*    _Cuidadosa:_ Regular (+1)
-    *   _Inteligente:_ Bom (+3)
+    *   _Esperta:_ Bom (+3)
     *   _Estilosa:_ Razoável (+2)
     *   _Poderosa:_ Regular (+1)
     *   _Ágil:_ Medíocre (+0)
     *   _Sorrateiro:_ Razoável (+2)
 *   **Façanhas**   
-	* Como sou _Otaku_ conheço muitas _lendas urbanas_, recebendo _+2 ao Criar Vantagens de Maneira Inteligente relacionadas com elas_
+	* Como sou _Otaku_ conheço muitas _lendas urbanas_, recebendo _+2 ao Criar Vantagens de Maneira Esperta relacionadas com elas_
 *   **Recarga:** 3
 
 Yuji Yata é o mais tímido de todos os funcionários da Kurosagi – Corpse Delivery Service, e considera ter o poder mais inútil de todos, sendo capaz de canalizar seres de fora do nosso planeta em fantoches em sua mão esquerda. Atualmente, ele canaliza o alienígena Keri Ellis, com o qual trabalha em conjunto. Ele adora matemática e gosta de souvenirs nerds e _otaku_. Seu cabelo longo costumam ocultar os olhos, então seu rosto é meio inexpressivo.
@@ -147,7 +147,7 @@ Yuji Yata é o mais tímido de todos os funcionários da Kurosagi – Corpse Del
 	* Gosta de Yata apesar de tudo
 *   **Abordagens**  
 	*  _Cuidadosa:_ Bom (+3)
-    *   _Inteligente:_ Razoável (+2)
+    *   _Esperta:_ Razoável (+2)
     *   _Estilosa:_ Regular (+1)
     *   _Poderosa:_ Regular (+1)
     *   _Ágil:_ Razoável (+2)
