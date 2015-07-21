@@ -74,7 +74,7 @@ Personagens iniciais começam com _Bom (+3)_ como perícia mais alta. Apenas per
 ### Façanhas e Extras
 
 + Diferenças de tamanhos entre criaturas (como entre um _camundongo_ e um _humano_) são consideradas Aspectos, e portanto, tratados como tal.
-+ Os Humanos podem ser criados utilizando-se as regras de Capangas (para antagonistas) ou usando as regras de *Spirit Helpers* para humanos que ajudem os jogadores.
++ Os Humanos podem ser criados utilizando-se as regras de Capangas (para antagonistas) ou usando as regras de [*Spirit Helpers*][1] para humanos que ajudem os jogadores.
 
 ### Exemplo de personagem
 
@@ -101,3 +101,32 @@ Téo é um camundongo brasileiro, nascido no Rio de Janeiro. Ele é pobre, mas h
 + **Trapaceiro Honesto:** Pode utilizar _Trapaças_ no lugar de _Empatia_ para _Criar Vantagens_ ao engambelar um alvo
 + **Capoeira:** Recebe +2 ao _Atacar_ com _Combate_ ao lutar desarmado
 + **Artista:** Recebe +2 ao _Criar Vantagens_ com _Educação_ usando instrumentos Musicais.
+
+#### Silas, o Amigo Humano de Téo
+
+Silas é um garoto esperto, mas que as pessoas menosprezam por causa de ser negro e pobre em um país que ainda a pouco tempo era escravista. De qualquer modo, ele vem fazendo o possível e o impossível para se tornar alguém de bem, e mesmo sabendo que seu amigo camundongo Téo é um tanto trapaceiro, sabe que este quer o seu bem.
+
+__*Nota:*__ Silas segue o sistema de _Spirit Helpers_. Como vantagem, um jogador pode jogar com Silas sem muito problema.
+
+##### Aspectos
+
+| **Conceito:**    | Um garoto pobre que precisa de toda ajuda                              |
+| **Dificuldade:** | Franzino demais, acaba sendo vítima de chacota facilmente              |
+| **Associação:**  | _"Apesar das trapaças, confio em Téo, e guardo ele como um segredo!"_  |
+|                  | Dedicação aos estudos não importa a que preço                          |
+|                  | Pais o estimulam a estudar, mesmo com muito sacrifício                 |
+
+##### Abordagens
+
+| **Corpo:**    | Razoável (+1) |
+| **Mente:**    | Bom (+3)      |
+| **Espírito:** | Medíocre (+0) |
+| **Foco:**     | Regular (+2)  |
+
+##### Façanhas
+
++ **Estudioso:** Recebe _+2 em Mente_ toda vez que _Criar Vantagens_ por _Mente_ baseando-se em coisas que aprendeu formalmente
++ **As Tradições dos Antepassados:** Recebe _+2 em Mente_ toda vez que _Criar Vantagens_ por _Mente_ baeando-se em coisas que ouviu dos mais velhos e de outras pessoas mais sábias que ele
++ **As Lendas e Histórias:** _Uma vez por sessão_ Silas pode gerar um _Aspecto baseado em Lendas_ automaticamente, sem precisar de testes
+
+[1]: /rpg/SpiritHelpers/
