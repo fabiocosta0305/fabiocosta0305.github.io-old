@@ -54,11 +54,11 @@ Um Espírito Ajudante possui uma Abordagem em _Bom (+3)_, uma em _Razoável (+2)
 
 Um Espírito Ajudante possui o mesmo número de Façanhas iniciais de um personagem normal, e com as mesmas características.
 
-**Exemplo:** Hora de escolher as Façanhas de Vanilla. Erika então opta por
-
-+ **Magic Decoration:** com essa Façanha, ela recebe +2 em seu _Foco_ para _Criar Vantagens ao realizar decorações (seja de doces ou locais relacionados a doces)_;
-+ **Magic Sweet Pictures:** com essa Façanha, ela cria _uma vez por sessão_ uma **Carta Doce** (conta como um Aspecto) com a imagem de um Doce que elafez e que ela pode guardar ou enviar a outros. Uma vez que ela guarde, ela recebe +2 para Criar Vantagens com Foco ao tentar reproduzir tal doce, usando a **Carta Doce**;
-+ **Magic Sweet Scent:** com essa Façanha, ela recebe +2 em Foco para Criar Vantagens baseadas em cheiros de doces;
+> **Exemplo:** Hora de escolher as Façanhas de Vanilla. Erika então opta por
+> 
+> + **Magic Decoration:** com essa Façanha, ela recebe +2 em seu _Foco_ para _Criar Vantagens ao realizar decorações (seja de doces ou locais relacionados a doces)_;
+> + **Magic Sweet Pictures:** com essa Façanha, ela cria _uma vez por sessão_ uma **Carta Doce** (conta como um Aspecto) com a imagem de um Doce que elafez e que ela pode guardar ou enviar a outros. Uma vez que ela guarde, ela recebe +2 para Criar Vantagens com Foco ao tentar reproduzir tal doce, usando a **Carta Doce**;
+> + **Magic Sweet Scent:** com essa Façanha, ela recebe +2 em Foco para Criar Vantagens baseadas em cheiros de doces;
 
 #### Pontos de Destino, Estresse e Consequências
 
