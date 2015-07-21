@@ -1,6 +1,18 @@
-# Spirit Helpers
-
-## Fantasia para Fate Acelerado
+---
+title: Spirit Helpers
+subheadline: Fadas, Espíritos e pequenos ajudantes de desenho e mangá para Fate Acelerado!
+layout: post
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Fate-Core
+ - Personagens
+ - Fadas
+ - Espíritos Ajudantes
+header: no
+---
 
 ### Introdução
 
