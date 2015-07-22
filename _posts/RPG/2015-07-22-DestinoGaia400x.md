@@ -1,0 +1,358 @@
+---
+title: Destino de Gaia 400x
+subheadline: Enfrente o seu Destino no Mundo dos Escolhidos de Luna
+teaser: Baseado no cenário publicado por Márcio Fiorito na Dragão Brasil 114
+layout: post
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Core
+ - Fate-Core
+ - Personagens
+ - Problemas e Aspectos
+ - Gaia 400x
+ - Technofantasy
+header: no
+---
+
+- **Ambientação:** _Technofantasy_/Futurista/Fantasia
+- **Alcance:** Épico/Pessoal
+
+### Problemas e Aspectos
+
+- O passado perdido
+  - Ninguém se lembra da queda da Lua
+  - Uma Lua destruída
+- Escolhidos de Luna
+  - Sem tecnologia ou esperança
+  - Presas Fáceis para os animais mutantes
+- Os Cristais de Poder
+  - Origem Desconhecida
+    - Já existiam em Gaia ou vieram dos meteoros da Lua?
+    - Uma guerra nos céus?
+    - Liberados por Luna na sua destruição?
+  - Cada um possui seu próprio tipo de poder
+  - Tornaram-se fonte de poder
+  - Uso irracional exaure seus poderes
+  - Indivíduos Sintonizados com os mesmos podem fazer pequenos milagres
+  - Portadores
+    - Usuário treinados no uso dos Cristais
+    - Carregam pequenas lascas dos Cristais consigo
+  - Todo Cristal pode realizar curas ou outras maravilhas
+    - Cada tipo é mais poderoso em algo
+  - _Ametista_
+    - Melhor canalização para feitos de cura ou regeneração
+    - A Luz violeta acalma e revigora as pessoas
+    - Os povos elementais a acham incomoda
+  - _Citrino_
+    - Amplia a capacidade de percepção do usuário
+      -  Vidência e Premonição
+    - Uma luz amarela
+  - _Diamante_
+    - Uma energia defensiva e protetora
+    - Luz Branca e protetora
+  - _Esmeralda_
+    - Controle e Manipulação da Natureza
+    - Luz Esverdeada
+    - A Energia desses cristais é recarregada naturalmente em ambientes naturais (como nas Zonas Devastadas
+    - Valorizado por Druidas e Devotos de Gaia
+  - _Jade_
+    - De Brilho verde claro
+    - Valorizado pelas Sílfides
+    - Magias de Ar
+  - _Ônix_
+    - Emite uma sombra sinistra ao invés de luz
+    - Efeitos relacionados às Trevas, maldade e invisibilidade
+    - Nem todos os seus usuários são malignos, mas muitos o são
+  - _Rubi_
+    - Brilho Vermelho
+    - Lida com fogo, mas também com confundir os sentidos e nublar o raciocínio
+    - Salamandras acreditam que Portadores de Rubi procuram aprisionar a essência das mesmas neles
+  - _Safira_
+    - Magia de Água
+    - Muito usadas por Ondinas
+      - Syrans (Portadores na cultura Ondina)
+    - Populares entre os que lidam com o mar, como forma de evitar maremotos
+  - _Topázio_
+    - Magia de Terra
+    - Muito procurada por Gnomos
+      - Fazem de tudo para controlar tais Cristais
+    - Reduzem a velocidade e induzem à paz e estabilidade
+- Uma aura de magia retornou
+  - Criaturas Místicas surgiram
+  - _Faerians_
+    - Povos Elementais
+      - _Gnomos_ (Anões)
+      - _Sílfides_ (Fadas)
+      - _Salamandras_ (Djinns)
+      - _Ondinas_ (Tritões)
+      - Evitam o contato com seres humanos, mantendo-se reclusas
+  - Os cultos a Gaia
+    - A Guerra dos Deuses
+    - _"Pisamos no corpo da Deusa-Mãe Gaia"_
+    - Devotos de Gaia
+    - Não precisam dos cristais para executarem magia
+    - Afastam-se das cidades
+- Progresso e ciência
+  - Crescimento das Cidades
+  - Mecanistas e Magi
+    - Dois tipos de estudiosos científicos
+    - Mecanistas procuram entender o mundo
+      - Oferecem seu conhecimento e inovações a toda a sociedade
+      - Os Resíduos restaurados do Mundo Anterior ofereceram as bases da tecnologia e ciência de hoje
+    - Magi procuram entender como funciona a energia mística (_Mana_) surgida
+      - Esotéricos e Herméticos, passam segredos apenas entre si
+    - São competitivos e rivais encarniçados, mas respeitosos
+- A Matriz Cristal e o Gel-C
+  - Matriz Cristal
+    - Polímero Inerte capaz de absorver calor, frio, e sustentar pesos enormes sendo muito leve
+  - Gel-C
+    - _Gel Cinético_
+      - Substância viscosa e volátil
+      - Posta em movimento, libera energia
+        - Luz, movimento e explosão
+      - Armas de Gel-C
+        - Caras e difíceis de serem usadas, mas muito úteis
+- Outros Materiais
+  - Extracarbono - Liga não metálica usada em armaduras
+  - Sintex - Couro maleável artificial
+- Os Metrocentros
+  - Grandes Cidades interligadas por monotrilhos
+  - Monotrilhos cruzam as Zonas Devastadas
+- Zonas Devastadas
+  - Centro de perigo e lucro
+  - Lar de Druidas, Caçadores de Lascas e monstros canibais
+- Contagem de tempo confusa
+  - Destruição da lua e o Grande Maremoto a 1000 anos, aproximadamente
+  - Por volta do ano 4000 do Mundo Antigo
+- Xenomorfos
+  - Atacam Metrocentros e as Zonas Devastadas igualmente
+  - _Sombras_ sem forma definida, se alimentam da Energia dos Cristais
+  - Destroem metrocentos em questão de horas, drenando todas as fontes de energia
+
+### Locais e Pessoas
+
+- Metrocentos
+  - Guilda Dos Ladrões
+    - Interesses Escusos
+    - Realizam atos de bondade, sem levar nenhum tipo de lucro ou vantagem
+  - Mecanicistas
+    - Pesquisadores do mundano
+    - Pesquisas Arqueológicas e Investigação de Registros Perdidos
+    - Consideram os _Magi_ charlatões
+    - _"Utilizar a Energia Mística de Gaia sem estudo adequado é loucura!"_
+  - Ordem dos _Magi_
+    - Ignoram o conhecimento mundando, se focando no _Mana_ (a Energia Mística de Gaia)
+    - São vistos por desconfiança pelo resto da população, e gostam disso
+    - São respeitados e temidos
+    - Formulaicos, não instintivos
+  - Paladinos
+    - Tropas de Elite
+    - Seguem um Código Rígido de Conduta
+    - Treinados pelos Portadores para sintonizar seu corpo e mente a um determinado tipo de Cristal
+    - Impossível tornar-se um Paladino
+      - Demanda nascer com a sintonia com um Cristal de Poder
+    - Respeitados pelo treinamento intenso e pela vida monástica que levam
+    - Última linha de defesa dos Metrocentros contra perigos terríveis
+  - Portadores
+    - Sábios e Cultos
+    - Treinam enclausurados nos templos onde ficam os Cristais de Poder
+    - Carregam uma lasca sintonizada a um Cristal maior
+      - Pouca Energia, mas pode ser ocasionalmente recarregada
+    - Cada portador é sintonizado a um tipo de Cristal específico
+      - Pode usar outros tipos, ainda que de maneira menos eficiente
+  - _Atlan_
+    - _Governante:_ Rei Lehn
+    - _Cristal de Safira_
+    - Um dos maiores Metrocentros
+  - _Azmir_
+    - _A Cidade de Fogo_
+    - _Cristal de Rubi_
+    - _Governante:_ Os Cinco Sultões
+    - Acreditam na Guerra dos Deuses
+    - Um dos poucos lugares onde os _Faerian_ vivem entre humanos
+      - Comunidade de Salamandras
+  - _Orima_
+    - A Torre Dourada
+    - _Governante:_ Ordem dos Magi
+    - _Cristal de Citrino_
+  - _Rhise_
+    - _A Cidade Intransponível_
+    - _Dois Cristais de Diamante_
+    - Uma região de montanhas intransponíveis cerca-o
+    - Quase não há criminalidade
+    - Sociedade igualitária
+    - _Governante:_ Conselho Governante
+  - _Soran_
+    - Governo Ditatorial: _Zorten_
+    - _Cristal de Ônix_
+    - Leis extremamente rígidas, mais que em Orima
+    - Medo e escravidão
+  - _Ulma_
+    - _Cristal de Ametista_
+    - Tomado pelas forças de Soran a dois anos
+- Zonas Devastadas
+  - _"Selvagens"_
+    - Caçadores de Lascas
+      - Atacam todos que tenham algum Cristal de Poder
+      - Usam o poder do mesmo à vontade, sem se preocupar com conseqüências
+      - Traiçoeiros e sedentos de sangue
+    - Devotos de Gaia
+      - Druidas, vivem em contato com a natureza
+      - Creem na Guerra dos Deuses como motivo da destruição do Mundo Anterior
+      - Conseguem feitos de cura sem o uso dos Cristais de Poder
+      - Interagem e recebem ajuda de Espíritos da Natureza e até mesmo dos _Faerians_
+      - São normalmente pacíficos, mas defendem a natureza onde vivem com unhas e dentes
+      - Andarilhos
+        - Druidas que não se sentem a vontade nas comunidades dos Devotos
+        - Mais contemplativos que outros Druidas
+        - São bem recebidos em comunidades Druídicas
+        - _"Metrocentros são locais perigosos"_
+- O Deserto de Lanya
+  - Perto de Azmir
+  - Uma região árida, quente e impiedosa
+  - Lar dos Escavadores, vermes gigantes que atacam os viajantes
+  - Caçadores de Lascas e Sqalamandras são encontrados aqui
+- Ilha de Manza
+  - 15 quilometros do Mar Ocidental
+  - Formações rochosas impedem a aproximação de navios
+  - Uma aura que inutiliza equipamentos e Cristais de Poder
+  - Uma profecia sobre um enorme Cristal de Poder
+- Montanhas Ryujin
+  - Nordeste do Deserto de Lanya
+  - Divide o Sul das terras frias do Norte
+  - Cordilheiras gigantes, mas com certos pontos de passagem fácil para o Leste
+  - Comunidades de Gnomos vivem nesse local
+    - Nunca atacaram os que atravessam as montanhas, mas quem tentou ocupar seus lares deixados para trás nunca mais voltou
+- _Faerians_
+  - Evitam o contato com seres humanos, mantendo-se reclusas
+  - _Gnomos_ (Anões)
+    - Ligados à Terra
+    - Práticos e Teimosos
+    - Tudo tem uma razão de ser, mesmo decorações
+    - Preferem viver debaixo de montanhas
+    - Resistentes à grande temperatura e pressão debaixo da terra
+    - Suportam os vapores tóxicos da terra
+    - Protetores, mas gananciosos
+    - Grandes guerreiros, mas com pouca iniciativa
+    - Pele escura, baixos e pesados
+    - Olhos brancos, sem pelos
+  - _Ondinas_ (Tritões)
+    - Ligados à Água
+    - Pacíficos e tranquilos, mas iracíveis quando provocados
+    - Reflexivos e pensativos, possuem grande capacidade de percepção
+    - Muito hábeis ao usarem os Cristais de Poder
+    - Vivem em grandes comunidades debaixo do mar, evitando a superfície
+    - Sabedoria valorizada: grandes diplomatas e conselheiros
+    - Corpo liso com pele viscosa e reflexiva (ocasionalmente totalmente trasparente)
+    - Mãos e pés com membranas, barbatanas pelas costas, juntas e cabeça
+    - Olhos grandes e totalmente negros
+    - Feições de peixe
+    - Fracos e desengonçados na terra, enquanto ágeis na água e muito perceptivos
+  - _Salamandras_ (Djinns)
+    - Ligados ao Fogo
+    - Belicosos, se tornam destrutivos quando provocados
+    - Pouco pacientes, arrogantes e rudes
+    - Guerreiros, mas não estúpidos: poderes mágicos voltados ao combate
+    - Impulsivos, mas não displicentes
+    - Tendem a viver em vulcões
+    - Raramente deixam seus reinos
+    - Quando saem, se espalham rápido, destruindo tudo ao redor
+    - Parecem répteis humanóides, com escamas amarelas ou vermelhas
+    - São rápidos e carismáticos quando conveniente
+    - A pele dos mesmos se incendeia sem ser consumida quando tocada por fogo
+  - _Sílfides_ (Fadas)
+    - Ligados ao Ar
+    - Despreocupados e Livres, odeiam regras
+    - Misteriosos e mágicos
+    - Impulsividade - mudam de opiniões e idéias quando querem e sem nenhum motivo aparente.
+    - Magias de Ilusão e confusão poderosas
+    - Pouco confiáveis
+    - Mestres na manipulação e sedução
+    - Vivem em florestas de clima ameno, de preferência pouco acessíveis
+    - Cidades cheias de vapores estranhos (medicação, comida, bebida...)
+    - Magros e Esguios
+    - Mais baixos que humanos (1,70 máximo)
+    - Pele verde-clara ou dourada, orelhas pontudas
+    - Pelos corporais (cabelos e afins) finos, leves e esbranquiçados
+    - Rápidas como o relâmpago, possuem asas às costas, coloridas e translúcidas
+    - Podem ficar invisíveis
+- _Animais e Monstros_
+  - Muitos animais do Mundo Anterior ainda existem
+    - Passaram por mutação graças ao surgimento do mana e dos Cristais
+  - Alguns inofensivos:
+    - Pólios - aves mágicas que habitam regiões altas e com vegetação farta
+    - Nyrens - roedores de pele azul muito adotados como animais de estimação nos metrocentros
+    - Mocans - criaturas simiescas peludas que vivem em regiões de litoral ou em áreas geladas
+  - Outras muito agressivas:
+    - Rexans - sários gigantescos que possuem um veneno paralisante
+    - Voltrins - aves carniceiras que comem também criaturas incautas
+    - Croxians - anfíbios que se alimentam de sangue quente
+    - Escavadores - vermes gigantes que andam por debaixo da terra e devoram criaturas inteiras, engolindo-as
+  - Cristalóides
+    - Surgem com a destruição ou quebra total de um Cristal de Poder
+    - Cristalizam tudo ao redor, inclusive criaturas
+    - Essas criaturas tornam-se agressivas e poderosas
+      - Pele dura como rocha
+      - Poderes associados aos Cristas
+        - Raios de Energia e muitos outros
+  - Elementais Puros
+    - Seres feitos de pura energia elemental
+    - Poderosas, inteligentes, mas atacam por instinto
+    - Não conseguem se comunicar com seres humanos normalmente
+    - Normalmente vivem em regiões com fontes abundantes de seus elementos
+    - Evitam os metrocentros e outras comunidades humanas
+    - Acreditam-se que perdem poder conforme se afastam de suas moradas
+      - Cristais de Poder podem restaurar suas forças ou aprisioná-los de vez?
+  - Mutantes
+    - Humanos enlouquecidos e deformados
+    - Resultado do mana e das experiências com os mesmos
+    - Alguns são fortes e resistentes, mas quase sem nenhuma inteligência
+    - Outros vão perdendo a sanidade, mas ganham com isso incríveis poderes mágicos
+    - Canibais
+    - Habitam as Zonas Devastadas
+      - Normalmente em ruínas das cidades antigas do Mundo Anterior
+      - Quando nascem nos Metrocentros, são imediatamente levados às Zonas Devastadas
+    - Até hoje apenas encontrados mutantes maus e cruéis
+      - Rumores de mutantes pacíficos...
+        - Verdade, uma armadilha dos mutantes, ou propaganda dos que se opões ao exílio dos mutantes?
+  - Xenomorfos
+    - Sombras malignas
+    - Vem provocando terror nos metrocentros
+    - Vivem de energia vital
+      - Aqueles que são atacados pelos mesmos morrem em questão de segundos
+    - São capazes de devorar a energia dos Cristais de Poder
+      - Ficam gigantes conforme absorvem tanta energia
+      - Mais de uma comunidade mineiradora foi destruída por esses monstros
+      - Um ataque contra um metrocentro ainda não foi registrado, mas é questão de tempo
+
+### Equipamentos
+
+- Armas
+  - Em geral de Madeira ou Metal
+  - Armas de alta qualidade são afiadas quase ao nível microscópico
+  - Muitas feitas de Matriz Cristal
+    - Mais duráveis e adaptáveis
+  - Armas de Gel Cinético
+    - Mais cobiçadas
+    - Raras e valiosas, normalmente usadas por paladinos e indivíduos muito ricos
+  - Armas de distância
+    - Normais
+    - Ocasionalmente utilizam Gel-C na munição
+      - Munição muito rara, mas ocasionalmente usada para resolver situações piores
+- Armaduras
+  - Normalmente feitas de Matriz Cristal ou Extracarbono
+    - Ambos muito bons na defesa, mas o Extracarbono não oferece restrições ou empecilhos ao movimento
+  - Arcoms
+    - Armaduras de Combate
+      - Muito caras e raras, uso apenas militar
+      - Movidas a Cristais de Poder
+- Explosivos
+  - O Gel-C pode ser usado como explosivo por meio de detonadores
+  - Granadas e Bombas são evitadas, por sua pouca precisão
+- Veículos
+  - Cavalos e outros animais são muito usados
+  - Principal veículo motorizado são os monotrilhos que ligam os metrocentros
+  - Existem esteiras e pequenos veículos para deslocarem-se dentro dos metrocentros
+  - Muitos veículos são movidos a energia elétrica
