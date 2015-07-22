@@ -13,6 +13,8 @@ tags:
 header: no
 ---
 
+Fiz isso como um exemplo de como utilizar a planilha de Criação de Campanha do Fate Básico
+
 ![Os camundongos, seu primo Pierre e sua amiga humana](http://emilyealexander.no.comunidades.net/caumundongos%20%284%29.gif)
 
 - **Ambientação:** Moderno (1930)/Fantasia
@@ -106,7 +108,7 @@ Téo é um camundongo brasileiro, nascido no Rio de Janeiro. Ele é pobre, mas h
 
 Silas é um garoto esperto, mas que as pessoas menosprezam por causa de ser negro e pobre em um país que ainda a pouco tempo era escravista. De qualquer modo, ele vem fazendo o possível e o impossível para se tornar alguém de bem, e mesmo sabendo que seu amigo camundongo Téo é um tanto trapaceiro, sabe que este quer o seu bem.
 
-__*Nota:*__ Silas segue o sistema de _Spirit Helpers_. Como vantagem, um jogador pode jogar com Silas sem muito problema.
+__*Nota:*__ Silas segue o sistema de [_Spirit Helpers_][1]. Como vantagem, um jogador pode jogar com Silas sem muito problema.
 
 ##### Aspectos
 

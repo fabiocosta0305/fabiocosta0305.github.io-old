@@ -345,4 +345,3 @@ As perícias marcadas em **negrito** tiveram seu comportamento ou escopo alterad
              bem-sucedida. Apenas o personagens ou outros que tenham a
              mesma Técnica de Combate podem fazer o mesmo.
 
-### Regras Gerais

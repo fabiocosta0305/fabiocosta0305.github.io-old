@@ -1,5 +1,5 @@
 ---
-title: Destino de Gaia 400x
+title: Destino de Gaia 400x - Descrição do Cenári
 subheadline: Enfrente o seu Destino no Mundo dos Escolhidos de Luna
 teaser: Baseado no cenário publicado por Márcio Fiorito na Dragão Brasil 114
 layout: post
