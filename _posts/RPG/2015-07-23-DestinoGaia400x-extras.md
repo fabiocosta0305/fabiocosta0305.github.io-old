@@ -252,4 +252,51 @@ Cristal de Poder em questão, o personagem recebe +2 no rolamento.
 - **Permissão:** _Portador de Cristal_, _Sintonia **Regular (+1)**_ no
   Cristal desejado
 
+O Portador em questão é capaz  de utilizar de maneira mais eficiente o
+_mana_  para Defender  por meio  de  um determinado  Cristal de  Poder
+(escolhido no momento  da compra da Façanha).  Ao  _Defender_ usando o
+Cristal de Poder em questão, o personagem recebe +2 no rolamento.
+
+##### Sintonizador
+- **Permissão:** _Portador de Cristal_, _Sintonia **Regular (+1)**_ em
+  ao menos um Cristal
+
+O  Portador em  questão é  muito mais  eficiente em  sintonizar-se com
+Cristais de Poder.  Esse personagem recebe +2 em todos  os seus testes
+de   _Reenergização_   e  em   testes   de   _Criar  Vantagens_   para
+_Sintonizar-se_ com Cristais de Poder.
+
+##### Exaustor
+
+- **Permissão:** _Sintonia **Regular (+1)**_ em ao menos um Cristal
+
+Esse   personagem  não   se  preocupa   em  proteger,   reenergizar  e
+sintonizar-se  aos  Cristais, desejando  apenas  extrair  o poder  dos
+mesmos. A  boa notícia é que  um personagem com essa  Façanha consegue
+"sugar" melhor  os poderes  de um  Cristal, recebendo  +2 em  todos os
+testes  de _Sintonia_  para usar  um  deles (escolhido  no momento  da
+compra da Façanha), e ele  não precisa _sintonizar-se_ aos Cristais de
+Poder  para utilizar  suas capacidades.  A parte  ruim é  que, a  cada
+teste, o Narrador  deve rolar um teste secreto de  _Sintonia_ contra o
+resultado dos  final _ou_ o nível  de _Sintonia_ do personagem  (o que
+for maior). Caso o teste resulte em Falha, o Cristal é automaticamente
+_Esterelizado_. Em caso de Falha por mais de 3 tensões, o cristal pode
+tornar o Exaustor em um Cristalóide (veja depois, em Monstros)
+
+**Observação:** Qualquer personagem pode adquirir essa Façanha 
+
+
+### Os _Magi_ e os Druidas
+
+Enquanto  os Portadores  dependem  dos Cristais  para realizarem  seus
+feitos,  existem  personagens que  são  capazes  de extrair  o  _mana_
+diretamente de  Gaia, enquanto  são capazes de  usar os  Cristais para
+potencializarem  seus  efeitos.  Esses  personagens  são  os _Magi_  e
+Druidas. Os _Magi_ estudam fórmulas  místicas esotéricas e evoluem sua
+arte na tentativa  e erro (em alguns casos,  de maneira catastrófica),
+formando  um  corpo de  conhecimento  hermético  e formulaico.  Já  os
+Druidas e  os Devotos  de Gaia  são pessoas  que vivem  modos simples,
+afastados normalmente dos Metrocentros  e mesmos de outras comunidades
+humanas,  preferindo  locais  inóspitos  nas  Zonas  Devastadas.  Eles
+aproveitam a natureza e a compreendem, e dela tiram seus poderes.
 
