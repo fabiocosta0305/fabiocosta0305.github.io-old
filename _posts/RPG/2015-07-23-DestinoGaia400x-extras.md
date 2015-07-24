@@ -149,11 +149,11 @@ _Fragilizado_, +4 se o _Exaurir_ e +6 se o _Esterelizar_.
 
 Obviamente, Condições são conseqüências e  podem ser froçadas contra o
 personagem.  Além disso,  se o  Portador tiver  com um  Cristal de  um
-determinado tipo _Exaurido_ ou _Esterelizado_, ele não pode utilizar o
+determinado tipo _Exaurido_ ou _Esterilizado_, ele não pode utilizar o
 mesmo para  realizar os  feitos daquele  tipo de  Cristal. Entretanto,
-existe  uma diferença  entre _Exaurido_  e _Esterelizado_:  a Condição
+existe  uma diferença  entre _Exaurido_  e _Esterilizado_:  a Condição
 _Exaurido_ é representado por apenas uma caixa de marcação, enquanto a
-_Esterelizado_ é  por DUAS,  e enquanto uma  delas estiver  marcada, a
+_Esterilizado_ é  por DUAS,  e enquanto uma  delas estiver  marcada, a
 Condição Continua valendo.
 
 Vamos ver o que acontece em cada Condição de Exaustão:
@@ -171,11 +171,11 @@ Vamos ver o que acontece em cada Condição de Exaustão:
   aumentando sua  _Sintonia_ com o  Cristal, até  que o mesmo  volte a
   fluir o _mana_.  Esse processo é considerado um  teste de _Superar_,
   usando a _Sintonia_ contra uma  dificuldade _Ótima (+4)_. Em caso de
-  uma Falha, o Cristal pode  acabar sendo _Esterelizado_. O personagem
+  uma Falha, o Cristal pode  acabar sendo _Esterilizado_. O personagem
   recebe um  bônus de  +2 se  puder permanecer sozinho  e em  um local
   adequado (a  critério do Narrador)  para esse processo por  um tempo
   prolongado (algumas horas).
-- _Esterelizado:_ o Portador realmente abusou  do Cristal de Poder que
+- _Esterilizado:_ o Portador realmente abusou  do Cristal de Poder que
   possuía, sugando até a última gota  de _mana_ que o Cristal de Poder
   poderia prover. Nesse caso, ele  se torna _Esteril_ e inútil, apenas
   uma pedra  escura similar  a carvão  queimado.  O  personagem deverá
@@ -183,7 +183,7 @@ Vamos ver o que acontece em cada Condição de Exaustão:
   sintonizando-se à  mesma. Leva-se muito  tempo para se  recuperar de
   tal  problema  (meses),  onde  o personagem  deve  se  sintonizar  e
   energizar  seu novo  Cristal.  Todo  Cristal possui  duas Caixas  de
-  _Esterelizado_. Quando um Cristal  é _Esterelizado_, ambas as caixas
+  _Esterilizado_. Quando um Cristal  é _Esterilizado_, ambas as caixas
   são marcadas, mas cada  tentativa de _reenergização_ recupera apenas
   uma delas,  e o  personagem continua  sob efeito  da _Esterelização_
   enquanto tiver uma dessas caixas  marcadas. Qualquer teste só poderá
@@ -202,9 +202,23 @@ tenha uma  lasca daquele Cristal que  esteja previamente _sintonizado_
 ao personagem.
 
 Para ser um Portador, um personagem  deve ter um _Aspecto_ que indique
-a  _sintonia_ especial  aos Cristais  de  Poder. Após  isso, ele  deve
-escolher qual  será seu primeiro  Cristal (e apenas um).  O personagem
-possuirá uma lasca desse Cristal logo de começo.
+a  _sintonia_ especial  aos Cristais  de Poder,  e especificamente  um
+determinado tipo de Cristal ao  qual o personagem melhor se sintoniza.
+O personagem possuirá uma lasca desse Cristal logo de começo (e apenas
+com ele).  Em  nenhum momento a perícia _Sintonia_  em outros Cristais
+pode ser  maior que  a _Sintonia_  no Cristal  indicado no  Aspecto do
+Portador.  Além disso,  qualquer  Façanha de  Portador  (à exceção  de
+_Exaustor_) só pode  ser adquirida para outros Cristais  se o Portador
+tiver previamente a adquirido para o Cristal indicado em seu Aspecto.
+
+> _**Exemplo**:_ Garen é um _**Portador  da Safira**_. Isso quer dizer
+>   que ele se sintoniza melhor com  Cristais de Safira que a qualquer
+>   outro Cristal. Isso  quer dizer que:
+>
+> - Seu nível de _Sintonia_ em  outros Cristais não pode ser maior que
+>   a _Sintonia com Safira_
+> - Ele não pode escolher Façanhas de Portador para outros Cristais se
+>   não a escolher primeiro para Safira, exceto por _Exaustor_
 
 Os Portadores tendem a fomentar o uso dos Cristais de Poder, lembrando
 que foi graças  aos Cristais que a Humanidade se  tornou os Escolhidos
@@ -221,18 +235,80 @@ Cristalóides. Além disso, procuram obter lascas de Cristais novas para
 usarem  conforme  sua  necessidade,  e também  encontrar  locais  onde
 Cristais  maiores   permitam  o  estabelecimento  de   comunidades  ou
 ocasionalmente mineração  dos mesmos. São contra  o uso indiscriminado
-dos Cristais, pois sabem que cada  Cristal Esterelizado é um contato a
+dos Cristais, pois sabem que cada  Cristal Esterilizado é um contato a
 menos com o _mana_ de Gaia, o que  os coloca em rota de colisão com os
 Caçadores de Lascas, Mutantes e alguns grupos de Mecanistas e _Magis_.
 
 - **Permissão:** Aspecto
 - **Custo:** Perícias (_Sintonia_) e Façanhas
 
+#### O Poder e a Tentação
+
+Todo Portador  possui uma ligação  muito especial ao Cristal  de Poder
+que está  em seu  Aspecto. Essa  ligação representa  muito mais  que o
+acesso ao  poder dos  mesmos, mas uma  compreensão de  sua importância
+para Gaia. Entretanto, com o Poder  vem a Tentação: todo Portador pode
+escorregar e se tornar mal ao olho das pessoas "normais".
+
+Em termos  de Regras, cada  Cristal funciona como um  Aspecto, podendo
+ser usado como qualquer outro  Aspecto. Isso apenas afeta Portadores e
+regiões  com grandes  quantidades  do mesmo,  ou  Cristais de  Grandes
+proporções. Isso explica, por  exemplo, a _Proteção Intransponível_ de
+_Rhize_.
+
+
+- **Ametista:**
+  - **Pode ser  Invocado para:** aumentar  as chances de  curar-se uma
+    pessoa
+  - **Pode ser forçado para:** impedir a pessoa de enfrentar situações
+    que possam provocar danos
+- **Citrino:** 
+  - **Pode ser  Invocado para:** ampliar as percepções da pessoa
+  - **Pode  ser  forçado  para:**  provocar  _Flashbacks_  ou  efeitos
+    similares no Portador
+- **Diamante:**
+  - **Pode ser  Invocado para:**  aumentar as  chances do  Portador de
+    proteger a si mesmo e a outros
+  - **Pode ser  forçado para:** fazer  seu portador se colocar  em uma
+    posição de mártir
+- **Esmeralda:**
+  - **Pode ser  Invocado para:** facilitar  a pessoa no contato  com a
+    natureza
+  - **Pode ser forçado  para:** colocar um certo  desconforto no mesmo
+    em regiões "civilizadas"
+- **Jade:**
+  - **Pode ser Invocado para:**  realizar melhores feitos relativos ao
+    Ar
+  - **Pode ser forçado para:** tornar o personagem vão e disperso como
+    o próprio Ar
+- **Ônix:**
+  - **Pode  ser Invocado  para:**  aumentar as  chances  em feitos  de
+    Ocultação e Furtividade
+  - **Pode ser forçado para:** fazer  o Portador cair em tentação para
+    o Mal
+- **Rubi:**
+  - **Pode ser  Invocado para:** realizar melhores feitos relativos ao
+    Fogo
+  - **Pode  ser  forçado  para:**  tornar o  personagem  irascível  ou
+    destrutivo em momentos inapropriados
+- **Safira:**
+  - **Pode ser  Invocado para:** realizar melhores  feitos relativos à
+    Água
+  - **Pode ser forçado para:** demonstrar  certa introspeção no que se
+    está fazendo, perdendo foco dos arredores    
+- **Topázio:**
+  - **Pode ser  Invocado para:** realizar melhores  feitos relativos à
+    Terra
+  - **Pode ser forçado para:** tornar o personagem rígido e inflexível
+    quanto as coisas em momentos onde isso é ruim
+
 #### Façanhas dos Portadores
 
 ##### Sintonia Aprimorada
 - **Permissão:** _Portador de Cristal_, _Sintonia **Regular (+1)**_ no
-  Cristal desejado
+  Cristal  desejado, não  pode ser  pega para  outros Cristais  se não
+  tiver sido pega para o  Cristal Prioritário do Portador (indicado no
+  seu _Aspecto_)
 
 O Portador em questão é capaz de realizar feitos mais poderosos quando
 utilizando um  determinado Cristal de  Poder (escolhido no  momento da
@@ -241,7 +317,9 @@ Vantagens_ quando utilizar aquele determinado Cristal.
 
 ##### Fluixo Agressivo
 - **Permissão:** _Portador de Cristal_, _Sintonia **Regular (+1)**_ no
-  Cristal desejado
+  Cristal desejado, não  pode ser  pega para  outros Cristais  se não
+  tiver sido pega para o  Cristal Prioritário do Portador (indicado no
+  seu _Aspecto_)
 
 O Portador em questão é capaz  de utilizar de maneira mais eficiente o
 _mana_  para  Atacar por  meio  de  um  determinado Cristal  de  Poder
@@ -250,7 +328,9 @@ Cristal de Poder em questão, o personagem recebe +2 no rolamento.
 
 ##### Fluxo Defensor
 - **Permissão:** _Portador de Cristal_, _Sintonia **Regular (+1)**_ no
-  Cristal desejado
+  Cristal desejado, não  pode ser  pega para  outros Cristais  se não
+  tiver sido pega para o  Cristal Prioritário do Portador (indicado no
+  seu _Aspecto_)
 
 O Portador em questão é capaz  de utilizar de maneira mais eficiente o
 _mana_  para Defender  por meio  de  um determinado  Cristal de  Poder
@@ -259,7 +339,9 @@ Cristal de Poder em questão, o personagem recebe +2 no rolamento.
 
 ##### Sintonizador
 - **Permissão:** _Portador de Cristal_, _Sintonia **Regular (+1)**_ em
-  ao menos um Cristal
+  ao menos um  Cristal, não pode ser pega para  outros Cristais se não
+  tiver sido pega para o  Cristal Prioritário do Portador (indicado no
+  seu _Aspecto_)
 
 O  Portador em  questão é  muito mais  eficiente em  sintonizar-se com
 Cristais de Poder.  Esse personagem recebe +2 em todos  os seus testes
@@ -280,11 +362,83 @@ Poder  para utilizar  suas capacidades.  A parte  ruim é  que, a  cada
 teste, o Narrador  deve rolar um teste secreto de  _Sintonia_ contra o
 resultado dos  final _ou_ o nível  de _Sintonia_ do personagem  (o que
 for maior). Caso o teste resulte em Falha, o Cristal é automaticamente
-_Esterelizado_. Em caso de Falha por mais de 3 tensões, o cristal pode
+_Esterilizado_. Em caso de Falha por mais de 3 tensões, o cristal pode
 tornar o Exaustor em um Cristalóide (veja depois, em Monstros)
 
-**Observação:** Qualquer personagem pode adquirir essa Façanha 
+**Observação:** Qualquer personagem pode adquirir essa Façanha
 
+### Paladinos
+
+Os *Paladinos* são treinados desde cedo, para tornar-se uma verdadeira
+força de elite,  e possuem uma sintonia natural a  um Cristal de Poder
+desde a  mais tenra  infância, ao  ponto de  não precisar  portar esse
+Cristal para realizar feitos relacionados  à distância. Uma pessoa não
+pode  tornar-se  um  paladino,  já  que essa  sintonia  natural  é  de
+nascença.
+
+Os  Paladinos  são  treinados  desde   a  mais  tenra  infância  pelos
+Portadores,  testados  e  treinados   de  maneira  rígida,  intensa  e
+constante, e não sem motivo, por serem os responsáveis por resolver as
+piores crises e proteger os metrocentros das piores ameaças.
+
+Em termos de regras, são considerados iguais a Portadores, mas existem
+pequenas mudanças:
+
+Um paladino possui  uma espécie de "lasca" de  Cristal sempre consigo.
+Essa lasca (chamada  de _Essência_) funciona como qualquer  outra, e é
+usada para determinar as capacidades  do Paladino ao usar sua Sintonia
+especial.  Curiosamente,  ele _não pode_  ter a _Sintonia_  no Cristal
+que é igual  à sua _Essência_ maior que a  sua _Essência_ (para efeito
+de regras,  a _Essência_ é  considerada o Cristal principal  dele como
+"Portador")
+
+> _**Exemplo:**_ Seifer é um **_Paladino  de Diamante de Atlan_**. Sua
+> "lasca" de Essência é de  Diamante, portanto seus rolamentos ao usar
+> Essência são  para realizar  feitos de  Cristais de  Diamante.  Essa
+> "lasca"  é que  determina suas  restrições quanto  ao fato  de poder
+> adquirir _Sintonia_ com outros cristais ou obter Façanhas, inclusive
+> quanto  ao Cristal  de Diamante  - ele  não pode  ter _Sintonia  com
+> Diamante_ maior que  _Sintonia com a Essência de  Diamante_ e outros
+> efeitos similares
+
++ **Permissão:** _Conceito_
++ **Custo:** Perícias e Façanhas
+
+#### A Essência
+
+Como dito, o "Cristal" que  representa a sintonia especial do Paladino
+a um determinado  Cristal é chamado de _Essência_.  A Essência possui,
+assim como os Cristais "normais",  as mesmas *Condições*, com pequenas
+mais importantes diferenças:
+
+- *Fragilizado:* Ele abusou do seu  poder, e está cansado. Um Paladino
+  que tenha  a _Essência_ Fragilizada ainda  pode utilizar normalmente
+  sua _Essência_, do mesmo modo que um Portador;
+- *Exaurido:*  O Paladino  abusou de  sua _Essência_  ao ponto  de não
+  poder  mais realizar  feitos. De  qualquer modo,  ele ainda  está em
+  _Sintonia_  com o  Cristal  e pode  fazer  uma _reenergização_  como
+  qualquer  outro  Portador,  gastando  algum  tempo  meditando  e  se
+  reencontrando em si mesmo com a Força do Cristal de Poder;
+- *Esterilizado:*  O Paladino  em questão  abusou de  tal modo  da sua
+  _Essência_ que  ele não  pode mais  recorrer a  ela _ou_  a qualquer
+  Cristal de Poder enquanto estiver  nessa situação.  Para refazer sua
+  ligação com o Cristal de Poder, ele  deve partir em uma jornada e se
+  reenergizar  em um  local com  um Cristal  de Poder  do tipo  da sua
+  _Essência_,  passando algum  tempo  nesse local  (o Narrador  define
+  quanto), fazendo os mesmos testes  para se recuperar que um Portador
+  faria.
+
+#### A Essência e os Cristais
+
+Tecnicamente, um  Paladino é  um Portador como  qualquer outro,  com a
+vantagem da _Essência_.  Isso quer dizer que, em teoria,  ele pode ter
+_dois_  Cristais  de  um  determinado   tipo,  um  "real"  e  um  pela
+_Essência_. A  pegadinha é que  ele não  pode utilizar ambos  ao mesmo
+tempo, _mas_ pode utilizar uma lasca  de Cristal real para absorver as
+Condições  que  ele  sofreria  na _Essência_.  Além  disso,  ele  pode
+utilizar um Ponto de Destino para receber +2 no seus testes envolvendo
+sua _Essência_ durante  uma cena se tiver um Cristal  do mesmo tipo da
+essência.
 
 ### Os _Magi_ e os Druidas
 
@@ -300,3 +454,48 @@ afastados normalmente dos Metrocentros  e mesmos de outras comunidades
 humanas,  preferindo  locais  inóspitos  nas  Zonas  Devastadas.  Eles
 aproveitam a natureza e a compreendem, e dela tiram seus poderes.
 
+Os _Magi_ e os Druidas utilizam a perícia _Magia_ para representar seu
+controle do _mana_, e também  podem acessar (como qualquer personagem)
+a perícia _Sintonia_ para extrair mais _mana_ para as suas _"mágicas"_
+por  meio dos  Cristais. Ao  realizar  um efeito,  eles rolam  _Magia_
+contra uma dificuldade pré-determinada.
+
+Em geral,  o que vale  para os Portadores vale  para os _Magi_,  com a
+diferença que  eles não  utilizam os Cristais,  mas o  _mana_, rolando
+_Magia_. A boa notícia é que eles podem "turbinar" sua magia usando os
+Cristais  de Poder,  recebendo +2  em todos  os testes  se tiverem  um
+Cristal adequado e  passarem em um teste _Medíocre_  de _Sintonia_ (+4
+se o personagem tiver _Exaustor_ para o Cristal em questão).
+
+A má notícia:
+
+- _Druidas_ devem indicar o fato em  seu _Conceito_, o que os torna um
+  tanto mais limitados, mas sem sofrerem maiores conseqüencias;
+- Já  _Magi_ podem  escolher  outros Aspectos,  mas  estão sujeitos  à
+  _mutação_
+
+#### _Magis_ e as Mutações
+
+Sabe-se que o uso descontrolado  ou inadequado do _mana_ pode provocar
+mutações, assim como gerar mutações em recém-nascidos (O que não conta
+aqui).  Isso  ocorre porque  o  _Magi_,  assim  como o  Portador,  tem
+conseqüências quando usa de maneira inadequada seus Poderes.
+
+Toda vez que um _Magi_ falhar em  um teste de Magia, o Narrador deverá
+realizar um Ataque Mental contra o  _Magi_ de nível igual ao rolamento
+obtido pelo _Magi_, dificuldade da Magia  ou nível de Magia do _Magi_,
+o  que for  maior,  com  o personagem  tendo  direito  a resistir  por
+_Vontade_.   O  dano sofrido  é  absorvido  normalmente, mas  com  uma
+desvantagem:  esses  Ataques tem  o  equivalente  Mental da  _Façanha_
+_Golpe  Matador_  **(FB 108)**,  ou  seja,  pode provocar  diretamente
+Consequências  se o  personagem  aceitar um  Ponto  de Destino.  Essas
+Consequências  representam  Mutações  que o  personagem  vai  sofrendo
+devido ao excesso de _mana_ utilizado.  Um personagem que por um acaso
+venha a  ser _Tirado de Campo_  ou tenha que sofrer  uma _Consequência
+Extrema_  para  permanecer  em  jogo   irá  se  tornar  um  mutante  e
+provavelmente  será  tornado  um   NPC.  Apenas  uma  _Rendição_  (sob
+autorização do Narrador) pode impedir esse Destino do _Magi_
+
+Consequências  de Mutação  não  são facilmente  removidas: o  Narrador
+deveria utilizar elas como ganchos para aventuras com o _Magi_ fazendo
+peregrinações para se purificar da Mutação e voltar a ser humano.

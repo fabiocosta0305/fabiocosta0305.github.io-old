@@ -45,7 +45,7 @@ Alguns Aspectos úteis em Gaia 400x
 
 {% endcomment %}
 
-#### Portador dos Cristais/Paladino
+#### Portador dos Cristais
 
 Você é um dos Portadores de Cristal de Poder, treinado e sintonizado a
 um pequeno fragmento de um Cristal de Poder de um tipo específico. Por
@@ -59,7 +59,27 @@ milagres, levando proteção e cura aos necessitados.
   acostumadas ao uso dos Cristais de Poder de maneira mágica
 + **Observação:** Esse  Aspecto é obrigatório para  a pessoa tornar-se
   um Portador  do Cristal de  Poder. Deve  indicar a qual  Cristal ele
-  está sintonizado
+  sintoniza-se melhor
+
+#### Paladino
+
+Você foi treinado desde a mais tenra infância, quando descobriu-se que
+você  tinha  uma  ligação  natural  às  vibrações  de  um  Cristal  de
+Poder. Você  é capaz de  realizar feitos daquele Cristal,  sem possuir
+nenhum tipo de  lasca do Cristal consigo. Além  disso, são combatentes
+inigualáveis,  devido  aos  poderes  dos  Cristais  e  do  treinamento
+intensivo.  Entretanto,  são os  escolhidos  para  resolver os  piores
+problemas e crises dos Metrocentros.
+
++ **Pode  ser Invocado para:** Aumentar  as chances do uso  de poderes
+  relativos  ao  Cristal  de  Poder   Cristal  de  Poder;  Indicar  um
+  treinamento intensivo e obter retornos do mesmo
++  **Pode  ser Forçado  para:**  Alinhar  suas  ações à  proteção  dos
+  Metrocentros;  Determinar  rigidez  no   pensamento  devido  ao  seu
+  treinamento
++   **Observação:**  Esse   Aspecto  deve   ser  _Conceito_   para  um
+  Paladino.  Deve  indicar a  qual  Cristal  ele possui  uma  sintonia
+  aprofundada
 
 #### Mecanista
 
