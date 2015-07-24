@@ -11,7 +11,7 @@ tags:
  - Fate-Core
  - Personagens
  - Extras
- - Gaia 400x
+ - Gaia-400x
  - Technofantasy
 header: no
 ---
@@ -499,3 +499,5 @@ autorização do Narrador) pode impedir esse Destino do _Magi_
 Consequências  de Mutação  não  são facilmente  removidas: o  Narrador
 deveria utilizar elas como ganchos para aventuras com o _Magi_ fazendo
 peregrinações para se purificar da Mutação e voltar a ser humano.
+
+{{ page.tags  }}

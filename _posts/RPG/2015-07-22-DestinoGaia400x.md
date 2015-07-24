@@ -11,7 +11,7 @@ tags:
  - Fate-Core
  - Personagens
  - Problemas e Aspectos
- - Gaia 400x
+ - Gaia-400x
  - Technofantasy
 header: no
 ---
