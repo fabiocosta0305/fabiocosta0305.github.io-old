@@ -520,6 +520,11 @@ Raciais*  que pode  lhe  prover vantagens  adicionais. Entretanto,  do
 mesmo modo, outros  personagens e o Narrador pode  Forçar esses mesmos
 Aspectos para provocar problemas ao personagem.
 
+Os povos  abaixo são os principais,  citados no cenário, mas  o Mestre
+pode  criar  seus  próprios   elementais,  apenas  estabelecendo  seus
+comportamentos  por  meio  de   alguns  (recomenda-se  três)  Aspectos
+Raciais.
+
 Para     descrições,    consulte     o    nosso     documento    sobre
 [Descrição de  Cenário][1] ou, ainda  melhor, a revista  Dragão Brasil
 #114
@@ -555,4 +560,220 @@ Para     descrições,    consulte     o    nosso     documento    sobre
   - Vapores alimentícios
   - Vôo com Asas
 
+### Artefatos do Mundo Anterior
+
+Muitos Aventureiros, em especial  Mecanicistas e estudiosos similares,
+terão interesse  em investigar locais  e artefatos do  Mundo Anterior,
+seja para aprimorar sua própria ciência,  seja como uma forma de obter
+lucro e poder. De qualquer modo,  itens do Mundo Anterior são me geral
+considerados  como  _Armas/Armaduras/Equipamentos Especiais_,  com  um
+Aspecto *Artefato do Mundo Anterior* nele.
+
+Os povos de Gaia 400x tem  problemas em entender a tecnologia do Mundo
+Anterior, não apenas porque ela é muito mais avançada que a dos mesmos
+(aparenta-se),  mas também  porque em  geral ela  funciona de  maneira
+totalmente independente do  que existe em Gaia 400x,  como Cristais de
+Poder, Extracarbono ou Gel Cinético.  Por isso, todas as tentativas de
+operar um *Artefato do Mundo Anterior* sofre um redutor de -2 devido à
+completa estranheza na sua operação.  Apenas personagens com a Façanha
+*Conhecimentos  Perdidos* podem  operar normalmente  esse equipamento.
+Além disso, para consertar esse  equipamento, mesmo aqueles que tenham
+a  Façanha sofrem.  Em  geral, apenas  Mecanistas  ou personagens  com
+muitos conhecimentos (e que possuam a Façanha *Conhecimento da Ciência
+do Passado*) possuem a capacidade de reparar esse equipamento ou mesmo
+construir algo similar com o que tem a disposição.
+
+Para obter um  equipamento, trate o mesmo como um  pacote de Façanhas,
+sendo  que o  personagem (ou  grupo) deve  pagar o  custo do  mesmo em
+Façanhas para o  possuir. Em alguns casos (como quando  eles o obtêm),
+eles ainda podem "passar batido", mas nesse caso mantenha Aspectos que
+mostrem que as pessoas estranham  tal equipamento ou mesmo que existem
+aqueles interessados em  adquirir os mesmos (não  importando os meios)
+dos personagens.
+
+> **Exemplo:** Rifle Energético
+>
+> Aparentemente, o povo do Mundo Anterior  era um povo belicoso, ou ao
+>menos  assim o  era antes  da Guerra  dos Deuses  e da  Queda da  Lua
+>(será?). Essa conclusão  deve-se à grande quantidade de  armas de uma
+>forma estranha de energia que  foram encontradas em investigações dos
+>Mecanistas de Atlan em ruínas do Mundo Anterior.
+>
+> O Rifle Energético  é uma dessas relíquias: uma arma  estranha de um
+> material similar ao Extracarbono e à Matriz Cristal (mas de natureza
+> desconhecida ainda), ele emite uma forma de energia luminosa similar
+> ao  que um  Portador  do  Rubi ou  do  Diamante pode  ocasionalmente
+> fazer. Símbolos arcaicos são apresentados  em um mostrador após cada
+> disparo (similar  a uma pistola  de munição de  Gel-C). A arma  é do
+> tamanho de um  arco comum e é  razoavelmente resistente. Entretanto,
+> certas formas de ataque elemental  interferem nas mesmas ao ponto de
+> as danificar.
+>
+>
+> - **Rifle Energético:**
+>   - **Aspectos:**
+>     - Artefato do Mundo Exterior
+>     - Operação não muito complexa
+>   - **Façanhas:**
+>     - *Feixe de Energia:* reduz em -2  os testes de Defesa se o alvo
+>       estiver usando armaduras de Matriz Cristal ou Extracarbono
+>     - *Disparo  concentrado:* permite  gastar  um turno  *Acumulando
+>       Carga* para, no turno seguinte,  receber +2 no dano final caso
+>       acerte um alvo
+>     - *Mira:*  se o  personagem  for  bem sucedido  em  um teste  de
+>       Ataque, pode  abdicar do resultado  para gerar um  Aspecto *Na
+>       Mira*,   como  se   tivesse  realizado   uma  ação   de  Criar
+>       Vantagem. Até duas tensões gera um *Impulso*, acima disso gera
+>       um Aspecto real
+
+#### Criaturas do Mundo Anterior
+
+Existem todo tipo  de criaturas bizarras que foram  deixadas para trás
+pelo povo do  Mundo Anterior. Desde os Animais  mutantes até criaturas
+robóticas ou clonadas, todas elas  podem ser hostis e perigosas, mesmo
+que seja pela estranheza das mesmas em relação ao mundo dos Escolhidos
+de Luna.
+
+Em muitos locais  ainda inexplorados, essas criaturas  ainda vivem, se
+pode-se dizer que  o que elas fazem é viver,  pois muitas delas apenas
+permanecem   vivas   por   meios  artificias   (clonagem,   criogenia,
+cibernéticos, etc...)  Além disso,  muitos deles podem  ressurgir para
+ajudar   (ou  enfrentar)   os   personagens,  trazendo   conhecimentos
+misteriosos do Mundo Anterior consigo.
+
+Em  termos de  regras,  trare-os  conforme o  tipo  de desafio.  Vamos
+apresentar alguns exemplos abaixo:
+
+##### Abelhas de Metal
+
+Estranhas criaturas  com aparência de  abelhas gigantes, feitas  de um
+metal de origem antiga, são encontradas em determinadas ruinas antigas
+em grande número. Não costumam ser desafiadoras sozinhas, mas costumam
+invocar  criaturas  similares   (e  de  outros  tipos)   por  meio  de
+perturbadoras ondas sônicas.
+
+Em termos de Regras, são PdN sem Importância de competência Regular.
+
++ **Abelhas de Metal**
+  + _Criaturas estranhas do Mundo Anterior_
+  + _Voadoras_
+  +  *Perícias:* Atirar Regular (+1), Investigar (+1)
+  + **Estresse:** `2`{: .fate_font} (quatro Abelhas)
+  +  **Observação:** Caso  não  sejam  derrotadas imediatamente,  elas
+    acionam um alarme que trará mais  um grupo de Abelhas de Metal por
+    grupo, ou coisa pior (a critério do narrador)
+
+##### Tectauro
+
+Essa criatura estranha, parecia com um Centauro usando uma Armadura, é
+um dos  piores guardiões que podem  ser encontrado em ruínas  do Mundo
+Anterior. Ela  normalmente porta  uma estranha Espada  de Energia  e é
+capaz de atirar raios de energia  da fenda do "capacete" que forma sua
+cabeça. Essa  criatura é de cunho  robótico e feita do  mesmo material
+que é feito as  Abelhas de Metal. São hostis aos  que se aproximam dos
+locais  que  guardam,  atacando  tudo  que entre  na  Zona  onde  eles
+estão.  De  outro modo,  são  totalmente  oblívios aos  acontecimentos
+exteriores a eles.
+
+Em termos de Regras, são PdN sem Importância de competência Razoável.
+
++ **Abelhas de Metal**
+    + _Criaturas estranhas do Mundo Anterior_
+    + _Protetores_
+    + _Raios Óticos_
+    +  *Perícias:* Atirar Razoável (+2), Lutar Razoável (+2)
+    + **Estresse:** `2`{: .fate_font}
+
+##### Grub
+
+Uma criatura  realmente bizarra  e o pesadelo  de aventureiros  que já
+tenham  a encontrado,  ela  ocasionalmente encontrada  em locais  mais
+profundos  de  ruínas antigas,  os  grubs  são  similares a  poças  de
+substância  orgânica que  atacam  qualquer tipo  de  organismo que  se
+aproximem de onde  eles estão. São muito lentas para  se deslocar, mas
+são  muito  resilientes,  e  pode  atacar  um  alvo  por  sufocamento,
+fagocitando-os  e  trazendo-os para  dentro  de  si, quando  passam  a
+consumir toda a matéria orgânica que o mesmo possui.
+
+Em termos de Regras, são PdN sem Importância de competência Boa.
+
++ **Grub**
+    + _Criaturas estranhas do Mundo Anterior_
+    + _Lentos Mas Resilientes_
+    + _Amorfos_
+    +  *Perícias:* Lutar Bom (+3), Vigor Ótimo (+4)
+    + *Façanha:*
+      + _Fagocitose:_  O Grub  pode absorver  um determinado  alvo que
+        esteja dentro  da zona onde  o mesmo está, vencendo  um Ataque
+        por _Lutar_, mas  abdicando do dano em lugar  de o _Fagocitar_
+        (como se fosse  uma ação de _Criar Vantagens_). Uma  vez que o
+        alvo  esteja _Fagocitado_,  o  Grub recebe  um Ataque  passivo
+        contra o  alvo, que  só pode  absorver o  Ataque.  Em  caso de
+        Falha, o alvo consegue uma chance de escapar da Fagocitose com
+        um Ataque bem sucedido. Um Grub só pode usar Fagocitose contra
+        um alvo por vez.
+    + **Estresse:** `4`{: .fate_font}
+
+##### *Vesta, a supervisora*
+
+Habitante de  uma determina  ruína próxima  a Azmir,  Vesta é  uma das
+_supervisoras_, criaturas  humanas com  partes do  DNA de  felinos que
+observa os acontecimentos  na ruína. Ela não  costuma atacar criaturas
+sem  ver  o  que  está  acontecendo antes,  mas  uma  vez  que  ataca,
+dificilmente para, obedecendo  apenas as ordens do  Sistema Central de
+proteger  os   sistemas  e  expulsar  ou   nocautear  alvos  (evitando
+matar). Conhece muito pouco sobre Gaia 400x, pois viveu desde que saiu
+dos tanques de  clones (há quatro anos) dentro da  ruína, mas sabe dos
+perigos dos cristalóides, mutantes e xenomorfos.
+
+Em termos de Regras, é um PdN de Suporte
+
++ **Aspectos:**  _Supervisora Feral_,  _"As Ordens do  Sistema Central
+  são prioritárias"_
++ **Perícias:** Lutar  Bom (+3), Atletismo Bom  (+3), Investigar Ótimo
+  (+4), Furtividade Ótimo (+4)
+
+##### *Illoness, a Guardiã*
+
+Illoness é uma estranha criatura  que se denomina _Automata Sapiens_ e
+vive em uma ruína antiga próxima  a Atlan. Desde que foi reativada por
+alguns pesquisadores Mecanicistas, parte  de uma equipe de exploração,
+Illoness vem  observando os  eventos de  Gaia. Embora  esteja tentando
+tornar o acesso  à ruína um pouco mais simples  (graças à *Diretiva do
+Conhecimento*),  os  sistemas  autômatos  de  defesa  da  ruína  estão
+parcialmente descontrolados... Ela não sabe o motivo, pois ela deveria
+ter o  acesso total aos  controles da base,  e ela não  entende porque
+certas zonas ainda não estão acessíveis.
+
+Illoness é tratada como um PdN Principal
+
++ **Aspectos:**
+  + *Automata Sapiens* Guardiã da Ruína
+  + A Diretiva do Conhecimento
+  + *"Ainda preciso escanear muitas salas"*
++ **Perícias:**
+  + _Ótimo (+4):_ Conhecimentos
+  + _Bom (+3):_ Provocar, Comunicação, Atirar, Lutar
+  + _Razoável (+2):_ Empatia, Condução
++ **Façanhas:**
+  + _Sabre de  Energia:_ Como _Automata Sapiens_, ela tem  um Sabre de
+    Energia que lhe oferece _+2 ao atacar com Lutar usando ele_
+  + _Interfaces  de Controle:_  Como _Guardiã da  Ruína_, ela  pode se
+    interfacear   com   qualquer   equipamento   da   base.   Enquanto
+    interfaceada, ela  fica imobilizada, mas pode  substituir qualquer
+    Perícia por **Conhecimento**  para fins de observação  e defesa da
+    ruína
+  + _Material Resistente:_  seu corpo e componentes são  feitos de uma
+    liga  não-metálica ainda  mais  resistente que  o Extracarbono  ou
+    mesmo que a  Matriz Cristal. Desse modo, ela recebe  mais 4 caixas
+    de Estresse e uma Consequência Suave física Adicional
++ **Estresse:**
+    + **Físico:** `42`{: .fate_font}
+    + **Mental:** `2`{: .fate_font}
++ **Consequências:**
+    + **Suave (2):** 
+    + **Suave Física Adicional (2):** 
+    + **Moderada (4):** 
+    + **Severa (6):** 
+        
 [1]: /rpg/DestinoGaia400x/
