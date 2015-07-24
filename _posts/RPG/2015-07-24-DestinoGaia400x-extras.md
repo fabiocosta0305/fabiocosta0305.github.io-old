@@ -499,3 +499,7 @@ autorização do Narrador) pode impedir esse Destino do _Magi_
 Consequências  de Mutação  não  são facilmente  removidas: o  Narrador
 deveria utilizar elas como ganchos para aventuras com o _Magi_ fazendo
 peregrinações para se purificar da Mutação e voltar a ser humano.
+
+### Povos Elementais
+
+Os povos elementais surgiram com o ressurgimento da magia e a aparição do _mana_ e dos Cristais de Poder. Em geral, os povos elementais vivem à distância, sem entrar em contato com os humanos, ao menos os do metrocentros (o caso das Salamandras
