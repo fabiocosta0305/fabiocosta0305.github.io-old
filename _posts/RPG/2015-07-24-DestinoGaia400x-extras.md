@@ -500,6 +500,59 @@ Consequências  de Mutação  não  são facilmente  removidas: o  Narrador
 deveria utilizar elas como ganchos para aventuras com o _Magi_ fazendo
 peregrinações para se purificar da Mutação e voltar a ser humano.
 
-### Povos Elementais
+### Povos Elementais (_Faerians_)
 
-Os povos elementais surgiram com o ressurgimento da magia e a aparição do _mana_ e dos Cristais de Poder. Em geral, os povos elementais vivem à distância, sem entrar em contato com os humanos, ao menos os do metrocentros (o caso das Salamandras
+Os povos  elementais, ou  _faerians_ surgiram  com o  ressurgimento da
+magia e  a aparição do  _mana_ e dos Cristais  de Poder. Em  geral, os
+povos  elementais vivem  à distância,  sem  entrar em  contato com  os
+humanos, ao menos os do metrocentros  (o caso das Salamandras de Azmir
+é  uma  exceção que  confirma  a  regra), ocasionalmente  entrando  em
+contato com huamnos em comunidades  no meio das Zonas Devastadas. Eles
+possuem suas  próprias comunidades, normalmente em  locais afastados e
+até mesmo insalubres (como as comunidades vulcânicas das Salamandras).
+Os povos elementais variam em comportamento tanto quanto o ser humano,
+mas em geral possuem peculiariades bastante específicas.
+
+Em  termos de  regras do  Fate, um  personagem que  queira jogar  como
+_faerian_   deve   descrever   essa  capacidade   no   _Conceito_   do
+personagem.  A partir  daí, ele  pode Invocar  uma série  de *Aspectos
+Raciais*  que pode  lhe  prover vantagens  adicionais. Entretanto,  do
+mesmo modo, outros  personagens e o Narrador pode  Forçar esses mesmos
+Aspectos para provocar problemas ao personagem.
+
+Para     descrições,    consulte     o    nosso     documento    sobre
+[Descrição de  Cenário][1] ou, ainda  melhor, a revista  Dragão Brasil
+#114
+
+- **Permissão:** Conceito
+- **Custo:** Nenhum (pago no conceito)
+
+#### Gnomos
+
+- **Aspectos Raciais:**
+  - Tudo tem sua função, fazer uma coisa por fazer é abominação
+  - _"As Montanhas resistem até ao tempo."_
+  - Baixos e troncudos
+
+#### Ondinas
+
+- **Aspectos Raciais:**
+  - _"Seja como a água que molda-se à garrafa mas é capaz de destruir montanhas"_
+  - A gota d'água
+  - Adaptados à água
+
+#### Salamandras
+
+- **Aspectos Raciais:**
+  - Agressivos e Belicosos
+  - Terra Devastada
+  - Rápidos e Carismáticos quando lhes é interessante
+
+#### Sílfides
+
+- **Aspectos Raciais:**
+  - Despreocupadas, mudam de idéia constantemente
+  - Vapores alimentícios
+  - Vôo com Asas
+
+[1]: /rpg/DestinoGaia400x/
