@@ -500,4 +500,3 @@ Consequências  de Mutação  não  são facilmente  removidas: o  Narrador
 deveria utilizar elas como ganchos para aventuras com o _Magi_ fazendo
 peregrinações para se purificar da Mutação e voltar a ser humano.
 
-{{ page.tags  }}
