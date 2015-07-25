@@ -18,7 +18,7 @@ header: no
 
 Em muitos animes, mangás e RPGs, pequenos espíritos auxiliam humanos a alcançarem seus objetivos e vice-versa. Esse módulo visa descrever regras e alguns exemplos de criaturas que interagem com os seres humanos.
 
-### Capítulo 1 –Criando um Espírito Ajudante
+### Criando um Espírito Ajudante
 
 Os Espíritos Ajudantes possuem o mesmo tipo de construção de personagem de um personagem convencional de _Fate Acelerado_ à exceção das Abordagens, que são diferenciadas. 
 
@@ -64,7 +64,7 @@ Um Espírito Ajudante possui o mesmo número de Façanhas iniciais de um persona
 
 Espíritos Ajudantes recebem o mesmo número de Pontos de Destino, Estresse e Consequências de um personagem de Fate Acelerado.
 
-### Capítulo 2 –Regras Especiais
+### Regras Especiais
 
 #### Auxiliando
 
