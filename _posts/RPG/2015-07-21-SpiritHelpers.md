@@ -80,8 +80,63 @@ Um Espírito Ajudante recebe +2 ao tentar ajudar a pessoa a quem ela está Assoc
 
 Vários Espíritos Ajudantes similares, com Façanhas similares, podem acumular os efeitos de suas Façanhas, podendo gerar Aspectos adicionais facilmente. Em termos de regra, personagens com Façanhas similares podem sacrificar uma ação que envolva tal Façanha para oferecer um bônus +1 automático a outro Espírito Ajudante. Essa ação deve ser a ação que o Espírito irá fazer naquele turno. Esse bônus não é cumulativo com outros bônus de natureza mágica, mas é cumulativo entre todos os Espírito Ajudantes envolvidos.
 
-> **Exemplo:** Vanilla está acompanhando Ichigo enquanto ela faz um bolo para uma competição na Escola de _Patissiére_ onde ela estuda. Ichigo e seus amigos precisam decorar de uma maneira bem bonita uma série de doces. O problema é que o tempo é muito curto. Entretanto, da mesma forma que Ichigo, seus amigos Andou, Kashino e Hanabusa também possuem Espíritos Ajudantes. Os demais espíritos decidem que é uma boa todos ajudarem na decoração do bolo com suas Façanhas _**Magic Decoration**_. Como Vanilla entre os três é a que tem Foco maior entre os que estão diretamente envolvidos, ao invés dos demais usarem eles próprios testes de Foco, eles sacrificam suas ações para oferecerem um bônus total +3 para Vanilla, que rola seu Foco como se ele fosse _Excepcional (+5)_ no rolamento.
+> **Exemplo:** Vanilla está acompanhando Ichigo enquanto ela faz um bolo para uma competição na Escola de _Patissiére_ onde ela estuda. Ichigo e seus amigos precisam decorar de uma maneira bem bonita uma série de doces. O problema é que o tempo é muito curto. Entretanto, da mesma forma que Ichigo, seus amigos Andou, Kashino e Hanabusa também possuem Espíritos Ajudantes. Os demais espíritos decidem que é uma boa todos ajudarem na decoração do bolo com suas Façanhas _**Magic Decoration**_. Eles decidem deixar que Vanilla assuma o controle, ao invés dos demais usarem eles próprios testes de Foco, sacrificando suas ações para oferecerem um bônus total +3 para Vanilla, que rola seu Foco como se ele fosse _Excepcional (+5)_ no rolamento.
 
 #### Humanos como Companheiros (Regra Opcional)
 
-Se você for focar a campanha nos Espíritos Ajudantes, você tem a possibilidade de "inverter" a situação, sendo o personagem humano a ser o companheiro. Nesse caso, a Abordagem _Foco_ reflete a confiança do personagem no Espírito e sua capacidade de interação com o mesmo. Qualquer personagem deverá ter ao menos _Medíocre (+0)_ em _Foco_ para interagir com o personagem Espírito: qualquer coisa acima disso se torna uma Descrença, e isso anula o Aspecto de Associação do Humano em questão.
+Se você for focar a campanha nos Espíritos Ajudantes, você tem a possibilidade de "inverter" a situação, sendo o personagem humano a ser o companheiro. Nesse caso, a Abordagem _Foco_ reflete a confiança do personagem no Espírito e sua capacidade de interação com o mesmo. Qualquer personagem deverá ter ao menos _Medíocre (+0)_ em _Foco_ para interagir com o personagem Espírito: qualquer coisa abaixo disso se torna uma Descrença, e isso anula o Aspecto de Associação do Humano em questão.
+
+### Exemplo de Personagem 
+
+#### Sucre, o Espírito dos Doces para quem não pode com doces 
+
+Normalmente, os Espíritos dos Doces se focam em aprender o melhor para
+se tornarem  Pattisieres reais, parte dos  mais importantes pattisiere
+do  Reino dos  Doces.  Mas outros  Espíritos  possuem outras  missões…
+Afinal  de contas,  existem  situações que  exigem uma  característica
+diferente…
+
+Sucrelose,  ou Sucre,  como se  chama, nasceu  com o  que poderia  ser
+considerada uma das piores coisas para  um Espírito dos Doces: ele era
+diabético.  Seus pais,  pattisiere  reais, ficaram  preocupados com  o
+futuro  e até  mesmo com  a saúde  de seu  filho. Com  o tempo,  foram
+estudando como fazer doces que o filho poderia comer… E foi quando ele
+decidiu  que  iria tornar-se  um  pattisiere  para outros  como  eles,
+pessoas que tivessem  algum tipo de restrição  alimentar que impedisse
+os mesmos de comer doces. O que não é pouca coisa: doença celíaca (não
+poder comer  glutem), intolerância  a lactose, diabetes,  entre outras
+condições, não são tão pouco presentes assim, mesmo entre os Espíritos
+dos Doces.
+
+Foi  quando ele  precisou descer  à  Terra, para  se aperfeiçoar.  Ele
+encontrou alguém como ele: Takeru  Shirosaki, um garoto que, apesar de
+adorar doces, também  possui diabetes. Desde então,  eles formaram uma
+grande parceria,  procurando criar  doces para  aqueles que  não podem
+comer doces.
+
+- **Aspectos:**
+  - **Conceito:** Espírito  dos Doces  focado em  doces para  quem não
+    pode com doces
+  - **Dificuldade:** Diabético - Açucar é veneno para ele
+  - **Associação:** _"Eu e Takeru iremos levar felicidade para aqueles
+    que os demais_ patissiere _esquecem"_
+  - Extremamente focado
+  - Conhecedor de ingredientes incomuns
+- **Abordagens:**
+  - **Corpo:** _Medíocre (+0)_
+  - **Mente:** _Regular (+1)_
+  - **Espírito:** _Razoável (+2)_
+  - **Foco:** _Bom (+3)_
+- **Façanhas:**
+  - **Magic  Decoration:** com  essa  Façanha, ele  recebe  +2 em  seu
+    _Foco_ para _Criar Vantagens ao realizar decorações (seja de doces
+    ou locais relacionados a doces)_;
+   - **Magic Sweet Pictures:** com essa Façanha, ele cria _uma vez por
+     sessão_ uma **Carta  Doce** (que funciona como um  Aspecto) com a
+     imagem de um Doce que ele fez  e que ele pode guardar ou enviar a
+     outros.  Aquele  que estiver  com a mesma  recebe +2  para _Criar
+     Vantagens ao tentar reproduzir tal doce_;
+   - **Magic Sweet Scales:** _uma vez  por sessão_ Sucre pode convocar
+     uma balança  mágica que  ajuda ele  a substituir  ingredientes da
+     maneira adequada, dando _+2 em todos os testes para fazer um doce
+     que não leve determinado tipo de ingredientes_
