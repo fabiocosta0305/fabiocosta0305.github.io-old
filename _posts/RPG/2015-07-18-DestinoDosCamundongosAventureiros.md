@@ -13,13 +13,15 @@ tags:
 header: no
 ---
 
+![Emily & Alexander, os Camundongos Aventureiros](/assets/img/maxresdefault.jpg)
+
 Fiz isso como um exemplo de como utilizar a planilha de Criação de Campanha do Fate Básico
 
-![Os camundongos, seu primo Pierre e sua amiga humana](http://emilyealexander.no.comunidades.net/caumundongos%20%284%29.gif)
+![Os camundongos, seu primo Gaston e sua amiga humana Monique](/assets/img/camundongos.gif)
 
 - **Ambientação:** Moderno (1930)/Fantasia
 - **Alcance:** Pessoal
-
+  
 ### Questões
 
 - _"Há ratos malvados em todo lugar!"_ (Atual)

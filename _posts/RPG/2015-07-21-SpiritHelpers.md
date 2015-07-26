@@ -14,9 +14,13 @@ tags:
 header: no
 ---
 
+![Esse RPG é conectado ao reino dos Espíritos em alguns locais... Estamos aqui em treinamento!](/assets/img/were-here-for-training.jpg)
+
 ### Introdução
 
 Em muitos animes, mangás e RPGs, pequenos espíritos auxiliam humanos a alcançarem seus objetivos e vice-versa. Esse módulo visa descrever regras e alguns exemplos de criaturas que interagem com os seres humanos.
+
+![As Fadas das Estações: Salt, Pepper e Sugar](/assets/img/Chicchana+Yukitsukai+Sugar.jpg)
 
 ### Criando um Espírito Ajudante
 
@@ -57,12 +61,14 @@ Um Espírito Ajudante possui o mesmo número de Façanhas iniciais de um persona
 > **Exemplo:** Hora de escolher as Façanhas de Vanilla. Erika então opta por
 > 
 > + **Magic Decoration:** com essa Façanha, ela recebe +2 em seu _Foco_ para _Criar Vantagens ao realizar decorações (seja de doces ou locais relacionados a doces)_;
-> + **Magic Sweet Pictures:** com essa Façanha, ela cria _uma vez por sessão_ uma **Carta Doce** (conta como um Aspecto) com a imagem de um Doce que elafez e que ela pode guardar ou enviar a outros. Uma vez que ela guarde, ela recebe +2 para Criar Vantagens com Foco ao tentar reproduzir tal doce, usando a **Carta Doce**;
+> + **Magic Sweet Pictures:** com essa Façanha, ela cria _uma vez por sessão_ uma **Carta Doce** (conta como um Aspecto) com a imagem de um Doce que ela fez e que ela pode guardar ou enviar a outros. Aquele que estiver com a mesma recebe +2 para _Criar Vantagens com Foco ao tentar reproduzir tal doce_, usando a **Carta Doce**;
 > + **Magic Sweet Scent:** com essa Façanha, ela recebe +2 em Foco para Criar Vantagens baseadas em cheiros de doces;
 
 #### Pontos de Destino, Estresse e Consequências
 
 Espíritos Ajudantes recebem o mesmo número de Pontos de Destino, Estresse e Consequências de um personagem de Fate Acelerado.
+
+![Os Espíritos dos Doces: Maize, Marron, Chocolat, Cafe, Vanilla, Caramel, Honey e Mint](/assets/img/4384420_orig.jpg)
 
 ### Regras Especiais
 
