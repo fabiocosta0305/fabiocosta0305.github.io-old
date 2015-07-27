@@ -315,3 +315,126 @@ Poder possam os tornar mais fortes (ou drenar suas forças)
 >     recebido
 >- **Estresse:** `3`{: .fate_font}
 >- **Conseqüências:** 2/4/6
+
+### Mutantes
+
+A  Energia  do   _mana_  é  imprevisível  e  caótica   em  seu  estado
+natural. Apesar das fórmulas místicas que os _magi_ desenvolveram para
+controlar o  _mana_, ela ainda  provoca efeitos indesejáveis,  sendo o
+pior deles os Mutantes.
+
+Mutantes surgem  de seres  humanos normais, que  vão se  deformando de
+maneira   extremamente    grotesca,   enlouquecendo    e   tornando-se
+selvagens.  Existem  dois  grandes  tipos de  mutantes:  os  _Monstros
+Mutantes_ e as _Abominações_.
+
+Em  geral, vivem  nas  regiões  das Zonas  Devastadas,  em restos  das
+cidades antigas do Mundo Anterior,  ou em Cavernas suberrâneas. Muitos
+desenvolvem um  gosto por  carne humana ou  mesmo de  outros mutantes,
+atacando viajantes incautos  ou mesmo uns aos  outros. Qualquer pessoa
+que  possa vir  a ter  possibilidade  de se  tornar um  mutante em  um
+metrocentro  é   levada  até  o   meio  das  Zonas  Devastadas   e  lá
+abandonada. Alguns são criados por outras comunidades mutantes. Outros
+não têm tanta sorte.
+
+Existem rumores de  que existam mutantes que são  bondosos, vivendo em
+paz  em comunidades  alternativas afastadas  e que  seriam capazes  de
+conviver socialmente.  Muitos dizem que  isso não passa de  boatos dos
+que são contra a política de segregação dos mutantes.
+
+#### Monstros Mutantes
+
+Os  Monstros Mutantes  são criaturas  que tornaram-se  monstruosamente
+gigantes e  fortes, mas no  processo perderam a sua  inteligência. São
+capazes de  vencer Rexans e  mesmos Escavadores no próprio  muque, mas
+são também vistos destruindo todo o tipo de comunidade humana.
+
+> - **Aspectos:** Gigantes, Fortes, Burros
+> - **Ameaça:** _Bom (+3)_
+> - **Ataque (Punhos _ou_ clava improvisada):** _Bom (+3)_
+> - **Resistência:**   _Ótimo (+4)_
+> - **Estresse:** `44`{: .fate_font}
+> - **Conseqüências:** 2/2/4/4/6
+
+#### Abominações
+
+As Abominações  são as versões  "menores" dos mutantes, mas  são ainda
+mais perigosos que os Monstros  Mutantes, pois começaram a desenvolver
+habilidades  estranhas, impondo  sua vontade  sob a  matéria, enquanto
+deslizam  lentamente  para  a  loucura, ao  não  conseguirem  absorver
+tamanha compreensão  do universo. Algumas Abominações  vivem isoladas,
+enquanto outras são vistas comandando  todo tipo de criatura em orgias
+de destruição.
+
+Em termos de  regras, você deve criar uma Abominação  como se fosse um
+personagem normal, incluindo o  Aspecto _Abominação_ no Conceito. Além
+disso,   o  personagem   recebe   uma  ou   mais   das  _Façanhas   de
+Abominação_. Cada Façanha adiciona +1 na _Ameaça_ do personagem.
+
+##### Exemplos de Façanhas de Abominação
+
+- **_Telecinesia_**
+
+A  Abominação  é capaz  de  projetar  sua  vontade contra  a  matéria,
+movendo-a  para onde  quiser a  até uma  distância equivalente  ao seu
+bônus de _Vontade_ em Zonas. Se  o alvo for consciente, ele tem chance
+de resistir por  _Vontade_. Caso o mesmo entre em  contato com algo no
+meio  do  caminho,  ambos  sofrem  um  Ataque  Físico  equivalente  ao
+resultado do seu rolamento de Telecinesia.
+
+- **_Visão além do Alcance_**
+
+Essa Abominação pode enxergar coisas que normalmente uma pessoa normal
+não seria capaz de enxergar. Ela não recebe redutores por distância em
+qualquer teste relaciondado à Visão.
+
+- **_Visão do Tempo e do Espaço_**
+
+Essa Abominação,  sabendo o que  procurar e quando,  é capaz de  ver o
+futuro dessa coisa.  Ela recebe +2 em seus testes de *Criar Vantagens*
+relativos a coisas do futuro ou passado.
+
+- **_Grito Mental_**
+
+Essa Abominação  consegue projetar sua  mente de uma  maneira dolorosa
+aos alvos, que percebem esse ataque como se fosse um grito contra suas
+mentes. Apesar  do nome, esse  Ataque é considerado Físico,  ainda que
+resistido por _Vontade_.
+
+### Xenomorfos (Sombras)
+
+Os Xenomorfos, ou Sombras como são popularmente conhecidos, são o mais
+novo terror que vêm atacar os  Escolhidos de Luna, já que os registros
+mais  antigos de  ataques  dos  Xenomorfos não  datam  de  mais de  20
+anos. Parecidos  com espectros de  escuridão pura, eles  podem alterar
+suas formas à vontade e são  etéreos como fumaça. Todo ser vivo tocado
+por  eles, mesmo  que  brevemente,  tem parte  de  sua essência  vital
+drenada e pode morrer em segundos se permanecer sendo atacado.
+
+A pior parte,  porém, é a capacidade dos mesmos  de drenar Cristais de
+Poder,  absorvendo  sua  energia  e crescendo,  enquanto  faz  todo  o
+maquinário  e   proteções  baseadas  no  Cristal   de  Poder  pararem,
+tornando-os  Cristais Esterilizados!  Já  houve  casos registrados  de
+comunidades  mineiradoras inteiras  que  foram  dizimadas por  Sombras
+famintas  por energia,  drenando os  Cristais de  Poder e  a vida  dos
+habitantes  das  mesmas. Não  há  até  hoje  registros de  ataques  de
+Xenomorfos aos metrocentros, mas muitos  acreditam que seja apenas uma
+questão de tempo.
+
+> - **Aspectos:** Monstros Etéreos, Forma Nebulosa
+> - **Ameaça:** _Fantástico (+6)_
+> - **Ataque (Dreno de Energia):** _Ótimo (+4)_
+> - **Resistência:**   _Ótimo (+4)_
+> - **Façanhas:**
+>   - _Dreno de Energia:_ Como na _Absorção_ dos Elementais Puros, mas
+>     exige que o Xenomorfo acerte um Ataque contra o Alvo, absorvendo
+>     o mesmo  número de pontos  de Estresse  que provocou de  dano no
+>     alvo.
+>   - _Esterilização:_  Se  o  Xenomorfo  atacar  um  Cristal  de  Poder
+>      diretamente,  ele absorve  6 pontos  de Estresse  e _Esteriliza_
+>      aquele  Cristal,  provocando automaticamente  a  _Esterilização_
+>      desse Cristal de Poder
+> - **Estresse:**   Variável,  um   número  de   caixas  de   Estresse
+>   equivalente  ao total  de Estresse  Absorvido (inicialmente  `4`{:
+>   .fate_font})
+ 
