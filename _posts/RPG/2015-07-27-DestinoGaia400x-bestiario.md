@@ -237,3 +237,81 @@ Devastadas, em especial no Deserto de Lanya
 >     (+4)_
 >- **Estresse:** `442`{: .fate_font}
 >- **Conseqüências:** 2/2/4/4/6/6
+
+### Cristalóides
+
+Cristalóides são,  na verdade,  resultado da  explosão e  liberação da
+energia  de  um  Cristal  de  Poder  de  tamanho  razoável,  que  pode
+cristalizar todas as  criaturas e coisas ao redor.  Essas criaturas se
+tornam extremamente perigosas, pois são  muito poderosas e difíceis de
+serem  capturadas. Além  de possuirem  o corpo  duro como  rocha, elas
+também possuem toda uma série  de habilidades estranhas, como utilizar
+raios de energia, disparar ataques sônicos, vibrar ou mesmo voar.
+
+Ao  criar uma  criatura  cristalóide, o  Narrador  adiciona o  Aspecto
+_Cristalóide_ e pode  também adicionar uma ou mais  Façanhas, ou ainda
+aumentar 1 na _Resistência_. Em geral, para cada Façanha que adicione,
+o Narrador deveria aumentar a Ameaça da Criatura em +1.
+
+- **O Aspecto pode  ser Invocado para:** aumentar a  absorção de dano,
+  utilizar ataques especiais que emulem as Façanhas Cristalóides
+- **O  Aspecto pode  ser  Forçado para:**  representar  algum tipo  de
+  fraqueza da criatura Cristalóide (a critério do Narrador)
+
+#### Façanhas Cristalóides
+
+##### Raio de Energia
+
+O Cristalóide  em questão é capaz  de emitir um ataque  de energia, na
+forma de uma onda de luz que  atinge alvos à distância. Para isso, ele
+rola  *Ataque*, recebendo  +2 no  teste. O  Narrador define  o alcance
+desse ataque
+
+##### Ataque Sônico
+
+O Cristalóide em questão é capaz  de provocar um ataque de onda sônica
+que pode  nocautear ou  ensurdecer todos os  alvos em  uma determinada
+região. Esse ataque atinge todos os  alvos a até uma Zona de distância
+do Cristalóide, é considerado um  Ataque Físico resistido por Vigor e,
+além de  provocar o Estresse  normal, coloca um  Aspecto _Ensurdecido_
+nos alvos atingidos
+
+##### Vibrar/Deslocar
+
+O Cristalóide  em questão é capaz  de mover-se tão rápido  que provoca
+nos  seus atacantes  a ilusão  de  que ele  está onde  na verdade  não
+está. Todos os alvos sofrem -2 em  seus testes de Ataque e Defesa, por
+não saberem exatamente onde a criatura está.
+
+##### Vôo
+
+O Cristalóide  em questão é capaz  de voar, como se  tivesse o Aspecto
+Vôo. O Cristalóide em questão recebe +2 em seus Ataques e Defesas.
+
+### Elementais Puros
+
+Os Elementais Puros são criaturas sencientes formadas apenas de um dos
+Elementos primordiais (Terra, Fogo, Água e Ar) são poderosas, mas seus
+objetivos são  desconhecidos e atacam por  instinto, nenhuma tentativa
+de comunicação  com as mesmas  sendo bem  sucedida até hoje.  Vivem em
+regiões que possuam grande quantidade  do Elemento do qual são feitas,
+evitando  sair dessas  áreas  e atacarem  locais  habitados por  seres
+humanos,  como os  metrocentros.  Acredita-se que  certos Cristais  de
+Poder possam os tornar mais fortes (ou drenar suas forças)
+
+> - **Aspectos:**   Criaturas  feitas   dos  Elementos,   Instintivas,
+>   Inteligência  Alienígena, Cristas  de Poder  podem os  tornar mais
+>   fortes (ou absorvê-los?)
+> - **Ameaça:** _Bom (+3)_
+> - **Ataque:** _Bom (+3)_
+> - **Resistência:**   _Razoável (+2)_
+> - **Façanhas:**
+>   - _Absorção:_ Ao  ser atacado  por algum ataque  do mesmo  tipo de
+>     Elemento do  qual é feito,  o Elemental Puro pode  absorver esse
+>     ataque,  curando os  danos que  tenha sofrido.  Trate como  se o
+>     Ataque não fosse absorvido pelo alvo, só que o Estresse obtido é
+>     o  quanto o  Elemental  pode  se curar  em  pontos de  Estresse,
+>     eliminando  Consequências  da mesma  forma  como  se as  tivesse
+>     recebido
+>- **Estresse:** `3`{: .fate_font}
+>- **Conseqüências:** 2/4/6
