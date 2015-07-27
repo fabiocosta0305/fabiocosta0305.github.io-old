@@ -1936,7 +1936,6 @@ Darash e possa se voltar contra seus atuais mestres.
   Ocultar visualmente a  si próprio e a todos em  uma Zona, utilizando
   *Conhecimentos*  no lugar  de *Furtividade*  para se  ocultar em  um
   local, gerando uma imagem ilusória
-
 - *Análise Ambiental:* utilizando uma série de sensores Darash, Pascal
   pode *Criar  Vantagens* usando *Conhecimentos* ao  obter informações
   sobre a  composição do solo,  temperatura, geologia e  topografia do
