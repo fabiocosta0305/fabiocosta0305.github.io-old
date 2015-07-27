@@ -437,4 +437,3 @@ questão de tempo.
 > - **Estresse:**   Variável,  um   número  de   caixas  de   Estresse
 >   equivalente  ao total  de Estresse  Absorvido (inicialmente  `4`{:
 >   .fate_font})
- 
