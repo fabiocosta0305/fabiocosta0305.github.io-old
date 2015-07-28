@@ -25,6 +25,9 @@ audios:
  - OGG:  https://archive.org/download/FateMasters6LaVaporeta/FateMasters6LaVaporeta.ogg
  - MP3:  https://archive.org/download/FateMasters6LaVaporeta/FateMasters6LaVaporeta.mp3
 iaplayer: FateMasters6LaVaporeta
+related_links:
+  - text: O rascunho de _La Vaporeta_ (aberto para comentários), para vocês se deliciarem
+    link: https://docs.google.com/document/d/102fgUuMCQZEPr1ZmSZS20CnV6x75Ors6WkAYdGWnUbg/edit?usp=docslist_api
 events: 
   - time: "00:04"
     text: Apresentação
