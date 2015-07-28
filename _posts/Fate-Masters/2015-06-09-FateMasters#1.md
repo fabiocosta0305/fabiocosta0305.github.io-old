@@ -3,7 +3,7 @@ title: Fate Masters Episódio 1 - Piloto
 teaser: O Podcast dos Algozes dos Jogadores - Começando em grande estilo!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
 tags:
  - Fate
  - Fate-Core

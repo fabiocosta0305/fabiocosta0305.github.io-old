@@ -4,7 +4,7 @@ subheadline: Invocando a diversão e Forçando contra a Apelação
 teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
 tags:
  - Fate
  - Fate-Core
@@ -20,7 +20,7 @@ hosts:
  - Filipe Dalmatti Lima
 related_links:
  - text: Os Aspectos dos *Guardiões da Galáxia* - **ATENÇÃO - contém _spoilers_!**
-   link: /rpg/FateMasters2-AspectosGuardioesDaGalaxia/
+   link: /fate-masters/exemplo/FateMasters2-AspectosGuardioesDaGalaxia/
 audios:
  - OGG: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.ogg
  - MP3: https://archive.org/download/fate_masters_2_aspectos_201506/fate_masters_2_aspectos.mp3

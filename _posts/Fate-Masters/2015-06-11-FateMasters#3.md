@@ -4,7 +4,7 @@ subheadline: Testando a paciência dos jogadores
 teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
 tags:
  - Fate
  - Fate-Core

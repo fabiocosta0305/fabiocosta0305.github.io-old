@@ -4,7 +4,8 @@ subheadline: Complemento Fate Masters Episódio 2 - Aspectos
 teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
+  - Exemplo
 podcast_comments: true
 tags:
  - Fate

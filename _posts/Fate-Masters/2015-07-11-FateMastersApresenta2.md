@@ -4,7 +4,7 @@ subheadline: O início de uma série de entrevistas com os envolvidos com o FATE
 teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
 tags:
  - Fate
  - Fate-Core

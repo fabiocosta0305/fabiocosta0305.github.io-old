@@ -4,7 +4,7 @@ subheadline: Um cenário de Ficção Científica em uma hora!
 teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
 tags:
  - Fate
  - Fate-Core

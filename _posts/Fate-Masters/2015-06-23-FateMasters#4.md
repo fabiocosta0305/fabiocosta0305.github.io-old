@@ -4,7 +4,7 @@ subheadline: Começando a série sobre Construção de Mundos
 teaser: O Podcast dos Algozes dos Jogadores!
 layout: post
 categories:
- - RPG
+  - Fate-Masters
 tags:
  - Fate
  - Fate-Core

@@ -19,7 +19,7 @@ materiais e os áudios do Podcast do Fate Masters.
 - [Assine o _feed_ do Fate Masters em Ogg Vorbis][fate-masters-ogg-feed]
 
 <ul>
-    {% for post in site.tags.fate-masters %}
+    {% for post in site.categories.fate-masters %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
