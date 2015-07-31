@@ -67,8 +67,8 @@ pensar.
 
 + **Recarga:** 3
 + **Estresse:**
-  + **Físico:** 4
-  + **Mental:** 2
+  + **Físico:** `4`{: .fate_font}
+  + **Mental:** `2`{: .fate_font}
 + **Conseqüencias:**
   + **Suave (2):**
   + **Moderada (4):**
@@ -111,8 +111,8 @@ seguir adiante.
 
 + **Recarga:** 3
 + **Estresse:**
-  + **Físico:** 3
-  + **Mental:** 4
+  + **Físico:** `3`{: .fate_font}
+  + **Mental:** `4`{: .fate_font}
 + **Conseqüencias:**
   + **Suave (2):**
   + **Moderada (4):**
@@ -147,16 +147,16 @@ não se incomoda com isso
 
 #### Façanhas
 
-+ _*Conhecimento Perdido:** Sistemas de Comando e Acesso_
++ _**Conhecimento Perdido:** Sistemas de Comando e Acesso**_
 + _Ja Li Sobre Isso **(FB 96)**_
-+ _Exaustor (Ametista)_
++ _**Exaustor** (Ametista)_
 
 #### Recarga, Estresse e Consequências
 
 + **Recarga:** 3
 + **Estresse:**
-  + **Físico:** 2
-  + **Mental:** 4
+  + **Físico:** `2`{: .fate_font}
+  + **Mental:** `4`{: .fate_font}
 + **Conseqüencias:**
   + **Suave (2):**
   + **Moderada (4):**
@@ -195,15 +195,120 @@ para pontos onde o Sistema-Mãe não tem mais comunicação
 + _**Treinamento Especial: Conhecimentos Antigos**_
   + _**Permissão:** Aspecto de Criatura do Mundo Anterior_
   + _+2 em testes de Conhecimento envolvendo Tecnologia Perdida_
-+ _**Ataque Furtivo:** +2 para Atacar um alvo usando _Atletismo_ se ele estiver _Distraído_ quanto a ela_
-+ _**Golpe Matador**_
++ _**Ataque Furtivo:** +2 para Atacar um alvo usando_ Atletismo _se ele estiver_ Distraído _quanto a ela_
++ _Golpe Matador **(FB 108)**_
 
 #### Recarga, Estresse e Consequências
 
 + **Recarga:** 3
 + **Estresse:**
-  + **Físico:** 2
-  + **Mental:** 4
+  + **Físico:** `2`{: .fate_font}
+  + **Mental:** `4`{: .fate_font}
++ **Conseqüencias:**
+  + **Suave (2):**
+  + **Moderada (4):**
+  + **Severa (6):**
+
+### Teanna Vantenar, _Magi_
+
+Teanna é  parte da Ordem  dos _Magi_  estabelecida em Atlan.  Quando a
+Ordem soube  da missão  de investigação às  ruínas próximas  a Saeran,
+eles decidiram  manter-se de olho,  pois eles temem que  os Mecanistas
+façam  bobagem. Para  isso, foi  enviada uma  novata, a  _Magi_ Teanna
+Vantenar, que tem uma mente um pouco mais aberta (ou menos doutrinada,
+segundo os  _Magi_). Ela ainda  tem suspeitas, em especial  depois que
+voltaram com  a Criatura do Mundo  Anterior Illya. Mas até  agora, ela
+não possui motivos para tentar qualquer coisa contra a investigação, e
+até mesmo  está disposta a  auxiliá-los por  meio dos seus  poderes de
+_Magi_ e de sua Sintonia com o Cristal de Citrino e Ametista,
+
+#### Aspectos
+
+| **Conceito:**    | _Magi_ de Atlan                                   |
+| **Dificuldade:** | Desconfiada quanto as intenções dos Mecanistas    |
+|                  | Sintonizada com Citrino e Ametista                |
+|                  | _"Sempre avalie com cuidado."_                    |
+|                  | Taevon, seu _Nyren_ de Estimação                  |
+
+#### Perícias
+
+| **Ótimo (+4)**    | Magia              |                     |              |             |
+| **Bom (+3)**      | Vontade            | Sintonia (Ametista) |              |             |
+| **Razoável (+2)** | Sintonia (Citrino) | Percepção           | Investigar   |             |
+| **Regular (+1)**  | Comunicação        | Provocar            | Contatos     | Furtividade |
+
+#### Façanhas
+
++ _**Anjo Protetor:** Taevon - pode utilizá-lo como um_ Subalterno
++ _Poder da Dedução **(FB 106)**_
++ _Perigo Iminente **(FB 112)**_
+
+#### Recarga, Estresse e Consequências
+
++ **Recarga:** 3
++ **Estresse:**
+  + **Físico:** `2`{: .fate_font}
+  + **Mental:** `4`{: .fate_font}
++ **Conseqüencias:**
+  + **Suave (2):**
+  + **Moderada (4):**
+  + **Severa (6):**
+
+#### Taevon, o _Nyren_
+
++ **Aspectos:** _Bicho Fofo_, _Devo Proteger Teanna_
++ **Perícias:** _**Atletismo** Razóavel (+2), **Percepção** Regular (+1), **Enganar** Regular (+1)_
++ **Façanha:** _**Ataque Rápido:** Pode utilizar atacar com **Atletismo**, contanto que possua espaço o bastate ao redor_
++ **Estresse:** `2`{: .fate_font}
++ **Consequência:** 2
+
+### Rigaldo, Batedor das Zonas Devastadas
+
+Desde criança, Rigaldo conhece como o mundo da Zonas Devastadas é. Ele
+cresceu vendo  os animais e  plantas, colhendo o  que Gaia lhe  dava e
+nadando e caçando para complementar a alimentação de sua tribo. Depois
+que  tornou-se adulto,  passou  a enfrentar  monstros  e Caçadores  de
+Lascas para proteger a terra que  Gaia lhe ofereceu.  Não se tornou um
+Druida, mas  aprendeu muito  com eles,  em especial  com seu  amigo de
+infância  Valek.  Já  foi  algumas  vezes a  Metrocentros  e a  grande
+quantidade de pessoas, o movimento e  barulho o assustou muito mais do
+que o rugido  de um Rexan ou  mesmo que os tremores  provocados por um
+Escavador. Rigaldo  sabe que os metrocentros  protegem muitas pessoas,
+mas ele  próprio não  se sente  a vontade  lá. Recentemente  estava em
+Atlan quando viu uma mensagem procurando pessoas para trabalhar em uma
+expedição na região de  Saeran. O pagamento é bom, e  boa parte do que
+ele conseguir  ele vai  usar para  obter Cristais  e outras  coisas da
+civilização que  são úteis para  a tribo,  como _medikits_ e  armas de
+Extracarbono.
+
+#### Aspectos
+
+| **Conceito:**    | Devoto de Gaia batedor                                   |
+| **Dificuldade:** | _"Os Metrocentros não são para mim"_                     |
+|                  | Ser tolo mata mais rápido que miasma de Rexan            |
+|                  | _"Aqueles sobre minha proteção vivem. Gaia sabe disso"_  |
+|                  | Acredita apenas na própria força                         |
+
+#### Perícias
+
+| **Ótimo (+4)**    | Vigor        |              |              |          |
+| **Bom (+3)**      | Lutar        | Vontade      |              |          |
+| **Razoável (+2)** | Atirar       | Percepção    | Atletismo    |          |
+| **Regular (+1)**  | Investigação | Furtividade  | Provocar     | Enganar  |
+
+#### Façanhas
+
++ _Golpe Matador **(FB 108)**_
++ _Lutador **(FB 118)**_
++ _**Punho de Aço** -  Como **Golpe Matador**, mas aplicado para **Vigor** (**Permissão: Vigor** Bom (+3) ou melhor; **Lutador**)_
+
+
+#### Recarga, Estresse e Consequências
+
++ **Recarga:** 3
++ **Estresse:**
+  + **Físico:** `4`{: .fate_font}
+  + **Mental:** `3`{: .fate_font}
 + **Conseqüencias:**
   + **Suave (2):**
   + **Moderada (4):**
