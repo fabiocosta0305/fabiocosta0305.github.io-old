@@ -5,7 +5,11 @@
 - title: RPG
   url: "/rpg/"
   side: left
-  # dropdown:
+# dropdown:
+
+- title: RPG-A-Day 2015
+  url: "/rpg-a-day/2015/"
+  side: left
 
 # - title: Fate
 #   url: "/fate/"
