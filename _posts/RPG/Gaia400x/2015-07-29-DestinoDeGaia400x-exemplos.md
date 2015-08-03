@@ -3,7 +3,6 @@ title: Destino de Gaia 400x - Personagens exemplos
 subheadline: Enfrente o seu Destino no Mundo dos Escolhidos de Luna
 teaser: Baseado no cenário publicado por Márcio Fiorito na Dragão Brasil 114
 layout: post
-date: 2015-07-29 15:09
 categories:
  - RPG
 tags:
@@ -92,7 +91,7 @@ seguir adiante.
 | **Dificuldade:** | _"Se queremos sobreviver, temos que aprender com os erros do passado"_   |
 |                  | Ninguém é capaz de tudo nesse mundo                                      |
 |                  | Não há o que impeça a evolução, exceto talvez pelos Deuses               |
-|                  | O que motivou a destruição do Mundo Anterior? Precisamos descobrir       |
+|                  | O que motivou a destruição do Mundo Anterior?                            |
 
 #### Perícias
 
