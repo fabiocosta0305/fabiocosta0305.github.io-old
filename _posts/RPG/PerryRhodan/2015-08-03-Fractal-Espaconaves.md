@@ -61,7 +61,7 @@ determinar os demais fatores do veículo.
 
 > _Exemplo:_  Uma nave  girino  tem Nível  de  Poder _Medíocre  (+0)_,
 > enquanto  uma nave  como  a _Good  Hope_ possui  um  nível de  poder
-> _Regularl (+1),  e uma nave  como a _Crest  III_ possui um  nível de
+> _Regular (+1)_,  e uma nave  como a _Crest  III_ possui um  nível de
 > poder  _Bom  (+4)_  ou  melhor.   Na  realidade,  a  _Crest  III_  é
 > tecnologicamente  superiora  às  naves  girino  ou  à  _Good  Hope_,
 > portanto na  realidade, dentro de  seu nível tecnológico,  ela seria
@@ -195,9 +195,9 @@ sua nave. Uma  nave possui uma Capacidade igual a  _**Nível de Poder**
 equivalentes ao _**Nível de Poder**  +1_ e uma equivalente ao _**Nível
 de Poder**_.
 
-> _Exemplo: Continuando  a construção  da _Good Hope_,  primeiro temos
+> _Exemplo:_ Continuando  a construção da _Good  Hope_, primeiro temos
 > que definir os níveis das Capacidades  que ela terá. Como ela tem um
-> nível de  Poder _Regular (+1)_,  ela terá uma capacidade  em _Ótimo
+> nível de  Poder _Regular  (+1)_, ela terá  uma capacidade  em _Ótimo
 > (+4)_, duas Capacidades em _Bom (+3)_, duas Capacidades em _Razoável
 > (+2)_ e uma Capacidade em _Regular (+1)_
 >
@@ -254,7 +254,7 @@ Toda nave é dividida em _Setores_, sendo que cada Setor pode prover um
 determinado  fator vantajoso  para os  personagens. Normalmente,  cada
 _Setor_  é  associado  a  uma   das  _Capacidades_,  mas  isso  não  é
 obrigatório. Nenhuma nave pode ter  mais _Setores_ que a somatória dos
-bônus  de suas  Capacidades,  e  cada setor  Adiciona  dois níveis  de
+bônus  de  suas  Capacidades,  e  cada  setor  Adiciona  um  nível  de
 _Estrutura_  à  nave.  Além  disso,  cada  _Setor_  possui um  par  de
 Condições  chamadas  _Avariada_  e  _Destruída_. Cada  Setor,  ao  ser
 atingido diretamente (veja abaixo, em Combate), pode absorver 2 pontos
@@ -274,9 +274,69 @@ exige testes contra dificuldade _Ótimo (+4)_
 
 Segue  abaixo  uma  lista  de Setores  Possíveis  e  suas  Capacidades
 Associadas: nenhuma nave pode ter mais Setores associados ao mesmo que
-o bônus da Capacidade em questão.
+o  bônus da  Capacidade em  questão. Não  é necessário  adquirir todas
+elas, e  várias delas podem  ser adquiridas, mas apenas  um personagem
+poderá  fazer  um  teste  em  um determinado  Setor.  Para  efeito  de
+deslocamento humano, cada Setor é considerado uma Zona.
 
 - _**Peças de Artilharia** (Armamentos):_  permite a um personagem que
   esteja nesse Setor realizar um  ataque por conta própria, rolando as
   perícias adequadas (normalmente _Atirar_)
-- _**Centro de Comando** (Comunicação):_ permite a um personagem aqui realizar testes para coordenar as ações de outros personagens (por meio de _Comando_
+- _**Centro de Comando** (Comunicação):_  permite a um personagem aqui
+  realizar testes para  coordenar as ações de  outros personagens (por
+  meio de _Comando_)
+- _**Centro de Pilotagem** (Tripulação):_ permite a um personagem aqui
+  realizar testes para _Pilotagem_ da nave
+- _**Centrais de Força** (Energia):_ permite que um personagem obtenha
+  _Energia_   adicional,  _Criando   Vantagens_  para   obter  Energia
+  adicional
+- _**Suprimentos**  (Qualquer  uma):_  permite  adicionar  suprimentos
+  Extras para a nave, o que pode facilitar testes de reparo e afins
+- _**Centros computacionais**  (Radares/Comunicação):_ nesses centros,
+  o personagem pode processar informações obtidas por meio dos Radares
+  e de Comunicação e com isso obter informações adicionais;
+- _**Camarotes**  (Tripulação):_ indica  que a  nave possui  Camarotes
+  amplos  que permitam  um  fácil descanso  e  restauração das  forças
+  físicas e mentais da tripulação, de modo que a moral das tropas seja
+  mais ampla
+- _**Escudos  Defensivos:**  (Escudos):_   Esse  reforço  dos  Escudos
+  permite a nave resistir melhor a disparos
+- _**Ala Hospitalar:** (Tripulação)_ Pode ser usada para curar doenças
+  e problemas na tripulação
+- _**Centro de Pesquisa:** (Tripulação/Comunicação):_ Essa ala permite
+  investigar eventos e fazer simulações de maneira segura.
+- _**Hangar:** (Qualquer):_  Essa ala  representa um hangar  onde pode
+  estar uma ou mais naves,  além de outros veículos. Normalmente, cada
+  Hangar pode guardar naves de Nível  de Poder de até, no máximo, dois
+  níves abaixo do _Nível de Poder_  abaixo, além de um certo número de
+  botes  espaciais   (_Nível  de  Poder  Ruim   (-1)_),  prontos  para
+  ação. Outros veículos são armazenados como _Suprimentos_
+- _**Compensador Estrutural**  (Energia/Escudos):_ auxilia  evitando a
+  detecção da mesma;
+- _**Dectetor  de  Abalos**  (Energia/Radares):_ auxilia  a  localizar
+  naves que estejam saindo do hiperespaço
+
+O Mestre pode criar novos setores,  sendo que cada Setor deve oferecer
+uma bonificação para aquele que estiver no mesmo
+
+> _Exemplo:_   Vamos  definir   então  agora   a  _Estrutura_,   _Dano
+> Estrutural_  e _Setores_  da _Good  Hope_. O  _Dano Estrutural_  é o
+> mesmo  das Conseqüencias  de  um personagem  de  Fate Acelerado:  um
+> _**Suave  (2)**_,  um _**Moderado  (4)**_  e  por fim  um  _**Severo
+> (6)**_.
+>
+> Antes de definir os Setores, vamos definir a Estrutura: ele possui o
+> equivalente a 15 em bônus nas Capacidades (+1  (2 x +2) + (2 x +3) +
+> +4), com um total de 15 pontos de Estrutura portanto.
+>
+> Agora falta dividir os Setores:
+> - Central de Força (Energia)
+> - Central de Comando (Comunicação)
+> - Ala Hospital (Tripulação)
+> - Camarotes (Tripulação)
+> - Centro de Pesquisa (Comunicação)
+> - Escudos Defensivos (Escudos)
+> - Hangar x3 (Escudos)
+> - Detector de Abalos (Radares)
+> - Centro Computacional x2 (Radares)
+> - Peça de Artilharia x3 (Armamentos)
