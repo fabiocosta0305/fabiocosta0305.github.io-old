@@ -465,6 +465,7 @@ onde ele se sentirá a vontade.
 > Eles decidem também ter uma _Locação conjunta_ muito importante, que
 > é a região  do _Strawberry Fields_ do Central Park.   Essa locação é
 > importante por:
+>
 >   + Ser perto da Casa de Helen
 >   + ser onde eles foram "encontrados" quando voltaram do Reino, e
 >   + ser um local onde normalmente Mr. Tumnus estará próximo.
