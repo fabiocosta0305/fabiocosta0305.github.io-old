@@ -50,6 +50,10 @@ Então, vamos nessa!
      insólita,   como  empregadinhas   robóticas,  infernais,   ninja,
      samurai,  pirata,   ou  mesmo  uma  combinação   de  todos  esses
      elementos! _Nyan-nyan!_
+1. **Mais  recente compra de RPG:**  foram as versões em  português de
+   [Dungeon   World][7]    e   [Blood    and   Honor][8],    além   do
+   [Bestiário para  Old Dragon][9]  e o  [Cosa Nostra][10],  RPG sobre
+   Máfia
 
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
@@ -57,3 +61,7 @@ Então, vamos nessa!
 [4]: https://www.patreon.com/evilhat
 [5]: http://www.drivethrurpg.com/product/117481/Little-Wizards
 [6]: http://www.maidrpg.com/order.shtml
+[7]: http://www.secular-games.com/dungeon-world/
+[8]: http://redboxeditora.com.br/loja/blood-honor/blood-honor/
+[9]: http://redboxeditora.com.br/loja/old-dragon/old-dragon-bestiario/
+[10]: http://redboxeditora.com.br/loja/outros-rpgs/cosa-nostra/
