@@ -54,6 +54,11 @@ Então, vamos nessa!
    [Dungeon   World][7]    e   [Blood    and   Honor][8],    além   do
    [Bestiário para  Old Dragon][9]  e o  [Cosa Nostra][10],  RPG sobre
    Máfia
+1. **RPG jogado mais recentemente:** Durante o _Encontro Internacional
+   de  RPG_ na  _Anime  Friends 2015_,  eu  mestrei algumas  aventuras
+   baseadas   em   _Fate   Core_   e  _Fate   Acelerado_.   No   caso,
+   [_Quem Derreteu o Raposo?_][11], _Coração Humano, Corpo de Desenho_
+   e [_A Base Perdida_][12]
 
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
@@ -65,3 +70,5 @@ Então, vamos nessa!
 [8]: http://redboxeditora.com.br/loja/blood-honor/blood-honor/
 [9]: http://redboxeditora.com.br/loja/old-dragon/old-dragon-bestiario/
 [10]: http://redboxeditora.com.br/loja/outros-rpgs/cosa-nostra/
+[11]: https://drive.google.com/file/d/0B5ecFMxgUsUQQ1AwaGlBVFZVQXM/edit?usp=docslist_api
+[12]: https://drive.google.com/file/d/0B5ecFMxgUsUQeWtmZm9Ma3dzRFk/edit?usp=docslist_api
