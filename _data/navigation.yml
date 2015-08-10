@@ -40,9 +40,9 @@
   url: "/fae/"
   side: left
 
-- title: Fate Masters
-  url: "/fate-masters/"
-  side: left
+# - title: Fate Masters
+#   url: "/fate-masters/"
+#   side: left
 
 # - title: "Templates"
 #   url: "/design/"
