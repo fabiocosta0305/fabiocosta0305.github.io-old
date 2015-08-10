@@ -108,6 +108,14 @@
 #   - title: "Blog Archive"
 #     url: "/blog/archive/"
 
+- title: Podcasts
+  side: right
+  dropdown:
+    - title: "Fate Masters"
+      url: "/fate-masters/"
+    - title: "Rolando +4"
+      url: "/rolando-mais-quatro/"
+      
 - title: "Pesquisa"
   url: "/search/"
   side: right
