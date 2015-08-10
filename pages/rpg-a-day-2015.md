@@ -63,6 +63,59 @@ Então, vamos nessa!
    Core,    tanto     na    [versão    brasileira][1]     quanto    na
    [versão americana][13], gostaria de indicar o [Fudge][14], o avô do
    Fate, que você encontra em português [nesse link][15]
+1. **Aparição  de RPG na  mídia mais  interessante:** Vou ficar  com o
+   clássico _E.T.  - O Extraterrestre_,  onde a coisa toda  começa com
+   [crianças jogando _Dungeons & Dragons_][16]
+1. **Mídia favorita  que gostaria de ver em RPG:**  No meu caso, gosto
+   tanto que  estou fazendo  eu mesmo:  fico com  a clássica  série de
+   Ficção Científica  [**_Perry Rhodan_**][17],  um clássico  do SciFi
+   _pulp_, que  pode ser considerado  facilmente como o  _Flash Gordon
+   Alemão_. Até hoje em publicação  na Alemanha, conta as aventuras de
+   _Perry Rhodan_, um ex-astronauta americano que entra em contato com
+   uma nave alienígena no Lado Escuro da  Lua. Essa nave é uma nave de
+   resgate  ocupada por  dois integrantes  da raça  Arconita, Crest  e
+   Thora. A partir daí, toda uma gama de aventuras tem início, desde o
+   início da expansão dos humanos  da terra (_Terranos_, como viriam a
+   ser conhecidos),  até aventuras no Tempo  e no Espaço nas  quais os
+   mesmos  acabam  interferindo  (e   sendo  manipulados  também)  por
+   consciências além do tempo e  do espaço, como _Superconsciências_ e
+   _Cosmocratas_  e  _Caoscratas_.   Atualmente está  no  Volume  2817
+   (!!!!), ou seja, no 39° Ciclo (normalmente cada ciclo conta de 50 a
+   100 volumes), ele  ainda inspirou um _reboot_  chamado Perry Rhodan
+   NEO, além de arcos focados em determinados povos e personagens mais
+   interessantes,  como Atlan  e  os Lemurenses.  No  meu caso,  estou
+   adaptando  Perry Rhodan  para Fate  Core dentro  de um  determinado
+   ritmo que nunca acompanharia o ritmo que ocorre na Alemanha, já que
+   no  Brasil   o  que  temos   publicado  chega  até  o   volume  680
+   aproximadamente.    Mas    fique    a   vontade    para    ver    o
+   [Destino de Perry Rhodan][18]
+1.   **Editora   Favorita  de   RPG:**  Eu   fico  obviamente   com  a
+   [_Evil  Hat_][19] que,  além do  Fate  Core e  Fate Acelerado,  tem
+   muitos        outros         RPGs        interessantes,        como
+   [_Don't              Rest             Your              Head_][20],
+   [_Do:  Pilgrims  of the  Flying  Temple_][21]  (que está  para  ser
+   adaptado  para  Fate  Core)  e [_Happy  Birthday,  Robot_][22],  um
+   excelente jogo para jogar-se com  crianças que, ainda que não entre
+   exatamente  na   definição  "clássica"  de  RPG,   é  sobre  contar
+   histórias,  e  isso  é  o   suficiente.   No  Brasil,  fico  com  a
+   [Solar Editora][23], que  está trazendo [Fate para  o Brasil][2]; a
+   [Jambô][24], que mantem uma  série grande de sistemas interessantes
+   no      Brasil,     como      [Reinos      de     Ferro][25]      e
+   [Tormenta (o principal cenário de RPG nacional)][26], além da linha
+   clássica   [Defensores  de   Tóquio  3ª   Edição  -   3D&T][27];  a
+   [Retropunk][28], que além de ter trazido o primeiro cenário de Fate
+   para                  o                 Brasil                  com
+   [_Espírito do Século_ (já fora de catálogo, apenas com venda em PDF)][29],
+   tem  um  bom catálogo  de  RPGs  _indies_  de  fora do  país,  como
+   [Fiasco][30], [Rastro  de Cthulhu][31] e [Savage  Worlds][32], além
+   de  continuamente realizar  lançamentos e  financiamentos coletivos
+   interessantes para o público  nacional; e [Redbox Editora][33], que
+   mantém um  retroclone próprio  muito interessante, o  _Old Dragon_,
+   que gerou  seu próprio _spin-off_  chamado _Space Dragon_,  além de
+   investir    em   RPGs    _indies_    como   [_Cosa    Nostra_][35],
+   [_Shotgun Diaries_][36]  e [_Blood and Honor_][34],  além de trazer
+   con regularidade  coisas interessantes,  como _Icons_  e _Classroom
+   Deathmatch_
 
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
@@ -79,3 +132,24 @@ Então, vamos nessa!
 [13]: http://www.faterpg.com/
 [14]: http://www.fudgerpg.com/
 [15]: https://maisquatro.files.wordpress.com/2008/08/fudge-rediagramado.pdf
+[16]: http://dungeonsndigressions.blogspot.com/2009/09/d-in-spielbergs-1982-et-extra.html
+[17]: https://en.wikipedia.org/wiki/Perry_Rhodan
+[18]: /fate-core/perry-rhodan/
+[19]: http://www.evilhat.com
+[20]: http://www.evilhat.com/home/dont-rest-your-head-2/
+[21]: http://www.evilhat.com/home/do-pilgrims-of-the-flying-temple/
+[22]: http://www.evilhat.com/home/happy-birthday-robot-3/
+[23]: https://www.facebook.com/solarentretenimento
+[24]: http://jamboeditora.com.br/
+[25]: http://jamboeditora.com.br/categoria/reinos-de-ferro/
+[26]: http://jamboeditora.com.br/categoria/tormenta/
+[27]: http://jamboeditora.com.br/categoria/3det/
+[28]: http://wwww.retropunk.net/editora/
+[29]: http://www.retropunk.net/editora/rpg/fora-de-catalogo-out-of-print/espirito-do-seculo/
+[30]: http://www.retropunk.net/editora/rpg/fiasco/
+[31]: http://www.retropunk.net/editora/rpg/rastro-de-cthulhu/
+[32]: http://www.retropunk.net/editora/rpg/savage-worlds/
+[33]: http://redboxeditora.com.br/
+[34]: http://redboxeditora.com.br/loja/blood-honor/blood-honor/
+[35]: http://redboxeditora.com.br/loja/outros-rpgs/cosa-nostra/
+[36]: http://redboxeditora.com.br/loja/rpg/shotgun-diaries/
