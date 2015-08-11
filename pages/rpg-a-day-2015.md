@@ -116,7 +116,13 @@ Então, vamos nessa!
    [_Shotgun Diaries_][36]  e [_Blood and Honor_][34],  além de trazer
    con regularidade  coisas interessantes,  como _Icons_  e _Classroom
    Deathmatch_
-
+1.   **Criador  de  jogos  favoritos:**   Eu  fico  com  a  equipe  da
+   [Evil  Hat][19],   em  especial  o   time  do  [Fate   Core][13]  -
+   [Fred   Hicks][37],   [Leonard  Balsera][38],   [Mike   Olson][39],
+   [Ryan Macklin][40]  e [Amanda Valentine][41], entre  outros. Se não
+   bastasse o Fate Core, eles também nos deram uma coisa linda chamada
+   [Atomic Robo RPG][42]
+   
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
 [3]: https://www.kickstarter.com/projects/1801630747/primetime-adventures
@@ -153,3 +159,9 @@ Então, vamos nessa!
 [34]: http://redboxeditora.com.br/loja/blood-honor/blood-honor/
 [35]: http://redboxeditora.com.br/loja/outros-rpgs/cosa-nostra/
 [36]: http://redboxeditora.com.br/loja/rpg/shotgun-diaries/
+[37]: http://www.deadlyfredly.com/
+[38]: https://plus.google.com/+LeonardBalsera/
+[39]: https://plus.google.com/107927730023254233247
+[40]: https://plus.google.com/+RyanMacklin
+[41]: http://www.ayvalentine.com/
+[42]: http://www.evilhat.com/home/atomic-robo/

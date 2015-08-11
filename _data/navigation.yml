@@ -7,14 +7,6 @@
   side: left
 # dropdown:
 
-- title: RPG-A-Day
-  side: left
-  dropdown:
-    - title: "2015"
-      url: "/rpg-a-day/2015/"
-    - title: "2014"
-      url: "/rpg-a-day/2014/"
-      
 # - title: Fate
 #   url: "/fate/"
 #   side: left
@@ -116,6 +108,15 @@
     - title: "Rolando +4"
       url: "/rolando-mais-quatro/"
       
+- title: RPG-A-Day
+  side: right
+  dropdown:
+    - title: "2015"
+      url: "/rpg-a-day/2015/"
+    - title: "2014"
+      url: "/rpg-a-day/2014/"
+      
+
 - title: "Pesquisa"
   url: "/search/"
   side: right
