@@ -1,5 +1,5 @@
 ---
-title: Destino das Séries
+title: Destino das Séries - Criação de Campanha
 subheadline: Uma  adaptação do sistema de Criação de Campanha de Primetime Adventures para Fate
 layout: post
 comments: true
