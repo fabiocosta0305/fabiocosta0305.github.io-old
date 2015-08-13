@@ -15,11 +15,17 @@ tags:
 header: no
 ---
 
+O objetivo  desse artigo  é explicar como  criar uma  série (campanha)
+baseando-se  no  mesmo  sistema  de criação  de  série  de  _Primetime
+Adventures_. A idéia  é começar um sistema de adaptação  das regras de
+_Primetime Adventures_ para Fate
+
 ### Definindo a Premissa
 
 Cada  Jogador,  junto  com  o   Mestre,  escolhe  dois  termos  únicos
 (normalmente uma  ou duas palavras)  para Escolher as  Premissas. Esse
-pode ser um momento para escolher o nome da série.
+pode ser um momento para escolher o  nome da série. Esse também será o
+momento onde será definida a Ambientação/Era de sua série:
 
 >  _**Exemplo:**_ Matheus, Julia, e  Ricardo, além do Narrador (Lúcio)
 >  estão começando a  sua campanha em Série. Para isso,  cada um deles
@@ -56,6 +62,12 @@ descartar ou reservar para outras temporadas)
 > + O _Escopo_ de cada Conto
 > + Em dois mundos e em nenhum ao mesmo tempo
 > + O Mistério dos Guardiões
+
+Como dissemos anteriormente, aqui também será definida a Ambientação
+
+> No  caso, _Fae  Guardians_ tem  como Ambientação  _Fantasia Urbana_,
+> devido aos  elementos combinados  de Fantasia, Sobrenatural  e Mundo
+> Moderno
 
 ### Definindo Convenções
 
@@ -156,7 +168,9 @@ provavelmente os personagens dos jogadores:
 > + Protetores
 > + Subordinados dos Guardiões
 > + Palhaços (Assassinos ou não)
+> + Godzilla e outros monstros gigantes (!!!)
 > + Loira do Banheiro
+> + Paul Bunyan
 
 Nesse  momento,  novamente,  o  Narrador  pode  pescar  alguns  desses
 elementos como Aspectos
@@ -166,7 +180,7 @@ elementos como Aspectos
 > 
 > + Gigantes na _Big Apple_
 > + _Fairy Grandmother in New York_
-> + Tiamat vs _Slendermen_
+> + Tiamat vs _Slendermen_ e _Godzilla vs Paul Bunyan_
 
 ### Definindo Protagonistas
 
