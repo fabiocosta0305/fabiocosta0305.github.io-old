@@ -321,7 +321,13 @@ participação de tela:
 +   *Nove  Episódios:*   três  episódios   como  **Apoio**,   um  como
   **Protagonista** e quatro como ***Background***;
 +   *Cinco   Episódios:*  um   episódio   como   **Apoio**,  um   como
-  **Protagonista** e dois como ***Background***;
+**Protagonista** e dois como ***Background***;
+
+Perceba que  na realidade você  distribuirá apenas quatro ou  oito das
+informações  de presença  de  tela. Isso  se  deve ao  fato  de que  o
+primeiro episódio,  o _Piloto_  inclui todos  os personagens  no mesmo
+nível  de _Apoio_  (já  que o  público está  começando  a conhecer  os
+personagens)
 
 > **Exemplo:**  Agora  os personagens  vão  definir  sua _Presença  de
 > Tela_.  Como  é a  primeira  vez  que  estão tentando  _Destino  das
@@ -337,14 +343,15 @@ participação de tela:
 > | _**Robert**_   | `AAPBB`  |
 
 Aqui também os jogadores podem definir  como eles querem que as coisas
-prossigam na Série:
+prossigam na Série,  em especial considerando como  cada um distribuiu
+suas presenças de tela:
 
 > **Exemplo:** Matheus  decidiu guardar seu protagonismo  para o final
 > porque ele  quer passar  as aventuras que  ele está  em *Background*
-> para  investigar informações  sobre  os misteriosos  Guardiões e  os
-> motivos pelos  quais eles não  se lembram  dos eventos no  mundo dos
-> Contos de Fadas, e no final  será o momento onde Pericles revelará o
-> resultado de suas investigações.
+> investigando informações sobre os misteriosos Guardiões e os motivos
+> pelos quais eles  não se lembram dos eventos no  mundo dos Contos de
+> Fadas, e no final será o  momento onde Pericles revelará o resultado
+> de suas investigações.
 >
 > Julia decidiu  que seu protagonismo  será logo na  segunda aventura,
 > assim  Helen pode  cair em  _Background_  e oferecer  algum apoio  a
