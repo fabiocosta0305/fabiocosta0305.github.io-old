@@ -122,7 +122,16 @@ Então, vamos nessa!
    [Ryan  Macklin][40], [Rob  Donoghue][43],  [Clark Valentine][44]  e
    [Amanda Valentine][41], entre outros.  Se não bastasse o Fate Core,
    eles    também    nos    deram     uma    coisa    linda    chamada
-   [Atomic Robo RPG][42].  
+   [Atomic Robo RPG][42].
+1. **Ilustração  Favorita de  RPG:** Sem  sombra de  dúvidas... Todas,
+   T-O-D-A-S, as de Castelo Falkenstein, por William Eaken. Veja só essas abaixo:
+   [![/images/falkdrag.JPG.jpeg](/images/falkdrag.JPG.jpeg)](/images/falkdrag.JPG.jpeg)
+   [![/images/falkenstein.jpg](/images/falkenstein.jpg)](/images/falkenstein.jpg)
+[![/images/Zamek-Falkenstein-Galeria-01.jpg](/images/Zamek-Falkenstein-Galeria-01.jpg)](/images/Zamek-Falkenstein-Galeria-01.jpg)
+1. **Podcast de  RPG favorito:** Além dos óbvios  [Fate Masters][45] e
+   [Rolando +4][46], gosto do [Teatro de Mesa][47], além dos vídeos do
+   [Red                        Dice                       Diaries][48]
+   
    
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
@@ -168,3 +177,7 @@ Então, vamos nessa!
 [42]: http://www.evilhat.com/home/atomic-robo/
 [43]: https://plus.google.com/u/0/+RobDonoghue/
 [44]: https://plus.google.com/+ClarkValentine/posts
+[45]: /fate-masters/
+[46]: /rolando-mais-quatro/
+[47]: http://www.teatrodemesa.com.br/assuntos-aleatorios-2/
+[48]: http://reddicediaries.com/category/podcast/
