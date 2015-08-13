@@ -261,7 +261,7 @@ para a criação de série esses três Aspectos são o que bastam.
 > sente culpada por ter nascido rica
 >
 >+ _**Helen Richelieu**_
->	+ **Conceito:** Filantopa Socialite Portadora da _Fada Madrinha_
+>	+ **Conceito:** Socialite Filantropa Portadora da _Fada Madrinha_
 >	+ **Dificuldade:** Pobre menina rica
 >	+ **Impulso:** Madre Teresa de Calcutá
 >
