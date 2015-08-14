@@ -131,6 +131,13 @@ Então, vamos nessa!
 1. **Podcast de  RPG favorito:** Além dos óbvios  [Fate Masters][45] e
    [Rolando +4][46], gosto do [Teatro de Mesa][47], além dos vídeos do
    [Red                        Dice                       Diaries][48]
+1.   **Acessório  favorito  de  RPG:**   Fico  em  dúvida  se  são  os
+   [Fudge Dice][49]  que tenho  da Grey Ghost  Games, empresa  que até
+   hoje   mantém   o    [Fudge   RPG][14],   ou   se    fico   com   o
+   [App  Fate  Dice  para  Android][50], feito  pelos  Brasileiros  da
+   [RPG Automails][51],  que permite que  se role dados para  Fate sem
+   precisar dos dados  Fate (ou Fudge) físicos, que  são meio difíceis
+   de achar, pela tela do celular.
    
    
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
@@ -181,3 +188,6 @@ Então, vamos nessa!
 [46]: /rolando-mais-quatro/
 [47]: http://www.teatrodemesa.com.br/assuntos-aleatorios-2/
 [48]: http://reddicediaries.com/category/podcast/
+[49]: http://www.fudgerpg.com/products/fudge-dice.html
+[50]: https://play.google.com/store/apps/details?id=com.rpgautomails.fatedice&hl=pt_BR
+[51]: http://rpgautomails.com/
