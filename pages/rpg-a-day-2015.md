@@ -138,7 +138,13 @@ Então, vamos nessa!
    [RPG Automails][51],  que permite que  se role dados para  Fate sem
    precisar dos dados  Fate (ou Fudge) físicos, que  são meio difíceis
    de achar, pela tela do celular.
-   
+1.   **A  campanha mais  longa  já  jogada:**  Foi minha  campanha  de
+   _Pokémon_ usando 3D&T...
+1. Estou mudando a questão aqui de **A aventura mais longa já jogada**
+   para **Melhor RPG para crianças**: nesse caso, ao invés de optar no
+   _Fate Acelerado_, fico  com o [_Little Wizards_][5], que  é um jogo
+   muito bacana para  crianças, com a simplicidade e o  _flavor_ que o
+   gênero pede.
    
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
