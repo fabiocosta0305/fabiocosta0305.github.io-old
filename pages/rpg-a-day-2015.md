@@ -145,6 +145,14 @@ Então, vamos nessa!
    _Fate Acelerado_, fico  com o [_Little Wizards_][5], que  é um jogo
    muito bacana para  crianças, com a simplicidade e o  _flavor_ que o
    gênero pede.
+1. **RPG  de Fantasia Favorito:** Estou  um pouco na dúvida,  mas acho
+   que vou no clássico [_Tormenta RPG_][26] da [_Jambô Editora_][24]
+1.   **RPG de  Ficção Científica  Favorito:** Nesse  caso, fico  com o
+   Clássico  (e  descontinuado)  _Star  Wars d6_  da  AEG.   Nos  mais
+   modernos,     ficaria     com      os     módulos     para     Fate
+   [_Sail    Full   of    Stars_][53],   [_Aether    Sea_   ][54]    e
+   [   _Psychedemia_][55],   da   [Evil  Hat][4],   e   o   brasileiro
+   [Space Dragon][52] da [Redbox Editora][33]
    
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
@@ -197,3 +205,7 @@ Então, vamos nessa!
 [49]: http://www.fudgerpg.com/products/fudge-dice.html
 [50]: https://play.google.com/store/apps/details?id=com.rpgautomails.fatedice&hl=pt_BR
 [51]: http://rpgautomails.com/
+[52]: http://redboxeditora.com.br/category/space-dragon/
+[53]: http://www.drivethrurpg.com/product/150022/Sails-Full-of-Stars--A-World-of-Adventure-for-Fate-Core
+[54]: http://www.drivethrurpg.com/product/139872/Aether-Sea--A-World-of-Adventure-for-Fate-Core
+[55]: http://www.drivethrurpg.com/product/142732/Psychedemia--A-World-of-Adventure-for-Fate-Core
