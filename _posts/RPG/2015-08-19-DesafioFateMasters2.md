@@ -15,10 +15,6 @@ tags:
 header: no
 ---
 
-#Desafio Fate Masters #2 
-
-## Um encontro com um Dragão em seu covil
-
 ### Parte 1 - O Dragão
 
 #### Aspectos
