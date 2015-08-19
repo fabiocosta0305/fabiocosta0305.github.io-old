@@ -153,6 +153,10 @@ Então, vamos nessa!
    [_Sail    Full   of    Stars_][53],   [_Aether    Sea_   ][54]    e
    [   _Psychedemia_][55],   da   [Evil  Hat][4],   e   o   brasileiro
    [Space Dragon][52] da [Redbox Editora][33]
+1. **RPG de Supers Favorito:** Nunca joguei muito supers, mas se conta
+   a    categoria,    acho    que    o    clássico    [3D&T][27]    da
+   [_Jambô  Editora_][24]  seria  minha indicação,  pela  simplicidade
+   extrema ao criar personagens e pela escala épica que ele favorece
    
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
