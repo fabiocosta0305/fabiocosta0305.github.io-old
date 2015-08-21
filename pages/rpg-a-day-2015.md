@@ -157,7 +157,28 @@ Então, vamos nessa!
    a    categoria,    acho    que    o    clássico    [3D&T][27]    da
    [_Jambô  Editora_][24]  seria  minha indicação,  pela  simplicidade
    extrema ao criar personagens e pela escala épica que ele favorece
-   
+1. **RPG de Horror favorito:** de todos  os que já vi e tive, acho que
+   o mais aterrorizante é o  [_Kult, 1ª Edição_][56]. Esse RPG europeu
+   de horror  tem como ponto  mais perturbador é  como ele lida  com a
+   questão   da    _desumanização_   do   personagem    enquanto   ele
+   _"ascende/descende"_  e  descobre  as  verdades  sobre  Demiurgo  e
+   Metropolis. Isso para mim é  realmente perturbador, porque o terror
+   não é exterior, mas interior.
+1.    **Cenário de  RPG Favorito:**  Me perdoem  os que  amam fantasia
+   medieval, mas  comigo _O Grande  Jogo Está em andamento_,  meu caro
+   amigo!      Sim,    meu     cenário    de     RPG    favorito     é
+   [Castelo Falkenstein][57], porque você tem  um livro lindo, com uma
+   diagramação  primorosa e  uma arte  que simplesmente  embriaga seus
+   olhos;  uma  mecânica estupidamente  simples,  mas  mágica e  muito
+   condizente  com  o  tom  do  cenário;  um  sistema  de  criação  de
+   personagem  que estimula  o idílio  e com  isso a  interpretação do
+   _Dramatis Personae_; um sistema de criação de campanha que estimula
+   ao _Anfitrião_ também descrever toda  a saga dos personagens em uma
+   forma literária  vitoriana e; Sistemas  de Magia e  de Dispositivos
+   Infernais  que  permitem   você  criar  todo  tipo   de  poderes  e
+   anacronismos que sua campanha demandar Nem preciso dizer mais nada,
+   fecho com _Castelo Falkenstein_
+
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
 [3]: https://www.kickstarter.com/projects/1801630747/primetime-adventures
@@ -213,3 +234,5 @@ Então, vamos nessa!
 [53]: http://www.drivethrurpg.com/product/150022/Sails-Full-of-Stars--A-World-of-Adventure-for-Fate-Core
 [54]: http://www.drivethrurpg.com/product/139872/Aether-Sea--A-World-of-Adventure-for-Fate-Core
 [55]: http://www.drivethrurpg.com/product/142732/Psychedemia--A-World-of-Adventure-for-Fate-Core
+[56]: https://en.wikipedia.org/wiki/Kult_(role-playing_game)
+[57]: https://en.wikipedia.org/wiki/Castle_Falkenstein_(role-playing_game)
