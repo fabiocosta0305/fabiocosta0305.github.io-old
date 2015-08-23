@@ -133,4 +133,81 @@ __*Nota:*__ Silas segue o sistema de [_Spirit Helpers_][1]. Como vantagem, um jo
 + **As Tradições dos Antepassados:** Recebe _+2 em Mente_ toda vez que _Criar Vantagens_ por _Mente_ baeando-se em coisas que ouviu dos mais velhos e de outras pessoas mais sábias que ele
 + **As Lendas e Histórias:** _Uma vez por sessão_ Silas pode gerar um _Aspecto baseado em Lendas_ automaticamente, sem precisar de testes
 
+### Personagens Importantes
+
+Esses personagens são criados como personagens de suporte
+
+#### Emily, a camundonga do campo
+
+Uma camundonga americana do campo, Emily é sempre bem afeiçoada e educada. Por sua vivência no campo, ela consegue se afeiçoar facilmente e falar os idiomas de muitos animais grandes, como burros e até mesmo tigres(!?!?!?!?!?). Curiosamente, ela é suscetível facilmente a espirros alérgicos provocados por substâncias como velas e afins. Ela não se deixa levar por preconceitos contra ratos e afins, mas ao mesmo tempo não aceita facilmente injustiças, em especial entre camundongos. Gosta de viver novas experiências, como esquiar e voar de balão.
+
+##### Aspectos
+
+| **Conceito:**    | Uma camungonda do campo com bom coração                 |
+| **Dificuldade:** | Não tem muita paciência com a injustiça                 |
+|                  | Alexander é desastrado demais para ser deixado sozinho  |
+|                  | Sempre bela e formosa, não importa o que acontece       |
+|                  | Alergia - certas substâncias a fazem espirrar           |
+
+##### Perícias
+
+| **Ótimo (+4):**    | Percepção | Empatia | Atletismo |
+| **Bom (+3):**      | Educação  | Contatos | |
+| **Razoável (+2):** | Trapaças  | | |
+
+##### Façanhas
+
++ **Detector de Mentiras (FB 100):** Recebe _+2_  em todos os testes de _Empatia_ para descobrir ou deduzir mentiras
++ **Psicologista (FB100):** Uma vez por sessão pode usar Empatia para curar uma Consequência de alguém
++ **Bisbilhoteiro (FB 106):** Em uma rolagem de _Percepção_ bem sucedida para ouvir uma conversa, pode descobrir ou criar um Aspecto adicional (sem invocação gratuita)
+
+#### Alexander, o camundongo da cidade
+
+Um camundongo americano da cidade, Alexander é um dandi que gosta de se vestir impecavelmente. Gosta de mostrar-se como um camundongo valente, mas na realidade ele é comilão e desastrado. Apesar disso, ele é muito esperto e sabe muito da cultura e (em especial) etiqueta de outros povos, em especial no quesito da vestimenta. Além disso é um tagarela galanteador
+
+##### Aspectos
+
+| **Conceito:**    | Um camundongo da cidade cheio de estilo                 |
+| **Dificuldade:** | Dandi - tem um fraco por camungondas bonitas            |
+|                  | _Noblesse Oblige_ - Emily precisa ser protegida         |
+|                  | As roupas fazem o monge - não gosta de ratos por isso   |
+|                  | Sem-rabo Não vale nada é um salafrário imprestável      |
+
+##### Perícias
+
+| **Ótimo (+4):**    | Educação  | Empatia | Atletismo |
+| **Bom (+3):**      | Recurso   | Contatos | |
+| **Razoável (+2):** | Percepção | | |
+
+##### Façanhas
+
++ **Boa Impressão (FB 92):** Duas vezes por sessão, ao receber um impulso por meio de testes de _Educação_, pode torná-lo um Aspecto de Situação com uma Invocação Gratuita
++ **Popular (FB 92):** Numa região onde Alexander for bem visto, pode usar _Educação_ no lugar de _Contatos_. Pode usar 1 PD para declarar sua popularidade em uma região
++ **O Poder da Dedução (FB 106):** Uma vez por sessão, gastando um PD, pode rolar _Percepção_ para declarar novos Aspectos de Cena representando seu poder de dedução. Cada tensão gera um Aspecto novo na cena ou no alvo, mas apenas um deles pode receber Invocação Gratuita
+
+#### Sem-rabo não vale nada, o maior rato ladrão do mundo
+
+Um trapaceiro, criminoso de todos os tipos, Sem-rabo não vale nada costuma tentar todo tipo de golpes. Como não possui um rabo (como diz seu nome), ele sempre é reconhecível por usar rabos falsos que nunca permanecem no lugar, vira e mexe caindo. Costuma aproveitar as crendices locais para realizar seus golpes. Sempre que é descoberto, tenta fugir
+
+##### Aspectos
+
+| **Conceito:**    | O maior rato ladrão de todo mundo                             |
+| **Dificuldade:** | Sem rabo - seus rabos falsos vivem caindo nos piores momentos |
+|                  | Um covarde assumido                                           |
+|                  | Objetivo de vida: realizar um grande roubo para aposentar-se  |
+|                  | Emily e Alexander são dois enxeridos                          |
+
+##### Perícias
+
+| **Ótimo (+4):**    | Trapaças  | 
+| **Bom (+3):**      | Percepção | 
+| **Razoável (+2):** | Educação  | 
+
+##### Façanhas
+
++ **Sempre há uma saída (FB 116):** +2 em testes de _Criar vantagens_ com  _Trapaças_ ao tentar escapar de algum lugar
++ **Gíria da Malandragem (FB 116):** Pode usar _Trapaças_ no lugar de _Contatos_ ao lidar com malandros
++ **Fazendo o outro de patinho (FB 116):** +2 em testes de _Criar vantagens_ com  _Trapaças_ para usar as crendices dos outros
+
+
 [1]: /rpg/SpiritHelpers/
