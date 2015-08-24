@@ -186,12 +186,12 @@ Então, vamos nessa!
    no _Fate  Acelerado_, mas  além desses  ficaria fácil  com _Castelo
    Falkenstein_ e _3D&T_.
 1. **Melhor regra de casa:**  sinceramente, qualquer uma bem negociada
-   entre  Narrador  e  Jogadores.  Nesse ponto  _Fate  Básico_e  _Fate
+   entre  Narrador e  Jogadores.  Nesse  ponto _Fate  Básico_ e  _Fate
    Acelerado_ são interessantes, uma vez  que eles são expansíveis _ad
-   infinitum_   e  por   causa  da   Regra  de   Bronze  e   do  _Fate
-   Fractal_.  Gosto  de  comparar  Fate  Básico  com  a  linguagem  de
-   programação C:  simples pra caramba, mas  altamente expansível, com
-   regras simples que podem ir até onde você deseja;
+   infinitum_ e  por causa  da Regra  de Bronze  e do  _Fate Fractal_.
+   Gosto de  comparar Fate  Básico com a  linguagem de  programação C:
+   simples pra  caramba, mas altamente expansível,  com regras simples
+   que podem ir até onde você deseja;
 
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
