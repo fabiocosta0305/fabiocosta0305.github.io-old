@@ -178,6 +178,20 @@ Então, vamos nessa!
    Infernais  que  permitem   você  criar  todo  tipo   de  poderes  e
    anacronismos que sua campanha demandar Nem preciso dizer mais nada,
    fecho com _Castelo Falkenstein_
+1. **Melhor  Ambiente para jogar  RPG:** Qualquer um, desde  que tenha
+   amigos, dados, fichas e gordices... 8-D
+1.  **Jogo perfeito  para mim:**  Olhando para  cima, deve  ter ficado
+   claro que sistemas simples mas que possam ser facilmente expandidos
+   são um _must_ para mim. Atualmente encontro isso no _Fate Básico_ e
+   no _Fate  Acelerado_, mas  além desses  ficaria fácil  com _Castelo
+   Falkenstein_ e _3D&T_.
+1. **Melhor regra de casa:**  sinceramente, qualquer uma bem negociada
+   entre  Narrador  e  Jogadores.  Nesse ponto  _Fate  Básico_e  _Fate
+   Acelerado_ são interessantes, uma vez  que eles são expansíveis _ad
+   infinitum_   e  por   causa  da   Regra  de   Bronze  e   do  _Fate
+   Fractal_.  Gosto  de  comparar  Fate  Básico  com  a  linguagem  de
+   programação C:  simples pra caramba, mas  altamente expansível, com
+   regras simples que podem ir até onde você deseja;
 
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
