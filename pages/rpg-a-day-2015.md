@@ -192,6 +192,17 @@ Então, vamos nessa!
    Gosto de  comparar Fate  Básico com a  linguagem de  programação C:
    simples pra  caramba, mas altamente expansível,  com regras simples
    que podem ir até onde você deseja;
+1. **Mecânica  diferenciada de jogo favorita:**  Particularmente gosto
+   do sistema  de resolução de  ações do _Castelo Falkenstein_  e como
+   ele se  encaixou de maneira  perfeita ao ambiente vitoriano,  com a
+   questão  sobre como  usar os  naipes  para determinar  que tipo  de
+   perícias são  ou não  afetadas pelas cartas  do jogador  de maneira
+   integral, e  como isso se  expande elegantemente para o  sistema de
+   duelos e de magia;
+1. **Inspirações favoritas:** Gosto muito de me inspirar em desenhos e
+   filmes clássicos  dos anos 80,  em especial nos  desenhos clássicos
+   infanto-juvenis,  o  que  cobre  desde  _Ursinhos  Carinhosos_  até
+   _Thundercats_ e tudo no meio do caminho
 
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate

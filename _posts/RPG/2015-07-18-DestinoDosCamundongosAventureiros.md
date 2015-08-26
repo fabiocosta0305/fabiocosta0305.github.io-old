@@ -139,7 +139,16 @@ Esses personagens são criados como personagens de suporte
 
 #### Emily, a camundonga do campo
 
-Uma camundonga americana do campo, Emily é sempre bem afeiçoada e educada. Por sua vivência no campo, ela consegue se afeiçoar facilmente e falar os idiomas de muitos animais grandes, como burros e até mesmo tigres(!?!?!?!?!?). Curiosamente, ela é suscetível facilmente a espirros alérgicos provocados por substâncias como velas e afins. Ela não se deixa levar por preconceitos contra ratos e afins, mas ao mesmo tempo não aceita facilmente injustiças, em especial entre camundongos. Gosta de viver novas experiências, como esquiar e voar de balão.
+Uma  camundonga americana  do campo,  Emily é  sempre bem  afeiçoada e
+educada.  Por  sua  vivência  no   campo,  ela  consegue  se  afeiçoar
+facilmente e falar os idiomas de muitos animais grandes, como burros e
+até   mesmo  tigres(!?!?!?!?!?).   Curiosamente,   ela  é   suscetível
+facilmente a espirros alérgicos  provocados por substâncias como velas
+e  afins, apesar  disso  também indicar  que ela  tem  um nariz  muito
+sensível e  capaz de distinguir  cheiros. Ela  não se deixa  levar por
+preconceitos  contra ratos  e afins,  mas  ao mesmo  tempo não  aceita
+facilmente injustiças,  em especial entre camundongos.  Gosta de viver
+novas experiências, como esquiar e voar de balão.
 
 ##### Aspectos
 
@@ -147,7 +156,7 @@ Uma camundonga americana do campo, Emily é sempre bem afeiçoada e educada. Por
 | **Dificuldade:** | Não tem muita paciência com a injustiça                 |
 |                  | Alexander é desastrado demais para ser deixado sozinho  |
 |                  | Sempre bela e formosa, não importa o que acontece       |
-|                  | Alergia - certas substâncias a fazem espirrar           |
+|                  | Um nariz muito sensível                                 |
 
 ##### Perícias
 
@@ -157,21 +166,32 @@ Uma camundonga americana do campo, Emily é sempre bem afeiçoada e educada. Por
 
 ##### Façanhas
 
-+ **Detector de Mentiras (FB 100):** Recebe _+2_  em todos os testes de _Empatia_ para descobrir ou deduzir mentiras
-+ **Psicologista (FB 100):** Uma vez por sessão pode usar Empatia para curar uma Consequência de alguém
-+ **Bisbilhoteiro (FB 106):** Em uma rolagem de _Percepção_ bem sucedida para ouvir uma conversa, pode descobrir ou criar um Aspecto adicional (sem invocação gratuita)
-+ **Especialista em Idiomas de Outros Animais (FB 96, aplicado a Educação):** +2 em todos os rolamentos envolvendo entender outros animais
++ **Detector de Mentiras (FB 100):** Recebe _+2_ em todos os testes de
+  _Empatia_ para descobrir ou deduzir mentiras
++ **Psicologista (FB 100):** Uma vez por sessão pode usar Empatia para
+  curar uma Consequência de alguém
++  **Bisbilhoteiro  (FB 106):**  Em  uma  rolagem de  _Percepção_  bem
+  sucedida para ouvir uma conversa, pode descobrir ou criar um Aspecto
+  adicional (sem invocação gratuita)
++  **Especialista em  Idiomas de  Outros  Animais (FB  96, aplicado  a
+  Educação):** +2  em todos  os rolamentos envolvendo  entender outros
+  animais
 
 #### Alexander, o camundongo da cidade
 
-Um camundongo americano da cidade, Alexander é um dandi que gosta de se vestir impecavelmente. Gosta de mostrar-se como um camundongo valente, mas na realidade ele é comilão e desastrado. Apesar disso, ele é muito esperto e sabe muito da cultura e (em especial) etiqueta de outros povos, em especial no quesito da vestimenta. Além disso é um tagarela galanteador
+Um camundongo americano  da cidade, Alexander é um dandi  que gosta de
+se  vestir  impecavelmente. Gosta  de  mostrar-se  como um  camundongo
+valente, mas  na realidade ele  é comilão e desastrado.  Apesar disso,
+ele é muito  esperto e sabe muito da cultura  e (em especial) etiqueta
+de outros povos, em especial no quesito da vestimenta. Além disso é um
+tagarela galanteador
 
 ##### Aspectos
 
 | **Conceito:**    | Um camundongo da cidade cheio de estilo                 |
 | **Dificuldade:** | Dandi - tem um fraco por camungondas bonitas            |
 |                  | _Noblesse Oblige_ - Emily precisa ser protegida         |
-|                  | As roupas fazem o monge - não gosta de ratos por isso   |
+|                  | As roupas fazem o monge                                 |
 |                  | Sem-rabo Não vale nada é um salafrário imprestável      |
 
 ##### Perícias
@@ -182,10 +202,20 @@ Um camundongo americano da cidade, Alexander é um dandi que gosta de se vestir 
 
 ##### Façanhas
 
-+ **Boa Impressão (FB 92):** Duas vezes por sessão, ao receber um impulso por meio de testes de _Educação_, pode torná-lo um Aspecto de Situação com uma Invocação Gratuita
-+ **Popular (FB 92):** Numa região onde Alexander for bem visto, pode usar _Educação_ no lugar de _Contatos_. Pode usar 1 PD para declarar sua popularidade em uma região
-+ **Cosmopolita (FB 92):** Em regiões "civilizadas" (o Narrador decide), Alexander recebe +2 em todos os testes de _Contatos_ relativo a obter informações ou encontrar locais ou pessoas.
-+ **O Poder da Dedução (FB 106):** Uma vez por sessão, gastando um PD, pode rolar _Percepção_ para declarar novos Aspectos de Cena representando seu poder de dedução. Cada tensão gera um Aspecto novo na cena ou no alvo, mas apenas um deles pode receber Invocação Gratuita
++ **Boa  Impressão (FB  92):** Duas  vezes por  sessão, ao  receber um
+  impulso por meio  de testes de _Educação_, pode  torná-lo um Aspecto
+  de Situação com uma Invocação Gratuita
++ **Popular (FB 92):** Numa região  onde Alexander for bem visto, pode
+  usar _Educação_ no lugar de _Contatos_. Pode usar 1 PD para declarar
+  sua popularidade em uma região
++  **Cosmopolita:**  Em  regiões "civilizadas"  (o  Narrador  decide),
+  Alexander  recebe +2  em todos  os testes  de _Contatos_  relativo a
+  obter informações ou encontrar locais ou pessoas.
++ **O Poder da Dedução (FB 106):** Uma vez por sessão, gastando um PD,
+  pode  rolar  _Percepção_  para   declarar  novos  Aspectos  de  Cena
+  representando seu poder de dedução. Cada tensão gera um Aspecto novo
+  na  cena ou  no alvo,  mas apenas  um deles  pode receber  Invocação
+  Gratuita
 
 #### Sem-rabo não vale nada, o maior rato ladrão do mundo
 
@@ -207,9 +237,14 @@ Um trapaceiro, criminoso de todos os tipos, Sem-rabo não vale nada costuma tent
 
 ##### Façanhas
 
-+ **Sempre há uma saída (FB 116):** +2 em testes de _Criar vantagens_ com  _Trapaças_ ao tentar escapar de algum lugar
-+ **Gíria da Malandragem (FB 116):** Pode usar _Trapaças_ no lugar de _Contatos_ ao lidar com malandros
-+ **Fazendo o outro de patinho:** +2 em testes de _Criar vantagens_ com  _Trapaças_ para usar as crendices dos outros
++ **Sempre há uma saída (FB  116):** +2 em testes de _Criar vantagens_
+  com _Trapaças_ ao tentar escapar de algum lugar
++ **Gíria da Malandragem (FB 116):**  Pode usar _Trapaças_ no lugar de
+  _Contatos_ ao lidar com malandros
++ **Fazendo  o outro de patinho:**  +2 em testes de  _Criar vantagens_
+  com _Trapaças_ para usar as crendices dos outros
++  **Mestre de  Disfarces:** +2  em  testes de  _Criar vantagens_  com
+  _Trapaças_ para ocultar-se por meio de disfarces
 
 
 [1]: /rpg/SpiritHelpers/
