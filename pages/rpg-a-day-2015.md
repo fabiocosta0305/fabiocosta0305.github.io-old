@@ -60,7 +60,7 @@ Então, vamos nessa!
    [_Quem Derreteu o Raposo?_][11], _Coração Humano, Corpo de Desenho_
    e [_A Base Perdida_][12]
 1. **RPG  gratuito favorito:** Além  da indicação  óbvia que é  o Fate
-   Core,    tanto     na    [versão    brasileira][1]     quanto    na
+   Core,    tanto    na     [versão    brasileira][60]    quanto    na
    [versão americana][13], gostaria de indicar o [Fudge][14], o avô do
    Fate, que você encontra em português [nesse link][15]
 1. **Aparição  de RPG na  mídia mais  interessante:** Vou ficar  com o
@@ -288,3 +288,4 @@ Então, vamos nessa!
 [57]: https://en.wikipedia.org/wiki/Castle_Falkenstein_(role-playing_game)
 [58]: http://walkingmind.evilhat.com
 [59]: http://reddicediaries.com/
+[60]: http://solar-entretenimento.pswebstore.com/
