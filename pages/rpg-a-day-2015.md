@@ -203,7 +203,32 @@ Então, vamos nessa!
    filmes clássicos  dos anos 80,  em especial nos  desenhos clássicos
    infanto-juvenis,  o  que  cobre  desde  _Ursinhos  Carinhosos_  até
    _Thundercats_ e tudo no meio do caminho
-
+1. **Uma ótima idéia de juntar  dois jogos em um só:** Basicamente, no
+   meu ponto  de vista, trazer  qualquer coisa para Fate,  em especial
+   aqueles  jogos  que sofrem  do  mal  do _"Cenário  Incrível,  Regras
+   Horríveis"_, como _Shadowrun_, _Earthdawn_ e afins
+1.  **Jogo  favorito  que  não estou  mais  jogando:**  na  realidade,
+   colocaria  certamente _Castelo  Falkenstein_.  É  difícil achar  um
+   grupo que  entenda a idéia do  mesmo e que esteja  disposto a rolar
+   algo próximo à proposta do mesmo... Então acabo não jogando o mesmo
+   com a frequência que eu gostaria.
+1.     **Site/Blog    favorito     de     RPG:**     Fico    com     o
+   [_Walking Minds_ da Evil Hat][58] e com o [_Red Dice Diaries_][59],
+   por seu suporte ao Fate
+1. **Celebridade Favorita jogadora de  RPG:** Fico com _Robin Wllians_
+   e _Matt  Damon_. Robin Willians  (que infelizmente nos  deixou esse
+   ano devido à depressão) era  um cara simplesmente sublime como ator
+   (_"Oh, Captain, My Captain!"_) e tinha toda uma série de qualidades
+   _geeks_. Já quanto a Matt Damon...  É difícil pensar que o cara que
+   interpretou no cinema François Pienaar, Capitão dos _Springboks_ de
+   95, seria um jogador de RPG
+   ![Vocês estão os ouvindo? Olhem nos meus olhos! Vamos entrar nessa masmorra! Magia, magia, magia!](/images/invictus_2009_f_001.jpg)
+1. **A melhor  coisa que veio com  RPG mas não ligada a  RPG:** No meu
+   caso,  acredito que  minha habilidade  de escrita  e descrição  não
+   seria tão boa  se não fosse pelo RPG. Mesmo  sendo um leitor voraz,
+   acho que não conseguiria chegar a tal ponto sem o RPG. O mesmo vale
+   para a capacidade de improviso.
+   
 [1]: http://autocratik.blogspot.co.uk/2015/07/standby-for-rejection.html
 [2]: http://www.catarse.me/fate
 [3]: https://www.kickstarter.com/projects/1801630747/primetime-adventures
@@ -261,3 +286,5 @@ Então, vamos nessa!
 [55]: http://www.drivethrurpg.com/product/142732/Psychedemia--A-World-of-Adventure-for-Fate-Core
 [56]: https://en.wikipedia.org/wiki/Kult_(role-playing_game)
 [57]: https://en.wikipedia.org/wiki/Castle_Falkenstein_(role-playing_game)
+[58]: http://walkingmind.evilhat.com
+[59]: http://reddicediaries.com/
