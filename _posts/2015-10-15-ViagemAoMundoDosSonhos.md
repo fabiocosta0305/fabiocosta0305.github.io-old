@@ -1,8 +1,19 @@
-# Viagem ao Mundo dos Sonhos
+---
+title: Viagem ao Mundo dos Sonhos
+subheadline: Garotos Sonhadores explorando o espaço em Fate Acelerado
+layout: post
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate-Acelerado
+ - Aventura
+header: no
+---
 
 ![Cartaz de Viagem ao Mundo dos Sonhos](https://upload.wikimedia.org/wikipedia/en/2/26/Explorersposter1985.jpg)
 
-Os personagens, garotos de 8 a 10 anos, se conhecem da escola (o Narrador decide como). Um deles em especial (ou vários, se o Narrador desejar) tem tido sonhos estranhos, onde se imagina voando pelos céus, vendo a cidade pelo ar, e a cidade se tornando algo similar a placas de computador (perceba que estamos falando de _Computadores da década de 80_, cheios de CIs e capacitores e resistores visíveis).
+Os personagens, crianças de 8 a 10 anos, se conhecem da escola (o Narrador decide como). Um deles em especial (ou vários, se o Narrador desejar) tem tido sonhos estranhos, onde se imagina voando pelos céus, vendo a cidade pelo ar, e a cidade se tornando algo similar a placas de computador (perceba que estamos falando de _Computadores da década de 80_, cheios de CIs e capacitores e resistores visíveis).
 
 A cada noite, ele verá novos circuitos aparecendo, e ele se lembrará do que acontece. Pergunte se ele registra o que sonhou. Qualquer personagem com um teste _Ótimo (+4)_ de uma abordagem _Esperto_ ou _Cuidadosa_ irá perceber tratar-se de circuitos de computador, e poderá, com um teste similar, montar tal equipamento. A cada tentativa de uso, novos detalhes se abrirão, um após o outro, sempre acompanhado de um sonho que irá revelar novos detalhes do circuito:
 
@@ -14,12 +25,12 @@ A cada noite, ele verá novos circuitos aparecendo, e ele se lembrará do que ac
 + O alcance e tamanho desse campo, assim como sua duração e velocidade limite, é _dependente da fonte de energia aplicada ao circuito_
 + Originalmente, dentro do campo energético, não há muito ar (na realidade, o _Campo é Hermético_, ou seja, não existe como trocar-se ar de dentro para fora e vice versa)
 
-Esse campo energético pode ser operado com testes _Espertos_ de dificuldade _Razoável (+1)_. Deixe os jogadores se divertirem à vontade, mas se a qualquer momento eles falharem nos testes, o sistema passa a ser um _Sucesso a um Custo_: o circuito irá se descontrolar, o monitor acoplado ao mesmo enviando caracteres estranhos (no caso de sistemas com voz, eles emitirão sons que são incompreensíveis, mas parecendo algum tipo de idioma articulado).
+Esse campo energético pode ser operado com testes _Espertos_ de dificuldade _Razoável (+1)_ por meio do computador onde a placa de circuito está plugada. Deixe os jogadores se divertirem à vontade, mas se a qualquer momento eles falharem nos testes, o sistema passa a ser um _Sucesso a um Custo_: o circuito irá se descontrolar, o monitor acoplado ao mesmo enviando caracteres estranhos (no caso de sistemas com voz, eles emitirão sons que são incompreensíveis, mas parecendo algum tipo de idioma articulado).
 
 Com o tempo, eles poderão chegar à conclusão de que esse Campo Energético pode ser usado para construir um veículo aéreo. Se isso acontecer e houver uma falha no teste de operação, eles irão descobrir dois detalhe interessantes, após os acontecimentos (com testes *Espertos* de dificuldade *Bom (+3)*):
 
 + A nave parece alcançar facilmente velocidades acima da Velocidade de Fuga da Terra (a velocidade à qual qualquer objeto que a atinja é arremessado para fora da atmosfera);
-+ Embora nos testes normais qualquer pessoa dentro da bolha ficava sem ar em alguns segundos, quando existe essa situação a bolha parece ser capaz de gerar (de algum modo desconhecido) uma atmosfera respirável
++ Embora nos testes normais qualquer pessoa dentro da bolha começa a ficar sem ar em alguns segundos, quando existe essa situação a bolha parece ser capaz de gerar (de algum modo desconhecido) uma atmosfera respirável
 
 Caso os personagens continuem, eles irão (cedo ou tarde) para fora do planeta. Na metade da distância da Terra para a Lua, eles serão tragados automaticamente (o computador irá _"pirar"_ novamente) para um _Wormhole_, indo parar em algum local da galáxia, onde uma espaçonave os esperará. Eles serão descontaminados (faça parecer muito estranho) e poderão caminhar pela nave, até que o Narrador decida que é o suficiente. Faça com que pequenas coisas sejam estranhas e gestos e objetos comuns tenham relevância. Por fim, eles encontrarão dois alienígenas, _Wak_ e _Neek_. 
 
@@ -33,7 +44,7 @@ Wak é um macho (ao menos até onde os personagens são capazes de distinguir) q
 Porém, tão logo os personagens estejam convencendo os irmãos alienígenas, uma nave gigantesca ataca e puxa a nave onde os personagens estão. Eles avançam (esperamos) pela nave, junto com Wak e Neek, até que são encontrados por uma criatura bastante alta, um tanto assustadora e (os personagens perceberão com testes bem fáceis de _Cuidadoso_) um tanto parecida com Wak e Neek... Para falar a verdade, parecida demais!
 
 > + **Pai de Wak e Neek**
-> + _Alienígena adulto_; _"Essas crianças que perdem seu tempo!"_; _Não fala o idioma terráqueo_
+> + _Alienígena adulto_; "Essas crianças que perdem seu tempo!"; _Não fala o idioma terráqueo_
 > + **Perito (+2) em:** Se preocupar; Parecer Nervoso; Fazer barulhos assustadores
 > + **Ruim (+2) em:** Fazer-se entender para terráqueos
 
@@ -46,6 +57,62 @@ No fim das contas, os personagens não terão mais a nave e nem o circuito (e o 
 Mas eles continuarão sonhando... Sonhos estranhos...
 
 Que garantirão que eles _não estão e nunca estiveram sozinhos no Espaço!_
+
+## Personagens Jogadores Exemplo
+
+**PS:** Esses personagens são um tanto mais fracos que o normal: Até 4 Aspectos, 1 Abordagem em _Razoável (+2)_, 2 Abordagens em _Regular (+1)_, 3 Abordagens em _Medíocre (+0)_, 1 Façanha
+
+### Ben Crandall
+
++ **Aspectos:**
+	+ _Conceito:_ Garoto Sonhador
+	+ _Dificuldade:_ Vive no mundo da lua
+	+ Ainda quero ver alienígenas
+	+ Sonhos estranhos que vem sonhando recentemente
++ **Abordagens:**
+	+ _Cuidadoso:_  Medíocre (+0)
+	+ _Esperto:_  Medíocre (+0)
+	+ _Estiloso:_ Regular (+1)
+	+ _Poderoso:_ Medíocre (+0)
+	+ _Ágil:_ Regular (+1)
+	+ _Sorrateiro:_ Razoável (+2)
++ **Façanhas:**
+	+ _Cultura Trash:_ Como sou um _Garoto Sonhador_, recebo +2 ao _Superar_ de maneira _Esperta_ usando meus conhecimentos de Cultura Trash
+ 
+### Wolfgang Muller
+
++ **Aspectos:**
+	+ _Conceito:_ Garoto gênio
+	+ _Dificuldade:_ Fala empolada
+	+ Gosta de mostrar que é inteligente
+	+ A Família mais esquisita da face da Terra
++ **Abordagens:**
+	+ _Cuidadoso:_  Bom (+1)
+	+ _Esperto:_  Razoável (+2)
+	+ _Estiloso:_ Bom (+1)
+	+ _Poderoso:_ Medíocre (+0)
+	+ _Ágil:_ Medíocre (+0)
+	+ _Sorrateiro:_ Medíocre (+0)
++ **Façanhas:**
+	+ _Desvendar Coisas Estranhas:_ como sou um _Garoto Gênio_, recebo +2 ao _Superar_ de Maneira _Esperta_ problemas ao entender coisas estranhas.
+
+### Darren Woods
+
++ **Aspectos:**
+	+ _Conceito:_ Um garoto com postura durona
+	+ _Dificuldade:_ Na verdade, é uma pessoa bacana
+	+ Só pensa em putaria
+	+ Gosta de aventuras (do tipo que normalmente crianças têm)
++ **Abordagens:**
+	+ _Cuidadoso:_  Bom (+1)
+	+ _Esperto:_  Medíocre (+0)
+	+ _Estiloso:_ Medíocre (+0)
+	+ _Poderoso:_ Razoável (+2)
+	+ _Ágil:_ Bom (+1)
+	+ _Sorrateiro:_ Medíocre (+0)
++ **Façanhas:**
+	+ _O velho um-dois:_ devido ao meu jeito durão, recebo +2 ao *Atacar* de maniera *Poderosa* aos socos
+
 
 > Written with [StackEdit](https://stackedit.io/).
 

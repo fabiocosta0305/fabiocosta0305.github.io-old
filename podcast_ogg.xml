@@ -1,0 +1,35 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Fate Masters - o Podcast dos Algozes dos Jogadores</title>
+		<description>Um podcast onde ensinamos você a trapacear, roubar, enganar seus jogadores e, com tudo isso, tornar suas aventuras memoráveis</description>
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/podcast.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.tags.fate-masters-podcast %}
+			<item>
+				<title>{{ post.title | xml_escape }}</title>                                
+				<description>{{ post.content | xml_escape }}
+                  {{ shownotes | xml_escape %}}
+                  {% for audio in post.audios %}
+                  {% for audio_info in audio %}
+                                        {% if audio_info[0] == "OGG" %}
+                                        {% capture link %}
+                                        {% include rss_podcast_text.html %}
+                                        <a href="{{ audio_info[1] }}">
+                                          <li>Link para o programa em {{audio_info[0]}}
+                                        </a>
+                                        {% endcapture %}
+                                        {{ link | xml_escape}}
+                                        {% endif %}
+                                        {%endfor%}
+                                        {%endfor%}
+                                        </description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
