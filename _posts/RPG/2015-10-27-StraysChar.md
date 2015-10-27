@@ -2,9 +2,9 @@
 title: Sample Character for Strays - Puffers
 subheadline: A wise old stinker for Strays
 layout: post
-date: 2015-10-23 11:00 -0200
+date: 2015-10-27 11:00 -0200
 categories:
- - RPG
+ - Examples
 tags:
  - Fate
  - Fate Accelerated
@@ -19,16 +19,15 @@ header: no
 >  This  character  follow  the  Character Creation  rules  from  Fate
 >  Accelerated, including the specific things from [Strays][1].
 
-
-Puffers was in the past one  of the biggest, meanest, stinkest, skunks
-all the world. But that was not  because he chose this: he never had a
-choice, being raised by Naughty skunks, living like them until his paw
-was hurt by a  bear trap in a florest in Gloucester  and his pack left
-him behind to die.  A very kind and big kid (as big  as his heart) had
-discovered him  and take him  at home, treated  his paw and  cared for
-him. The paw was almost lost, as  the bear trap was rusted and his paw
-had  badly  inflamed,  but  thanks  the  kid  Puffers  had  cured  the
-wound.  Even with  the  stink (that  Puffers never  had  been able  to
+Puffers was in the past one  of the biggest, meanest, stinkiest skunks
+all around the world. But that was not because he chose this: he never
+had a choice,  being raised by Naughty skunks, living  like them until
+his paw  was hurt by a  bear trap in  a florest in Gloucester  and his
+pack left him behind  to die.  A very kind and big kid  (as big as his
+heart) had  discovered him and take  him at home, treated  his paw and
+cared for him.  The paw was almost  lost, as the bear  trap was rusted
+and his paw  had badly inflamed, but thanks the  kid Puffers had cured
+the wound.  Even  with the stink (that Puffers never  had been able to
 suppress totally), the kid had not  left him behind, even bringing him
 at the rugby  training as a mascot. Puffers helped  him, by making him
 goes  to the  training  field (and  trying  to not  stink  him at  the
