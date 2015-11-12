@@ -1,9 +1,21 @@
 ---
-
+title: Questionamentos e Alternativas às Abordagens no Fate Acelerado
+subheadline: Alternativas às Abordagens padrão do Fate Acelerado
+layout: post
+date: 2015-11-12 08:48 -0200
+categories:
+ - RPG
+tags:
+ - Fate
+ - Fate Acelerado
+ - Exemplos
+ - Abordagens
+ - Alternativas
+header: no
 ---
-# Questionamentos e Alternativas às Abordagens no Fate Acelerado
 
-- _Link Original:_ http://www.deadlyfredly.com/2015/09/fae-q-approach-alts/
+- _Autor:_ Fred Hicks
+- _Link Original:_ [http://www.deadlyfredly.com/2015/09/fae-q-approach-alts/](http://www.deadlyfredly.com/2015/09/fae-q-approach-alts/)
 
 Lembrei-me recentemente dos meus comentários [sobre esse _post_ escrito por John Rogers](https://plus.google.com/116948490555602883045/posts/iCTQmXn9YNw) no Google+ ano passado e me peguei pensando sobre o assunto. Desde que nós publicamos o _Fate Acelerado_, ou FAE, eu percebi que esse jogo tem dividido opiniões. Algumas pessoas o amam de paixão, enquanto outros realmente estão de saco cheio do mesmo e alguns poucos estão confusos quanto a ele ser considerado _Fate Básico_ ou algo à parte (como fica evidente nas ocasionais _threads_ _"Fate Básico_ versus _Fate Acelerado"_ que eu vejo por aí, como se eles de fato fossem opostos).
 
