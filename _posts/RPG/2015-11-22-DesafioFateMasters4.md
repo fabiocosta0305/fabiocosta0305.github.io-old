@@ -94,7 +94,7 @@ Em termos de regra, o Trenó demanda testes de _Condução Ótimo (+4)_ , mas em
 + Não importa quanto peso o mesmo carregue, **_Nada é capaz de frear o trenó do Papai Noel_**. Desse modo, nenhum Aspecto envolvendo questões de peso podem ser usados contra o mesmo. Além disso, ele possui quatro níveis de Estresse antes de ser derrotado.
 + O Trenó, em conjunto com a Roupa do Papai Noel, são o gatilho da _Santa Claúsula_
 
-O Trenó do Papai Noel segue a forma de criação de Tesouros (_Treasures_) de Nest
+O Trenó do Papai Noel segue a forma de criação de Talismãs (_Talismans_) de Nest
 
 ### Extra: a Roupa do Papai Noel
 
@@ -107,7 +107,7 @@ A Roupa do Papai Noel é icônica: qualquer pessoa no mundo consegue reconhecer 
 + A Roupa do Papai Noel é automaticamente reconhecível por crianças, que irão fazer de tudo para serem bem comportadas com você. O personagem recebe +2 em todos os seus testes de _Criar Vantagens_ e _Superar_ ao lidar com Crianças
 + A Roupa, em conjunto com o Trenó do Papai Noel, são o gatilho da _Santa Claúsula_
 
-A Roupa do Papai Noel segue a forma de criação de Tesouros (_Treasures_) de Nest
+A Roupa do Papai Noel segue a forma de criação de Talismãs (_Talismans_) de Nest
 
 ### Extra: o Saco do Papai Noel
 
@@ -118,6 +118,8 @@ O Enorme Saco de presentes do Papai Noel é o mais importante de todos itens do 
 
 + Sempre que o Papai Noel precisar tirar algo realmente útil, não importa quanto, ele recebe +2 em seu teste de _Recursos_ e, caso falhe, pode ser _bem-sucedido a custo menor_.
 + Se o Papai Noel precisar , ele pode, com um Ponto de Destino, substituir qualquer teste pode um teste de Recursos usando o Saco do Papai Noel, desde que ele seja capaz de justificar.
+
+O Saco do Papai Noel segue a forma de criação de Talismãs (_Talismans_) de Nest
 
 ### Ganchos para Aventuras
 
