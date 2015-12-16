@@ -159,7 +159,7 @@ O multimilionário Zacharias Darrett é dono de uma grande empresa de automóvei
     *   _Ágil:_ Medíocre (+0)
     *   _Sorrateira:_ Razoável (+2)
 *   **Façanhas:**
-	*    Como sou um_ Entusiasta de Quebra-Cabeças_, _uma vez por sessão posso Criar uma Vantagem ao passar informações por meio de quebra-cabeças_
+	*    Como sou um_ Entusiasta de Quebra-Cabeças, _uma vez por sessão posso Criar uma Vantagem ao passar informações por meio de quebra-cabeças_
 *   **Recarga:** 3
 
 ### Carros:
@@ -208,8 +208,8 @@ Um Ford Mustang 65 especialmente adaptado com tecnologia especial da Pole Positi
     *   _Espaço:_ Regular (+1)
     *   _Tecnologia:_ Medíocre (+0)
 *   **Manobras:**
-	*    Usando o _modo hovercraft_, ele recebe +2 quando _superar obstáculos relacionados a terrenos_;
-    *   O _cabo de carga_ pode ser usado como um _Aspecto de Cena uma vez por sessão _
+	*   Usando o _modo hovercraft_, ele recebe +2 quando _superar obstáculos relacionados a terrenos_;
+    *   O _cabo de carga_ pode ser usado como um _Aspecto de Cena_ uma vez por sessão_
     *   Usando o modo submarino, esse _Ford Mustang pode funcionar debaixo d’água por alguns minutos uma vez por sessão_
 *   **Upgrades:** 3
 

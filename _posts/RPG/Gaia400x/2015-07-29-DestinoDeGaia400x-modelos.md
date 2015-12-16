@@ -145,7 +145,7 @@ população dos Metrocentros
   - **Outros Aspectos:** Demonstra uma atitude etérea quanto ao mundo,
     um desejo  de conhecimento  e uma certa  inabilidade de  lidar com
     coisas que não seja à maneira dos _magi_
-    - _**Exemplos:**  Entender o  _mana_ é  entender nossa  posição no
+    - _**Exemplos:**  Entender o_  mana _é  entender nossa  posição no
       mundo; Pessoas comuns  não compreendem o meu caminho;  A luz dos
       Cristais é a luz da Alma_
 - **Perícias:**
@@ -418,7 +418,7 @@ tentando entender o mundo estranho onde foram parar.
   - **Conceito:** Irá indicar  que tipo de Criatura  do Mundo Anterior
     ela é, além de alguma informação sobre o que ela faz
     - _**Exemplos:**_   Neohumano   em   treinamento   para   pesquisa
-      exterior;_ Automata Sapiens _coordenador de base_
+      exterior_;  Automata Sapiens _coordenador de base_
   - **Dificuldade:**  Irá  demonstrar  um  desconhecimento  total  (na
     melhor  das hipóteses  grande) sobre  a situação  do mundo  após a
     queda da Lua   
