@@ -288,4 +288,4 @@ Então, vamos nessa!
 [57]: https://en.wikipedia.org/wiki/Castle_Falkenstein_(role-playing_game)
 [58]: http://walkingmind.evilhat.com
 [59]: http://reddicediaries.com/
-[60]: http://solar-entretenimento.pswebstore.com/
+[60]: http://solarentretenimento.com.br/
