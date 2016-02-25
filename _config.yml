@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
+gems:             [paginate]
 
 # Permalinks
 permalink:        pretty
