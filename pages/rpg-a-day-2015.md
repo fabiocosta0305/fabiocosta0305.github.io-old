@@ -273,8 +273,8 @@ Então, vamos nessa!
 [42]: http://www.evilhat.com/home/atomic-robo/
 [43]: https://plus.google.com/u/0/+RobDonoghue/
 [44]: https://plus.google.com/+ClarkValentine/posts
-[45]: /fate-masters/
-[46]: /rolando-mais-quatro/
+[45]: http://fatemasters.github.io/
+[46]: http://rolandomaisquatro.github.io/
 [47]: http://www.teatrodemesa.com.br/assuntos-aleatorios-2/
 [48]: http://reddicediaries.com/category/podcast/
 [49]: http://www.fudgerpg.com/products/fudge-dice.html
