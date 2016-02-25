@@ -11,7 +11,7 @@ permalink:        pretty
 title:            Os Cacarecos do Fábio
 tagline:          'Onde coloco tudo o que dá na telha'
 description:      ''
-url:              http://fabiocosta0305.gitlab.io/cacarecos
+url:              http://fabiocosta0305.gitlab.io/cacarecos/
 baseurl:          /
 
 author:
@@ -36,5 +36,5 @@ github:
   repo:           https://github.com/poole/hyde
 
 collections:
-  authors:
+  tipos:
     output: true

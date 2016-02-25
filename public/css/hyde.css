@@ -282,7 +282,7 @@ a.sidebar-nav-item:focus {
 /* Author */
 .authors img
 {
-    float: left;
+    align: center;
 }
 /*
 .authors .social-network
@@ -310,24 +310,24 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
 .authors img
 {
-    max-width:80px;
+    max-width: 140px;
 }
 .social-networks
 {
     display: inline-block;
-    font-size: 20pt;
+    font-size: 15pt;
 }
 }
 
 @media (min-width: 58em) {
 .authors img
 {
-    max-width:130px;
+    max-width:200px;
 }
 .social-networks
 {
     display: inline-block;
-    font-size: 25pt;
+    font-size: 20pt;
     align: center;
 }
 }
