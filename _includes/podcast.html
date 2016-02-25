@@ -24,13 +24,13 @@
 {% endif %}
 <div style="margin-top: 50px;">
 <ul>
-{% include podcast_text.html %}
                   {% for audio in page.audios %}
-<li>
   {% for audio_info in audio %}
+<li>
                   <a href="{{ audio_info[1] }}">Programa em {{audio_info[0]}}</a>
                   </li>
                   {% endfor %}
                   {% endfor %}
+{% include podcast_text.html %}
 </ul>
 </div>

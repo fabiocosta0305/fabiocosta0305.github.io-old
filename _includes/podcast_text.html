@@ -14,6 +14,18 @@
 </ul>
 {% endif%}
 
+
+{% if site.data.podcast %}
+                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do {{site.data.podcast.name}}</a>
+                  {% endif %}
+                  {% for link in site.data.podcast.feeds %}
+                  <li>
+                  <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a> | 
+                  <a href="http://subscribeonandroid.com/{{ link.link | replace:'https://',''   | replace:'http://',''  }}">Subscribe on Android ({{link.format}})</a>
+                  </li>
+            {% endfor %}
+{% if site.data.podcast.itunes.link %}<li><a href="{{ site.data.podcast.itunes.link }}">Assine no iTunes</a></li>{% endif %}
+
                   {% if page.related_links %}
 <li><strong><i>Links</i> Relacionados:</strong></li>
 <ul>
@@ -24,13 +36,3 @@
             {% endfor %}
 </ul>
                   {% endif %}
-
-{% if site.data.podcast %}
-                  <li><a href="{{ site.data.podcast.gpluspage }}">Link para a comunidade do Google+ do Fate Masters</a>
-                  {% endif %}
-                  {% for link in site.data.podcast.podcast_links %}
-                  <li>
-                  <a href="{{ link.link }}">Assine o {{site.data.podcast.name}} em {{link.format}}</a>
-                  </li>
-            {% endfor %}
-
