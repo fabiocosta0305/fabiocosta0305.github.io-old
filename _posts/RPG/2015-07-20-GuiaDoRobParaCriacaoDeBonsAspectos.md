@@ -9,8 +9,7 @@ tags:
  - Fate
  - Fate Core
  - Fate-Core
- - Personagens
- - Pole Position
+ - Artigos
 header: no
 ---
 
