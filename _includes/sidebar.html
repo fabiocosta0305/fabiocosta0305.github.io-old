@@ -2,34 +2,46 @@
 
 <div class="social-networks">
 {% if site.author.email %}
-<a href="mailto:{{ site.author.email }}">&#xe224;
+<a href="mailto:{{ site.author.email }}">
+<i class="fa fa-envelope"></i>
 </a>
 {% endif %}
 {% if site.author.facebook %}
-<a href="http://facebook.com/{{ site.author.facebook }}">&#xe227;
+<a href="http://facebook.com/{{ site.author.facebook }}">
+<i class="fa fa-facebook-square"></i>
 </a>
 {% endif %}
 {% if site.author.twitter %}
-<a href="http://twitter.com/{{ site.author.twitter }}">&#xe286;
+<a href="http://twitter.com/{{ site.author.twitter }}">
+<i class="fa fa-twitter-square"></i>
 </a>
 {% endif %}
 {% if site.author.googleplus %}
-<a href="http://plus.google.com/{{ site.author.googleplus }}">&#xe239;
+<a href="http://plus.google.com/{{ site.author.googleplus }}">
+<i class="fa fa-google-plus-square"></i>
 </a>
 {% endif %}
 {% if site.author.linkedin %}
-<a href="http://linkedin.com/in/{{ site.author.linkedin }}">circlelinkedin
+<a href="http://linkedin.com/in/{{ site.author.linkedin }}">
+<i class="fa fa-linkedin-square"></i>
 </a>
 {% endif %}
 {% if site.author.youtube %}
-<a href="http://youtube.com/user/{{ site.author.linkedin }}">circleyoutube
+<a href="http://youtube.com/user/{{ site.author.youtube }}">
+<i class="fa fa-youtube-square"></i>
 </a>
 {% endif %}
 {% if site.author.instagram %}
-<a href="http://instagram.com/{{ site.author.instagram }}">circleinstagram
+<a href="http://instagram.com/{{ site.author.instagram }}">
+<i class="fa fa-instagram"></i>
 </a>
 {% endif %}
-<a href="/atom.xml">circlerss</a>
+{% if site.author.telegram %}
+<a href="http://telegram.me/{{ site.author.telegram }}">
+<i class="fa fa-paper-plane fa-fw"></i>
+</a>
+{% endif %}
+<a href="/atom.xml"><i class="fa fa-rss-square"></i></a>
   </div>
   <div class="authors"><img src="{{ site.author.avatar }}" alt="{{ site.author.name }}"/></div>
   <div class="container sidebar-sticky">
