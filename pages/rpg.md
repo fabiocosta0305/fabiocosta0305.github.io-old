@@ -7,10 +7,13 @@ teaser: "Esses são alguns materiais de RPG que tenho aqui nos meus cacarecos. F
 permalink: "/rpg/"
 ---
 
-<h1>Meus Materias de Fate</h1>
+Materias de RPG que Escrevi com o tempo
 
 <ul>
-    {% for post in site.tags.fate %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in site.tipos %}
+    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
+    {% comment %}
+    {{ post.content }}
+    {% endcomment %}
     {% endfor %}
 </ul>
