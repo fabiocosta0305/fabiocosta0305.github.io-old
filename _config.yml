@@ -1,10 +1,11 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+#highlighter:      pygments
 gems:             [jekyll-paginate]
 
 # Permalinks
-permalink:        pretty
+permalink:        /:categories/:title/
+#permalink:        pretty
 #relative_permalinks: true
 
 # Setup
