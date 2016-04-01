@@ -290,6 +290,15 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+/* Yellow */
+.theme-base-hufflepuff .sidebar {
+  background-color: #cc9900;
+}
+.theme-base-0a .content a,
+.theme-base-0a .related-posts li a:hover {
+  color: #cc9900;
+}
+
 /* Author */
 .authors img
 {
@@ -338,7 +347,7 @@ a.sidebar-nav-item:focus {
 .social-networks
 {
     display: inline-block;
-    font-size: 25pt;
+    font-size: 15pt;
     align: center;
 }
 }
