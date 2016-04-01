@@ -9,23 +9,14 @@ Alguns personagens exemplos que eu criei
 
 <ul>
     {% for post in site.categories.personagens %}
-    <li/><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
-    {% comment %}
-    {{ post.content }}
-    {% endcomment %}
+        <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
     {% endfor %}
 </ul>
 
-
-<br/>
-
-Some sample characters I've created (in English)
+Some characters I did (in English)
 
 <ul>
     {% for post in site.categories.characters %}
-    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
-    {% comment %}
-    {{ post.content }}
-    {% endcomment %}
+        <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
     {% endfor %}
 </ul>

@@ -10,7 +10,6 @@ tags:
 header: no
 ---
 
-### Matheus Gabriel, a Sample Character for Nest, A World of Adventure
 
 >  This character follow the Character  Creation rules from Fate Core,
 >  including         the          specific         things         from
