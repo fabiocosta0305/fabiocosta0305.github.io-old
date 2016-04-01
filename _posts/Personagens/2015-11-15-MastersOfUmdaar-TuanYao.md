@@ -3,7 +3,7 @@ teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: A Ficha do Monge Usato de Masters of Umdaar
 title: Tu'an-Yao
 date: 2015-11-15 19:00:00 -0200
-layout: post
+layout: personagens
 categories:
   - personagens
 tags:

@@ -3,7 +3,7 @@ teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: A Ficha do Caçador de Recompensas de Aerum dos Mineiros de Xiaiyu
 title: Marak Saeran
 date: 2015-10-26 09:00:00 -0200
-layout: post
+layout: personagens
 categories:
   - Personagens
 tags:

@@ -9,7 +9,7 @@ Alguns personagens exemplos que eu criei
 
 <ul>
     {% for post in site.categories.personagens %}
-    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
+    <li/><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
     {% comment %}
     {{ post.content }}
     {% endcomment %}
