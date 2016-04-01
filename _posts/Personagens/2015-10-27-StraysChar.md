@@ -4,7 +4,7 @@ subheadline: A wise old stinker for Strays
 layout: personagens
 date: 2015-10-27 11:00 -0200
 categories:
- - Characters
+ - characters
 tags:
  - Strays
 header: no

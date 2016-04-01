@@ -3,7 +3,7 @@ subheadline: "Mentor de Nicola e Espírito da Educação do Século XIX"
 title: "Don Cagliostro (nome verdadeiro: Frederick Van Der Merwe) - Espírito da Educação"
 layout: personagens
 categories:
-  - Personagens
+  - personagens
 tags:
   - Young Centurions
 header: no

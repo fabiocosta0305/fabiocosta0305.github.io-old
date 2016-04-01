@@ -3,7 +3,7 @@ subheadline: O Espírito do Otimismo de Young Centurions!
 title: Nicola Castrogiovanni - O Espírito do Otimismo
 layout: personagens
 categories:
-  - Personagens
+  - personagens
 tags:
   - Young Centurions
 header: no

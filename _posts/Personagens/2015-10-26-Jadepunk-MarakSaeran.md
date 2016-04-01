@@ -5,7 +5,7 @@ title: Marak Saeran
 date: 2015-10-26 09:00:00 -0200
 layout: personagens
 categories:
-  - Personagens
+  - personagens
 tags:
   - Jadepunk
 header: no

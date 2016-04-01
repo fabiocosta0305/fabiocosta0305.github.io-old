@@ -3,7 +3,7 @@ subheadline: "The 19th Century Literacy Spirit, Nicola's Mentor"
 title: Don Cagliostro (a.k.a. Frederick Van Der Merwe) - Spirit of Literacy
 layout: personagens
 categories:
-  - Characters
+  - characters
 tags:
   - Young Centurions
 header: no
