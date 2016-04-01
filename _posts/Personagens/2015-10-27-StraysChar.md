@@ -1,15 +1,11 @@
 ---
-title: Sample Character for Strays - Puffers
+title: Puffers
 subheadline: A wise old stinker for Strays
-layout: post
+layout: personagens
 date: 2015-10-27 11:00 -0200
 categories:
- - Examples
-tags:
- - Fate
- - Fate Accelerated
  - Characters
- - Sample
+tags:
  - Strays
 header: no
 ---
