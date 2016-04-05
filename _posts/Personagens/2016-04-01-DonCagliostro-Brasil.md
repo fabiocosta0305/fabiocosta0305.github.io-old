@@ -25,11 +25,11 @@ header: no
 
 | ***Abordagem*** | ***Nível***     |
 |-----------------|-----------------|
+| __Ágil__        | _Regular (+1)_  |
 | __Cuidadoso__   | _Regular (+1)_  |
 | __Esperto__     | _Razoável (+2)_ |
 | __Estiloso__    | _Razoável (+2)_ |
 | __Poderoso__    | _Medíocre (+0)_ |
-| __Ágil__        | _Regular (+1)_  |
 | __Sorrateiro__  | _Bom (+3)_      |
 
 ## Façanha Centuriã
